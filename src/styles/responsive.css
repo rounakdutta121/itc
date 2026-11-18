@@ -131,6 +131,31 @@
 }
 
 @media (max-width: 699px) {
+  .caps__head,
+  .products__intro,
+  .contact__copy {
+    text-align: center;
+  }
+
+  .caps__head .eyebrow,
+  .products__intro .eyebrow,
+  .contact__copy .eyebrow {
+    justify-content: center;
+  }
+
+  .caps__head h2,
+  .caps__head > p,
+  .products__intro h2,
+  .products__intro > p,
+  .contact__copy h2,
+  .contact__copy > p {
+    margin-inline: auto;
+  }
+
+  .contact__facts {
+    text-align: center;
+  }
+
   .contact__form {
     height: auto !important;
   }
