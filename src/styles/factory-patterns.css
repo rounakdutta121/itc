@@ -1,0 +1,234 @@
+/* Industrial factory background patterns — not used on hero */
+
+.factory-bg {
+  --pat-on: 0;
+  --pat-a: 0.5;
+  --pat-b: 0.3;
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
+
+.factory-bg.is-pattern-on {
+  --pat-on: 1;
+}
+
+.factory-bg > .wrap,
+.factory-bg > .facility__media,
+.factory-bg > .facility__panel,
+.factory-bg > .footer__base {
+  position: relative;
+  z-index: 1;
+}
+
+.factory-bg::before,
+.factory-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  transition: opacity 0.85s ease;
+}
+
+.factory-bg::before {
+  opacity: calc(var(--pat-a) * var(--pat-on));
+}
+
+.factory-bg::after {
+  opacity: calc(var(--pat-b) * var(--pat-on));
+}
+
+/* Blueprint engineering grid */
+.factory-bg--grid {
+  --pat-a: 0.55;
+  --pat-b: 0.35;
+}
+
+.factory-bg--grid::before {
+  background-image:
+    linear-gradient(rgba(10, 47, 107, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(10, 47, 107, 0.1) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.factory-bg--grid::after {
+  background-image:
+    linear-gradient(rgba(27, 107, 199, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(27, 107, 199, 0.12) 1px, transparent 1px);
+  background-size: 112px 112px;
+}
+
+/* Diagonal factory hatch */
+.factory-bg--hatch {
+  --pat-a: 0.45;
+  --pat-b: 0.3;
+}
+
+.factory-bg--hatch::before {
+  background-image: repeating-linear-gradient(
+    -32deg,
+    transparent,
+    transparent 10px,
+    rgba(10, 47, 107, 0.06) 10px,
+    rgba(10, 47, 107, 0.06) 11px
+  );
+}
+
+.factory-bg--hatch::after {
+  background:
+    radial-gradient(circle at 12% 20%, rgba(27, 107, 199, 0.1), transparent 28%),
+    radial-gradient(circle at 88% 70%, rgba(10, 47, 107, 0.07), transparent 32%);
+}
+
+/* Bolt / rivet dots */
+.factory-bg--dots {
+  --pat-a: 0.55;
+  --pat-b: 0.25;
+}
+
+.factory-bg--dots::before {
+  background-image: radial-gradient(rgba(10, 47, 107, 0.16) 1.1px, transparent 1.2px);
+  background-size: 22px 22px;
+}
+
+.factory-bg--dots::after {
+  background-image: radial-gradient(rgba(27, 107, 199, 0.2) 1px, transparent 1.2px);
+  background-size: 66px 66px;
+  background-position: 11px 11px;
+}
+
+/* Chevron conveyor */
+.factory-bg--chevron {
+  --pat-a: 0.4;
+  --pat-b: 0.35;
+}
+
+.factory-bg--chevron::before {
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent 0,
+    transparent 18px,
+    rgba(10, 47, 107, 0.07) 18px,
+    rgba(10, 47, 107, 0.07) 19px
+  );
+}
+
+.factory-bg--chevron::after {
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 14px,
+    rgba(27, 107, 199, 0.07) 14px,
+    rgba(27, 107, 199, 0.07) 15px
+  );
+}
+
+/* Hex mesh */
+.factory-bg--hex {
+  --pat-a: 0.35;
+  --pat-b: 0.25;
+}
+
+.factory-bg--hex::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='100' viewBox='0 0 56 100'%3E%3Cpath fill='none' stroke='%230a2f6b' stroke-opacity='0.22' stroke-width='1' d='M28 0l28 16v32L28 64 0 48V16zM28 64l28 16v32L28 128 0 112V80z'/%3E%3C/svg%3E");
+  background-size: 56px 100px;
+}
+
+.factory-bg--hex::after {
+  background: radial-gradient(ellipse at 70% 30%, rgba(27, 107, 199, 0.12), transparent 40%);
+}
+
+/* Technical crosshair */
+.factory-bg--cross {
+  --pat-a: 0.5;
+  --pat-b: 0.4;
+}
+
+.factory-bg--cross::before {
+  background-image:
+    linear-gradient(rgba(10, 47, 107, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(10, 47, 107, 0.08) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+.factory-bg--cross::after {
+  background-image:
+    linear-gradient(rgba(27, 107, 199, 0.14) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(27, 107, 199, 0.14) 1px, transparent 1px);
+  background-size: 8px 8px;
+  mask-image: radial-gradient(ellipse at center, black 18%, transparent 72%);
+}
+
+/* Dark-surface variants */
+.factory-bg--on-dark.factory-bg--grid::before {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.09) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.09) 1px, transparent 1px);
+}
+
+.factory-bg--on-dark.factory-bg--grid::after {
+  background-image:
+    linear-gradient(rgba(158, 200, 255, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(158, 200, 255, 0.12) 1px, transparent 1px);
+}
+
+.factory-bg--on-dark.factory-bg--hatch::before {
+  background-image: repeating-linear-gradient(
+    -32deg,
+    transparent,
+    transparent 10px,
+    rgba(255, 255, 255, 0.06) 10px,
+    rgba(255, 255, 255, 0.06) 11px
+  );
+}
+
+.factory-bg--on-dark.factory-bg--hatch::after {
+  background:
+    radial-gradient(circle at 18% 25%, rgba(158, 200, 255, 0.12), transparent 30%),
+    radial-gradient(circle at 82% 75%, rgba(255, 255, 255, 0.06), transparent 34%);
+}
+
+.factory-bg--on-dark.factory-bg--chevron::before {
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent 0,
+    transparent 18px,
+    rgba(255, 255, 255, 0.07) 18px,
+    rgba(255, 255, 255, 0.07) 19px
+  );
+}
+
+.factory-bg--on-dark.factory-bg--chevron::after {
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 14px,
+    rgba(158, 200, 255, 0.09) 14px,
+    rgba(158, 200, 255, 0.09) 15px
+  );
+}
+
+.factory-bg--on-dark.factory-bg--cross::before {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+}
+
+.factory-bg--on-dark.factory-bg--cross::after {
+  background-image:
+    linear-gradient(rgba(158, 200, 255, 0.16) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(158, 200, 255, 0.16) 1px, transparent 1px);
+}
+
+.factory-bg--on-dark.factory-bg--hex::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='100' viewBox='0 0 56 100'%3E%3Cpath fill='none' stroke='%239ec8ff' stroke-opacity='0.28' stroke-width='1' d='M28 0l28 16v32L28 64 0 48V16zM28 64l28 16v32L28 128 0 112V80z'/%3E%3C/svg%3E");
+}
+
+.factory-bg--on-dark.factory-bg--dots::before {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.16) 1.1px, transparent 1.2px);
+}
+
+.factory-bg--on-dark.factory-bg--dots::after {
+  background-image: radial-gradient(rgba(158, 200, 255, 0.22) 1px, transparent 1.2px);
+}

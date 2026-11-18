@@ -1,0 +1,54 @@
+{
+  "about": [
+    "Thank you for visiting our website and browsing our services.",
+    "",
+    "If you have any query regarding testing and Certification. Kindly send us your testing requirements with the product technical details to submit you our testing charges."
+  ],
+  "social": [],
+  "inquiry": {
+    "title": "Inquiry for Testing & Certification",
+    "fields": [
+      "Name",
+      "Email",
+      "Phone/Mobile",
+      "City",
+      "Message",
+      "Enter Captcha"
+    ],
+    "hasCaptcha": true
+  },
+  "subscribe": {
+    "title": "Subscribe",
+    "placeholder": "Email Address"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "paragraphs": [
+      "ITC India Pvt Ltd.",
+      "Plot No. 146, JLPL Industrial Area, Sector 82, Mohali, Punjab,160062",
+      "Tel : 09316473033",
+      "info@itcindia.org"
+    ],
+    "links": [
+      {
+        "href": "mailto:info@itcindia.org",
+        "label": "info@itcindia.org"
+      }
+    ]
+  },
+  "footerMenu": [
+    {
+      "href": "https://www.itcindia.org/home/",
+      "label": "Home"
+    },
+    {
+      "href": "https://www.itcindia.org/about-us/",
+      "label": "About Us"
+    },
+    {
+      "href": "#itc-services",
+      "label": "Testing Services"
+    }
+  ],
+  "copyrightSkipped": "Copyright © 2015 -2025 ITC India.org All Rights Reserved."
+}

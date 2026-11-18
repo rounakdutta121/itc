@@ -1,0 +1,134 @@
+.services {
+  padding: 5rem 0 4.75rem;
+  background: var(--ice);
+}
+
+.services__head {
+  max-width: 42rem;
+  margin: 0 auto 2.5rem;
+  text-align: center;
+}
+
+.services__head .eyebrow {
+  justify-content: center;
+}
+
+.services__head h2 {
+  margin-top: 0.7rem;
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+}
+
+.services__head > p {
+  margin: 0.9rem auto 0;
+  color: var(--mute);
+  font-size: 1.05rem;
+  line-height: 1.65;
+  max-width: 38rem;
+}
+
+.services__grid {
+  display: grid;
+  gap: 1.1rem;
+}
+
+.services__card {
+  background: #fff;
+  border: 1px solid var(--line);
+  overflow: hidden;
+  display: grid;
+  transition: transform 0.28s var(--ease), box-shadow 0.28s var(--ease);
+}
+
+.services__card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow);
+}
+
+.services__media {
+  position: relative;
+  aspect-ratio: 16 / 11;
+  overflow: hidden;
+  background: var(--mist);
+}
+
+.services__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.55s var(--ease);
+}
+
+.services__card:hover .services__media img {
+  transform: scale(1.05);
+}
+
+.services__index {
+  position: absolute;
+  left: 0.85rem;
+  top: 0.85rem;
+  min-width: 2.5rem;
+  padding: 0.3rem 0.45rem;
+  background: var(--navy);
+  color: #fff;
+  font-family: var(--display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+
+.services__body {
+  display: grid;
+  gap: 0.45rem;
+  padding: 1.15rem 1.15rem 1.25rem;
+}
+
+.services__body h3 {
+  font-family: var(--display);
+  font-size: 1.45rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--navy);
+}
+
+.services__body p {
+  color: var(--mute);
+  font-size: 0.95rem;
+}
+
+.services__body a {
+  margin-top: 0.35rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--display);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--blue);
+  width: fit-content;
+}
+
+.services__card:hover .services__body a {
+  color: var(--navy);
+}
+
+@media (min-width: 560px) {
+  .services__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .services__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .services__grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

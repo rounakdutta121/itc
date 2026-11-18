@@ -1,0 +1,135 @@
+.caps {
+  padding: 5rem 0;
+  background: var(--ice);
+  border-top: 1px solid var(--line);
+}
+
+.caps__layout {
+  display: grid;
+  gap: 2.25rem;
+}
+
+.caps__head {
+  max-width: 34rem;
+}
+
+.caps__head h2 {
+  margin-top: 0.65rem;
+  font-size: clamp(2rem, 4.5vw, 3.1rem);
+}
+
+.caps__head > p {
+  margin-top: 0.85rem;
+  color: var(--mute);
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.caps__grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.caps__item {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  display: grid;
+  gap: 0.55rem;
+  align-content: start;
+  min-height: 12.5rem;
+  padding: 1.5rem 1.35rem 1.45rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-soft);
+  transition:
+    transform 0.28s var(--ease),
+    border-color 0.28s var(--ease),
+    box-shadow 0.28s var(--ease);
+}
+
+.caps__item::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: var(--blue);
+  transform: scaleY(0.35);
+  transform-origin: top;
+  transition: transform 0.3s var(--ease);
+}
+
+.caps__item:hover {
+  transform: translateY(-4px);
+  border-color: rgba(27, 107, 199, 0.35);
+  box-shadow: var(--shadow);
+}
+
+.caps__item:hover::before {
+  transform: scaleY(1);
+}
+
+.caps__watermark {
+  position: absolute;
+  right: 0.6rem;
+  bottom: -0.55rem;
+  font-family: var(--display);
+  font-size: clamp(4.5rem, 8vw, 6.5rem);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: rgba(10, 47, 107, 0.06);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.caps__index {
+  position: relative;
+  z-index: 1;
+  font-family: var(--display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--blue);
+}
+
+.caps__item h3 {
+  position: relative;
+  z-index: 1;
+  font-family: var(--display);
+  font-size: 1.55rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--navy);
+  letter-spacing: 0.02em;
+}
+
+.caps__item p {
+  position: relative;
+  z-index: 1;
+  color: var(--mute);
+  font-size: 0.98rem;
+  line-height: 1.55;
+  max-width: 28rem;
+}
+
+@media (min-width: 760px) {
+  .caps__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 980px) {
+  .caps__layout {
+    grid-template-columns: minmax(16rem, 0.85fr) minmax(0, 1.35fr);
+    gap: 3rem;
+    align-items: start;
+  }
+
+  .caps__head {
+    position: sticky;
+    top: calc(var(--topbar-h) + var(--nav-h) + 1.25rem);
+  }
+}
