@@ -2,17 +2,10 @@ import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { company } from '../data/content'
 import {
-  saltCompare,
-  saltFaqs,
-  saltGallery,
   saltHeroImage,
-  saltIntro,
   saltLabImages,
-  saltProcess,
-  saltStandards,
-  saltTypes,
+  saltPage as page,
 } from '../data/salt'
-import { LabGallery } from '../components/LabGallery'
 import './VibrationTestingPage.css'
 
 export function SaltTestingPage() {
@@ -47,15 +40,11 @@ export function SaltTestingPage() {
         </div>
 
         <div className="vib-hero__content">
-          <p className="eyebrow vib-hero__eyebrow">{saltIntro.eyebrow}</p>
-          <h1 className="display vib-hero__title">
-            Salt fog
-            <span>testing laboratory</span>
-          </h1>
-          <p className="vib-hero__lede">{saltIntro.lede}</p>
+          <p className="eyebrow vib-hero__eyebrow">ITC India · Laboratory</p>
+          <h1 className="display vib-hero__title">Salt Fog Testing</h1>
           <div className="vib-hero__actions">
-            <a className="btn btn-solid" href="#standards">
-              View standards
+            <a className="btn btn-solid" href="#get-testing">
+              {page.cta}
             </a>
             <a className="btn btn-line vib-hero__line" href={`tel:${company.phone}`}>
               {company.phoneDisplay}
@@ -64,149 +53,142 @@ export function SaltTestingPage() {
         </div>
       </section>
 
-      <section className="vib-intro factory-bg factory-bg--grid is-pattern-on">
-        <div className="wrap vib-intro__grid">
-          <div className="vib-intro__copy">
-            <p className="eyebrow">What is salt fog testing?</p>
-            <h2 className="display">Corrosion resistance. Clear evidence.</h2>
-            {saltIntro.body.map((p) => (
-              <p key={p.slice(0, 32)}>{p}</p>
-            ))}
-            <Link className="btn btn-solid" to="/contact-us">
-              Book your appointment
-            </Link>
-          </div>
-          <figure className="vib-intro__media">
+      <section
+        className="salt-intro factory-bg factory-bg--grid is-pattern-on"
+        id="get-testing"
+      >
+        <div className="wrap salt-intro__inner">
+          <header className="salt-intro__head">
+            <p className="eyebrow">Salt fog · Corrosion</p>
+            <h2 className="display">What is Salt Fog Test?</h2>
+          </header>
+
+          <figure className="salt-intro__plate">
             <img
-              src={saltLabImages[0]}
+              src={saltLabImages[7]}
               alt="Salt fog chamber at ITC India"
-              width={900}
-              height={700}
+              width={1200}
+              height={720}
               loading="lazy"
             />
-            <figcaption>Salt mist chamber · Controlled fog exposure</figcaption>
+            <figcaption>Salt fog chamber · Mohali laboratory</figcaption>
           </figure>
+
+          <div className="salt-intro__body">
+            <p className="salt-intro__lead">{page.intro[0]}</p>
+            <div className="salt-intro__rest">
+              {page.intro.slice(1).map((p) => (
+                <p key={p.slice(0, 40)}>{p}</p>
+              ))}
+            </div>
+            <div className="salt-intro__cta">
+              <Link className="btn btn-solid" to="/contact-us">
+                {page.cta}
+              </Link>
+            </div>
+          </div>
         </div>
       </section>
 
       <section className="vib-why factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-why__layout">
           <div className="vib-why__label">
-            <p className="eyebrow">Why it matters</p>
-            <h2 className="display">What does the salt fog test actually do?</h2>
+            <h2 className="display">{page.whyTitle}</h2>
           </div>
-          <blockquote className="vib-why__quote">
-            <p>{saltIntro.why}</p>
-          </blockquote>
-          <ul className="vib-why__signals" aria-label="Key outcomes">
-            <li>
-              <strong>Coating</strong>
-              <span>Protective layer strength</span>
-            </li>
-            <li>
-              <strong>Corrosion</strong>
-              <span>Salt-laden atmosphere</span>
-            </li>
-            <li>
-              <strong>Evidence</strong>
-              <span>Standards-backed reporting</span>
-            </li>
-          </ul>
+          <div className="vib-why__body">
+            {page.why.map((p) => (
+              <p key={p.slice(0, 40)}>{p}</p>
+            ))}
+          </div>
         </div>
       </section>
 
-      <section className="vib-types factory-bg factory-bg--hex is-pattern-on">
-        <div className="wrap vib-types__layout">
+      <section className="vib-types vib-types--split factory-bg factory-bg--hex is-pattern-on">
+        <div className="wrap">
           <header className="vib-types__head">
-            <p className="eyebrow">Variations</p>
-            <h2 className="display">Types and variations</h2>
-            <p>
-              The base method is salt solution spray. Temperature, pH,
-              concentration and spray schedule shift with the governing standard.
-            </p>
+            <h2 className="display">{page.typesTitle}</h2>
+            <p>{page.typesIntro}</p>
           </header>
-          <div className="vib-types__stack">
-            {saltTypes.map((item, i) => (
-              <article key={item.title} className="vib-type">
-                <span className="vib-type__index">{String(i + 1).padStart(2, '0')}</span>
-                <div>
-                  <p className="vib-type__aka">{item.aka}</p>
-                  <h3>{item.title}</h3>
-                  <p>{item.text}</p>
-                </div>
+
+          <div className="vib-types__pair vib-types__pair--four">
+            {page.typesList.map((item, i) => (
+              <article key={item} className="vib-type">
+                <span className="vib-type__index">
+                  {String(i + 1).padStart(2, '0')}
+                </span>
+                <h3>{item}</h3>
               </article>
             ))}
           </div>
+
+          <p className="vib-types__note">{page.afterTypes}</p>
         </div>
       </section>
 
       <section
-        className="vib-standards factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
+        className="vib-standards salt-standards factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
         id="standards"
       >
         <div className="wrap">
-          <header className="vib-standards__head">
-            <div>
+          <div className="salt-standards__panel">
+            <header className="salt-standards__head">
               <p className="eyebrow">Coverage</p>
-              <h2 className="display">Popular standards</h2>
+              <h2 className="display">{page.standardsTitle}</h2>
+            </header>
+
+            <div className="salt-standards__intro">
+              {page.standardsIntro.map((p) => (
+                <p key={p.slice(0, 40)}>{p}</p>
+              ))}
             </div>
-            <p>
-              Defense, IEC, ASTM, ISO, TEC and railway clauses — each row links to
-              its dedicated page.
-            </p>
-          </header>
-          <ol className="vib-dir">
-            {saltStandards.map((item, i) => (
-              <li key={item.slug}>
-                <span className="vib-dir__num">{String(i + 1).padStart(2, '0')}</span>
-                <div className="vib-dir__body">
-                  <p className="vib-dir__code">{item.code}</p>
-                  <h3>{item.title}</h3>
-                  <p>{item.summary}</p>
-                </div>
-                <Link className="vib-dir__link" to={item.href}>
-                  Open
-                </Link>
-              </li>
-            ))}
-          </ol>
+
+            <ol className="salt-standards__list">
+              {page.popularStandards.map((item, i) => (
+                <li key={item.label}>
+                  <Link to={item.href}>
+                    <span className="salt-standards__num">
+                      {String(i + 1).padStart(2, '0')}
+                    </span>
+                    <span className="salt-standards__name">{item.label}</span>
+                    <span className="salt-standards__arrow" aria-hidden="true">
+                      →
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ol>
+          </div>
         </div>
       </section>
 
       <section
-        className="vib-compare factory-bg factory-bg--cross is-pattern-on"
-        id="compare"
+        className="vib-distinctions factory-bg factory-bg--cross is-pattern-on"
+        id="distinctions"
       >
         <div className="wrap">
-          <header className="vib-compare__head">
-            <p className="eyebrow">Distinctions</p>
-            <h2 className="display">How the programmes differ</h2>
-            <p>
-              Solution chemistry, spray style and sector shift by standard. Use
-              this map to shortlist a programme, then open the dedicated page.
-            </p>
+          <header className="vib-distinctions__head">
+            <h2 className="display">{page.distinctionsTitle}</h2>
+            <p>{page.distinctionsIntro}</p>
           </header>
           <div
-            className="vib-compare__table-wrap"
+            className="vib-distinctions__table-wrap"
             role="region"
-            aria-label="Salt fog standards comparison"
+            aria-label="Salt fog testing standards distinctions"
           >
-            <table className="vib-compare__table">
+            <table className="vib-distinctions__table">
               <thead>
                 <tr>
                   <th scope="col">Standard</th>
-                  <th scope="col">Method</th>
-                  <th scope="col">Sector</th>
-                  <th scope="col">Focus</th>
+                  <th scope="col">Description</th>
                 </tr>
               </thead>
               <tbody>
-                {saltCompare.map((row) => (
-                  <tr key={row.code}>
-                    <th scope="row">{row.code}</th>
-                    <td>{row.method}</td>
-                    <td>{row.sector}</td>
-                    <td>{row.focus}</td>
+                {page.distinctions.map((item) => (
+                  <tr key={item.title}>
+                    <th scope="row">
+                      <Link to={item.href}>{item.title}</Link>
+                    </th>
+                    <td>{item.text}</td>
                   </tr>
                 ))}
               </tbody>
@@ -219,52 +201,53 @@ export function SaltTestingPage() {
         <div className="wrap vib-process__layout">
           <aside className="vib-process__aside">
             <header className="vib-process__head">
-              <p className="eyebrow">Method</p>
-              <h2 className="display">How salt fog testing is done</h2>
-              <p>
-                Exact parameters come from the referred specification. This is the
-                floor overview from preparation to report.
-              </p>
+              <h2 className="display">{page.howTitle}</h2>
+              <p>{page.howIntro}</p>
+              <p className="vib-process__note">{page.howNote}</p>
             </header>
           </aside>
-          <ol className="vib-timeline">
-            {saltProcess.map((step, i) => (
-              <li key={step}>
-                <span className="vib-timeline__node" aria-hidden="true" />
-                <div>
-                  <span className="vib-timeline__step">
-                    Step {String(i + 1).padStart(2, '0')}
-                  </span>
-                  <p>{step}</p>
-                </div>
-              </li>
-            ))}
-          </ol>
+          <div>
+            <ol className="vib-timeline">
+              {page.howSteps.map((step, i) => (
+                <li key={step.slice(0, 36)}>
+                  <span className="vib-timeline__node" aria-hidden="true" />
+                  <div>
+                    <span className="vib-timeline__step">
+                      Step {String(i + 1).padStart(2, '0')}
+                    </span>
+                    <p>{step}</p>
+                  </div>
+                </li>
+              ))}
+            </ol>
+            <p className="vib-process__close">{page.howClose}</p>
+          </div>
         </div>
       </section>
-
-      <LabGallery
-        eyebrow="Facility"
-        title="Chamber & coupon imagery"
-        items={saltGallery}
-      />
 
       <section className="vib-faq factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-faq__layout">
           <header className="vib-faq__head">
-            <p className="eyebrow">FAQ</p>
-            <h2 className="display">Questions we hear first</h2>
+            <h2 className="display">{page.faqTitle}</h2>
             <p>
               Still unsure about scope? Call{' '}
-              <a href={`tel:${company.phone}`}>{company.phoneDisplay}</a> or{' '}
-              <Link to="/contact-us">book a consultation</Link>.
+              <a href={`tel:${company.phone}`}>{company.phoneDisplay}</a> or reach
+              us on{' '}
+              <a href={page.whatsappHref} target="_blank" rel="noreferrer">
+                WhatsApp
+              </a>
+              .
             </p>
           </header>
           <div className="vib-faq__list">
-            {saltFaqs.map((item) => (
+            {page.faqs.map((item, i) => (
               <details key={item.q} className="vib-faq__item">
-                <summary>{item.q}</summary>
-                <p>{item.a}</p>
+                <summary>
+                  {i + 1}. {item.q}
+                </summary>
+                <p>
+                  <strong>Answer:</strong> {item.a}
+                </p>
               </details>
             ))}
           </div>
@@ -273,18 +256,20 @@ export function SaltTestingPage() {
 
       <section className="vib-cta factory-bg factory-bg--grid is-pattern-on">
         <div className="wrap vib-cta__inner">
-          <p className="eyebrow">Next step</p>
-          <h2 className="display">Get salt fog testing done</h2>
+          <h2 className="display">{page.cta}</h2>
           <p>
-            Share product scope, target standard and exposure hours — we will map
-            the right continuous or cyclic fog programme on our Mohali floor.
+            In case of any other doubt or query feel free to reach us on Whatsapp @
+            <a href={page.whatsappHref} target="_blank" rel="noreferrer">
+              {company.phoneDisplay}
+            </a>
+            .
           </p>
           <div className="vib-cta__actions">
             <Link className="btn btn-solid" to="/contact-us">
-              Book a consultation
+              {page.cta}
             </Link>
-            <a className="btn btn-line" href={`mailto:${company.email}`}>
-              {company.email}
+            <a className="btn btn-line" href={`tel:${company.phone}`}>
+              {company.phoneDisplay}
             </a>
           </div>
         </div>

@@ -305,10 +305,9 @@ function MobileBranch({
 
   if (!kids.length) {
     return (
-      <SiteLink href={item.href}
-        className="nav__drawer-link"
-        style={{ paddingLeft: `${0.4 + depth * 0.75}rem` }}
-        
+      <SiteLink
+        href={item.href}
+        className={`nav__drawer-link${depth ? ` is-depth-${Math.min(depth, 3)}` : ''}`}
         onClick={onNavigate}
       >
         {item.label}
@@ -317,12 +316,13 @@ function MobileBranch({
   }
 
   return (
-    <div className={`nav__acc${open ? ' is-open' : ''}`}>
-      <div
-        className="nav__acc-row"
-        style={{ paddingLeft: `${0.4 + depth * 0.75}rem` }}
-      >
-        <SiteLink href={item.href}  onClick={onNavigate}>
+    <div className={`nav__acc${open ? ' is-open' : ''}${depth ? ` is-depth-${Math.min(depth, 3)}` : ''}`}>
+      <div className="nav__acc-row">
+        <SiteLink
+          href={item.href}
+          className="nav__drawer-link"
+          onClick={onNavigate}
+        >
           {item.label}
         </SiteLink>
         <button
@@ -437,22 +437,42 @@ export function Nav() {
         hidden={!open}
         data-lenis-prevent
       >
-        {navMenu.map((item) => (
-          <MobileBranch key={item.label} item={item} onNavigate={close} />
-        ))}
-        <SiteLink className="btn btn-solid" href="/contact-us" onClick={close}>
-          Book a consultation
-        </SiteLink>
-      </div>
+        <div className="nav__drawer-top">
+          <SiteLink
+            className="nav__brand"
+            href="/"
+            aria-label={`${company.name} home`}
+            onClick={close}
+          >
+            <img src="/logo.webp" alt="ITC India" width={150} height={48} />
+          </SiteLink>
+          <button
+            type="button"
+            className="nav__drawer-close"
+            aria-label="Close menu"
+            onClick={close}
+          >
+            <span aria-hidden="true" />
+            <span aria-hidden="true" />
+          </button>
+        </div>
 
-      {open ? (
-        <button
-          type="button"
-          className="nav__backdrop"
-          aria-label="Close menu"
-          onClick={close}
-        />
-      ) : null}
+        <div className="nav__drawer-scroll">
+          {navMenu.map((item) => (
+            <MobileBranch key={item.label} item={item} onNavigate={close} />
+          ))}
+        </div>
+
+        <div className="nav__drawer-foot">
+          <SiteLink
+            className="btn btn-solid"
+            href="/contact-us"
+            onClick={close}
+          >
+            Book a consultation
+          </SiteLink>
+        </div>
+      </div>
     </header>
   )
 }

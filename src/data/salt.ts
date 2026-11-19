@@ -1,8 +1,8 @@
 import { company } from './content'
 
 export const saltHeroImage = {
-  landscape: '/images/salt/hero-slide-1.webp',
-  portrait: '/images/salt/hero-slide-1-portrait.webp',
+  landscape: '/images/salt/hero-people.webp',
+  portrait: '/images/salt/hero-people-portrait.webp',
 }
 
 export const saltLabImages = [
@@ -18,218 +18,111 @@ export const saltLabImages = [
   '/images/salt/lab-10.webp',
 ]
 
-export const saltGallery = [
-  {
-    src: '/images/salt/lab-1.webp',
-    title: 'Salt fog chamber cutaway',
-    detail:
-      'Chamber schematic showing specimen placement, spray paths and sealed envelope used for continuous or cyclic salt mist.',
-  },
-  {
-    src: '/images/salt/lab-2.webp',
-    title: 'Solution & timing controls',
-    detail:
-      'Programme cues for spray duration, dwell and chemistry checks that differ across ASTM, IEC, ISO and TEC methods.',
-  },
-  {
-    src: '/images/salt/lab-3.webp',
-    title: 'Fog generation circuit',
-    detail:
-      'Tank, pump and nozzle path that produces the fine salt mist collected and verified during a run.',
-  },
-  {
-    src: '/images/salt/lab-4.webp',
-    title: 'Cyclic exposure timeline',
-    detail:
-      'Example multi-cycle fog-and-storage sequence (spray then damp-heat hold) used in JSS and QM-333 style programmes.',
-  },
-  {
-    src: '/images/salt/lab-5.webp',
-    title: 'Benchtop chamber with DUT',
-    detail:
-      'Compact chamber load-out with electronics under mist — orientation set so condensate cannot drip onto critical faces.',
-  },
-  {
-    src: '/images/salt/lab-6.webp',
-    title: 'Solution collection check',
-    detail:
-      'Collection-rate and chemistry verification supporting apparatus practice such as ASTM B117 fog operation.',
-  },
-  {
-    src: '/images/salt/lab-7.webp',
-    title: 'Salt solution preparation',
-    detail:
-      'Glassware and reagents for preparing NaCl or multi-salt blends to the concentration and pH required by the standard.',
-  },
-  {
-    src: '/images/salt/lab-8.webp',
-    title: 'Open-lid chamber inspection',
-    detail:
-      'Mid- or post-test access to inspect coatings and metals after fog exposure before final scoring.',
-  },
-  {
-    src: '/images/salt/lab-9.webp',
-    title: 'Full-size chamber spray bay',
-    detail:
-      'Larger fog enclosure with racked coupons or products under active spray for longer industrial exposures.',
-  },
-  {
-    src: '/images/salt/lab-10.webp',
-    title: 'Chamber rack & nozzle detail',
-    detail:
-      'Internal shelving and nozzle layout used to keep spray uniform and avoid wall-drip contamination of the specimen.',
-  },
-]
-
-export const saltStandards = [
-  {
-    slug: 'jss-55555-9',
-    code: 'JSS 55555 · Test 9',
-    title: 'Military salt fog',
-    href: '/salt-testing/jss-55555-9',
-    summary:
-      'Defense environmental salt fog for electronic and electrical equipment — cyclic spray with post-spray storage, comparing initial and final condition.',
-  },
-  {
-    slug: 'iec-60068-2-11',
-    code: 'IEC 60068-2-11',
-    title: 'Salt mist Test Ka',
-    href: '/salt-testing/iec-60068-2-11',
-    summary:
-      'International environmental salt mist method for electrical and electronic products — typically a moderated warm chamber with continuous NaCl mist and specimen-dependent duration.',
-  },
-  {
-    slug: 'astm-b117',
-    code: 'ASTM B117',
-    title: 'Salt spray (fog) apparatus',
-    href: '/salt-testing/astm-b117',
-    summary:
-      'Long-established practice for operating salt spray apparatus — continuous 5% NaCl fog widely used for coatings, metallic finishes and automotive electrical corrosion programmes.',
-  },
-  {
-    slug: 'iso-9227',
-    code: 'ISO 9227',
-    title: 'NSS / AASS / CASS spray',
-    href: '/salt-testing/iso-9227',
-    summary:
-      'Salt spray testing with three solution families (NSS, AASS, CASS), continuous spray, interim inspection and chamber corrosivity checks against reference panels.',
-  },
-  {
-    slug: 'qm-333-9',
-    code: 'QM-333 · Test 9',
-    title: 'TEC salt corrosion fog',
-    href: '/salt-testing/qm-333-9',
-    summary:
-      'TEC radio transmission salt corrosion — multi-salt seawater-type cyclic fog (2 h spray + 22 h damp heat at 35°C × 3 cycles) with recovery and compare.',
-  },
-  {
-    slug: 'iec-60571',
-    code: 'IEC 60571 · 12.2.11',
-    title: 'Railway electronic salt mist',
-    href: '/salt-testing/iec-60571',
-    summary:
-      'Salt mist coverage within IEC 60571 environmental requirements for electronic equipment used on rolling stock.',
-  },
-]
-
-export const saltTypes = [
-  {
-    title: 'Chamber temperature',
-    aka: 'Thermal set-point',
-    text: 'Salt fog chambers run at temperatures defined by the referred standard — for example moderated warm conditions around 35°C for many commercial mist methods.',
-  },
-  {
-    title: 'Solution chemistry',
-    aka: 'pH · concentration · salts',
-    text: 'NaCl mass fraction, pH and multi-salt blends (including NSS, AASS, CASS or seawater-type mixes) change corrosivity and must match the governing specification.',
-  },
-  {
-    title: 'Spray method & duration',
-    aka: 'Continuous or cyclic',
-    text: 'Programmes may use continuous fog or cyclic spray-plus-storage sequences. Duration is specimen- and standard-dependent — commonly from tens of hours to multi-week exposures.',
-  },
-]
-
-export const saltProcess = [
-  'Select and prepare the specimen — clean, unpacked and free of moisture before exposure.',
-  'Prepare the salt solution using the recommended salt(s) in the specified proportion and pH.',
-  'Set up a clean, ventilated salt fog chamber at the required temperature so condensate on walls and ceiling cannot drip onto the specimen. Place and angle the equipment as specified.',
-  'Run the spray or cyclic fog programme for the specified duration.',
-  'Remove the specimen, apply any post-exposure treatment required by the specification, then examine visually and/or functionally against the baseline.',
-]
-
-export const saltFaqs = [
-  {
-    q: 'Why do I need salt fog testing for my product?',
-    a: 'If the product has metallic parts or coatings that can react with atmospheric moisture and salt, salt fog testing is a practical way to check storage and service durability before market release.',
-  },
-  {
-    q: 'Which laboratory should I choose for salt spray testing?',
-    a: 'ITC India combines calibrated chamber infrastructure, NABL-accredited methods and experienced technical staff for commercial, telecom, railway and defense salt fog programmes.',
-  },
-  {
-    q: 'How does one salt spray standard differ from another?',
-    a: 'Standards differ in solution concentration and composition, spray method (continuous vs cyclic), temperature, duration and post-spray treatment. We can help compare programmes for your product.',
-  },
-  {
-    q: 'What time durations are typical?',
-    a: 'There is no single universal duration. Depending on the standard and specimen, exposures can range from about 16 hours to multi-week programmes with interim inspections.',
-  },
-  {
-    q: 'How many salt fog standards does ITC India cover?',
-    a: `We cover around 10+ salt fog / mist related methods, plus related environmental clauses. Call ${company.phoneDisplay} to map the right programme.`,
-  },
-]
-
-export const saltIntro = {
-  eyebrow: 'Environmental / IP · Salt fog',
-  title: 'Salt spray testing',
-  lede: 'Prove coating and metal durability in salt-laden atmospheres — continuous mist and cyclic fog programmes reported against JSS, IEC, ASTM, ISO and TEC methods.',
-  body: [
-    'Salt fog testing — also called salt mist or salt spray testing — examines how metallic parts and protective coatings resist corrosion. The specimen is exposed to a controlled moist salt atmosphere for a defined period, then assessed visually and functionally.',
-    'Methods appear as standalone programmes or as sub-tests inside broader environmental standards. ITC India runs calibrated chamber work with pre-test guidance and clear reporting so you can judge storage and service survival.',
+/** Main page copy — exact wording from the Salt Fog and Corrosion Testing document. */
+export const saltPage = {
+  intro: [
+    'Salt Fog Test, which is also known as salt mist test or salt spray test is a standard testing procedure where the resistance against corrosion of the metallic parts of the equipment is tested. The test basically examines the strength of the protective layer coated upon the metal parts or the alloying, to check how long during the storage or in service period, the equipment can survive. The test is performed by exposing the target region to moist salt solutions in calculated amounts periodically until the respective tests suggest and noting the observed changes visually and functionally after the test.',
+    'As salt fog testing is a common and popular approach, it is explained by various different standards focusing on their target specimen. Some tests are conducted individually while some are conducted as the sub-test of any standard environment standard.',
+    'If you want your product to become corrosion and rust proof, feel free to reach us out @ITC India, the most efficient testing and calibration laboratory serving excellence with experience for past (X) glorious years. Incorporating the latest technical lab set-up, we have successfully achieved the milestone of (Y) happy and satisfied customers.',
   ],
-  why: 'Salt fog creates a replicated corrosive environment and records how coatings and alloys respond over time. The chamber is vented and set to the referred method; salt solution is sprayed to form mist while the specimen sits for the specified duration — proving protective-layer strength before real service or storage.',
+  cta: 'Book your appointment now!',
+  whyTitle: 'What does the Salt Fog Test actually do?',
+  why: [
+    'Salt Fog Test creates a replicated environment for the equipment under test, recording its response in terms of corrosion occurring. The aim is to check the time duration an equipment can withhold the salt laden environment during the service or storage period.',
+    'The replicating environment is prepared by setting up a standard chamber for the test. The chamber needs to be properly vented and properly set up as per the standard method followed. In the chamber, the specimen is properly placed for the specified time duration and periodically a spray of salt solution (specified by referred standard) is sprayed to create a fog or mist like environment. This checks the strength of the protective coating on the specimen and when the test is completed, the condition is noted as in both visual and functional sense.',
+  ],
+  typesTitle: 'Types and Variations',
+  typesIntro:
+    'The base method for all the tests are the same and that is creating the environment by spraying salt solution. The variations are totally equipment and standard dependent. Some possible variations can be highlighted as:',
+  typesList: [
+    'Temperature of salt fog test chamber',
+    'pH of the prepared salt solution',
+    'Spraying method and time duration',
+    'Salt solution concentration and composition.',
+  ],
+  afterTypes:
+    'All the listed parameters are taken into account before conducting a specific test.',
+  howTitle: 'How is Salt Fog Testing actually done?',
+  howIntro:
+    'The general method of conducting the salt spray test on a chosen equipment is performed by following the below steps.',
+  howNote:
+    'Note: the process below is a general guideline of testing, thus respective specifications are recommended to be referred before performing the test.',
+  howSteps: [
+    'Select the target specimen and prepare it for the test such that the specimen is in clean and unpacked condition with no moisture content before the testing.',
+    'Prepare the salt solution using the recommended salt(s) in proper proportion.',
+    'Set up the salt fog chamber in clean and ventilated condition with proper temperature ensuring that the set-up would not let the drops of salt solution accumulated on walls and ceiling come in contact with the equipment. Place the equipment in the chamber and properly angle it.',
+    'Run the spray with the required standard for the specified time duration.',
+    'Once the time is completed, remove the specimen from the chamber, treat it as the specification says and examine them visually and/or functionally.',
+  ],
+  howClose:
+    'These steps frame the understanding of testing procedures. Exact parameters can be determined from the specification referred to.',
+  standardsTitle: 'Popular Standards',
+  standardsIntro: [
+    'Since the salt fog test is one of the most efficient ways to check the resistivity of any alloying or protective coating against rusting and corrosion, it serves as a part of major internationally recognised standard tests.',
+    'At ITC India, we help the customer with six major standards of salt fog test providing assistance with several other related tests. Our team of experts with years of experience in testing provide the best testing guidance and analysis support.',
+  ],
+  popularStandards: [
+    { label: 'JSS 55555 (Test Number 9)', href: '/salt-testing/jss-55555' },
+    { label: 'IEC 60068-2-11', href: '/salt-testing/iec-60068-2-11' },
+    { label: 'ASTM B117', href: '/salt-testing/astm-b117' },
+    { label: 'ISO 9227', href: '/salt-testing/iso-9227' },
+    { label: 'QM-333', href: '/salt-testing/qm-333' },
+  ],
+  distinctionsTitle: 'Distinctions:',
+  distinctionsIntro:
+    'At ITC India, we help the customer with six major standards of salt fog test providing assistance with several other related tests.',
+  distinctions: [
+    {
+      title: 'JSS 55555 (Test Number 9)',
+      href: '/salt-testing/jss-55555',
+      text: 'Joint Service Specification number 55555 mentions the environmental tests mandatory for equipment used in defense service. Its Test Number-09 is about salt fog testing, with the objective to check the resistance against corrosion of components under test by replicating true salt laden moist environments. This standard incorporates multiple cyclic spraying methods along with a post-spray storage process. Once the test is conducted, the final and initial readings are compared.',
+    },
+    {
+      title: 'IEC 60068-2-11',
+      href: '/salt-testing/iec-60068-2-11',
+      text: 'This section of IEC 60068 talks about salt mist testing which is an essential environment test for electronic and electric components used in commercial or industrial purposes. The test simulates a moderately warm environment at 35°C introducing constant spraying of NaCl solution with a specific concentration to expose the equipment’s strength against the moist environment. The time duration is a specimen dependent factor and after the test, readings are checked.',
+    },
+    {
+      title: 'ASTM B117',
+      href: '/salt-testing/astm-b117',
+      text: 'ASTM B117 standard for salt testing is the first and oldest internationally recognised standard for salt testing which examines overall coating, metallic finishing and other protective measures specially for automotive electric products. Its continuous spraying method using a 5% w/w NaCl solution with specimen dependent time duration makes it an efficient method for corrosion testing. The test readings are calculated before and after the test, and during the test also if the standards suggest.',
+    },
+    {
+      title: 'ISO 9227',
+      href: '/salt-testing/iso-9227',
+      text: 'International Organisation for Standardization 9227 provides procedural details along with appropriate apparatus and tools to perform salt spray testing on equipment to check the metallic and protective layer’s resistivity against corrosion. This standard is distinct from other standards as it involves three separate salt solutions NSS, AASS and CASS such that continuous spraying and post-test analysis including interim inspection and chamber’s corrosivity check with respect to reference panel.',
+    },
+    {
+      title: 'QM-333',
+      href: '/salt-testing/qm-333',
+      text: 'QM-333 is the Telecommunication Engineering Centre (TEC) standard for environmental testing of radio transmission equipment. Its Test Number-09 covers salt corrosion (fog) testing, with the objective to check the suitability of equipment for use, storage or transport in salt laden atmospheres. The test uses a multi-salt sea water type solution applied in a cyclic manner, where two hours of spraying is followed by twenty two hours of damp heat storage at 35°C, repeated for three continuous cycles. Once the test is completed and the equipment has recovered, the final readings are compared with the initial readings.',
+    },
+  ],
+  faqTitle: 'FAQs',
+  faqs: [
+    {
+      q: 'Why do I need Salt Fog Testing for my product?',
+      a: 'If the product contains metallic components or even those components which readily react with atmospheric moisture, then in order to check its compatibility during the storage or service period, salt fog test is the most convenient and accurate measure.',
+    },
+    {
+      q: 'Which is the most efficient laboratory to provide salt fog testing services based on international standards?',
+      a: 'In 2026, working with the latest technical assistance, years of excellence in testing and calibration, ITC India is undoubtedly the perfect choice to get hassle-free services.',
+    },
+    {
+      q: 'How does one standard differ from another in case of Salt Spray Testing?',
+      a: 'Two separate standards in terms of salt spray test differ in terms of solution’s concentration and constitution, method of spraying and post-spray treatment. One can get a comparative analysis of multiple testing standards in our laboratory.',
+    },
+    {
+      q: 'What can be the time duration for the tests to be conducted?',
+      a: 'There is no fixed duration commonly accepted by all standards. Varying from 16 hours to 28 days with part-wise testing and certain procedures between the tests can extend the time duration.',
+    },
+    {
+      q: 'How many standards are provided by ITC India Laboratory?',
+      a: `We provide around 10+ testing standards for salt fog testing. Also, there are multiple other things around the same test. So, to get the best service and technical support, feel comfortable to contact us @${company.phoneDisplay}`,
+    },
+  ],
+  whatsappHref: `https://wa.me/${company.whatsapp}`,
 }
-
-export const saltCompare = [
-  {
-    code: 'JSS 55555 · 9',
-    method: 'Cyclic salt fog',
-    sector: 'Military electronics',
-    focus: 'Spray cycles plus post-spray storage; initial vs final compare.',
-  },
-  {
-    code: 'IEC 60068-2-11',
-    method: 'Continuous salt mist (Ka)',
-    sector: 'Industrial / commercial',
-    focus: 'Warm chamber (~35°C) with NaCl mist; duration by specimen.',
-  },
-  {
-    code: 'ASTM B117',
-    method: 'Continuous 5% NaCl fog',
-    sector: 'Coatings / automotive electrical',
-    focus: 'Apparatus practice for metallic finishes and protective measures.',
-  },
-  {
-    code: 'ISO 9227',
-    method: 'NSS / AASS / CASS',
-    sector: 'Metallic & coated specimens',
-    focus: 'Three solution types, continuous spray, corrosivity checks.',
-  },
-  {
-    code: 'QM-333 · 9',
-    method: 'Cyclic multi-salt fog',
-    sector: 'TEC radio transmission',
-    focus: '2 h spray + 22 h damp heat at 35°C × 3 cycles.',
-  },
-  {
-    code: 'IEC 60571',
-    method: 'Salt mist clause',
-    sector: 'Railway electronics',
-    focus: 'Rolling-stock electronic equipment environmental salt mist.',
-  },
-]
 
 /** Lab-facing detail pages for the two PDFs supplied with the brief (original summaries). */
 export type SaltStandardDetail = {
