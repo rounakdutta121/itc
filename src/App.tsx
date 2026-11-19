@@ -6,6 +6,7 @@ import { VibrationStandardPage } from './pages/VibrationStandardPage'
 import { DropTestingPage } from './pages/DropTestingPage'
 import { SaltTestingPage } from './pages/SaltTestingPage'
 import { SaltStandardPage } from './pages/SaltStandardPage'
+import { Jss55555Page } from './pages/Jss55555Page'
 import { PlaceholderPage } from './pages/PlaceholderPage'
 import { getVibrationStandardDetail } from './data/vibration'
 import { getSaltStandardDetail } from './data/salt'
@@ -37,6 +38,10 @@ export default function App() {
           <Route index element={<HomePage />} />
           <Route path="vibration-testing" element={<VibrationTestingPage />} />
           <Route
+            path="vibration-testing/jss-55555"
+            element={<Navigate to="/jss-55555" replace />}
+          />
+          <Route
             path="vibration-testing/:standard"
             element={<VibrationStandardRoute />}
           />
@@ -50,6 +55,7 @@ export default function App() {
             path="salt-testing/:standard"
             element={<SaltStandardRoute />}
           />
+          <Route path="jss-55555" element={<Jss55555Page />} />
           <Route path="about-us" element={<PlaceholderPage title="About Us" />} />
           <Route
             path="about-us/:slug"

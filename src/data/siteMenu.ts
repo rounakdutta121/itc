@@ -552,6 +552,10 @@ export const siteNav: NavItem[] = [
             "href": "/salt-testing"
           },
           {
+            "label": "JSS 55555 Testing Lab",
+            "href": "/jss-55555"
+          },
+          {
             "label": "IEC 60068- Environmental Conditioning",
             "href": "/vibration-testing"
           },
@@ -623,7 +627,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "JSS 55555 Testing Laboratory in India | ITC India",
-            "href": "/vibration-testing/jss-55555"
+            "href": "/jss-55555"
           },
           {
             "label": "JSS 5855-11 Environmental Testing Services",

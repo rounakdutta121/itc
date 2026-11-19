@@ -62,7 +62,7 @@ export const saltPage = {
     'At ITC India, we help the customer with six major standards of salt fog test providing assistance with several other related tests. Our team of experts with years of experience in testing provide the best testing guidance and analysis support.',
   ],
   popularStandards: [
-    { label: 'JSS 55555 (Test Number 9)', href: '/salt-testing/jss-55555' },
+    { label: 'JSS 55555 (Test Number 9)', href: '/jss-55555' },
     { label: 'IEC 60068-2-11', href: '/salt-testing/iec-60068-2-11' },
     { label: 'ASTM B117', href: '/salt-testing/astm-b117' },
     { label: 'ISO 9227', href: '/salt-testing/iso-9227' },
@@ -74,7 +74,7 @@ export const saltPage = {
   distinctions: [
     {
       title: 'JSS 55555 (Test Number 9)',
-      href: '/salt-testing/jss-55555',
+      href: '/jss-55555',
       text: 'Joint Service Specification number 55555 mentions the environmental tests mandatory for equipment used in defense service. Its Test Number-09 is about salt fog testing, with the objective to check the resistance against corrosion of components under test by replicating true salt laden moist environments. This standard incorporates multiple cyclic spraying methods along with a post-spray storage process. Once the test is conducted, the final and initial readings are compared.',
     },
     {

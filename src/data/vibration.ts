@@ -46,7 +46,7 @@ export const vibrationPage = {
   popularStandards: [
     { label: 'IEC 60068 - 2 - 6', href: '/vibration-testing/iec-60068-2-6' },
     { label: 'IEC 60068 - 2 - 64', href: '/vibration-testing/iec-60068-2-64' },
-    { label: 'JSS 55555 Test No. 28', href: '/vibration-testing/jss-55555' },
+    { label: 'JSS 55555 Test No. 28', href: '/jss-55555' },
   ],
   standardsMore: 'And more…',
   distinctionsTitle: 'Distinctions:',
@@ -65,7 +65,7 @@ export const vibrationPage = {
     },
     {
       title: 'JSS 55555 (Test No. 28):',
-      href: '/vibration-testing/jss-55555',
+      href: '/jss-55555',
       text: 'Joint Services Specification (JSS 55555) specifies environmental test procedures for military electronic and electrical equipment. Out of its 31 specified testings, Test Number 28 talks about vibration testing where both sine test (as Sinusoidal Vibration System) and random vibration test (Random Vibration System) are included. Describing the various parameters and scope of response, the fourth revision in JSS 55555 finds random vibration testing a more effective method of exposing the structural weakness of the equipment.',
     },
     {

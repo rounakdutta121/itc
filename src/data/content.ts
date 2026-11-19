@@ -25,6 +25,7 @@ export const navLinks = [
   { label: 'Vibration Testing', href: '/vibration-testing' },
   { label: 'Drop Testing', href: '/drop-testing' },
   { label: 'Salt Fog Testing', href: '/salt-testing' },
+  { label: 'JSS 55555', href: '/jss-55555' },
   { label: 'Contact Us', href: '/contact-us' },
   { label: 'Career in ITC', href: '/careers' },
 ]

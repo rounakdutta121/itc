@@ -14,6 +14,7 @@ export const internalRoutes = [
   { path: '/vibration-testing', label: 'Vibration Testing', ready: true },
   { path: '/vibration-testing/iec-60068-2-6', label: 'IEC 60068-2-6' },
   { path: '/vibration-testing/iec-60068-2-64', label: 'IEC 60068-2-64' },
+  { path: '/jss-55555', label: 'JSS 55555 Environment Test', ready: true },
   { path: '/vibration-testing/jss-55555', label: 'JSS 55555 Test No. 28' },
   { path: '/vibration-testing/jss-50101', label: 'JSS 50101 Test No. 23' },
   { path: '/vibration-testing/jss-5855-11', label: 'JSS 5855-11' },

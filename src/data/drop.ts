@@ -65,7 +65,7 @@ export const dropPage = {
     },
     {
       label: 'JSS 55555 (Test Number 13)',
-      href: '/drop-testing/jss-55555',
+      href: '/jss-55555',
     },
     { label: 'QM-333 10', href: '/drop-testing/qm-333' },
     { label: 'IEC 60068-2-31', href: '/drop-testing/iec-60068-2-31' },
@@ -82,7 +82,7 @@ export const dropPage = {
     },
     {
       title: 'JSS 55555 (Test Number 13)',
-      href: '/drop-testing/jss-55555',
+      href: '/jss-55555',
       text: 'JSS 55555 provides Environment Testing standards for electric and electronic equipment used for defense related purposes. Its test number 13 mentions procedures related to drop testing to check equipment’s durability against shocks when dropped or handled roughly. The specimen in unpacked and switched off condition is allowed to fall freely on a hard and properly bolted surface. The height, orientation and number of trials depends upon the specification with Test Condition A-25mm, B-50mm, C-100mm, D-250mm, E-500mm, F-1000mm. Finally, the specimen is checked after all tests are conducted on visual, mechanical and electrical parameters. The applicability specifies that the test can be omitted in case the equipment is not likely to be dropped.',
     },
     {

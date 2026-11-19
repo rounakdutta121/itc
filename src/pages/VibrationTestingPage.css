@@ -1486,6 +1486,127 @@
   width: fit-content;
 }
 
+/* JSS 55555: dark revisions (after light classifications) */
+.vib-distinctions.factory-bg--on-dark {
+  background: var(--navy);
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.vib-distinctions.factory-bg--on-dark .vib-distinctions__head h2 {
+  color: #fff !important;
+}
+
+.vib-distinctions.factory-bg--on-dark .vib-distinctions__head > p {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.vib-process .jss-disclaimer {
+  margin-top: 1.75rem;
+  max-width: 40rem;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.7;
+  font-size: 0.98rem;
+}
+
+/* Salt panel on light sections (JSS tests after dark revisions) */
+.vib-standards.salt-standards--light {
+  background: var(--stone);
+  color: var(--ink);
+}
+
+.salt-standards--light .salt-standards__panel {
+  max-width: min(72rem, 100%);
+  background: #fff;
+  border-color: var(--blue);
+  box-shadow: 0 18px 48px rgba(20, 33, 61, 0.1);
+}
+
+.salt-standards--light .salt-standards__head h2 {
+  color: var(--ink) !important;
+}
+
+.salt-standards--light .salt-standards__intro {
+  border-bottom-color: var(--line);
+  max-width: 46rem;
+  margin-inline: auto;
+}
+
+.salt-standards--light .salt-standards__intro p {
+  color: var(--mute);
+  text-align: center;
+}
+
+.salt-standards--light .salt-standards__list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+}
+
+.salt-standards--light .salt-standards__list li {
+  border-top: 1px solid var(--line);
+}
+
+.salt-standards--light .salt-standards__list li + li {
+  border-top-color: var(--line);
+}
+
+.salt-standards--light .salt-standards__list a {
+  color: var(--ink);
+  grid-template-columns: 2.25rem 1fr auto;
+  gap: 0.65rem;
+  padding: 0.85rem 0.35rem;
+}
+
+.salt-standards--light .salt-standards__list a:hover {
+  background: rgba(20, 33, 61, 0.04);
+}
+
+.salt-standards--light .salt-standards__num,
+.salt-standards--light .salt-standards__arrow {
+  color: var(--blue);
+}
+
+.salt-standards--light .salt-standards__name {
+  color: var(--ink);
+  font-size: clamp(0.92rem, 1.5vw, 1.05rem);
+}
+
+.salt-standards--light .eyebrow {
+  color: var(--blue);
+}
+
+.salt-standards--light .eyebrow::before {
+  background: var(--blue);
+}
+
+@media (min-width: 720px) {
+  .salt-standards--light .salt-standards__panel {
+    padding: 2.5rem 2.25rem 2.15rem;
+  }
+
+  .salt-standards--light .salt-standards__list {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1.75rem;
+  }
+
+  .salt-standards--light .salt-standards__list li {
+    border-top: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .salt-standards--light .salt-standards__list li + li {
+    border-top: 0;
+  }
+}
+
+@media (min-width: 1100px) {
+  .salt-standards--light .salt-standards__list {
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 1.5rem;
+  }
+}
+
 /* Salt standards: refined panel */
 .salt-standards__panel {
   max-width: 42rem;
@@ -1741,8 +1862,13 @@
   color: #fff;
 }
 
-.vib-cta .btn-line {
+.vib-cta:not(.vib-cta--dark) .btn-line {
   color: var(--navy);
+}
+
+.vib-cta--dark .btn-line {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.75);
 }
 
 @media (min-width: 900px) {

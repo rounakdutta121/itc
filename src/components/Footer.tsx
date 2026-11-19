@@ -106,6 +106,7 @@ export function Footer() {
               </SiteLink>
             ))}
             <SiteLink href="/vibration-testing">Vibration Testing</SiteLink>
+            <SiteLink href="/jss-55555">JSS 55555</SiteLink>
           </nav>
         </div>
       </div>
