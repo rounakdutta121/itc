@@ -1,27 +1,9 @@
 import { company } from './content'
 
-export const saltHeroSlides = [
-  {
-    landscape: '/images/salt/hero-slide-1.webp',
-    portrait: '/images/salt/hero-slide-1-portrait.webp',
-  },
-  {
-    landscape: '/images/salt/hero-slide-2.webp',
-    portrait: '/images/salt/hero-slide-2-portrait.webp',
-  },
-  {
-    landscape: '/images/salt/hero-slide-3.webp',
-    portrait: '/images/salt/hero-slide-3-portrait.webp',
-  },
-  {
-    landscape: '/images/salt/hero-slide-4.webp',
-    portrait: '/images/salt/hero-slide-4-portrait.webp',
-  },
-  {
-    landscape: '/images/salt/hero-slide-5.webp',
-    portrait: '/images/salt/hero-slide-5-portrait.webp',
-  },
-]
+export const saltHeroImage = {
+  landscape: '/images/salt/hero-slide-1.webp',
+  portrait: '/images/salt/hero-slide-1-portrait.webp',
+}
 
 export const saltLabImages = [
   '/images/salt/lab-1.webp',

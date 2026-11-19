@@ -78,8 +78,8 @@
   left: 0;
   right: 0;
   top: calc(var(--topbar-h) + var(--nav-h));
-  width: 100vw;
-  max-width: 100vw;
+  width: auto;
+  max-width: none;
   z-index: 40;
   height: auto;
   max-height: calc(100dvh - var(--topbar-h) - var(--nav-h));

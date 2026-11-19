@@ -1,11 +1,11 @@
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { company } from '../data/content'
 import {
   saltCompare,
   saltFaqs,
   saltGallery,
-  saltHeroSlides,
+  saltHeroImage,
   saltIntro,
   saltLabImages,
   saltProcess,
@@ -16,50 +16,32 @@ import { LabGallery } from '../components/LabGallery'
 import './VibrationTestingPage.css'
 
 export function SaltTestingPage() {
-  const [active, setActive] = useState(0)
-
   useEffect(() => {
     window.scrollTo(0, 0)
-  }, [])
-
-  useEffect(() => {
-    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches
-    if (reduced) return
-    const id = window.setInterval(() => {
-      setActive((i) => (i + 1) % saltHeroSlides.length)
-    }, 5500)
-    return () => window.clearInterval(id)
   }, [])
 
   return (
     <div className="vib">
       <section className="vib-hero" id="top">
         <div className="vib-hero__media" aria-hidden="true">
-          <div className="vib-hero__slides">
-            {saltHeroSlides.map((slide, i) => (
-              <div
-                key={slide.landscape}
-                className={`vib-hero__slide${i === active ? ' is-active' : ''}`}
-              >
-                <picture>
-                  <source
-                    media="(max-width: 767px)"
-                    srcSet={slide.portrait}
-                    width={1080}
-                    height={1920}
-                  />
-                  <img
-                    src={slide.landscape}
-                    alt=""
-                    width={1920}
-                    height={1080}
-                    fetchPriority={i === 0 ? 'high' : 'low'}
-                    loading={i === 0 ? 'eager' : 'lazy'}
-                    decoding="async"
-                  />
-                </picture>
-              </div>
-            ))}
+          <div className="vib-hero__frame">
+            <picture>
+              <source
+                media="(max-width: 767px)"
+                srcSet={saltHeroImage.portrait}
+                width={1080}
+                height={1920}
+              />
+              <img
+                src={saltHeroImage.landscape}
+                alt=""
+                width={1920}
+                height={1080}
+                fetchPriority="high"
+                loading="eager"
+                decoding="async"
+              />
+            </picture>
           </div>
           <div className="vib-hero__veil" />
         </div>
@@ -78,17 +60,6 @@ export function SaltTestingPage() {
             <a className="btn btn-line vib-hero__line" href={`tel:${company.phone}`}>
               {company.phoneDisplay}
             </a>
-          </div>
-          <div className="vib-hero__dots" aria-hidden="true">
-            {saltHeroSlides.map((slide, i) => (
-              <button
-                key={slide.landscape}
-                type="button"
-                className={i === active ? 'is-active' : undefined}
-                onClick={() => setActive(i)}
-                aria-label={`Show slide ${i + 1}`}
-              />
-            ))}
           </div>
         </div>
       </section>

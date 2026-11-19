@@ -1,27 +1,9 @@
 import { company } from './content'
 
-export const dropHeroSlides = [
-  {
-    landscape: '/images/drop/hero-slide-1.webp',
-    portrait: '/images/drop/hero-slide-1-portrait.webp',
-  },
-  {
-    landscape: '/images/drop/hero-slide-2.webp',
-    portrait: '/images/drop/hero-slide-2-portrait.webp',
-  },
-  {
-    landscape: '/images/drop/hero-slide-3.webp',
-    portrait: '/images/drop/hero-slide-3-portrait.webp',
-  },
-  {
-    landscape: '/images/drop/hero-slide-4.webp',
-    portrait: '/images/drop/hero-slide-4-portrait.webp',
-  },
-  {
-    landscape: '/images/drop/hero-slide-5.webp',
-    portrait: '/images/drop/hero-slide-5-portrait.webp',
-  },
-]
+export const dropHeroImage = {
+  landscape: '/images/drop/hero-slide-1.webp',
+  portrait: '/images/drop/hero-slide-1-portrait.webp',
+}
 
 export const dropLabImages = [
   '/images/drop/lab-1.webp',

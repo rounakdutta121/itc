@@ -1,27 +1,9 @@
 import { company } from './content'
 
-export const vibrationHeroSlides = [
-  {
-    landscape: '/images/vibration/hero-slide-1.webp',
-    portrait: '/images/vibration/hero-slide-1-portrait.webp',
-  },
-  {
-    landscape: '/images/vibration/hero-slide-2.webp',
-    portrait: '/images/vibration/hero-slide-2-portrait.webp',
-  },
-  {
-    landscape: '/images/vibration/hero-slide-3.webp',
-    portrait: '/images/vibration/hero-slide-3-portrait.webp',
-  },
-  {
-    landscape: '/images/vibration/hero-slide-4.webp',
-    portrait: '/images/vibration/hero-slide-4-portrait.webp',
-  },
-  {
-    landscape: '/images/vibration/hero-slide-5.webp',
-    portrait: '/images/vibration/hero-slide-5-portrait.webp',
-  },
-]
+export const vibrationHeroImage = {
+  landscape: '/images/vibration/hero-slide-1.webp',
+  portrait: '/images/vibration/hero-slide-1-portrait.webp',
+}
 
 export const vibrationLabImages = [
   '/images/vibration/lab-1.webp',

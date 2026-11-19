@@ -32,6 +32,8 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: calc(var(--topbar-h) + var(--nav-h) + 0.5rem);
+  overflow-x: clip;
+  max-width: 100%;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -54,6 +56,12 @@ body {
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   overflow-x: clip;
+  max-width: 100%;
+}
+
+.site {
+  overflow-x: clip;
+  max-width: 100%;
 }
 
 img {
