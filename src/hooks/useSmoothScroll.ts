@@ -20,7 +20,7 @@ export function useSmoothScroll() {
       prevent: (node) =>
         Boolean(
           node.closest(
-            '[data-lenis-prevent], .nav__mega, .nav__mega-cats, .nav__mega-panel, .nav__mega-nested, .nav__drawer, #mobile-nav',
+            '[data-lenis-prevent], .nav__fly, .nav__fly-cats, .nav__fly-stage, .nav__fly-detail, .nav__drawer, #mobile-nav',
           ),
         ),
     })

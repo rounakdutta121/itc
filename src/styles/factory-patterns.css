@@ -6,7 +6,7 @@
   --pat-b: 0.3;
   position: relative;
   isolation: isolate;
-  overflow: hidden;
+  /* no overflow:hidden — it breaks position:sticky in section columns */
 }
 
 .factory-bg.is-pattern-on {
@@ -47,15 +47,15 @@
 
 .factory-bg--grid::before {
   background-image:
-    linear-gradient(rgba(10, 47, 107, 0.1) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(10, 47, 107, 0.1) 1px, transparent 1px);
+    linear-gradient(rgba(20, 33, 61, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20, 33, 61, 0.1) 1px, transparent 1px);
   background-size: 28px 28px;
 }
 
 .factory-bg--grid::after {
   background-image:
-    linear-gradient(rgba(27, 107, 199, 0.12) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(27, 107, 199, 0.12) 1px, transparent 1px);
+    linear-gradient(rgba(122, 31, 43, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(122, 31, 43, 0.12) 1px, transparent 1px);
   background-size: 112px 112px;
 }
 
@@ -70,15 +70,15 @@
     -32deg,
     transparent,
     transparent 10px,
-    rgba(10, 47, 107, 0.06) 10px,
-    rgba(10, 47, 107, 0.06) 11px
+    rgba(20, 33, 61, 0.06) 10px,
+    rgba(20, 33, 61, 0.06) 11px
   );
 }
 
 .factory-bg--hatch::after {
   background:
-    radial-gradient(circle at 12% 20%, rgba(27, 107, 199, 0.1), transparent 28%),
-    radial-gradient(circle at 88% 70%, rgba(10, 47, 107, 0.07), transparent 32%);
+    radial-gradient(circle at 12% 20%, rgba(122, 31, 43, 0.1), transparent 28%),
+    radial-gradient(circle at 88% 70%, rgba(20, 33, 61, 0.07), transparent 32%);
 }
 
 /* Bolt / rivet dots */
@@ -88,12 +88,12 @@
 }
 
 .factory-bg--dots::before {
-  background-image: radial-gradient(rgba(10, 47, 107, 0.16) 1.1px, transparent 1.2px);
+  background-image: radial-gradient(rgba(20, 33, 61, 0.16) 1.1px, transparent 1.2px);
   background-size: 22px 22px;
 }
 
 .factory-bg--dots::after {
-  background-image: radial-gradient(rgba(27, 107, 199, 0.2) 1px, transparent 1.2px);
+  background-image: radial-gradient(rgba(122, 31, 43, 0.2) 1px, transparent 1.2px);
   background-size: 66px 66px;
   background-position: 11px 11px;
 }
@@ -109,8 +109,8 @@
     90deg,
     transparent 0,
     transparent 18px,
-    rgba(10, 47, 107, 0.07) 18px,
-    rgba(10, 47, 107, 0.07) 19px
+    rgba(20, 33, 61, 0.07) 18px,
+    rgba(20, 33, 61, 0.07) 19px
   );
 }
 
@@ -119,8 +119,8 @@
     45deg,
     transparent,
     transparent 14px,
-    rgba(27, 107, 199, 0.07) 14px,
-    rgba(27, 107, 199, 0.07) 15px
+    rgba(122, 31, 43, 0.07) 14px,
+    rgba(122, 31, 43, 0.07) 15px
   );
 }
 
@@ -136,7 +136,7 @@
 }
 
 .factory-bg--hex::after {
-  background: radial-gradient(ellipse at 70% 30%, rgba(27, 107, 199, 0.12), transparent 40%);
+  background: radial-gradient(ellipse at 70% 30%, rgba(122, 31, 43, 0.12), transparent 40%);
 }
 
 /* Technical crosshair */
@@ -147,15 +147,15 @@
 
 .factory-bg--cross::before {
   background-image:
-    linear-gradient(rgba(10, 47, 107, 0.08) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(10, 47, 107, 0.08) 1px, transparent 1px);
+    linear-gradient(rgba(20, 33, 61, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20, 33, 61, 0.08) 1px, transparent 1px);
   background-size: 48px 48px;
 }
 
 .factory-bg--cross::after {
   background-image:
-    linear-gradient(rgba(27, 107, 199, 0.14) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(27, 107, 199, 0.14) 1px, transparent 1px);
+    linear-gradient(rgba(122, 31, 43, 0.14) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(122, 31, 43, 0.14) 1px, transparent 1px);
   background-size: 8px 8px;
   mask-image: radial-gradient(ellipse at center, black 18%, transparent 72%);
 }

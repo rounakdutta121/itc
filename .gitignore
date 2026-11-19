@@ -4,3 +4,8 @@ dist
 *.local
 .vscode
 .idea
+
+tmp-drive/
+*.tmp
+public/docs/
+

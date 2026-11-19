@@ -18,12 +18,15 @@ export { siteFooter } from './siteFooter'
 
 /** Flat primary links kept for any simple consumers. */
 export const navLinks = [
-  { label: 'Home', href: '#top' },
-  { label: 'About Us', href: 'https://www.itcindia.org/about-us/' },
-  { label: 'Products', href: '#products' },
-  { label: 'Testing Services', href: '#services' },
-  { label: 'Contact Us', href: '#contact' },
-  { label: 'Career in ITC', href: 'https://www.itcindia.org/jobs/' },
+  { label: 'Home', href: '/' },
+  { label: 'About Us', href: '/about-us' },
+  { label: 'Products', href: '/products' },
+  { label: 'Testing Services', href: '/services' },
+  { label: 'Vibration Testing', href: '/vibration-testing' },
+  { label: 'Drop Testing', href: '/drop-testing' },
+  { label: 'Salt Fog Testing', href: '/salt-testing' },
+  { label: 'Contact Us', href: '/contact-us' },
+  { label: 'Career in ITC', href: '/careers' },
 ]
 
 export const metrics = [

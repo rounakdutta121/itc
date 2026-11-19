@@ -19,7 +19,7 @@ body:has(.nav.is-open) .fab {
   display: grid;
   place-items: center;
   color: #fff;
-  box-shadow: 0 12px 28px rgba(7, 31, 72, 0.28);
+  box-shadow: 0 12px 28px rgba(13, 21, 40, 0.28);
   transition:
     transform 0.2s var(--ease),
     box-shadow 0.2s var(--ease),
@@ -34,7 +34,7 @@ body:has(.nav.is-open) .fab {
 
 .fab__btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 16px 32px rgba(7, 31, 72, 0.34);
+  box-shadow: 0 16px 32px rgba(13, 21, 40, 0.34);
 }
 
 .fab__btn--call {

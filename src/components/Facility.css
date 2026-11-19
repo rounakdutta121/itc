@@ -23,8 +23,8 @@
   inset: 0;
   pointer-events: none;
   background-image:
-    linear-gradient(rgba(10, 47, 107, 0.12) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(10, 47, 107, 0.12) 1px, transparent 1px);
+    linear-gradient(rgba(20, 33, 61, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20, 33, 61, 0.12) 1px, transparent 1px);
   background-size: 32px 32px;
   mix-blend-mode: soft-light;
   opacity: 0.85;
@@ -90,12 +90,15 @@
 
 .facility__panel .btn {
   width: fit-content;
-  background: #fff;
-  color: var(--navy);
+  background: var(--blue);
+  color: #fff;
+  border-color: var(--blue);
 }
 
 .facility__panel .btn:hover {
-  background: var(--ice);
+  background: var(--blue-bright);
+  color: #fff;
+  border-color: var(--blue-bright);
 }
 
 @media (min-width: 920px) {

@@ -9,12 +9,21 @@ gsap.registerPlugin(ScrollTrigger, useGSAP)
  * Unique industrial motion language per section.
  * Rule: always fromTo → visible end state; cleanup resets visibility.
  */
-export function usePageMotion(scope: RefObject<HTMLElement | null>) {
+export function usePageMotion(
+  scope: RefObject<HTMLElement | null>,
+  deps: unknown[] = [],
+) {
   useGSAP(
     () => {
-      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
       const root = scope.current
       if (!root) return
+
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        root.querySelectorAll('.factory-bg').forEach((section) => {
+          section.classList.add('is-pattern-on')
+        })
+        return
+      }
 
       const ctx = gsap.context(() => {
         // --- Chrome: stamp-down ---
@@ -344,6 +353,346 @@ export function usePageMotion(scope: RefObject<HTMLElement | null>) {
           },
         )
 
+        // --- Vibration page sections ---
+        if (root.querySelector('.vib')) {
+          const vibHero = gsap.timeline({ defaults: { ease: 'power3.out' } })
+          vibHero
+            .fromTo(
+              '.vib-hero__eyebrow',
+              { scale: 0.7, opacity: 0, rotate: -4 },
+              { scale: 1, opacity: 1, rotate: 0, duration: 0.55, clearProps: 'transform' },
+              0.1,
+            )
+            .fromTo(
+              '.vib-hero__title',
+              { clipPath: 'inset(0 0 100% 0)', opacity: 0 },
+              { clipPath: 'inset(0 0 0% 0)', opacity: 1, duration: 0.9 },
+              0.2,
+            )
+            .fromTo(
+              '.vib-hero__lede',
+              { y: 30, opacity: 0 },
+              { y: 0, opacity: 1, duration: 0.6, clearProps: 'transform' },
+              0.45,
+            )
+            .fromTo(
+              '.vib-hero__actions .btn',
+              { y: 24, opacity: 0, scale: 0.92 },
+              {
+                y: 0,
+                opacity: 1,
+                scale: 1,
+                duration: 0.5,
+                stagger: 0.1,
+                clearProps: 'transform',
+              },
+              0.6,
+            )
+            .fromTo(
+              '.vib-hero__dots',
+              { opacity: 0 },
+              { opacity: 1, duration: 0.4 },
+              0.85,
+            )
+
+          // Intro: split reveal
+          gsap.fromTo(
+            '.vib-intro__copy > *',
+            { x: -36, opacity: 0 },
+            {
+              x: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.7,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-intro', start: 'top 80%', once: true },
+            },
+          )
+          gsap.fromTo(
+            '.vib-intro__media',
+            { clipPath: 'inset(0 0 0 100%)', opacity: 1 },
+            {
+              clipPath: 'inset(0 0 0 0%)',
+              duration: 0.95,
+              ease: 'power3.inOut',
+              scrollTrigger: { trigger: '.vib-intro', start: 'top 80%', once: true },
+            },
+          )
+
+          // Why: quote rise + signals
+          gsap.fromTo(
+            '.vib-why__label > *',
+            { y: 24, opacity: 0 },
+            {
+              y: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.65,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-why', start: 'top 82%', once: true },
+            },
+          )
+          gsap.fromTo(
+            '.vib-why__quote',
+            { x: 40, opacity: 0 },
+            {
+              x: 0,
+              opacity: 1,
+              duration: 0.8,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-why', start: 'top 82%', once: true },
+            },
+          )
+          ScrollTrigger.batch('.vib-why__signals li', {
+            start: 'top 92%',
+            once: true,
+            onEnter: (els) => {
+              gsap.fromTo(
+                els,
+                { y: 28, opacity: 0 },
+                {
+                  y: 0,
+                  opacity: 1,
+                  duration: 0.55,
+                  stagger: 0.1,
+                  ease: 'power2.out',
+                  clearProps: 'transform',
+                },
+              )
+            },
+          })
+
+          // Types: index punch + copy slide
+          gsap.fromTo(
+            '.vib-types__head > *',
+            { y: 22, opacity: 0 },
+            {
+              y: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.6,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-types', start: 'top 82%', once: true },
+            },
+          )
+          ScrollTrigger.batch('.vib-type', {
+            start: 'top 90%',
+            once: true,
+            onEnter: (els) => {
+              gsap.fromTo(
+                els,
+                { x: 48, opacity: 0 },
+                {
+                  x: 0,
+                  opacity: 1,
+                  duration: 0.7,
+                  stagger: 0.14,
+                  ease: 'power3.out',
+                  clearProps: 'transform',
+                },
+              )
+              const indexes = els
+                .map((el) => el.querySelector('.vib-type__index'))
+                .filter(Boolean)
+              if (indexes.length) {
+                gsap.fromTo(
+                  indexes,
+                  { scale: 0.4, opacity: 0 },
+                  {
+                    scale: 1,
+                    opacity: 1,
+                    duration: 0.55,
+                    stagger: 0.14,
+                    delay: 0.08,
+                    ease: 'back.out(1.7)',
+                    clearProps: 'transform',
+                  },
+                )
+              }
+            },
+          })
+
+          // Standards: card cascade
+          gsap.fromTo(
+            '.vib-standards__head > *',
+            { y: 20, opacity: 0 },
+            {
+              y: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.6,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-standards', start: 'top 82%', once: true },
+            },
+          )
+          ScrollTrigger.batch('.vib-dir > li', {
+            start: 'top 92%',
+            once: true,
+            onEnter: (els) => {
+              gsap.fromTo(
+                els,
+                { y: 40, opacity: 0, scale: 0.96 },
+                {
+                  y: 0,
+                  opacity: 1,
+                  scale: 1,
+                  duration: 0.65,
+                  stagger: 0.07,
+                  ease: 'power3.out',
+                  clearProps: 'transform',
+                },
+              )
+            },
+          })
+
+          // Process: timeline draw
+          gsap.fromTo(
+            '.vib-process__head > *',
+            { x: -28, opacity: 0 },
+            {
+              x: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.65,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-process', start: 'top 82%', once: true },
+            },
+          )
+          ScrollTrigger.batch('.vib-timeline > li', {
+            start: 'top 90%',
+            once: true,
+            onEnter: (els) => {
+              gsap.fromTo(
+                els,
+                { x: -30, opacity: 0 },
+                {
+                  x: 0,
+                  opacity: 1,
+                  duration: 0.6,
+                  stagger: 0.1,
+                  ease: 'power2.out',
+                  clearProps: 'transform',
+                },
+              )
+              const nodes = els
+                .map((el) => el.querySelector('.vib-timeline__node'))
+                .filter(Boolean)
+              if (nodes.length) {
+                gsap.fromTo(
+                  nodes,
+                  { scale: 0, opacity: 0 },
+                  {
+                    scale: 1,
+                    opacity: 1,
+                    duration: 0.4,
+                    stagger: 0.1,
+                    ease: 'back.out(2)',
+                    clearProps: 'transform',
+                  },
+                )
+              }
+            },
+          })
+
+          // Gallery: shutter + rail
+          gsap.fromTo(
+            '.vib-gallery__head > *',
+            { y: 18, opacity: 0 },
+            {
+              y: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.55,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-gallery', start: 'top 82%', once: true },
+            },
+          )
+          gsap.fromTo(
+            '.vib-gallery__feature',
+            { clipPath: 'inset(12% 12% 12% 12%)', opacity: 0.4 },
+            {
+              clipPath: 'inset(0% 0% 0% 0%)',
+              opacity: 1,
+              duration: 0.9,
+              ease: 'power3.out',
+              scrollTrigger: { trigger: '.vib-gallery__mosaic', start: 'top 85%', once: true },
+            },
+          )
+          ScrollTrigger.batch('.vib-gallery__rail figure, .vib-gallery__strip figure', {
+            start: 'top 92%',
+            once: true,
+            onEnter: (els) => {
+              gsap.fromTo(
+                els,
+                { y: 28, opacity: 0 },
+                {
+                  y: 0,
+                  opacity: 1,
+                  duration: 0.55,
+                  stagger: 0.07,
+                  ease: 'power2.out',
+                  clearProps: 'transform',
+                },
+              )
+            },
+          })
+
+          // FAQ: list unfold
+          gsap.fromTo(
+            '.vib-faq__head > *',
+            { y: 22, opacity: 0 },
+            {
+              y: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.6,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-faq', start: 'top 82%', once: true },
+            },
+          )
+          ScrollTrigger.batch('.vib-faq__item', {
+            start: 'top 94%',
+            once: true,
+            onEnter: (els) => {
+              gsap.fromTo(
+                els,
+                { y: 18, opacity: 0 },
+                {
+                  y: 0,
+                  opacity: 1,
+                  duration: 0.5,
+                  stagger: 0.08,
+                  ease: 'power2.out',
+                  clearProps: 'transform',
+                },
+              )
+            },
+          })
+
+          // CTA: dock
+          gsap.fromTo(
+            '.vib-cta__inner > *',
+            { y: 30, opacity: 0 },
+            {
+              y: 0,
+              opacity: 1,
+              stagger: 0.1,
+              duration: 0.65,
+              ease: 'power3.out',
+              clearProps: 'transform',
+              scrollTrigger: { trigger: '.vib-cta', start: 'top 85%', once: true },
+            },
+          )
+        }
+
         // Pattern wash-in when section enters
         gsap.utils.toArray<HTMLElement>('.factory-bg').forEach((section) => {
           gsap.fromTo(
@@ -367,11 +716,11 @@ export function usePageMotion(scope: RefObject<HTMLElement | null>) {
       return () => {
         ctx.revert()
         gsap.set(
-          '.topbar, .nav, .hero__content > *, .metrics__item, .services__card, .caps__item, .process__step, .products__row, .contact__form, .contact__form .field, .facility__media, .facility__panel > *, .footer__grid > *',
+          '.topbar, .nav, .hero__content > *, .metrics__item, .services__card, .caps__item, .process__step, .products__row, .contact__form, .contact__form .field, .facility__media, .facility__panel > *, .footer__grid > *, .vib-hero__content > *, .vib-intro__copy > *, .vib-intro__media, .vib-why__label > *, .vib-why__quote, .vib-why__signals li, .vib-types__head > *, .vib-type, .vib-standards__head > *, .vib-dir > li, .vib-process__head > *, .vib-timeline > li, .vib-gallery__head > *, .vib-gallery__feature, .vib-gallery__rail figure, .vib-gallery__strip figure, .vib-faq__head > *, .vib-faq__item, .vib-cta__inner > *',
           { clearProps: 'all' },
         )
       }
     },
-    { scope, dependencies: [] },
+    { scope, dependencies: deps },
   )
 }

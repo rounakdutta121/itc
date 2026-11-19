@@ -22,15 +22,15 @@ export const siteFooter = {
   footerMenu: [
   {
     "label": "Home",
-    "href": "#top"
+    "href": "/"
   },
   {
     "label": "About Us",
-    "href": "https://www.itcindia.org/about-us/"
+    "href": "/about-us"
   },
   {
     "label": "Testing Services",
-    "href": "#services"
+    "href": "/services"
   }
 ] as { label: string; href: string }[],
 } as const

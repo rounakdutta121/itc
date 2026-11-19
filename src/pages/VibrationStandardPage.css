@@ -1,0 +1,191 @@
+.vib-std__hero {
+  padding: 5rem 0 4rem;
+  background: var(--stone);
+}
+
+.vib-std__hero-inner {
+  max-width: 44rem;
+  display: grid;
+  gap: 0.85rem;
+}
+
+.vib-std__code {
+  font-family: var(--display);
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--blue);
+}
+
+.vib-std__hero-inner h1 {
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  line-height: 1.05;
+}
+
+.vib-std__lede {
+  color: var(--mute);
+  font-size: 1.08rem;
+  line-height: 1.65;
+}
+
+.vib-std__meta {
+  font-size: 0.92rem;
+  color: var(--mute);
+  line-height: 1.5;
+}
+
+.vib-std__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.vib-std__who {
+  padding: 4.5rem 0;
+  background: var(--navy);
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.vib-std__who .eyebrow {
+  color: #d4a0a8;
+}
+
+.vib-std__who .eyebrow::before {
+  background: #d4a0a8;
+}
+
+.vib-std__who h2 {
+  color: #fff !important;
+  margin-top: 0.45rem;
+}
+
+.vib-std__who p {
+  color: rgba(255, 255, 255, 0.78);
+  line-height: 1.65;
+  font-size: 1.05rem;
+}
+
+.vib-std__split {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.vib-std__cover,
+.vib-std__flow {
+  padding: 4.5rem 0;
+  background: var(--stone);
+}
+
+.vib-std__section-head {
+  margin-bottom: 1.75rem;
+  max-width: 36rem;
+}
+
+.vib-std__section-head h2 {
+  margin-top: 0.45rem;
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+}
+
+.vib-std__list {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.vib-std__list > li {
+  display: grid;
+  grid-template-columns: 2.5rem 1fr;
+  gap: 0.85rem;
+  align-items: start;
+  padding: 1rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.vib-std__list > li:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.vib-std__list span {
+  font-family: var(--display);
+  font-weight: 800;
+  color: var(--blue);
+  letter-spacing: 0.06em;
+}
+
+.vib-std__list p,
+.vib-std__steps p {
+  color: var(--mute);
+  line-height: 1.6;
+}
+
+.vib-std__steps {
+  display: grid;
+  gap: 1.1rem;
+}
+
+.vib-std__steps > li span {
+  display: block;
+  font-family: var(--display);
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--blue);
+  margin-bottom: 0.35rem;
+}
+
+.vib-std__out {
+  padding: 4.5rem 0;
+  background: var(--navy-deep);
+  color: #fff;
+}
+
+.vib-std__out .eyebrow {
+  color: #d4a0a8;
+}
+
+.vib-std__out .eyebrow::before {
+  background: #d4a0a8;
+}
+
+.vib-std__out h2 {
+  color: #fff !important;
+}
+
+.vib-std__outcomes {
+  display: grid;
+  gap: 0.85rem;
+  margin: 1.5rem 0 1.75rem;
+}
+
+.vib-std__outcomes > li {
+  padding: 1rem 1.1rem;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.55;
+}
+
+.vib-std__line {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+.vib-std__line:hover {
+  border-color: #fff;
+  color: #fff;
+}
+
+@media (min-width: 800px) {
+  .vib-std__split {
+    grid-template-columns: 0.85fr 1.15fr;
+    gap: 3rem;
+    align-items: start;
+  }
+
+  .vib-std__list {
+    grid-template-columns: 1fr 1fr;
+    gap: 0 1.5rem;
+  }
+}

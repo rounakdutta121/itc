@@ -1,13 +1,15 @@
 :root {
-  --navy: #0a2f6b;
-  --navy-deep: #071f48;
-  --blue: #1b6bc7;
-  --blue-bright: #2a7de0;
-  --ice: #f3f7fc;
-  --mist: #e7eef8;
-  --line: #c9d7ea;
-  --ink: #12233d;
-  --mute: #5a6d86;
+  /* Stone / Ink Navy / Burgundy */
+  --stone: #e7e3dc;
+  --navy: #14213d;
+  --navy-deep: #0d1528;
+  --blue: #7a1f2b;
+  --blue-bright: #9a2838;
+  --ice: #e7e3dc;
+  --mist: #ddd8cf;
+  --line: #cfc8bc;
+  --ink: #14213d;
+  --mute: #5c584f;
   --white: #ffffff;
   --font: 'Barlow', system-ui, sans-serif;
   --display: 'Barlow Condensed', 'Barlow', system-ui, sans-serif;
@@ -15,8 +17,8 @@
   --nav-h: 4.5rem;
   --topbar-h: 2.35rem;
   --ease: cubic-bezier(0.22, 1, 0.36, 1);
-  --shadow: 0 20px 48px rgba(10, 47, 107, 0.14);
-  --shadow-soft: 0 10px 28px rgba(10, 47, 107, 0.08);
+  --shadow: 0 20px 48px rgba(20, 33, 61, 0.16);
+  --shadow-soft: 0 10px 28px rgba(20, 33, 61, 0.1);
 }
 
 *,
@@ -47,7 +49,7 @@ html {
 
 body {
   font-family: var(--font);
-  background: var(--white);
+  background: var(--stone);
   color: var(--ink);
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
@@ -166,12 +168,15 @@ ol {
 }
 
 .btn-solid {
-  background: var(--navy);
+  background: var(--blue);
   color: #fff;
+  border-color: var(--blue);
 }
 
 .btn-solid:hover {
-  background: var(--blue);
+  background: var(--blue-bright);
+  color: #fff;
+  border-color: var(--blue-bright);
 }
 
 .btn-line {

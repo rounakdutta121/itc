@@ -1,5 +1,6 @@
 import { useState, type FormEvent } from 'react'
 import { company, siteFooter } from '../data/content'
+import { SiteLink } from './SiteLink'
 import './Footer.css'
 
 export function Footer() {
@@ -100,10 +101,11 @@ export function Footer() {
         <div className="wrap footer__base-inner">
           <nav className="footer__menu" aria-label="Footer">
             {siteFooter.footerMenu.map((link) => (
-              <a key={link.label} href={link.href}>
+              <SiteLink key={link.label} href={link.href}>
                 {link.label}
-              </a>
+              </SiteLink>
             ))}
+            <SiteLink href="/vibration-testing">Vibration Testing</SiteLink>
           </nav>
         </div>
       </div>

@@ -7,33 +7,33 @@ export type NavItem = {
 export const siteNav: NavItem[] = [
   {
     "label": "Home",
-    "href": "#top"
+    "href": "/"
   },
   {
     "label": "About Us",
-    "href": "https://www.itcindia.org/about-us/",
+    "href": "/about-us",
     "children": [
       {
         "label": "Accreditations & Approval",
-        "href": "https://www.itcindia.org/nabl-scope-certificate-india/"
+        "href": "/about-us/accreditations"
       },
       {
         "label": "Tec Fee Schedule",
-        "href": "https://www.itcindia.org/about-us/tec-fee-schedule/"
+        "href": "/about-us/tec-fee-schedule"
       },
       {
         "label": "Terms & Conditions",
-        "href": "https://www.itcindia.org/terms-conditions/"
+        "href": "/about-us/terms-conditions"
       }
     ]
   },
   {
     "label": "Products",
-    "href": "#products"
+    "href": "/products"
   },
   {
     "label": "Testing Services",
-    "href": "#services",
+    "href": "/services",
     "children": [
       {
         "label": "Electrical",
@@ -149,7 +149,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "ASTM D999 – Vibration testing of shipping containers",
-            "href": "https://www.itcindia.org/astm-d999-vibration-testing-of-shipping-containers/"
+            "href": "/vibration-testing"
           },
           {
             "label": "Earthing Enhancing Testing According to IEC 62561-7:2018",
@@ -541,11 +541,19 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "Vibration Testing Lab",
-            "href": "https://www.itcindia.org/vibration-testing/"
+            "href": "/vibration-testing"
+          },
+          {
+            "label": "Drop Testing Lab",
+            "href": "/drop-testing"
+          },
+          {
+            "label": "Salt Fog Testing Lab",
+            "href": "/salt-testing"
           },
           {
             "label": "IEC 60068- Environmental Conditioning",
-            "href": "https://www.itcindia.org/iec-60068-environmental-conditioning/"
+            "href": "/vibration-testing"
           },
           {
             "label": "UL 50E Testing Services for Electrical Enclosures | ITC India",
@@ -615,15 +623,15 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "JSS 55555 Testing Laboratory in India | ITC India",
-            "href": "https://www.itcindia.org/jss-55555-testing/"
+            "href": "/vibration-testing/jss-55555"
           },
           {
             "label": "JSS 5855-11 Environmental Testing Services",
-            "href": "https://www.itcindia.org/jss-5855-11-testing-2/"
+            "href": "/vibration-testing/jss-5855-11"
           },
           {
             "label": "JSS 50101 Environmental Testing for Electronic Components",
-            "href": "https://www.itcindia.org/jss-50101-testing/"
+            "href": "/vibration-testing/jss-50101"
           },
           {
             "label": "JSS 0256-01 Environmental Testing for Missile Systems",
@@ -639,7 +647,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "RDSO TL 0091 Testing for Railway LED Luminaires in India",
-            "href": "https://www.itcindia.org/rdso-tl-0091-testing/"
+            "href": "/vibration-testing/rdso-tl-0091"
           },
           {
             "label": "RDSO Environmental Testing for Railway LED Luminaires",
@@ -647,15 +655,15 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "MIL-STD-810H Vibration & Shock Testing Laboratory in India",
-            "href": "https://www.itcindia.org/mil-std-810h-vibration-shock-testing/"
+            "href": "/vibration-testing/mil-std-810h"
           },
           {
             "label": "IEC 61373 Vibration & Shock Testing for Railway Equipment",
-            "href": "https://www.itcindia.org/iec-61373-vibration-testing/"
+            "href": "/vibration-testing/iec-61373"
           },
           {
             "label": "IEC 60068-2-6 Sine Vibration Testing Services in India",
-            "href": "https://www.itcindia.org/iec-60068-2-6-vibration-testing-2-2/"
+            "href": "/vibration-testing/iec-60068-2-6"
           },
           {
             "label": "Recyclability Test",
@@ -735,11 +743,11 @@ export const siteNav: NavItem[] = [
         "children": [
           {
             "label": "ISTA 2A/ 2B/ 2C",
-            "href": "https://www.itcindia.org/ista-2a-2b-2c/"
+            "href": "/vibration-testing/ista-2a"
           },
           {
             "label": "ISTA 1A/ 1B/ 1C/ 1D TESTING",
-            "href": "https://www.itcindia.org/ista-1a-1b-1c-1d-testing/"
+            "href": "/vibration-testing/ista-1a"
           }
         ]
       },
@@ -779,20 +787,20 @@ export const siteNav: NavItem[] = [
   },
   {
     "label": "Contact Us",
-    "href": "#contact",
+    "href": "/contact-us",
     "children": [
       {
         "label": "Customer Support",
-        "href": "https://www.itcindia.org/customer-support/"
+        "href": "/contact-us/customer-support"
       },
       {
         "label": "Inquiry",
-        "href": "https://www.itcindia.org/inquiry/"
+        "href": "/contact-us/inquiry"
       }
     ]
   },
   {
     "label": "Career in ITC",
-    "href": "https://www.itcindia.org/jobs/"
+    "href": "/careers"
   }
 ]

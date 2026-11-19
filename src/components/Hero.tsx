@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { company } from '../data/content'
 import './Hero.css'
 
@@ -86,9 +87,9 @@ export function Hero() {
           and clear pathways from sample intake to market certification.
         </p>
         <div className="hero__actions">
-          <a className="btn btn-solid" href="#services">
+          <Link className="btn btn-solid" to="/services">
             View services
-          </a>
+          </Link>
           <a className="btn btn-line hero__line" href={`tel:${company.phone}`}>
             {company.phoneDisplay}
           </a>
