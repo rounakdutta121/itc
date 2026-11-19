@@ -41,7 +41,7 @@ export function VibrationTestingPage() {
 
         <div className="vib-hero__content">
           <p className="eyebrow vib-hero__eyebrow">ITC India · Laboratory</p>
-          <h1 className="display vib-hero__title">Vibration Testing</h1>
+          <h1 className="display vib-hero__title">Vibration Testing Lab</h1>
           <div className="vib-hero__actions">
             <a className="btn btn-solid" href="#get-testing">
               {page.cta}

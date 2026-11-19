@@ -149,7 +149,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "ASTM D999 – Vibration testing of shipping containers",
-            "href": "/vibration-testing"
+            "href": "https://www.itcindia.org/astm-d999-vibration-testing-of-shipping-containers/"
           },
           {
             "label": "Earthing Enhancing Testing According to IEC 62561-7:2018",
@@ -544,20 +544,8 @@ export const siteNav: NavItem[] = [
             "href": "/vibration-testing"
           },
           {
-            "label": "Drop Testing Lab",
-            "href": "/drop-testing"
-          },
-          {
-            "label": "Salt Fog Testing Lab",
-            "href": "/salt-testing"
-          },
-          {
-            "label": "JSS 55555 Testing Lab",
-            "href": "/jss-55555"
-          },
-          {
             "label": "IEC 60068- Environmental Conditioning",
-            "href": "/vibration-testing"
+            "href": "https://www.itcindia.org/iec-60068-environmental-conditioning/"
           },
           {
             "label": "UL 50E Testing Services for Electrical Enclosures | ITC India",
@@ -623,7 +611,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "Salt Spray Testing Lab",
-            "href": "https://www.itcindia.org/salt-spray-testing/"
+            "href": "/salt-testing"
           },
           {
             "label": "JSS 55555 Testing Laboratory in India | ITC India",

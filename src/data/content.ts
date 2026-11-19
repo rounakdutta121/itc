@@ -22,10 +22,9 @@ export const navLinks = [
   { label: 'About Us', href: '/about-us' },
   { label: 'Products', href: '/products' },
   { label: 'Testing Services', href: '/services' },
-  { label: 'Vibration Testing', href: '/vibration-testing' },
-  { label: 'Drop Testing', href: '/drop-testing' },
-  { label: 'Salt Fog Testing', href: '/salt-testing' },
-  { label: 'JSS 55555', href: '/jss-55555' },
+  { label: 'Vibration Testing Lab', href: '/vibration-testing' },
+  { label: 'Salt Spray Testing Lab', href: '/salt-testing' },
+  { label: 'JSS 55555 Testing Laboratory in India | ITC India', href: '/jss-55555' },
   { label: 'Contact Us', href: '/contact-us' },
   { label: 'Career in ITC', href: '/careers' },
 ]

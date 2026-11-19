@@ -41,9 +41,9 @@ export function Jss55555Page() {
 
         <div className="vib-hero__content">
           <p className="eyebrow vib-hero__eyebrow">ITC India · Laboratory</p>
-          <h1 className="display vib-hero__title">
-            JSS 55555
-            <span>Environment Test</span>
+          <h1 className="display vib-hero__title vib-hero__title--long">
+            JSS 55555 Testing Laboratory in India
+            <span>ITC India</span>
           </h1>
           <div className="vib-hero__actions">
             <a className="btn btn-solid" href="#get-testing">

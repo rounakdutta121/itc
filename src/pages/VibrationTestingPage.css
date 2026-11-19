@@ -104,12 +104,25 @@
   line-height: 0.95;
 }
 
+.vib-hero .vib-hero__title--long {
+  max-width: 18ch;
+  margin-inline: auto;
+  font-size: clamp(2.4rem, 6.8vw, 4.4rem);
+  line-height: 1.05;
+  letter-spacing: 0.01em;
+}
+
 .vib-hero .vib-hero__title span {
   display: block;
   margin-top: 0;
   font-size: inherit;
   color: #d4a0a8 !important;
   text-shadow: 0 2px 24px rgba(0, 0, 0, 0.4);
+}
+
+.vib-hero .vib-hero__title--long span {
+  margin-top: 0.2em;
+  font-size: 0.72em;
 }
 
 .vib-hero .vib-hero__lede {
