@@ -10,6 +10,16 @@ import { QuoteStrip } from '../components/QuoteStrip'
 import { Metrics } from '../components/Metrics'
 import './VibrationTestingPage.css'
 
+function richText(text: string) {
+  return text.split(/(\*\*[^*]+\*\*)/g).map((part, i) =>
+    part.startsWith('**') && part.endsWith('**') ? (
+      <strong key={i}>{part.slice(2, -2)}</strong>
+    ) : (
+      <span key={i}>{part}</span>
+    ),
+  )
+}
+
 export function Jss55555Page() {
   useEffect(() => {
     window.scrollTo(0, 0)
@@ -152,7 +162,7 @@ export function Jss55555Page() {
                 {page.distinctions.map((item) => (
                   <tr key={item.title}>
                     <th scope="row">{item.title}</th>
-                    <td>{item.text}</td>
+                    <td>{richText(item.text)}</td>
                   </tr>
                 ))}
               </tbody>
@@ -168,7 +178,7 @@ export function Jss55555Page() {
         <div className="wrap">
           <div className="salt-standards__panel">
             <header className="salt-standards__head">
-              <p className="eyebrow">Coverage</p>
+              <p className="eyebrow">Scope</p>
               <h2 className="display">{page.standardsTitle}</h2>
             </header>
 

@@ -207,6 +207,16 @@ export function VibrationTestingPage() {
               <h2 className="display">{page.howTitle}</h2>
               <p>{page.howIntro}</p>
             </header>
+            <figure className="vib-process__figure">
+              <img
+                src={vibrationLabImages[2]}
+                alt="Vibration testing setup on electrodynamic shaker"
+                width={900}
+                height={700}
+                loading="lazy"
+              />
+              <figcaption>Shaker bay · How testing is done</figcaption>
+            </figure>
           </aside>
           <ol className="vib-timeline">
             {page.howSteps.map((step, i) => (

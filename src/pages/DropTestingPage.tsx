@@ -84,7 +84,7 @@ export function DropTestingPage() {
         </div>
       </section>
 
-      <QuoteStrip text="Need drop testing for your product? Tell us the standard and drop height." />
+      <QuoteStrip text="Need drop testing for your product?" />
 
       <section className="vib-why factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-why__layout">

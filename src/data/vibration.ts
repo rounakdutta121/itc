@@ -30,7 +30,7 @@ export const vibrationPage = {
     'The aim to perform vibration testing on any equipment is to highlight any kind of structural fault, load strength, functional response along with other vibrational parameters like resonance frequency, amplitude tolerance and more. When a device is brought for service, it goes under various dynamic shock and load conditions which trigger the physical potential. Thus, to expose the device against these conditions before the service usage, vibration testing is used.',
     'With the help of standard testing methods, various prescribed vibration testing machines and methods are used to replicate the effects of the load and vibrations on the specimen, noting its response in terms of functional, structural and state transitions to prepare the final output report.',
   ],
-  typesTitle: 'Types of Vibration Testing:',
+  typesTitle: 'Types of Vibration Testing',
   typesIntro:
     'The modes of vibration testing change with the respective standard referred. However, there can be two categories to segregate vibration testing.',
   typesList: ['Sinusoidal Vibrations Testing', 'Random Vibrations'],

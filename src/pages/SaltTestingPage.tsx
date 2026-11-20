@@ -109,7 +109,7 @@ export function SaltTestingPage() {
         </div>
       </section>
 
-      <section className="vib-types vib-types--split factory-bg factory-bg--hex is-pattern-on">
+      <section className="vib-types vib-types--split salt-types factory-bg factory-bg--hex is-pattern-on">
         <div className="wrap">
           <header className="vib-types__head">
             <h2 className="display">{page.typesTitle}</h2>
@@ -122,7 +122,16 @@ export function SaltTestingPage() {
                 <span className="vib-type__index">
                   {String(i + 1).padStart(2, '0')}
                 </span>
-                <h3>{item}</h3>
+                <h3>
+                  {item.startsWith('pH ') ? (
+                    <>
+                      <span className="salt-types__ph">pH</span>
+                      {item.slice(2)}
+                    </>
+                  ) : (
+                    item
+                  )}
+                </h3>
               </article>
             ))}
           </div>
@@ -140,7 +149,7 @@ export function SaltTestingPage() {
         <div className="wrap">
           <div className="salt-standards__panel">
             <header className="salt-standards__head">
-              <p className="eyebrow">Coverage</p>
+              <p className="eyebrow">Scope</p>
               <h2 className="display">{page.standardsTitle}</h2>
             </header>
 

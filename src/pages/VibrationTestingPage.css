@@ -804,6 +804,44 @@
 
 .vib-process__aside {
   max-width: 30rem;
+  display: grid;
+  gap: 1.25rem;
+}
+
+.vib-process__figure {
+  margin: 0;
+  overflow: hidden;
+  border: 2px solid var(--blue);
+  background: #fff;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.22);
+  padding: 0.75rem;
+}
+
+.vib-process__figure img {
+  width: 100%;
+  height: auto;
+  max-height: min(18rem, 52vw);
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  background: #fff;
+}
+
+.vib-process__figure figcaption {
+  margin-top: 0.55rem;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--line);
+  font-family: var(--display);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-align: center;
+}
+
+.salt-types .vib-type h3 .salt-types__ph {
+  text-transform: none;
 }
 
 .vib-process__head {

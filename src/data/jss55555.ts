@@ -37,19 +37,19 @@ export const jss55555Page = {
   typesCards: [
     {
       title: 'Air Service (Class A)',
-      text: 'the further classifications under this are not same as of the other three groups because the testing conditions may vary. This classification also includes the civil class of aircraft and grades of equipment.',
+      text: 'The further classifications under this are not same as of the other three groups because the testing conditions may vary. This classification also includes the civil class of aircraft and grades of equipment.',
     },
     {
       title: 'Land Services (Class L)',
-      text: 'this group covers around 12 tests under this group to check the ground equipment protection based on humidity test, climate tests, thermal tests etc. For example, L2E checks whether the ground equipment is partially protected under desert conditions.',
+      text: 'This group covers around 12 tests under this group to check the ground equipment protection based on humidity test, climate tests, thermal tests etc. For example, L2E checks whether the ground equipment is partially protected under desert conditions.',
     },
     {
       title: 'Naval Service (Class N)',
-      text: 'this group covers three shipborne equipment during protected, exposed and submersed conditions.',
+      text: 'This group covers three shipborne equipment during protected, exposed and submersed conditions.',
     },
     {
       title: 'Naval Air Service (Class NA)',
-      text: 'it consists of fleet air arm deck test and hangar test equipment where the weather conditions are shielded or exposed to.',
+      text: 'It consists of fleet air arm deck test and hangar test equipment where the weather conditions are shielded or exposed to.',
     },
   ],
   afterTypes:
@@ -82,17 +82,17 @@ export const jss55555Page = {
     {
       title: 'Revision 3 (2012):',
       href: '/jss-55555',
-      text: 'Changes included introduction of modified L-2 Table with recasting of five tables pertaining to Naval and Naval Air Services. In addition, Test No. 8 on “Corrosion (Alkaline)”, Test No. 30 on “Temperature, Humidity, Vibration and Altitude” and Test No. 31 on “Vibro Acoustic Temperature” were added',
+      text: 'Changes included introduction of modified L-2 Table with recasting of five tables pertaining to Naval and Naval Air Services. In addition, **Test No. 8 on “Corrosion (Alkaline)”**, **Test No. 30 on “Temperature, Humidity, Vibration and Altitude”** and **Test No. 31 on “Vibro Acoustic Temperature”** were added',
     },
     {
       title: 'Revision 4 (2020):',
       href: '/jss-55555',
-      text: 'Changes include reduction in the time duration of the test from 24 hours to 16 hours, changes in the cultures being performed in the mould growth test and the nutrient salt solution, inclusion of a note in the vibration test method stating that “Random vibration‟ test is more effective in exposing the structural weakness of the equipment, and addition of paras indicating the sequence and analysis of results in the Damp heat test.',
+      text: 'Changes include reduction in the time duration of the test from 24 hours to 16 hours, changes in the cultures being performed in the **mould growth test** and the nutrient salt solution, inclusion of a note in the **vibration test** method stating that “**Random vibration**” test is more effective in exposing the structural weakness of the equipment, and addition of paras indicating the sequence and analysis of results in the **Damp heat test**.',
     },
     {
       title: 'Revision-5 (2025):',
       href: '/jss-55555',
-      text: 'The latest revision now incorporates 4 additional tests in the specification which are CATH Test, Bench Handling Test, Crash Hazard Test and Gun Fire Vibration Test increasing the test scope from 31 to 35. A new clause about test interruption which tells what measures shall be taken when a test is interrupted. Apart from these inclusions, several other modifications are also introduced.',
+      text: 'The latest revision now incorporates 4 additional tests in the specification which are **CATH Test**, **Bench Handling Test**, **Crash Hazard Test** and **Gun Fire Vibration Test** increasing the test scope from 31 to 35. A new clause about test interruption which tells what measures shall be taken when a test is interrupted. Apart from these inclusions, several other modifications are also introduced.',
     },
   ],
   howTitle: 'Precautions and Certifications',
