@@ -1,6 +1,8 @@
 import { Link, useParams } from 'react-router-dom'
 import { company } from '../data/content'
 import { getVibrationStandardDetail } from '../data/vibration'
+import { QuoteStrip } from '../components/QuoteStrip'
+import { Metrics } from '../components/Metrics'
 import './VibrationStandardPage.css'
 
 export function VibrationStandardPage() {
@@ -32,6 +34,8 @@ export function VibrationStandardPage() {
         </div>
       </section>
 
+      <Metrics />
+
       <section className="vib-std__who factory-bg factory-bg--dots factory-bg--on-dark">
         <div className="wrap vib-std__split">
           <header>
@@ -41,6 +45,10 @@ export function VibrationStandardPage() {
           <p>{detail.whoFor}</p>
         </div>
       </section>
+
+      <QuoteStrip
+        text={`Need ${detail.code} vibration testing? Tell us your product and test schedule.`}
+      />
 
       <section className="vib-std__cover factory-bg factory-bg--hex">
         <div className="wrap">
@@ -75,6 +83,10 @@ export function VibrationStandardPage() {
           </ol>
         </div>
       </section>
+
+      <QuoteStrip
+        text={`Need ${detail.code} run planning? Share fixture details and acceptance criteria.`}
+      />
 
       <section className="vib-std__out factory-bg factory-bg--hatch factory-bg--on-dark">
         <div className="wrap">

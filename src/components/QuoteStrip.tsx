@@ -3,9 +3,20 @@ import './QuoteStrip.css'
 
 type Props = {
   id?: string
+  text?: string
+  href?: string
+  cta?: string
 }
 
-export function QuoteStrip({ id }: Props) {
+const DEFAULT_TEXT =
+  'Need a test plan for your product? Tell us the standard and target market.'
+
+export function QuoteStrip({
+  id,
+  text = DEFAULT_TEXT,
+  href = '/#contact',
+  cta = 'Get a Quote',
+}: Props) {
   return (
     <section
       className="quote-strip factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
@@ -13,11 +24,9 @@ export function QuoteStrip({ id }: Props) {
       aria-label="Get a quote"
     >
       <div className="wrap quote-strip__inner">
-        <p className="quote-strip__text">
-          Need a test plan for your product? Tell us the standard and target market.
-        </p>
-        <SiteLink className="btn btn-solid" href="#contact">
-          Get a Quote
+        <p className="quote-strip__text">{text}</p>
+        <SiteLink className="btn btn-solid" href={href}>
+          {cta}
         </SiteLink>
       </div>
     </section>

@@ -1,7 +1,7 @@
 /** Internal routes — pages can be stubs until content is ready. */
 export const internalRoutes = [
   { path: '/', label: 'Home' },
-  { path: '/about-us', label: 'About Us' },
+  { path: '/about-us', label: 'About Us', ready: true },
   { path: '/about-us/accreditations', label: 'Accreditations & Approval' },
   { path: '/about-us/tec-fee-schedule', label: 'Tec Fee Schedule' },
   { path: '/about-us/terms-conditions', label: 'Terms & Conditions' },

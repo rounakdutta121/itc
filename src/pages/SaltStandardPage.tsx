@@ -1,6 +1,8 @@
 import { Link, useParams } from 'react-router-dom'
 import { company } from '../data/content'
 import { getSaltStandardDetail } from '../data/salt'
+import { QuoteStrip } from '../components/QuoteStrip'
+import { Metrics } from '../components/Metrics'
 import './VibrationStandardPage.css'
 
 export function SaltStandardPage() {
@@ -31,6 +33,8 @@ export function SaltStandardPage() {
         </div>
       </section>
 
+      <Metrics />
+
       <section className="vib-std__who factory-bg factory-bg--dots factory-bg--on-dark">
         <div className="wrap vib-std__split">
           <header>
@@ -40,6 +44,10 @@ export function SaltStandardPage() {
           <p>{detail.whoFor}</p>
         </div>
       </section>
+
+      <QuoteStrip
+        text={`Need ${detail.code} salt fog testing? Tell us your product and exposure target.`}
+      />
 
       <section className="vib-std__cover factory-bg factory-bg--hex">
         <div className="wrap">
@@ -74,6 +82,10 @@ export function SaltStandardPage() {
           </ol>
         </div>
       </section>
+
+      <QuoteStrip
+        text={`Need ${detail.code} chamber planning? Share coating type and exposure hours.`}
+      />
 
       <section className="vib-std__out factory-bg factory-bg--hatch factory-bg--on-dark">
         <div className="wrap">

@@ -36,12 +36,13 @@ export function HomePage() {
       <QuoteStrip />
       <Facility />
       <Capabilities />
-      <QuoteStrip />
+      <QuoteStrip text="Need lab capacity for environmental or safety tests? Share your standard and timeline." />
       <Process />
       <PopularTests />
-      <QuoteStrip />
+      <QuoteStrip text="Ready to book testing? Tell us the product family and compliance target." />
       <Products />
       <Industries />
+      <QuoteStrip text="Looking for a specific product test scope? Share the category and market." />
       <HomeFaq />
       <Contact />
     </>

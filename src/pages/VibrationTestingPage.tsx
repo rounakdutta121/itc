@@ -6,6 +6,8 @@ import {
   vibrationLabImages,
   vibrationPage as page,
 } from '../data/vibration'
+import { QuoteStrip } from '../components/QuoteStrip'
+import { Metrics } from '../components/Metrics'
 import './VibrationTestingPage.css'
 
 export function VibrationTestingPage() {
@@ -53,6 +55,8 @@ export function VibrationTestingPage() {
         </div>
       </section>
 
+      <Metrics />
+
       <section
         className="vib-intro factory-bg factory-bg--grid is-pattern-on"
         id="get-testing"
@@ -79,6 +83,8 @@ export function VibrationTestingPage() {
           </figure>
         </div>
       </section>
+
+      <QuoteStrip text="Need vibration testing for your product? Tell us the standard and vibration profile." />
 
       <section className="vib-why factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-why__layout">
@@ -116,6 +122,8 @@ export function VibrationTestingPage() {
           <p className="vib-types__note">{page.afterTypes}</p>
         </div>
       </section>
+
+      <QuoteStrip text="Need sinusoidal or random vibration? Share the profile and duty cycle." />
 
       <section
         className="vib-standards factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
@@ -190,6 +198,8 @@ export function VibrationTestingPage() {
         </div>
       </section>
 
+      <QuoteStrip text="Need a vibration standard matched to your product? Tell us the method and market." />
+
       <section className="vib-process factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-process__layout">
           <aside className="vib-process__aside">
@@ -247,6 +257,8 @@ export function VibrationTestingPage() {
           </div>
         </div>
       </section>
+
+      <QuoteStrip text="Ready to book vibration testing? Share your specimen details and timeline." />
 
       <section className="vib-cta factory-bg factory-bg--grid is-pattern-on">
         <div className="wrap vib-cta__inner">

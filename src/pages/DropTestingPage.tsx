@@ -6,6 +6,8 @@ import {
   dropLabImages,
   dropPage as page,
 } from '../data/drop'
+import { QuoteStrip } from '../components/QuoteStrip'
+import { Metrics } from '../components/Metrics'
 import './VibrationTestingPage.css'
 
 export function DropTestingPage() {
@@ -53,6 +55,8 @@ export function DropTestingPage() {
         </div>
       </section>
 
+      <Metrics />
+
       <section
         className="vib-intro factory-bg factory-bg--grid is-pattern-on"
         id="get-testing"
@@ -79,6 +83,8 @@ export function DropTestingPage() {
           </figure>
         </div>
       </section>
+
+      <QuoteStrip text="Need drop testing for your product? Tell us the standard and drop height." />
 
       <section className="vib-why factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-why__layout">
@@ -114,6 +120,8 @@ export function DropTestingPage() {
           <p className="vib-types__note">{page.afterTypes}</p>
         </div>
       </section>
+
+      <QuoteStrip text="Need free-fall or tumble drop coverage? Share the product and packaging type." />
 
       <section
         className="vib-standards factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
@@ -190,6 +198,8 @@ export function DropTestingPage() {
         </div>
       </section>
 
+      <QuoteStrip text="Need a drop standard matched to your product? Tell us the method and market." />
+
       <section className="vib-process factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-process__layout">
           <aside className="vib-process__aside">
@@ -245,6 +255,8 @@ export function DropTestingPage() {
           </div>
         </div>
       </section>
+
+      <QuoteStrip text="Ready to book drop testing? Share your specimen details and timeline." />
 
       <section className="vib-cta factory-bg factory-bg--grid is-pattern-on">
         <div className="wrap vib-cta__inner">

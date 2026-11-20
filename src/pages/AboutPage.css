@@ -1,0 +1,240 @@
+/* About — beige / blue / beige / blue chronology helpers */
+
+.about-page .about-factors {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+.about-page .about-factors .vib-type h3 {
+  font-size: clamp(1.05rem, 1.8vw, 1.25rem);
+  line-height: 1.35;
+  text-wrap: pretty;
+}
+
+.about-accredit__p {
+  margin: 1rem 0 0;
+  max-width: 40rem;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.65;
+}
+
+.about-accredit__p + .about-accredit__p {
+  margin-top: 0.85rem;
+}
+
+.about-accredit__figure {
+  overflow: visible;
+}
+
+.about-accredit__figure figcaption {
+  width: 100%;
+  margin-top: 0.65rem;
+  padding-top: 0.55rem;
+  border-top: 1px solid var(--line);
+  font-family: var(--display);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-align: center;
+}
+
+/* 5 — beige workflow */
+.about-flow {
+  padding: 5rem 0;
+  background: var(--stone);
+  color: var(--ink);
+}
+
+.about-flow__layout {
+  display: grid;
+  gap: 2.5rem;
+}
+
+.about-flow__aside {
+  max-width: 30rem;
+}
+
+.about-flow__head h2 {
+  margin-top: 0;
+  font-size: clamp(2rem, 4.5vw, 3.1rem);
+  color: var(--ink);
+}
+
+.about-flow__head > p {
+  margin-top: 0.85rem;
+  color: rgba(20, 33, 61, 0.72);
+  line-height: 1.6;
+}
+
+.about-flow__main {
+  min-width: 0;
+}
+
+.about-flow__timeline {
+  position: relative;
+  display: grid;
+  gap: 0;
+  padding-left: 0.35rem;
+  list-style: none;
+  margin: 0;
+}
+
+.about-flow__timeline::before {
+  content: '';
+  position: absolute;
+  left: 0.55rem;
+  top: 0.4rem;
+  bottom: 0.4rem;
+  width: 1px;
+  background: rgba(20, 33, 61, 0.18);
+}
+
+.about-flow__timeline > li {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.4rem 1fr;
+  gap: 1.1rem;
+  padding: 1.15rem 0 1.35rem;
+}
+
+.about-flow__node {
+  width: 0.7rem;
+  height: 0.7rem;
+  margin-top: 0.35rem;
+  border-radius: 50%;
+  background: var(--blue);
+  border: 2px solid var(--stone);
+  box-shadow: 0 0 0 1px var(--blue);
+  z-index: 1;
+}
+
+.about-flow__step {
+  display: block;
+  font-family: var(--display);
+  font-size: clamp(1.35rem, 2.8vw, 1.85rem);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--blue);
+  margin-bottom: 0.45rem;
+  line-height: 1;
+}
+
+.about-flow__timeline p {
+  color: rgba(20, 33, 61, 0.72);
+  line-height: 1.6;
+  max-width: 40rem;
+  margin: 0;
+}
+
+.about-flow__close {
+  margin: 0.5rem 0 0;
+  max-width: 48rem;
+  color: rgba(20, 33, 61, 0.72);
+  line-height: 1.6;
+}
+
+/* 6 — blue why choose */
+.about-choose-section {
+  padding: 5rem 0;
+  background: var(--navy);
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.about-choose-section__head {
+  max-width: 48rem;
+  margin: 0 auto 2rem;
+  text-align: center;
+}
+
+.about-choose-section__head h2 {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(2rem, 4.5vw, 3.1rem);
+}
+
+.about-choose-section__head > p {
+  margin-top: 0.85rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.6;
+}
+
+.about-choose {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.about-choose__card {
+  flex: 1 1 100%;
+  max-width: 100%;
+  padding: 1.35rem 1.4rem 1.5rem;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  text-align: center;
+}
+
+.about-choose__index {
+  display: block;
+  font-family: var(--display);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: #d4a0a8;
+  margin-bottom: 0.55rem;
+  text-align: center;
+}
+
+.about-choose__card h3 {
+  margin: 0;
+  font-size: clamp(1.05rem, 1.8vw, 1.25rem);
+  line-height: 1.35;
+  color: #fff;
+  font-weight: 700;
+  text-wrap: pretty;
+}
+
+.about-choose-section__note {
+  margin: 1.5rem auto 0;
+  max-width: 48rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.6;
+  text-align: center;
+}
+
+@media (min-width: 760px) {
+  .about-page .about-factors {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .about-choose__card {
+    flex: 0 1 calc((100% - 1rem) / 2);
+    max-width: calc((100% - 1rem) / 2);
+  }
+}
+
+@media (min-width: 900px) {
+  .about-flow__layout {
+    grid-template-columns: 0.85fr 1.15fr;
+    gap: 3rem;
+    align-items: start;
+  }
+
+  .about-flow__aside {
+    position: sticky;
+    top: calc(var(--topbar-h) + var(--nav-h) + 1.25rem);
+    align-self: start;
+    z-index: 2;
+  }
+}
+
+@media (min-width: 1000px) {
+  .about-choose__card {
+    flex: 0 1 calc((100% - 2rem) / 3);
+    max-width: calc((100% - 2rem) / 3);
+  }
+}

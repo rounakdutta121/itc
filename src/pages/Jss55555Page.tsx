@@ -6,6 +6,8 @@ import {
   jss55555LabImages,
   jss55555Page as page,
 } from '../data/jss55555'
+import { QuoteStrip } from '../components/QuoteStrip'
+import { Metrics } from '../components/Metrics'
 import './VibrationTestingPage.css'
 
 export function Jss55555Page() {
@@ -56,6 +58,8 @@ export function Jss55555Page() {
         </div>
       </section>
 
+      <Metrics />
+
       <section
         className="vib-intro factory-bg factory-bg--grid is-pattern-on"
         id="get-testing"
@@ -82,6 +86,8 @@ export function Jss55555Page() {
           </figure>
         </div>
       </section>
+
+      <QuoteStrip text="Need JSS 55555 environmental testing? Tell us the test number and duty cycle." />
 
       <section className="vib-why factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-why__layout">
@@ -118,6 +124,8 @@ export function Jss55555Page() {
           <p className="vib-types__note">{page.afterTypes}</p>
         </div>
       </section>
+
+      <QuoteStrip text="Need climatic, mechanical, or combined JSS tests? Share the revision and product class." />
 
       <section
         className="vib-distinctions factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
@@ -189,6 +197,8 @@ export function Jss55555Page() {
         </div>
       </section>
 
+      <QuoteStrip text="Need a JSS 55555 test list for tender compliance? Tell us the clause and duty." />
+
       <section className="vib-process factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-process__layout">
           <aside className="vib-process__aside">
@@ -244,6 +254,8 @@ export function Jss55555Page() {
           </div>
         </div>
       </section>
+
+      <QuoteStrip text="Ready to book JSS 55555 testing? Share your specimen details and timeline." />
 
       <section className="vib-cta vib-cta--dark factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-cta__inner">

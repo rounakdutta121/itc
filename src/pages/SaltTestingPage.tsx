@@ -6,6 +6,8 @@ import {
   saltLabImages,
   saltPage as page,
 } from '../data/salt'
+import { QuoteStrip } from '../components/QuoteStrip'
+import { Metrics } from '../components/Metrics'
 import './VibrationTestingPage.css'
 
 export function SaltTestingPage() {
@@ -53,6 +55,8 @@ export function SaltTestingPage() {
         </div>
       </section>
 
+      <Metrics />
+
       <section
         className="salt-intro factory-bg factory-bg--grid is-pattern-on"
         id="get-testing"
@@ -90,6 +94,8 @@ export function SaltTestingPage() {
         </div>
       </section>
 
+      <QuoteStrip text="Need salt spray or corrosion testing? Tell us the standard and exposure duration." />
+
       <section className="vib-why factory-bg factory-bg--dots factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-why__layout">
           <div className="vib-why__label">
@@ -124,6 +130,8 @@ export function SaltTestingPage() {
           <p className="vib-types__note">{page.afterTypes}</p>
         </div>
       </section>
+
+      <QuoteStrip text="Need NSS, AASS, or CASS exposure? Share the coating and acceptance criteria." />
 
       <section
         className="vib-standards salt-standards factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
@@ -197,6 +205,8 @@ export function SaltTestingPage() {
         </div>
       </section>
 
+      <QuoteStrip text="Need a salt fog standard matched to your product? Tell us the method and market." />
+
       <section className="vib-process factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on">
         <div className="wrap vib-process__layout">
           <aside className="vib-process__aside">
@@ -253,6 +263,8 @@ export function SaltTestingPage() {
           </div>
         </div>
       </section>
+
+      <QuoteStrip text="Ready to book salt fog testing? Share your specimen details and timeline." />
 
       <section className="vib-cta factory-bg factory-bg--grid is-pattern-on">
         <div className="wrap vib-cta__inner">
