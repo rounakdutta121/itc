@@ -1,0 +1,44 @@
+.quote-strip {
+  padding: 2.35rem 0;
+  background:
+    linear-gradient(105deg, #7a1f2b 0%, #5c1520 42%, #14213d 100%);
+  border-block: 0;
+  color: #fff;
+}
+
+.quote-strip.factory-bg::before,
+.quote-strip.factory-bg::after {
+  opacity: 0.18;
+}
+
+.quote-strip__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 1.5rem;
+}
+
+.quote-strip__text {
+  margin: 0;
+  max-width: 36rem;
+  color: rgba(255, 255, 255, 0.92);
+  font-family: var(--display);
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.45;
+}
+
+.quote-strip .btn-solid {
+  background: #fff;
+  color: var(--blue);
+  border-color: #fff;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.28);
+}
+
+.quote-strip .btn-solid:hover {
+  background: #f3e6e8;
+  color: var(--navy);
+  border-color: #f3e6e8;
+}

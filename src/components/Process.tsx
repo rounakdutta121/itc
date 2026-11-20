@@ -6,8 +6,8 @@ export function Process() {
     <section className="process factory-bg factory-bg--chevron factory-bg--on-dark" id="process">
       <div className="wrap">
         <header className="process__head">
-          <p className="eyebrow">Production flow</p>
-          <h2 className="display">From intake to certification</h2>
+          <p className="eyebrow">How it works</p>
+          <h2 className="display">How Testing Works at ITC India</h2>
         </header>
         <ol className="process__line">
           {processSteps.map((step) => (

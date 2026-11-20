@@ -1,13 +1,17 @@
 import { productCategories } from '../data/content'
+import { SiteLink } from './SiteLink'
 import './Products.css'
 
 export function Products() {
   return (
-    <section className="products factory-bg factory-bg--dots" id="products">
+    <section
+      className="products factory-bg factory-bg--grid factory-bg--on-dark is-pattern-on"
+      id="products"
+    >
       <div className="wrap products__layout">
         <header className="products__intro">
           <p className="eyebrow">Product lines</p>
-          <h2 className="display">Families we qualify on the floor</h2>
+          <h2 className="display">Product Families We Test</h2>
           <p>
             Standards-backed coverage across machinery, lighting, medical, PV and
             energy storage categories.
@@ -15,13 +19,13 @@ export function Products() {
         </header>
         <div className="products__list">
           {productCategories.map((item) => (
-            <article key={item.title} className="products__row">
+            <SiteLink key={item.title} href={item.href} className="products__row">
               <span className="products__code">IEC {item.code}</span>
               <div>
                 <h3>{item.title}</h3>
                 <p>{item.text}</p>
               </div>
-            </article>
+            </SiteLink>
           ))}
         </div>
       </div>

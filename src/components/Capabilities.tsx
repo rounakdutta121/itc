@@ -6,12 +6,8 @@ export function Capabilities() {
     <section className="caps factory-bg factory-bg--hex" id="capabilities">
       <div className="wrap caps__layout">
         <header className="caps__head">
-          <p className="eyebrow">Operating system</p>
-          <h2 className="display">How the floor stays precise</h2>
-          <p>
-            Four controls that keep every bay disciplined — from method to
-            schedule — so compliance work stays predictable.
-          </p>
+          <p className="eyebrow">Why ITC India</p>
+          <h2 className="display">Why Manufacturers Choose ITC India</h2>
         </header>
 
         <div className="caps__grid">

@@ -7,10 +7,11 @@ export const company = {
   phoneDisplay: '+91 93164 73033',
   email: 'info@itcindia.org',
   whatsapp: '919316473033',
+  whatsappHref: 'https://wa.me/919316473033',
   address:
-    'Plot No. 146, JLPL Industrial Area, Sector 82, Mohali, Punjab, 160062',
-  about:
-    'ITC India operates a NABL-accredited testing and calibration facility built like a precision factory — disciplined bays, calibrated instruments, and documented methods that move products from sample intake to certified market access.',
+    'Plot No. 146, JLPL Industrial Area, Sector 82, Mohali, Punjab 160062',
+  mapHref:
+    'https://www.google.com/maps/search/?api=1&query=Plot+No.+146+JLPL+Industrial+Area+Sector+82+Mohali+Punjab+160062',
 }
 
 export { siteNav as navMenu, type NavItem } from './siteMenu'
@@ -29,151 +30,373 @@ export const navLinks = [
   { label: 'Career in ITC', href: '/careers' },
 ]
 
+export const homeSeo = {
+  title: 'NABL Accredited Electrical Safety Testing Lab | ITC India',
+  description:
+    'NABL-accredited electrical safety & product testing lab in Mohali, India. EMC, IP, vibration, battery, medical & calibration testing. Get a quote.',
+  canonical: 'https://www.itcindia.org/',
+}
+
+export const heroContent = {
+  eyebrow: 'NABL-Accredited Lab · Mohali, India',
+  title: 'Electrical Safety & Product Testing Laboratory',
+  lede: 'NABL-accredited testing and calibration for manufacturers and exporters. Get test reports for BIS, CE and global market approvals from one lab in Mohali, Punjab.',
+  primaryCta: 'Get a Testing Quote',
+  primaryHref: '#contact',
+  secondaryCta: 'Call +91 93164 73033',
+  slides: [
+    {
+      landscape: '/images/hero-cinematic.webp',
+      portrait: '/images/hero-cinematic-portrait.webp',
+      line1: 'Electrical Safety &',
+      line2: 'Product Testing',
+      line2Break: 'Laboratory',
+    },
+    {
+      landscape: '/images/hero-slide-1.webp',
+      portrait: '/images/hero-slide-1-portrait.webp',
+      line1: 'Medical Device',
+      line2: 'Testing (IEC 60601)',
+    },
+    {
+      landscape: '/images/hero-slide-2.webp',
+      portrait: '/images/hero-slide-2-portrait.webp',
+      line1: 'EMC / EMI',
+      line2: 'Testing',
+    },
+    {
+      landscape: '/images/hero-slide-3.webp',
+      portrait: '/images/hero-slide-3-portrait.webp',
+      line1: 'IP & Environmental',
+      line2: 'Testing',
+    },
+    {
+      landscape: '/images/hero-slide-4.webp',
+      portrait: '/images/hero-slide-4-portrait.webp',
+      line1: 'NABL',
+      line2: 'Calibration',
+    },
+  ],
+}
+
+/** Confirmed tiles only — unconfirmed counts left out per brief. */
 export const metrics = [
-  { value: '17025', label: 'ISO/IEC aligned methods' },
+  { value: 'NABL', label: 'Accredited to ISO/IEC 17025' },
+  { value: 'BIS', label: 'Lab under CRS' },
   { value: '12', label: 'Testing disciplines' },
-  { value: 'NABL', label: 'Accredited laboratory' },
-  { value: 'BIS', label: 'CRS scheme support' },
+  { value: '2015', label: 'Testing since' },
 ]
 
 export const services = [
   {
     id: 'electrical',
     code: 'EL',
-    title: 'Electrical',
-    description: 'Electrical safety, performance and regulatory testing services.',
+    title: 'Electrical Testing',
+    description:
+      'Safety testing for appliances, cables, enclosures, switchgear, batteries and solar products to IEC and IS standards.',
     image: '/images/svc-electrical.webp',
+    href: 'https://www.itcindia.org/electrical-testing/',
+    cta: 'View Electrical Testing tests',
   },
   {
     id: 'electro-medical',
     code: 'EM',
-    title: 'Electro-Medical',
-    description: 'Safety and compliance testing for medical electrical equipment.',
+    title: 'Electro-Medical Testing',
+    description:
+      'IEC 60601 safety and essential performance testing for medical electrical equipment and patient monitors.',
     image: '/images/svc-medical.webp',
-  },
-  {
-    id: 'laboratory',
-    code: 'LA',
-    title: 'Laboratory',
-    description: 'Testing for laboratory, measuring and indicating equipment.',
-    image: '/images/laboratory.webp',
-  },
-  {
-    id: 'environmental',
-    code: 'EI',
-    title: 'Environmental / IP',
-    description: 'Environmental durability and ingress-protection testing services.',
-    image: '/images/svc-ip.webp',
-  },
-  {
-    id: 'mechanical',
-    code: 'MC',
-    title: 'Mechanical / Chemical',
-    description: 'Mechanical performance and chemical evaluation for products.',
-    image: '/images/mechanical.webp',
-  },
-  {
-    id: 'calibration',
-    code: 'CA',
-    title: 'Calibration',
-    description: 'Reliable calibration services for instruments and equipment.',
-    image: '/images/svc-calibration.webp',
+    href: 'https://www.itcindia.org/iec-60601-testing/',
+    cta: 'View Electro-Medical Testing tests',
   },
   {
     id: 'electronic',
     code: 'EC',
-    title: 'Electronic',
-    description: 'Testing and compliance services for electronic products.',
+    title: 'Electronic Testing',
+    description:
+      'IEC 62368-1 testing for IT, audio-video, power supplies, UPS and inverters.',
     image: '/images/svc-electronics.webp',
-  },
-  {
-    id: 'photometry',
-    code: 'PH',
-    title: 'Photometry',
-    description: 'Photometric measurement and lighting-performance evaluation.',
-    image: '/images/svc-photometry.webp',
+    href: 'https://www.itcindia.org/electronic-testing/',
+    cta: 'View Electronic Testing tests',
   },
   {
     id: 'emc',
     code: 'EMC',
-    title: 'EMC',
-    description: 'Electromagnetic compatibility and interference testing.',
+    title: 'EMC / EMI Testing',
+    description:
+      'Emission and immunity testing to CISPR 11, CISPR 15, IEC 61000 and EN 301 489.',
     image: '/images/svc-emc.webp',
+    href: 'https://www.itcindia.org/emc-emi-testing/',
+    cta: 'View EMC / EMI Testing tests',
+  },
+  {
+    id: 'environmental',
+    code: 'EI',
+    title: 'Environmental & IP Testing',
+    description:
+      'IP41 to IP69K, vibration, shock, salt spray, solar radiation, JSS 55555 and MIL-STD-810H.',
+    image: '/images/svc-ip.webp',
+    href: 'https://www.itcindia.org/environmental-testing-services/',
+    cta: 'View Environmental & IP Testing tests',
+  },
+  {
+    id: 'photometry',
+    code: 'PH',
+    title: 'Photometry Testing',
+    description:
+      'LM-79, LM-80 and RDSO photometry for LED luminaires and lighting products.',
+    image: '/images/svc-photometry.webp',
+    href: 'https://www.itcindia.org/photometry-testing/',
+    cta: 'View Photometry Testing tests',
+  },
+  {
+    id: 'calibration',
+    code: 'CA',
+    title: 'Calibration Services',
+    description:
+      'NABL calibration for temperature, humidity, pressure, energy meters, glassware and EMC generators.',
+    image: '/images/svc-calibration.webp',
+    href: 'https://www.itcindia.org/energy-meter-calibration-testing-nabl/',
+    cta: 'View Calibration Services tests',
+  },
+  {
+    id: 'laboratory',
+    code: 'LA',
+    title: 'Laboratory Equipment',
+    description:
+      'IEC 61010 safety testing for lab, measuring, IVD and control equipment.',
+    image: '/images/laboratory.webp',
+    href: 'https://www.itcindia.org/chemical-testing-and-analysis/',
+    cta: 'View Laboratory Equipment tests',
+  },
+  {
+    id: 'mechanical',
+    code: 'MC',
+    title: 'Mechanical & Chemical',
+    description:
+      'PPE, robot safety (ISO 10218, ISO 13482), RoHS and chemical composition testing.',
+    image: '/images/mechanical.webp',
+    href: 'https://www.itcindia.org/mechanical-testing/',
+    cta: 'View Mechanical & Chemical tests',
   },
   {
     id: 'packaging',
     code: 'PA',
-    title: 'Packaging',
-    description: 'Packaging durability, transport and performance testing.',
+    title: 'Packaging Testing',
+    description:
+      'ISTA 1A–1D and 2A–2C transit tests: vibration, drop and compression.',
     image: '/images/packaging.webp',
+    href: 'https://www.itcindia.org/packaging/',
+    cta: 'View Packaging Testing tests',
   },
   {
     id: 'software',
     code: 'SO',
-    title: 'Software',
-    description: 'Software quality, functionality and compliance assessment.',
+    title: 'Software Testing',
+    description: 'IEC 62304 medical device software and Bluetooth testing.',
     image: '/images/svc-software.webp',
+    href: 'https://www.itcindia.org/software-testing/',
+    cta: 'View Software Testing tests',
   },
   {
     id: 'info-security',
     code: 'IS',
     title: 'Information Security',
-    description: 'Cybersecurity and information-security testing services.',
+    description:
+      'Drone and IoT security testing, plus our cybersecurity division.',
     image: '/images/svc-security.webp',
+    href: 'https://www.itcindia.org/drone-information-security-testing/',
+    cta: 'View Information Security tests',
   },
 ]
 
+export const aboutSection = {
+  eyebrow: 'About ITC India',
+  title: 'NABL-Accredited Testing Laboratory in Mohali, Serving All of India',
+  paragraphs: [
+    'ITC India Pvt Ltd (Institute of Testing and Certification India) is an independent testing and calibration laboratory in Mohali, Punjab, near Chandigarh. We are accredited by NABL to ISO/IEC 17025.',
+    'Manufacturers, importers and exporters send us products to check them against Indian (IS), international (IEC, ISO, EN) and defence (JSS, MIL-STD) standards. Our reports support BIS registration, CE marking, tenders and export approvals.',
+    'Our Mohali facility has dedicated set-ups for electrical safety, EMC, IP and environmental testing, vibration, photometry and calibration. That means fewer labs to manage, one point of contact, and faster reports for your launch.',
+  ],
+  bullets: [
+    {
+      label: 'NABL accreditation under ISO/IEC 17025',
+      href: 'https://www.itcindia.org/nabl-scope-certificate-india/',
+    },
+    {
+      label: 'TEC fee schedule',
+      href: '/about-us/tec-fee-schedule',
+    },
+  ],
+  cta: 'Plan a Lab Visit',
+  ctaHref: '#contact',
+}
+
 export const capabilities = [
   {
-    title: 'Accredited methods',
-    text: 'Documented procedures aligned to ISO/IEC 17025 with clear evidence trails.',
+    title: 'Accredited, accepted reports',
+    text: 'NABL-accredited methods and traceable calibration, so your reports stand up with regulators and buyers.',
   },
   {
-    title: 'Purpose-built bays',
-    text: 'Dedicated setups for safety, EMC, IP, photometry and calibration work.',
+    title: '12 disciplines under one roof',
+    text: 'Safety, EMC, IP, environmental, photometry and calibration in one place. One sample, one quote, one report pack.',
   },
   {
-    title: 'Regulatory pathway',
-    text: 'Guidance for BIS, CE and notified-body readiness without guesswork.',
+    title: 'Help with the right standard',
+    text: 'Not sure what your product needs? Our engineers map the IS, IEC or EN standards for your target market.',
   },
   {
-    title: 'Production cadence',
-    text: 'Slot planning and status updates that protect your launch timeline.',
+    title: 'Clear timelines',
+    text: 'Fixed test plan, booked slot and status updates, so your launch date does not slip.',
   },
 ]
 
 export const processSteps = [
-  { step: '01', title: 'Requirement intake', text: 'Share product scope, standards and target markets.' },
-  { step: '02', title: 'Scope & quotation', text: 'Receive a clear test plan, timeline and commercial path.' },
-  { step: '03', title: 'Bay scheduling', text: 'Book samples into calibrated laboratory slots.' },
-  { step: '04', title: 'Execute & evaluate', text: 'Run accredited tests with progress visibility.' },
-  { step: '05', title: 'Report & certify', text: 'Deliver reports ready for market access decisions.' },
+  {
+    step: '01',
+    title: 'Share your product',
+    text: 'Send product details, standards and target market.',
+  },
+  {
+    step: '02',
+    title: 'Get a quote and test plan',
+    text: 'We confirm the standards, timeline and cost.',
+  },
+  {
+    step: '03',
+    title: 'Send samples',
+    text: 'We book your product into a test slot.',
+  },
+  {
+    step: '04',
+    title: 'Testing',
+    text: 'Accredited tests with progress updates.',
+  },
+  {
+    step: '05',
+    title: 'Get your report',
+    text: 'Test report ready for BIS, CE or buyer approval.',
+  },
+]
+
+export const popularTests = [
+  {
+    label: 'IP Testing (IP65, IP66, IP67, IP68, IP69K)',
+    href: 'https://www.itcindia.org/ip-testing-laboratory-india/',
+  },
+  { label: 'Vibration Testing Lab', href: '/vibration-testing' },
+  {
+    label: 'Battery Testing IS 16046 / IEC 62133',
+    href: 'https://www.itcindia.org/batteries-for-portable-products-testing-lab-is-16046-iec-62133/',
+  },
+  {
+    label: 'UN 38.3 Lithium Battery Testing',
+    href: 'https://www.itcindia.org/un-38-3-lithium-ion-batteries-transpotation-testing/',
+  },
+  {
+    label: 'IEC 60601 Medical Device Testing',
+    href: 'https://www.itcindia.org/iec-60601-testing/',
+  },
+  {
+    label: 'IEC 60335 Household Appliance Testing',
+    href: 'https://www.itcindia.org/iec-60335-1-safety-testing-india/',
+  },
+  {
+    label: 'LM-79 Testing',
+    href: 'https://www.itcindia.org/lm-79-testing/',
+  },
+  { label: 'JSS 55555 Environmental Testing', href: '/jss-55555' },
+  { label: 'Salt Spray Testing', href: '/salt-testing' },
+  {
+    label: 'ATEX Testing',
+    href: 'https://www.itcindia.org/atex-testing-certification/',
+  },
+  {
+    label: 'Energy Meter Calibration (NABL)',
+    href: 'https://www.itcindia.org/energy-meter-calibration-testing-nabl/',
+  },
+  {
+    label: 'Calibration of Volumetric Glassware',
+    href: 'https://www.itcindia.org/calibration-of-volumetric-glassware/',
+  },
 ]
 
 export const productCategories = [
   {
     code: '60204',
-    title: 'Machinery Equipment',
+    title: 'IEC 60204 Machinery',
     text: 'Metalworking, food, plastic, printing, wood, textile and construction machinery.',
+    href: 'https://www.itcindia.org/machinery-equipment-testing-2/',
   },
   {
     code: '60598',
-    title: 'Lighting & Entertainment',
+    title: 'IEC 60598 Lighting',
     text: 'Road lighting, emergency lighting, luminaires and lighting chains.',
+    href: 'https://www.itcindia.org/electrical-safety-testing-for-lighting-products/',
   },
   {
     code: '60601',
-    title: 'Electro Medical',
+    title: 'IEC 60601 Medical',
     text: 'Hospital systems, infusion devices, autoclaves and stimulators.',
+    href: 'https://www.itcindia.org/iec-60601-testing/',
   },
   {
     code: '61215',
-    title: 'Photovoltaic Modules',
+    title: 'IEC 61215 PV Modules',
     text: 'Crystalline silicon PV design qualification and type approval.',
+    href: 'https://www.itcindia.org/photovoltatc-pv-modules-testing/',
   },
   {
     code: '61427',
-    title: 'Cells & Batteries',
+    title: 'IEC 61427 Batteries',
     text: 'Secondary cells and batteries for photovoltaic energy systems.',
+    href: 'https://www.itcindia.org/battery-testing/',
   },
 ]
+
+export const industries = [
+  'Home Appliances',
+  'Lighting & LED',
+  'Medical Devices',
+  'Solar & Energy Storage',
+  'Electric Vehicles & Batteries',
+  'Defence & Aerospace',
+  'Railways (RDSO)',
+  'IT & Telecom',
+  'Industrial Machinery',
+  'Packaging & Logistics',
+]
+
+export const homeFaqs = [
+  {
+    q: 'Is ITC India an NABL-accredited lab?',
+    a: 'Yes. ITC India is accredited by NABL to ISO/IEC 17025 for testing and calibration. You can view our scope and certificate on the Accreditations page.',
+  },
+  {
+    q: 'Can I get BIS (CRS) testing done at ITC India?',
+    a: 'Share your product details so we can confirm whether it falls under our BIS CRS testing scope and advise the next step.',
+  },
+  {
+    q: 'What products can you test?',
+    a: 'Electrical appliances, lighting, medical devices, IT and electronic equipment, batteries, solar modules, enclosures, cables, packaging and more, across 12 testing disciplines.',
+  },
+  {
+    q: 'How long does testing take?',
+    a: 'It depends on the standard and product. We give a firm timeline with your quote after we review your samples and scope.',
+  },
+  {
+    q: 'How do I get a quotation?',
+    a: 'Send your product details, target standard and market through the inquiry form, email or WhatsApp. We reply with a test plan and price.',
+  },
+  {
+    q: 'Do you test for export markets like Europe or the Middle East?',
+    a: 'Yes. We test to IEC, EN and ISO standards used for CE marking and other international approvals.',
+  },
+]
+
+export const contactSection = {
+  eyebrow: 'Inquiry',
+  title: 'Get a Testing Quote',
+  text: 'Tell us the product and target market. Our engineers reply with the right standards, a timeline and a price.',
+  submit: 'Get a Quote',
+  submitted: 'Request received',
+}

@@ -1,4 +1,5 @@
-import { company } from '../data/content'
+import { aboutSection } from '../data/content'
+import { SiteLink } from './SiteLink'
 import './Facility.css'
 
 export function Facility() {
@@ -14,17 +15,21 @@ export function Facility() {
         />
       </div>
       <div className="facility__panel factory-bg factory-bg--hatch factory-bg--on-dark">
-        <p className="eyebrow">The plant</p>
-        <h2 className="display">Built like a factory. Run like a laboratory.</h2>
-        <p>{company.about}</p>
+        <p className="eyebrow">{aboutSection.eyebrow}</p>
+        <h2 className="display">{aboutSection.title}</h2>
+        {aboutSection.paragraphs.map((p) => (
+          <p key={p.slice(0, 48)}>{p}</p>
+        ))}
         <ul>
-          <li>NABL accreditation under ISO/IEC 17025</li>
-          <li>BIS recognition under the CRS scheme</li>
-          <li>Notified-body aligned reporting pathways</li>
+          {aboutSection.bullets.map((item) => (
+            <li key={item.label}>
+              <SiteLink href={item.href}>{item.label}</SiteLink>
+            </li>
+          ))}
         </ul>
-        <a className="btn btn-solid" href="#contact">
-          Plan a plant visit
-        </a>
+        <SiteLink className="btn btn-solid" href={aboutSection.ctaHref}>
+          {aboutSection.cta}
+        </SiteLink>
       </div>
     </section>
   )

@@ -15,8 +15,22 @@
 
 .topbar__links {
   display: flex;
+  align-items: center;
   gap: 1.1rem;
   flex-wrap: wrap;
+}
+
+.topbar__wa {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.topbar__wa:hover {
+  color: #fff;
 }
 
 .topbar a:hover {

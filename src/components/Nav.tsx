@@ -413,8 +413,8 @@ export function Nav() {
         </nav>
 
         <div className="nav__end">
-          <SiteLink className="btn btn-solid nav__cta" href="/contact-us">
-            Book a consultation
+          <SiteLink className="btn btn-solid nav__cta" href="/#contact">
+            Get a Quote
           </SiteLink>
           <button
             className={`nav__toggle${open ? ' is-active' : ''}`}
@@ -466,10 +466,10 @@ export function Nav() {
         <div className="nav__drawer-foot">
           <SiteLink
             className="btn btn-solid"
-            href="/contact-us"
+            href="/#contact"
             onClick={close}
           >
-            Book a consultation
+            Get a Quote
           </SiteLink>
         </div>
       </div>
