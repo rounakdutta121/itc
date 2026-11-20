@@ -135,7 +135,7 @@ export function DropTestingPage() {
                     <p className="vib-dir__code">{item.label}</p>
                   </div>
                   <Link className="vib-dir__link" to={item.href}>
-                    Open
+                    View
                   </Link>
                 </li>
               ))}
