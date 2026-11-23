@@ -1,0 +1,3058 @@
+[
+  {
+    "path": "/what-is-nema-certification",
+    "slug": "what-is-nema-certification",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "30 / 8 | 613 | – | ADD – NEMA vs IP table + CTA",
+    "reserved": false
+  },
+  {
+    "path": "/ip-testing-procedure",
+    "slug": "ip-testing-procedure",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "28 / 25 | 1236 | no H2 | ADD – IP rating chart + CTA, P6",
+    "reserved": false
+  },
+  {
+    "path": "/",
+    "slug": "",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "26 / 64 | 145 | thin | REWRITE – new home content (Home tab)",
+    "reserved": true
+  },
+  {
+    "path": "/vibration-testing",
+    "slug": "vibration-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "23 / 20 | 639 | long title, 2 img no alt, few links | ADD – see Vibration notes (Home tab)",
+    "reserved": true
+  },
+  {
+    "path": "/iso-8768-complete-filled-transport-packages-toppling-test",
+    "slug": "iso-8768-complete-filled-transport-packages-toppling-test",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "22 / 1 | 937 | 4 img no alt | ADD – CTA box only",
+    "reserved": false
+  },
+  {
+    "path": "/batteries-for-portable-products-testing-lab-is-16046-iec-62133",
+    "slug": "batteries-for-portable-products-testing-lab-is-16046-iec-62133",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "21 / 8 | 112 | no meta, long title, thin, few links | EXPAND – P7 (new sections in Content tab)",
+    "reserved": false
+  },
+  {
+    "path": "/ip-66-ingress-protection-testing",
+    "slug": "ip-66-ingress-protection-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "17 / 19 | 650 | few links | EXPAND – P6 + CTR title (Content tab)",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-micrometer",
+    "slug": "calibration-of-micrometer",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "17 / 9 | 878 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/chemical-testing-and-analysis",
+    "slug": "chemical-testing-and-analysis",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "14 / 7 | 469 | no meta, no H2, 6 img no alt, few links | REWRITE – P5 (full text in Content tab)",
+    "reserved": false
+  },
+  {
+    "path": "/insulation-resistance-test-on-cable-as-per-is-10810",
+    "slug": "insulation-resistance-test-on-cable-as-per-is-10810",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "13 / 22 | 350 | few links | EXPAND + CTR FIX – 350 words, ranks #6",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-volumetric-glassware",
+    "slug": "calibration-of-volumetric-glassware",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "13 / 19 | 1413 | – | ADD – CTA, pipette section",
+    "reserved": false
+  },
+  {
+    "path": "/what-is-photometry-testing",
+    "slug": "what-is-photometry-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "13 / 8 | 886 | no meta, no H2, few links | ADD – meta + links to LM-79/LM-80",
+    "reserved": false
+  },
+  {
+    "path": "/energy-meter-calibration-testing-nabl",
+    "slug": "energy-meter-calibration-testing-nabl",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "12 / 37 | 1112 | few links | EXPAND – P4",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60068-environmental-conditioning",
+    "slug": "iec-60068-environmental-conditioning",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "12 / 9 | 996 | no meta, 6 img no alt | ADD + CTR FIX – meta + parts table",
+    "reserved": false
+  },
+  {
+    "path": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+    "slug": "automatic-data-processing-machine-is-13252part-1-iec-60950",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "11 / 12 | 386 | no H2, 2 img no alt, few links | EXPAND – P10",
+    "reserved": false
+  },
+  {
+    "path": "/g-mark-certification",
+    "slug": "g-mark-certification",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "11 / 8 | 946 | no meta, 4 img no alt | ADD – meta + Gulf export section; receives 2 merged pages",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60034-5-electrical-machines",
+    "slug": "iec-60034-5-electrical-machines",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "10 / 1 | 265 | long title, thin, 6 img no alt | EXPAND – 265 words, ranks #1/#15",
+    "reserved": false
+  },
+  {
+    "path": "/flame-retardant-test-as-per-iso-340",
+    "slug": "flame-retardant-test-as-per-iso-340",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "9 / 13 | 1252 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-uv-light-bulbs",
+    "slug": "testing-of-uv-light-bulbs",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "9 / 9 | 202 | thin, 2 img no alt, few links | REWRITE – P11 (full text in Content tab)",
+    "reserved": false
+  },
+  {
+    "path": "/chemical-analysis-testing",
+    "slug": "chemical-analysis-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "9 / 7 | 691 | – | KEEP – add link to /chemical-testing-and-analysis/",
+    "reserved": false
+  },
+  {
+    "path": "/welcome-to-itc-india",
+    "slug": "welcome-to-itc-india",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "8 / 13 | 69 | thin, few links | 301 → / (old home copy; 301 passes its brand rankings)",
+    "reserved": false
+  },
+  {
+    "path": "/battery-testing",
+    "slug": "battery-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "7 / 27 | 1563 | – | EXPAND – P1",
+    "reserved": false
+  },
+  {
+    "path": "/drop-ball-impact-test",
+    "slug": "drop-ball-impact-test",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "7 / 20 | 1010 | few links | CTR FIX – ranks 7–8 for \"ball drop test\" / \"drop ball test\", 0 clicks",
+    "reserved": false
+  },
+  {
+    "path": "/ip-67-waterproof-testing",
+    "slug": "ip-67-waterproof-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "4 / 26 | 822 | – | EXPAND – P6 + CTR title",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-temperature-sensor",
+    "slug": "calibration-of-temperature-sensor",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "4 / 20 | 815 | 2 img no alt | EXPAND – P9",
+    "reserved": false
+  },
+  {
+    "path": "/atex-testing-certification",
+    "slug": "atex-testing-certification",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "4 / 13 | 1776 | no H2, 24 img no alt | EXPAND – P8 (fix 3 H1s) + CTR FIX",
+    "reserved": false
+  },
+  {
+    "path": "/jss-55555-testing",
+    "slug": "jss-55555-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "4 / 1 | 878 | 2 img no alt | ADD – JSS tests table + CTA",
+    "reserved": false
+  },
+  {
+    "path": "/salt-spray-testing",
+    "slug": "salt-spray-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "3 / 20 | 1744 | 4 img no alt | EXPAND – P3",
+    "reserved": false
+  },
+  {
+    "path": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+    "slug": "anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "3 / 6 | 607 | few links | ADD – fix \"as as\" in title/H1",
+    "reserved": false
+  },
+  {
+    "path": "/cispr-15",
+    "slug": "cispr-15",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "3 / 1 | 871 | no H2 | CTR FIX – 70 impr. at pos 6.6, 0 clicks",
+    "reserved": false
+  },
+  {
+    "path": "/emc-emi-testing",
+    "slug": "emc-emi-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "2 / 81 | 1909 | 4 img no alt | EXPAND – P2",
+    "reserved": false
+  },
+  {
+    "path": "/lighting-equipment-emc-emi-testing-as-per-iec-615472020-cispr-152018",
+    "slug": "lighting-equipment-emc-emi-testing-as-per-iec-615472020-cispr-152018",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "2 / 15 | 778 | long title, 12 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/refrigerator-testing",
+    "slug": "refrigerator-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "2 / 8 | 502 | long title, few links | KEEP – link to IEC 60335-2-24 page",
+    "reserved": false
+  },
+  {
+    "path": "/ip55-protection-rating-testing",
+    "slug": "ip55-protection-rating-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "2 / 5 | 945 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60068-2-5-solar-radiation-test-why-its-essential-for-outdoor-electronics",
+    "slug": "iec-60068-2-5-solar-radiation-test-why-its-essential-for-outdoor-electronics",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "2 / 1 | 418 | no meta, long title, no H2, 2 img no alt | KEEP – add meta + link to IEC 60068 page",
+    "reserved": false
+  },
+  {
+    "path": "/jss-5855-11-testing",
+    "slug": "jss-5855-11-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "2 / 1 | 958 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/pirpassive-infrared-sensor-testing",
+    "slug": "pirpassive-infrared-sensor-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1 / 23 | 1313 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/medical-electrical-equipment",
+    "slug": "medical-electrical-equipment",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1 / 16 | 564 | 14 img no alt | KEEP – link to /iec-60601-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-chemical-composition",
+    "slug": "testing-of-chemical-composition",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 16 | 627 | – | ADD – materials tested, samples, report",
+    "reserved": false
+  },
+  {
+    "path": "/rohs-testing",
+    "slug": "rohs-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "1 / 15 | 481 | 4 img no alt, few links | EXPAND – P12",
+    "reserved": false
+  },
+  {
+    "path": "/calibrating-a-uv-intensity-meter",
+    "slug": "calibrating-a-uv-intensity-meter",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 6 | 347 | no meta, 4 img no alt, few links | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/motor-torque-and-speed-testing",
+    "slug": "motor-torque-and-speed-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1 / 6 | 1044 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/metal-iso-9227-salt-spray-test",
+    "slug": "metal-iso-9227-salt-spray-test",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 6 | 832 | – | ADD – new title, method table (Dev Plan)",
+    "reserved": false
+  },
+  {
+    "path": "/industrial-scientific-medical-equipment-emc-emi-testing-as-per-cispr-112019",
+    "slug": "industrial-scientific-medical-equipment-emc-emi-testing-as-per-cispr-112019",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 5 | 731 | no meta, 14 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/un-38-3-lithium-ion-batteries-transpotation-testing",
+    "slug": "un-38-3-lithium-ion-batteries-transpotation-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 5 | 1105 | 2 img no alt | ADD – fix typo in title/H1, T1–T8 table",
+    "reserved": false
+  },
+  {
+    "path": "/anti-static-electrical-resistance-testing",
+    "slug": "anti-static-electrical-resistance-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1 / 3 | 598 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/about-us/bluetooth-testing",
+    "slug": "about-us/bluetooth-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "1 / 3 | 992 | no meta, no H2, 8 img no alt | EXPAND – meta + H2s (Dev Plan)",
+    "reserved": true
+  },
+  {
+    "path": "/iec-61000-6-3-emc-testing",
+    "slug": "iec-61000-6-3-emc-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 3 | 830 | 2 img no alt | ADD – IEC 61000 series table",
+    "reserved": false
+  },
+  {
+    "path": "/major-tests-facility-2",
+    "slug": "major-tests-facility-2",
+    "action": "REDIRECT",
+    "redirectTo": "/services",
+    "note": "1 / 2 | 64 | thin, few links | 301 → /services/",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-sensors-as-per-standard-iec-60751",
+    "slug": "testing-of-sensors-as-per-standard-iec-60751",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 2 | 389 | no meta, no H2 | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/testing-for-high-voltage-fuse-as-per-iec-60282-1",
+    "slug": "testing-for-high-voltage-fuse-as-per-iec-60282-1",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 2 | 378 | no meta, few links | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/face-mask-testing-lab",
+    "slug": "face-mask-testing-lab",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1 / 2 | 1176 | 20 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/all-about-masks",
+    "slug": "all-about-masks",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 2 | 1193 | no meta, no H2, 2 img no alt, few links | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/iec-en-60445-1",
+    "slug": "iec-en-60445-1",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "1 / 1 | 89 | thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/is-9537-conduits-testing",
+    "slug": "is-9537-conduits-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1 / 1 | 376 | no H2 | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/drone-testing-services-by-itc-india",
+    "slug": "drone-testing-services-by-itc-india",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1 / 1 | 511 | no meta, 2 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/understanding-quality-of-masks",
+    "slug": "understanding-quality-of-masks",
+    "action": "REDIRECT",
+    "redirectTo": "/face-mask-testing-lab",
+    "note": "1 / 1 | 191 | no meta, thin, few links | 301 → /face-mask-testing-lab/",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-safety-testing-for-medical-device",
+    "slug": "electrical-safety-testing-for-medical-device",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 37 | 543 | no H2, few links | KEEP – add meta + link to /iec-60601-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/usability-testing-of-medical-devices-iec-62366",
+    "slug": "usability-testing-of-medical-devices-iec-62366",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 37 | 209 | no meta, thin, few links | EXPAND – 37 keywords on 209 words; add process, deliverables, FAQ (~800 words)",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-packing-for-transportations-lithium-ion-batteries",
+    "slug": "testing-of-packing-for-transportations-lithium-ion-batteries",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 32 | 203 | no meta, thin, few links | EXPAND – 32 keywords on 203 words",
+    "reserved": false
+  },
+  {
+    "path": "/iec-62304-medical-device-software-system-testing",
+    "slug": "iec-62304-medical-device-software-system-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 19 | 746 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-1",
+    "slug": "iec-60601-1",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "0 / 17 | 536 | 4 img no alt | KEEP as \"What is IEC 60601-1\" guide; receives 2 merged pages; link to /iec-60601-1-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/valve-regulated-lead-acid-batteries-vrla",
+    "slug": "valve-regulated-lead-acid-batteries-vrla",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 16 | 363 | no meta, no H2 | EXPAND – \"vrla battery\" 3,600/mo (pos 64)",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-pressure-gauge",
+    "slug": "calibration-of-pressure-gauge",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 15 | 1274 | – | KEEP – fix ALL-CAPS title",
+    "reserved": false
+  },
+  {
+    "path": "/environmental-testing-services",
+    "slug": "environmental-testing-services",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 13 | 2458 | few links | ADD – title \"Environmental Testing Lab | IEC 60068, JSS 55555 – ITC India\"; keep content",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-testing",
+    "slug": "iec-60601-testing",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "0 / 13 | 462 | no meta, no H2 | REWRITE – Electro-Medical hub, P13 (full text in Content tab); 2,106 backlinks, keep URL",
+    "reserved": false
+  },
+  {
+    "path": "/electro-medical-equipments-testing",
+    "slug": "electro-medical-equipments-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60601-testing",
+    "note": "0 / 11 | 188 | thin, 2 img no alt, few links | 301 → /iec-60601-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing",
+    "slug": "iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 11 | 1309 | long title | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/what-is-infant-incubator",
+    "slug": "what-is-infant-incubator",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 10 | 294 | no meta, thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/emi-emc-for-medical-devices",
+    "slug": "emi-emc-for-medical-devices",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 10 | 317 | no meta, no H2, 2 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/reach-certification-services",
+    "slug": "reach-certification-services",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 10 | 493 | no meta, 2 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/cable-tray-testing-laboratory",
+    "slug": "cable-tray-testing-laboratory",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 10 | 880 | 10 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/hast-test-highly-accelerated-stress-test",
+    "slug": "hast-test-highly-accelerated-stress-test",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 10 | 738 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies",
+    "slug": "iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 9 | 406 | long title, no H2 | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/non-destructive-testing-ndt",
+    "slug": "non-destructive-testing-ndt",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 9 | 452 | 4 img no alt, few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/about-us/tec-fee-schedule",
+    "slug": "about-us/tec-fee-schedule",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 8 | 494 | no meta, no H2, few links | KEEP – add meta",
+    "reserved": true
+  },
+  {
+    "path": "/emc-testing-for-electronic-and-electrical-products",
+    "slug": "emc-testing-for-electronic-and-electrical-products",
+    "action": "REDIRECT",
+    "redirectTo": "/emc-emi-testing",
+    "note": "0 / 7 | 339 | 2 img no alt | 301 → /emc-emi-testing/ after moving unique text",
+    "reserved": false
+  },
+  {
+    "path": "/ip-testing-laboratory-india",
+    "slug": "ip-testing-laboratory-india",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 7 | 1536 | no H2, few links | EXPAND – IP hub, P6",
+    "reserved": false
+  },
+  {
+    "path": "/earthing-enhancing-testing-according-to-iec-62561-72018",
+    "slug": "earthing-enhancing-testing-according-to-iec-62561-72018",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 7 | 674 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-humidity-sensor",
+    "slug": "calibration-of-humidity-sensor",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 7 | 825 | – | KEEP – fix ALL-CAPS title",
+    "reserved": false
+  },
+  {
+    "path": "/bs-en-1838-2013-emergency-lighting",
+    "slug": "bs-en-1838-2013-emergency-lighting",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 6 | 1037 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/secondary-battery-and-their-application",
+    "slug": "secondary-battery-and-their-application",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 6 | 321 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/atex-certification",
+    "slug": "atex-certification",
+    "action": "REDIRECT",
+    "redirectTo": "/atex-testing-certification",
+    "note": "0 / 6 | 622 | no meta, no H2, 4 img no alt | 301 → /atex-testing-certification/",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-motor-testing-lab",
+    "slug": "electrical-motor-testing-lab",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 6 | 224 | no meta, thin, 2 img no alt, few links | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/lm-79-testing",
+    "slug": "lm-79-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 6 | 1404 | no H2 | EXPAND – main LM-79 page; receives content from 2 merged LM-79 pages",
+    "reserved": false
+  },
+  {
+    "path": "/usability-file",
+    "slug": "usability-file",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 6 | 437 | no meta, 8 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/rohs-testing-and-certification",
+    "slug": "rohs-testing-and-certification",
+    "action": "REDIRECT",
+    "redirectTo": "/rohs-testing",
+    "note": "0 / 6 | 356 | – | 301 → /rohs-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/ac-dc-rectifier-testing",
+    "slug": "ac-dc-rectifier-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 6 | 992 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/what-is-g-mark-certification",
+    "slug": "what-is-g-mark-certification",
+    "action": "REDIRECT",
+    "redirectTo": "/g-mark-certification/,",
+    "note": "0 / 5 | 633 | no meta, no H2 | MERGE → /g-mark-certification/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/services",
+    "slug": "services",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "0 / 5 | 259 | thin, few links | REWRITE – \"All testing services A–Z\" page, linked from footer",
+    "reserved": true
+  },
+  {
+    "path": "/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1",
+    "slug": "flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 5 | 258 | long title, thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/standards-and-specifications-of-some-major-foods",
+    "slug": "standards-and-specifications-of-some-major-foods",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 5 | 578 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/rohs-3-testing-nabl-report",
+    "slug": "rohs-3-testing-nabl-report",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 5 | 1070 | few links | KEEP – add link to /rohs-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/explosion-proof-test",
+    "slug": "explosion-proof-test",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 5 | 737 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/secondary-cells-and-batteries",
+    "slug": "secondary-cells-and-batteries",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 4 | 402 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/measuring-uv-intensity",
+    "slug": "measuring-uv-intensity",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 4 | 318 | no meta, no H2, 2 img no alt, few links | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-pyranometer",
+    "slug": "calibration-of-pyranometer",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 4 | 794 | 6 img no alt | EXPAND – pyranometer hub; receives 3 merged pages",
+    "reserved": false
+  },
+  {
+    "path": "/g-mark-and-ce-mark-certification",
+    "slug": "g-mark-and-ce-mark-certification",
+    "action": "REDIRECT",
+    "redirectTo": "/g-mark-certification/,",
+    "note": "0 / 4 | 274 | no meta, thin | MERGE → /g-mark-certification/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/home",
+    "slug": "home",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "0 / 4 | 157 | thin, few links | 301 → /",
+    "reserved": false
+  },
+  {
+    "path": "/lm-79-testing-laboratory",
+    "slug": "lm-79-testing-laboratory",
+    "action": "REDIRECT",
+    "redirectTo": "/lm-79-testing",
+    "note": "0 / 4 | 867 | no H2, few links | 301 → /lm-79-testing/ (712 backlinks pass on)",
+    "reserved": false
+  },
+  {
+    "path": "/nerve-and-muscle-stimulator-testing-as-per-iec-60601-2-10",
+    "slug": "nerve-and-muscle-stimulator-testing-as-per-iec-60601-2-10",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60601-2-10",
+    "note": "0 / 4 | 358 | long title, no H2, few links | 301 → /iec-60601-2-10/",
+    "reserved": false
+  },
+  {
+    "path": "/lm-79-testing-laboratory-in-india",
+    "slug": "lm-79-testing-laboratory-in-india",
+    "action": "REDIRECT",
+    "redirectTo": "/lm-79-testing/:",
+    "note": "0 / 4 | 1511 | 6 img no alt | MERGE → /lm-79-testing/: move its sections first, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/training",
+    "slug": "training",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 4 | 12 | no meta, thin, few links | EXPAND – list all courses",
+    "reserved": false
+  },
+  {
+    "path": "/midmeasuring-instrument-directive-instruction",
+    "slug": "midmeasuring-instrument-directive-instruction",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 4 | 274 | thin, few links | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/endurance-test-as-per-iec-60947-1",
+    "slug": "endurance-test-as-per-iec-60947-1",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 4 | 989 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/importance-of-emi-emc-proof-pcb-design",
+    "slug": "importance-of-emi-emc-proof-pcb-design",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 4 | 591 | no meta, 10 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61010-testing-lab",
+    "slug": "iec-61010-testing-lab",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 4 | 788 | 2 img no alt | ADD – parts table + FAQ (Dev Plan); becomes Laboratory hub",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60947-4-1-low-voltage-switchgear-and-controlgear",
+    "slug": "iec-60947-4-1-low-voltage-switchgear-and-controlgear",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 409 | long title | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/is-iec-60529-1-degrees-of-protection",
+    "slug": "is-iec-60529-1-degrees-of-protection",
+    "action": "REDIRECT",
+    "redirectTo": "/ip-testing-procedure/,",
+    "note": "0 / 3 | 628 | long title, no H2, 4 img no alt | MERGE → /ip-testing-procedure/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/cispr-22",
+    "slug": "cispr-22",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 3 | 268 | thin | EXPAND – add note that CISPR 32 replaced it; link /cispr-32-en-55032/",
+    "reserved": false
+  },
+  {
+    "path": "/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india",
+    "slug": "testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 3 | 461 | no meta, long title, 2 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/electronic-testing",
+    "slug": "electronic-testing",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "0 / 3 | 86 | no meta, thin | REWRITE – Electronic hub",
+    "reserved": false
+  },
+  {
+    "path": "/contact-us",
+    "slug": "contact-us",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 3 | 0 | thin, few links | ADD – visible address, phone, email, map, hours",
+    "reserved": true
+  },
+  {
+    "path": "/consumer-household-and-commercial-appliance-equipment-testing",
+    "slug": "consumer-household-and-commercial-appliance-equipment-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/household",
+    "note": "0 / 3 | 160 | thin, few links | 301 → /household/",
+    "reserved": false
+  },
+  {
+    "path": "/led-driver-and-lamp-control-gear-testing",
+    "slug": "led-driver-and-lamp-control-gear-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 322 | no H2, few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/lm-80-testing",
+    "slug": "lm-80-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 482 | no H2, few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/pulse-oximeter-testing",
+    "slug": "pulse-oximeter-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 552 | 4 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/disposable-glove-testing-en-455",
+    "slug": "disposable-glove-testing-en-455",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "0 / 3 | 357 | few links | CTR FIX – 118 impr. at pos 8, 0 clicks",
+    "reserved": false
+  },
+  {
+    "path": "/ear-probe-for-audiometry",
+    "slug": "ear-probe-for-audiometry",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 690 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/chemical-impurities-detection-testing",
+    "slug": "chemical-impurities-detection-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 824 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/high-voltage-short-circuit-test-facility-for-mcc-and-fuse",
+    "slug": "high-voltage-short-circuit-test-facility-for-mcc-and-fuse",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 493 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-62444-for-cable-gland-testing",
+    "slug": "iec-62444-for-cable-gland-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 1066 | few links | KEEP – link to /cable-gland-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-7-domestic-washing-machine-testing",
+    "slug": "iec-60335-2-7-domestic-washing-machine-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/washing-machine-safety-testing",
+    "note": "0 / 3 | 1076 | – | 301 → /washing-machine-safety-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-76-safety-of-electric-fence-energizers-testing",
+    "slug": "iec-60335-2-76-safety-of-electric-fence-energizers-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 1272 | – | KEEP – fix ALL-CAPS title",
+    "reserved": false
+  },
+  {
+    "path": "/biodegradable-standard",
+    "slug": "biodegradable-standard",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 3 | 898 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/biodegradability",
+    "slug": "biodegradability",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 3 | 1132 | 4 img no alt | EXPAND – Biodegradability hub (Content tab)",
+    "reserved": false
+  },
+  {
+    "path": "/bs-en-iec-60947-1",
+    "slug": "bs-en-iec-60947-1",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 351 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-lux-meter",
+    "slug": "calibration-of-lux-meter",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 2 | 225 | thin | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/what-is-ip",
+    "slug": "what-is-ip",
+    "action": "REDIRECT",
+    "redirectTo": "/ip-testing-procedure/,",
+    "note": "0 / 2 | 560 | 4 img no alt | MERGE → /ip-testing-procedure/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-1-defibrillation-proof-applied-parts",
+    "slug": "iec-60601-1-defibrillation-proof-applied-parts",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 374 | 8 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/presenting-power-safety-of-mccb-panel-board",
+    "slug": "presenting-power-safety-of-mccb-panel-board",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 511 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/luminance-radiance-illuminance-and-irradiance",
+    "slug": "luminance-radiance-illuminance-and-irradiance",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 2 | 113 | long title, thin, 2 img no alt | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/cispr-11-en-55011",
+    "slug": "cispr-11-en-55011",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 352 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/anti-rodent-test-for-cables",
+    "slug": "anti-rodent-test-for-cables",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 2 | 291 | no meta, thin, 4 img no alt | EXPAND – cited by AI for \"anti rodent meaning\"",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-testing",
+    "slug": "electrical-testing",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "0 / 2 | 121 | no meta, thin | REWRITE – Electrical hub, P14 (full text in Content tab)",
+    "reserved": false
+  },
+  {
+    "path": "/safety-testing-for-face-shield-mask-respirators-mask",
+    "slug": "safety-testing-for-face-shield-mask-respirators-mask",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 305 | no H2, 2 img no alt, few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-testing-for-automotive-components-2",
+    "slug": "electrical-testing-for-automotive-components-2",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 2 | 253 | no meta, thin, 2 img no alt, few links | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/electric-cable-testing-for-photovoltaic-systems",
+    "slug": "electric-cable-testing-for-photovoltaic-systems",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 2 | 348 | no meta, 6 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/en-62304-2006-a1-2015",
+    "slug": "en-62304-2006-a1-2015",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 2 | 441 | no meta, no H2, few links | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/power-supply-equipment-testing",
+    "slug": "power-supply-equipment-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 507 | 8 img no alt, few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/endoscopic-equipment-testing",
+    "slug": "endoscopic-equipment-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 369 | 4 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/blood-pressure-monitor-testing",
+    "slug": "blood-pressure-monitor-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 357 | 4 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/smps-units-and-transformers-for-smps-units-iec-61558-2-16",
+    "slug": "smps-units-and-transformers-for-smps-units-iec-61558-2-16",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 2 | 165 | no meta, thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/iso-10218-1-industrial-robots",
+    "slug": "iso-10218-1-industrial-robots",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 981 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers",
+    "slug": "iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 1314 | long title, few links | KEEP – keep the encoded URL exactly",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-humidity-chamber",
+    "slug": "calibration-of-humidity-chamber",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 986 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/ista-1a-1b-1c-1d-testing",
+    "slug": "ista-1a-1b-1c-1d-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 699 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79",
+    "slug": "optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 2 | 857 | long title, 14 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/variable-message-signs-vms",
+    "slug": "variable-message-signs-vms",
+    "action": "REDIRECT",
+    "redirectTo": "/en-12966-testing",
+    "note": "0 / 1 | 237 | thin | 301 → /en-12966-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/stationary-lead-acid-battery",
+    "slug": "stationary-lead-acid-battery",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 569 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/cable-tray-safe-working-load-test-swl",
+    "slug": "cable-tray-safe-working-load-test-swl",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 491 | – | KEEP – its image has 66 referring domains",
+    "reserved": false
+  },
+  {
+    "path": "/what-is-iec-60601-1",
+    "slug": "what-is-iec-60601-1",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60601-1",
+    "note": "0 / 1 | 168 | no meta, thin | 301 → /iec-60601-1/",
+    "reserved": false
+  },
+  {
+    "path": "/what-is-tm-21",
+    "slug": "what-is-tm-21",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 435 | 8 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/efficiency-test-method-iec-60034-2-1",
+    "slug": "efficiency-test-method-iec-60034-2-1",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 285 | thin | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/switch-test-as-per-iec-60669-1",
+    "slug": "switch-test-as-per-iec-60669-1",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 580 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/cispr-32-en-55032",
+    "slug": "cispr-32-en-55032",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 237 | thin, 8 img no alt | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/laser-power-meter-calibration",
+    "slug": "laser-power-meter-calibration",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 1 | 636 | no meta, no H2, 4 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/ce-marking-of-face-mask",
+    "slug": "ce-marking-of-face-mask",
+    "action": "REDIRECT",
+    "redirectTo": "/face-mask-testing-lab",
+    "note": "0 / 1 | 118 | no meta, thin, few links | 301 → /face-mask-testing-lab/",
+    "reserved": false
+  },
+  {
+    "path": "/customer-support",
+    "slug": "customer-support",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 1 | 10 | no meta, thin, few links | KEEP – add 2–3 lines of text + meta",
+    "reserved": false
+  },
+  {
+    "path": "/free-testing-for-ventilators-as-per-iso-80601-2-12-iec-60601-1",
+    "slug": "free-testing-for-ventilators-as-per-iso-80601-2-12-iec-60601-1",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-80601-2-12-certification-for-critical-care-ventilators",
+    "note": "0 / 1 | 241 | thin, few links | 301 → /iec-80601-2-12-certification-for-critical-care-ventilators/",
+    "reserved": false
+  },
+  {
+    "path": "/led-ot-light-testing",
+    "slug": "led-ot-light-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 200 | thin | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/luminaries-led-product-testing",
+    "slug": "luminaries-led-product-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 235 | thin, 2 img no alt, few links | EXPAND – 3,185 backlinks; never change URL",
+    "reserved": false
+  },
+  {
+    "path": "/photometry-testing",
+    "slug": "photometry-testing",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "0 / 1 | 27 | no meta, thin | REWRITE – Photometry hub",
+    "reserved": false
+  },
+  {
+    "path": "/photovoltatc-pv-modules-testing",
+    "slug": "photovoltatc-pv-modules-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 64 | thin, few links | EXPAND – fix label \"Photovoltaic\", keep URL",
+    "reserved": false
+  },
+  {
+    "path": "/products",
+    "slug": "products",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 347 | few links | KEEP",
+    "reserved": true
+  },
+  {
+    "path": "/solar-fence-energizer-testing",
+    "slug": "solar-fence-energizer-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 119 | thin, few links | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/testing-services-core-areas-2",
+    "slug": "testing-services-core-areas-2",
+    "action": "REDIRECT",
+    "redirectTo": "/services",
+    "note": "0 / 1 | 156 | thin, few links | 301 → /services/",
+    "reserved": false
+  },
+  {
+    "path": "/vertical-road-signs-and-variable-message-signs-testing",
+    "slug": "vertical-road-signs-and-variable-message-signs-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/en-12966-testing",
+    "note": "0 / 1 | 184 | thin, few links | 301 → /en-12966-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-voltage-dips-and-short-interruption",
+    "slug": "calibration-of-voltage-dips-and-short-interruption",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 1 | 322 | no meta, long title, 16 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/mil-std-810-g-test-method-505-5-solar-radiation-sunshine",
+    "slug": "mil-std-810-g-test-method-505-5-solar-radiation-sunshine",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 1081 | 2 img no alt, few links | KEEP – link to /solar-radiation-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/safety-of-power-converters-testing-photovoltaic-power-systems-up-to-20kva-iec-62109-1-is-16221part-1",
+    "slug": "safety-of-power-converters-testing-photovoltaic-power-systems-up-to-20kva-iec-62109-1-is-16221part-1",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 108 | no meta, long title, thin, 2 img no alt, few links | EXPAND – keep text, add 400+ words",
+    "reserved": false
+  },
+  {
+    "path": "/iso-17088-testing-plastics-organic-recycling-compostable-plastics",
+    "slug": "iso-17088-testing-plastics-organic-recycling-compostable-plastics",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 526 | – | KEEP – link to /biodegradability/",
+    "reserved": false
+  },
+  {
+    "path": "/iso-54122022-compostable-plastic-shopping-bags-testing",
+    "slug": "iso-54122022-compostable-plastic-shopping-bags-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 980 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments",
+    "slug": "iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 1567 | long title | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-34-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-invasive-blood-pressure-monitoring-equipment",
+    "slug": "iec-60601-2-34-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-invasive-blood-pressure-monitoring-equipment",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 754 | long title | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/camera-ip-testing",
+    "slug": "camera-ip-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 995 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/grp-electrical-enclosure-testing",
+    "slug": "grp-electrical-enclosure-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 439 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/infrared-heater-testing",
+    "slug": "infrared-heater-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 445 | 2 img no alt, few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/geometrical-accuracy-test-as-per-is-14877",
+    "slug": "geometrical-accuracy-test-as-per-is-14877",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 701 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/is-7872-testing-deep-freezers",
+    "slug": "is-7872-testing-deep-freezers",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 791 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-12-electric-warming-plates-testing",
+    "slug": "iec-60335-12-electric-warming-plates-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60335-2-12-warming-plate-testing-india",
+    "note": "0 / 1 | 813 | – | 301 → /iec-60335-2-12-warming-plate-testing-india/",
+    "reserved": false
+  },
+  {
+    "path": "/mixed-flowing-gas-mfg-testing",
+    "slug": "mixed-flowing-gas-mfg-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 665 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/particle-counter-calibration",
+    "slug": "particle-counter-calibration",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "0 / 1 | 562 | no meta, 4 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/6420-2",
+    "slug": "6420-2",
+    "action": "REDIRECT",
+    "redirectTo": "/biodegradability",
+    "note": "0 / 1 | 741 | no meta, no H2, 4 img no alt | 301 → /biodegradability/",
+    "reserved": false
+  },
+  {
+    "path": "/about-us",
+    "slug": "about-us",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "0 / 1 | 500 | no H2, few links | EXPAND – story, team, accreditations, facility photos",
+    "reserved": true
+  },
+  {
+    "path": "/iec-60601-1-2-emc-testing",
+    "slug": "iec-60601-1-2-emc-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 978 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61000-6-1-emc-testing",
+    "slug": "iec-61000-6-1-emc-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 976 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/jss-50101-testing",
+    "slug": "jss-50101-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 940 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61373-vibration-testing",
+    "slug": "iec-61373-vibration-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 987 | 2 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/nabl-scope-certificate-india",
+    "slug": "nabl-scope-certificate-india",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 / 1 | 994 | 2 img no alt | KEEP – keep scope PDF paths",
+    "reserved": false
+  },
+  {
+    "path": "/jss-5855-11-testing-2",
+    "slug": "jss-5855-11-testing-2",
+    "action": "REDIRECT",
+    "redirectTo": "/jss-5855-11-testing",
+    "note": "0 / 1 | 886 | 2 img no alt, few links | 301 → /jss-5855-11-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/slot-big-bass-bonanza-megaways",
+    "slug": "slot-big-bass-bonanza-megaways",
+    "action": "DELETE",
+    "redirectTo": null,
+    "note": "1669 | no meta, long title | DELETE (410) – gambling spam. Security check needed.",
+    "reserved": false
+  },
+  {
+    "path": "/founding-of-youtube-a-short-history",
+    "slug": "founding-of-youtube-a-short-history",
+    "action": "DELETE",
+    "redirectTo": null,
+    "note": "412 | no meta | DELETE (410) – off-topic",
+    "reserved": false
+  },
+  {
+    "path": "/digital-marketing-trends-that-still-matter-in-2026",
+    "slug": "digital-marketing-trends-that-still-matter-in-2026",
+    "action": "DELETE",
+    "redirectTo": null,
+    "note": "131 | no meta, thin | DELETE (410) – off-topic",
+    "reserved": false
+  },
+  {
+    "path": "/welcome-to-itc-india-2",
+    "slug": "welcome-to-itc-india-2",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "157 | thin | 301 → /",
+    "reserved": false
+  },
+  {
+    "path": "/welcome-to-itc-india-3",
+    "slug": "welcome-to-itc-india-3",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "246 | thin | 301 → /",
+    "reserved": false
+  },
+  {
+    "path": "/emc-testing",
+    "slug": "emc-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/emc-emi-testing",
+    "note": "702 | 4 img no alt | 301 → /emc-emi-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/biodegradability-testing",
+    "slug": "biodegradability-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/biodegradability",
+    "note": "747 | no meta, no H2 | 301 → /biodegradability/",
+    "reserved": false
+  },
+  {
+    "path": "/uv-light-bulbs-testing",
+    "slug": "uv-light-bulbs-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/testing-of-uv-light-bulbs",
+    "note": "7 | thin | 301 → /testing-of-uv-light-bulbs/",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-eletrical-fast-transients",
+    "slug": "calibration-of-eletrical-fast-transients",
+    "action": "REDIRECT",
+    "redirectTo": "/calibration-of-electrical-fast-transients",
+    "note": "627 | no meta | 301 → /calibration-of-electrical-fast-transients/ (typo duplicate)",
+    "reserved": false
+  },
+  {
+    "path": "/thermopile-pyranometer-calibration",
+    "slug": "thermopile-pyranometer-calibration",
+    "action": "REDIRECT",
+    "redirectTo": "/calibration-of-pyranometer/,",
+    "note": "561 | – | MERGE → /calibration-of-pyranometer/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/recalibrate-pyranometer",
+    "slug": "recalibrate-pyranometer",
+    "action": "REDIRECT",
+    "redirectTo": "/calibration-of-pyranometer/,",
+    "note": "337 | – | MERGE → /calibration-of-pyranometer/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-pyranometer-in-nabl-scope",
+    "slug": "calibration-of-pyranometer-in-nabl-scope",
+    "action": "REDIRECT",
+    "redirectTo": "/calibration-of-pyranometer/,",
+    "note": "399 | long title (stray %) | MERGE → /calibration-of-pyranometer/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/why-iec-60601",
+    "slug": "why-iec-60601",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60601-1/,",
+    "note": "333 | no meta, no H2 | MERGE → /iec-60601-1/, then 301",
+    "reserved": false
+  },
+  {
+    "path": "/en-60204-1-safety-of-machinery",
+    "slug": "en-60204-1-safety-of-machinery",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60204-1-testing",
+    "note": "268 | thin | 301 → /iec-60204-1-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60204-1-safety-of-machinery-electrical-equipment-of-machines-lab",
+    "slug": "iec-60204-1-safety-of-machinery-electrical-equipment-of-machines-lab",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60204-1-testing",
+    "note": "435 | no H2 | 301 → /iec-60204-1-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/household-equipment-testing",
+    "slug": "household-equipment-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/household",
+    "note": "159 | thin | 301 → /household/",
+    "reserved": false
+  },
+  {
+    "path": "/home-solutions-for-product-development-service-enhancement-under-iec-60335-standards",
+    "slug": "home-solutions-for-product-development-service-enhancement-under-iec-60335-standards",
+    "action": "REDIRECT",
+    "redirectTo": "/household",
+    "note": "487 | long title, 20 img no alt | 301 → /household/ and point the menu to /household/",
+    "reserved": false
+  },
+  {
+    "path": "/ingress-protection-ip-testing",
+    "slug": "ingress-protection-ip-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/ip-testing-laboratory-india",
+    "note": "343 | no H2 | 301 → /ip-testing-laboratory-india/",
+    "reserved": false
+  },
+  {
+    "path": "/medical-bed-testing",
+    "slug": "medical-bed-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60601-2-52-the-safety-standard-for-medical-beds",
+    "note": "70 | thin | 301 → /iec-60601-2-52-the-safety-standard-for-medical-beds/",
+    "reserved": false
+  },
+  {
+    "path": "/mixer-grinder-testing",
+    "slug": "mixer-grinder-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/electrical-kitchen-machine-testing",
+    "note": "87 | thin | 301 → /electrical-kitchen-machine-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-electric-food-mixers-grinders-is-4250",
+    "slug": "testing-of-electric-food-mixers-grinders-is-4250",
+    "action": "REDIRECT",
+    "redirectTo": "/electrical-kitchen-machine-testing",
+    "note": "134 | thin | 301 → /electrical-kitchen-machine-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/mixing-and-stirring-laboratory-equipment-testing-as-per-standard-iec-61010-2-051",
+    "slug": "mixing-and-stirring-laboratory-equipment-testing-as-per-standard-iec-61010-2-051",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-61010-2-051-testing",
+    "note": "226 | thin | 301 → /iec-61010-2-051-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/patient-monitor-testing-is-13450-part-2-sec-49-iec-80601-2-49-iso-80601-2-49",
+    "slug": "patient-monitor-testing-is-13450-part-2-sec-49-iec-80601-2-49-iso-80601-2-49",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-80601-2-49-testing",
+    "note": "148 | thin | 301 → /iec-80601-2-49-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/ventilators-testing-lab-iso-80601-2-12",
+    "slug": "ventilators-testing-lab-iso-80601-2-12",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-80601-2-12-certification-for-critical-care-ventilators",
+    "note": "243 | thin | 301 → /iec-80601-2-12-certification-for-critical-care-ventilators/",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-commercial-refrigerators-freezers-60035-2-24",
+    "slug": "testing-of-commercial-refrigerators-freezers-60035-2-24",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing",
+    "note": "212 | thin, typo | 301 → /iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/safety-of-laser-products-bs-en-60825-1iec-60825-42022rlv",
+    "slug": "safety-of-laser-products-bs-en-60825-1iec-60825-42022rlv",
+    "action": "REDIRECT",
+    "redirectTo": "/laser-testing-iec-60825-1",
+    "note": "126 | thin | 301 → /laser-testing-iec-60825-1/",
+    "reserved": false
+  },
+  {
+    "path": "/recycling-testing",
+    "slug": "recycling-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/recyclability-test",
+    "note": "0 | empty | 301 → /recyclability-test/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-3-is-302-2-3-electric-iron-testing",
+    "slug": "iec-60335-2-3-is-302-2-3-electric-iron-testing",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60335-2-3-safety-testing-india",
+    "note": "1034 | ALL-CAPS title | 301 → /iec-60335-2-3-safety-testing-india/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-24",
+    "slug": "iec-60335-2-24",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-60335-2-24-safety-testing-india",
+    "note": "891 | – | 301 → /iec-60335-2-24-safety-testing-india/",
+    "reserved": false
+  },
+  {
+    "path": "/thank-you",
+    "slug": "thank-you",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "60 | thin | NOINDEX (keep live)",
+    "reserved": false
+  },
+  {
+    "path": "/confirm-subscription",
+    "slug": "confirm-subscription",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "11 | thin | NOINDEX (keep live)",
+    "reserved": false
+  },
+  {
+    "path": "/payment",
+    "slug": "payment",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "0 | empty | NOINDEX (keep live)",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-1-testing",
+    "slug": "iec-60601-1-testing",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "911 | wrong title | FIX TITLE – \"IEC 60601-1 Testing for Medical Equipment | ITC India\"",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-3-safety-testing-india",
+    "slug": "iec-60335-2-3-safety-testing-india",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "1086 | title typo \"IIEC\" | FIX TITLE – \"IEC 60335-2-3 Electric Iron Testing India | ITC India\"",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-2-testing-services",
+    "slug": "iec-60601-2-2-testing-services",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "699 | stray \"%\", repeated text | FIX TITLE – \"IEC 60601-2-2 Testing for HF Surgical Equipment | ITC India\"",
+    "reserved": false
+  },
+  {
+    "path": "/household",
+    "slug": "household",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "989 | title cut off \"ITC Indi\" | FIX TITLE – \"Household Appliance Testing Lab | IEC 60335 – ITC India\"; appliance hub",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-surgical-unit-esu",
+    "slug": "electrical-surgical-unit-esu",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "622 | no meta, title ends \" 1\" | FIX TITLE + add meta",
+    "reserved": false
+  },
+  {
+    "path": "/ip41-protection-rating",
+    "slug": "ip41-protection-rating",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "534 | 2 H1s, long title | CTR FIX – new title/meta in Content tab",
+    "reserved": false
+  },
+  {
+    "path": "/ip42-protection-rating-testing",
+    "slug": "ip42-protection-rating-testing",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "1064 | – | CTR FIX – new title/meta in Content tab",
+    "reserved": false
+  },
+  {
+    "path": "/astm-d999-vibration-testing-of-shipping-containers",
+    "slug": "astm-d999-vibration-testing-of-shipping-containers",
+    "action": "CTR",
+    "redirectTo": null,
+    "note": "764 | – | CTR FIX – new title/meta in Content tab",
+    "reserved": false
+  },
+  {
+    "path": "/mechanical-testing",
+    "slug": "mechanical-testing",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "25 | thin | REWRITE – Mechanical & Chemical hub",
+    "reserved": false
+  },
+  {
+    "path": "/software-testing",
+    "slug": "software-testing",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "8 | thin | REWRITE – Software hub",
+    "reserved": false
+  },
+  {
+    "path": "/machinery-equipment-testing-2",
+    "slug": "machinery-equipment-testing-2",
+    "action": "REWRITE",
+    "redirectTo": null,
+    "note": "136 | thin | REWRITE – Machinery hub (linked from home)",
+    "reserved": false
+  },
+  {
+    "path": "/lithium-ion-battery-testing",
+    "slug": "lithium-ion-battery-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "354 | no meta, no H2 | EXPAND – lithium battery hub (links IS 16046, UN 38.3, sodium-ion)",
+    "reserved": false
+  },
+  {
+    "path": "/photovoltaic-energy-system-iec-61427",
+    "slug": "photovoltaic-energy-system-iec-61427",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "81 | thin | EXPAND – linked from home product families",
+    "reserved": false
+  },
+  {
+    "path": "/it-equipments-testing",
+    "slug": "it-equipments-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "99 | thin | EXPAND – or merge into /electronic-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/control-panel-training-program",
+    "slug": "control-panel-training-program",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "10 | images only | ADD – text version of the course",
+    "reserved": false
+  },
+  {
+    "path": "/itc-india-pvt-ltd-receives-nabl-and-bis-accreditation",
+    "slug": "itc-india-pvt-ltd-receives-nabl-and-bis-accreditation",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "309 | – | KEEP – evidence for the BIS claim; link from About",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60204-1-testing",
+    "slug": "iec-60204-1-testing",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "636 | 6 img no alt | KEEP – receives 2 merged IEC 60204 pages",
+    "reserved": false
+  },
+  {
+    "path": "/blog",
+    "slug": "blog",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "71 | listing page | KEEP – add a 2-line intro",
+    "reserved": false
+  },
+  {
+    "path": "/inquiry",
+    "slug": "inquiry",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "71 | form page | KEEP – main quote page",
+    "reserved": false
+  },
+  {
+    "path": "/privacy-policy",
+    "slug": "privacy-policy",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "255 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/terms-conditions",
+    "slug": "terms-conditions",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "383 | no meta | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/jobs",
+    "slug": "jobs",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "787 | no meta | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/packaging",
+    "slug": "packaging",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "965 | 2 img no alt | KEEP – hub, add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/drone-information-security-testing",
+    "slug": "drone-information-security-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "2238 | no meta, no H2 | KEEP – hub; add meta + H2s",
+    "reserved": false
+  },
+  {
+    "path": "/drone-information-security-testing-complete-client-guide-itc",
+    "slug": "drone-information-security-testing-complete-client-guide-itc",
+    "action": "REDIRECT",
+    "redirectTo": "/drone-information-security-testing/,",
+    "note": "2246 | no meta, no H2 | MERGE → /drone-information-security-testing/, then 301 (near-identical text)",
+    "reserved": false
+  },
+  {
+    "path": "/cable-gland-testing",
+    "slug": "cable-gland-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "656 | no H2 | KEEP – add H2s; its image has 83 referring domains",
+    "reserved": false
+  },
+  {
+    "path": "/ip56-protection-rating-testing",
+    "slug": "ip56-protection-rating-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1012 | – | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/ip-68-upto-5bar-testing",
+    "slug": "ip-68-upto-5bar-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "836 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/ip69k-protection-rating-testing",
+    "slug": "ip69k-protection-rating-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "977 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/rain-test-services-india",
+    "slug": "rain-test-services-india",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "994 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iso-20653-ip-testing",
+    "slug": "iso-20653-ip-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1062 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60068-2-6-vibration-testing-2-2",
+    "slug": "iec-60068-2-6-vibration-testing-2-2",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "880 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/mil-std-810h-vibration-shock-testing",
+    "slug": "mil-std-810h-vibration-shock-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "848 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/jss-0256-01-testing",
+    "slug": "jss-0256-01-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "931 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/jss-55555-2012-mil-std-461-g",
+    "slug": "jss-55555-2012-mil-std-461-g",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "933 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/rdso-tl-0091-testing",
+    "slug": "rdso-tl-0091-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "791 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/rdso-photometry-testing-led-luminaries",
+    "slug": "rdso-photometry-testing-led-luminaries",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "968 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/rdso-environmental-testing-for-led-based-luminaries",
+    "slug": "rdso-environmental-testing-for-led-based-luminaries",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "998 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60571-testing-services-india",
+    "slug": "iec-60571-testing-services-india",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "843 | long title | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/solar-radiation-testing",
+    "slug": "solar-radiation-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "834 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/ul-50e-testing",
+    "slug": "ul-50e-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "891 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/en-301-489-1-testing",
+    "slug": "en-301-489-1-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1064 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/en-301-489-19-testing",
+    "slug": "en-301-489-19-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "601 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/en-301-489-52-v1-2-1-testing",
+    "slug": "en-301-489-52-v1-2-1-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "997 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61010-1-testing",
+    "slug": "iec-61010-1-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "856 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61010-2-010-testing",
+    "slug": "iec-61010-2-010-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "946 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61010-2-011-testing",
+    "slug": "iec-61010-2-011-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "942 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61010-2-051-testing",
+    "slug": "iec-61010-2-051-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "958 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61010-2-101-testing-services",
+    "slug": "iec-61010-2-101-testing-services",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1013 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-1-safety-testing-india",
+    "slug": "iec-60335-1-safety-testing-india",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1061 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-9-electrical-cooking-appliances-testing",
+    "slug": "iec-60335-2-9-electrical-cooking-appliances-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "952 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-12-warming-plate-testing-india",
+    "slug": "iec-60335-2-12-warming-plate-testing-india",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1027 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-23-testing",
+    "slug": "iec-60335-2-23-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "794 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-24-safety-testing-india",
+    "slug": "iec-60335-2-24-safety-testing-india",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "897 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/electric-shaver-safety-testing",
+    "slug": "electric-shaver-safety-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1123 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-kitchen-machine-testing",
+    "slug": "electrical-kitchen-machine-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1125 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/washing-machine-safety-testing",
+    "slug": "washing-machine-safety-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1115 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-10",
+    "slug": "iec-60601-2-10",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "818 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-20-testing",
+    "slug": "iec-60601-2-20-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "957 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants",
+    "slug": "iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "986 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-80601-2-12-certification-for-critical-care-ventilators",
+    "slug": "iec-80601-2-12-certification-for-critical-care-ventilators",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "902 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-80601-2-74",
+    "slug": "iec-80601-2-74",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1015 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-80601-2-49-testing",
+    "slug": "iec-80601-2-49-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "449 | 4 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-27-testing",
+    "slug": "iec-60601-2-27-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "836 | long title | KEEP – shorten title",
+    "reserved": false
+  },
+  {
+    "path": "/iso-10218-robotics-safety-testing",
+    "slug": "iso-10218-robotics-safety-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1059 | 2 img no alt | KEEP – add FAQ schema",
+    "reserved": false
+  },
+  {
+    "path": "/iec-62368-1-2023-testing",
+    "slug": "iec-62368-1-2023-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "404 | long title, 8 img no alt | KEEP – expand; target for IS 13252 page link",
+    "reserved": false
+  },
+  {
+    "path": "/iec-62471-photobiological-safety-of-lamps-and-lamp-systems",
+    "slug": "iec-62471-photobiological-safety-of-lamps-and-lamp-systems",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "813 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing",
+    "slug": "iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "1369 | long title (ALL CAPS) | KEEP – fix title case",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-5-the-safety-of-electric-dishwashers-for-household",
+    "slug": "iec-60335-2-5-the-safety-of-electric-dishwashers-for-household",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1328 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-11-particular-requirements-for-tumble-dryers",
+    "slug": "iec-60335-11-particular-requirements-for-tumble-dryers",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "812 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/safety-standard-as-per-iec-60335-8",
+    "slug": "safety-standard-as-per-iec-60335-8",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "733 | ALL-CAPS title | KEEP – fix title case",
+    "reserved": false
+  },
+  {
+    "path": "/ista-2a-2b-2c",
+    "slug": "ista-2a-2b-2c",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "594 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/crash-test-as-per-iec-61010-1",
+    "slug": "crash-test-as-per-iec-61010-1",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1141 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iso-13482-safety-requirement-for-personal-care-robots",
+    "slug": "iso-13482-safety-requirement-for-personal-care-robots",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "1019 | ALL-CAPS title | KEEP – fix title case",
+    "reserved": false
+  },
+  {
+    "path": "/iso-31101-services-provided-by-service-robots-safety-management-systems-requirements",
+    "slug": "iso-31101-services-provided-by-service-robots-safety-management-systems-requirements",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "864 | long title | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators",
+    "slug": "iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1322 | long title | KEEP – shorten title",
+    "reserved": false
+  },
+  {
+    "path": "/resistance-to-salt-and-sulfur-dioxide-laden-atmospheres-as-per-bs-en-50262",
+    "slug": "resistance-to-salt-and-sulfur-dioxide-laden-atmospheres-as-per-bs-en-50262",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1174 | long title | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/surface-coolant-temperature-by-using-ir-camera-testing",
+    "slug": "surface-coolant-temperature-by-using-ir-camera-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "764 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/submerged-motor-ip-testing",
+    "slug": "submerged-motor-ip-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "690 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-profile-projectors",
+    "slug": "calibration-of-profile-projectors",
+    "action": "FIX_TITLE",
+    "redirectTo": null,
+    "note": "677 | ALL-CAPS title | KEEP – fix title case",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-for-impulse-measuring-system",
+    "slug": "calibration-for-impulse-measuring-system",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "565 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/cm4-calibration-as-per-iso-9060",
+    "slug": "cm4-calibration-as-per-iso-9060",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "526 | few links | KEEP – link to pyranometer hub",
+    "reserved": false
+  },
+  {
+    "path": "/smp-10-calibration-pyranometer",
+    "slug": "smp-10-calibration-pyranometer",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "543 | 2 img no alt | KEEP – link to pyranometer hub",
+    "reserved": false
+  },
+  {
+    "path": "/infrared-optometer-calibration-testing",
+    "slug": "infrared-optometer-calibration-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "505 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-surge-generator",
+    "slug": "calibration-of-surge-generator",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "713 | 18 img no alt | KEEP – add alt text",
+    "reserved": false
+  },
+  {
+    "path": "/calibration-of-electrical-fast-transients",
+    "slug": "calibration-of-electrical-fast-transients",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "620 | no meta, 8 img no alt | KEEP – add meta",
+    "reserved": false
+  },
+  {
+    "path": "/iec-62208-testing-empty-enclosures-for-low-voltage-switchgear-and-controlgear-assemblies",
+    "slug": "iec-62208-testing-empty-enclosures-for-low-voltage-switchgear-and-controlgear-assemblies",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "514 | long title | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/sodium-ion-cell-battery-testing",
+    "slug": "sodium-ion-cell-battery-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "537 | 6 img no alt | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/luminaire-ip-testing-ensuring-quality-and-safety",
+    "slug": "luminaire-ip-testing-ensuring-quality-and-safety",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "432 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/conduit-testing-iec-61386-23",
+    "slug": "conduit-testing-iec-61386-23",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "482 | – | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08",
+    "slug": "comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "1028 | long title | KEEP – link to /lm-79-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/en-12966-testing",
+    "slug": "en-12966-testing",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "630 | 14 img no alt | KEEP – receives 2 merged road-sign pages",
+    "reserved": false
+  },
+  {
+    "path": "/electronic-push-button-telephone-testing",
+    "slug": "electronic-push-button-telephone-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "467 | 2 H1s | KEEP – one H1",
+    "reserved": false
+  },
+  {
+    "path": "/antenna-and-convertor-testing",
+    "slug": "antenna-and-convertor-testing",
+    "action": "KEEP",
+    "redirectTo": null,
+    "note": "386 | few links | KEEP",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-micro-wave-ovens",
+    "slug": "testing-of-micro-wave-ovens",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "653 | long title, no H2 | LOW: add H2s, meta, FAQ",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-safety-testing-for-lighting-products",
+    "slug": "electrical-safety-testing-for-lighting-products",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "485 | no H2 | LOW: add H2s, FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/room-heater-testing",
+    "slug": "room-heater-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "382 | no H2 | LOW: add H2s, FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-automatic-sanitizer-dispenser-soap-dispenser-as-per-iec-60335-1",
+    "slug": "testing-of-automatic-sanitizer-dispenser-soap-dispenser-as-per-iec-60335-1",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "341 | long title, no H2 | LOW: add H2s, FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/recyclability-test",
+    "slug": "recyclability-test",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "574 | no meta, no H2 | LOW: add meta, H2s; receives /recycling-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-52-the-safety-standard-for-medical-beds",
+    "slug": "iec-60601-2-52-the-safety-standard-for-medical-beds",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "400 | no meta, no H2 | LOW: add meta, H2s; receives /medical-bed-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/laser-testing-iec-60825-1",
+    "slug": "laser-testing-iec-60825-1",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "897 | no meta | LOW: add meta",
+    "reserved": false
+  },
+  {
+    "path": "/chemical-testing-services",
+    "slug": "chemical-testing-services",
+    "action": "REDIRECT",
+    "redirectTo": "/chemical-testing-and-analysis/,",
+    "note": "329 | no meta | MERGE → /chemical-testing-and-analysis/, then 301 (same topic)",
+    "reserved": false
+  },
+  {
+    "path": "/expert-infusion-pump-testing",
+    "slug": "expert-infusion-pump-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "709 | no meta | LOW: add meta",
+    "reserved": false
+  },
+  {
+    "path": "/spectroradiometer-wavelength-calibration-services",
+    "slug": "spectroradiometer-wavelength-calibration-services",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "412 | no meta, no H2 | LOW: add meta, H2s",
+    "reserved": false
+  },
+  {
+    "path": "/iot-embedded-system-testing-services",
+    "slug": "iot-embedded-system-testing-services",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "782 | no meta | LOW: add meta",
+    "reserved": false
+  },
+  {
+    "path": "/electrical-safety-in-hospitals-and-medical-locations",
+    "slug": "electrical-safety-in-hospitals-and-medical-locations",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "1538 | no meta, 10 img no alt | LOW: add meta",
+    "reserved": false
+  },
+  {
+    "path": "/ip65-testing-unveiled-how-to-ensure-your-gadgets-survive-extreme-conditions",
+    "slug": "ip65-testing-unveiled-how-to-ensure-your-gadgets-survive-extreme-conditions",
+    "action": "LOW",
+    "redirectTo": null,
+    "note": "2016 | long title | LOW: shorten title to \"IP65 Testing: Meaning, Test Method & Lab | ITC India\"",
+    "reserved": false
+  },
+  {
+    "path": "/professional-grade-infant-incubator-testing",
+    "slug": "professional-grade-infant-incubator-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "406 | no meta | LOW: add meta",
+    "reserved": false
+  },
+  {
+    "path": "/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements",
+    "slug": "cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "544 | no meta, no H2 | LOW: add meta; link to pyranometer hub",
+    "reserved": false
+  },
+  {
+    "path": "/swaat-testing",
+    "slug": "swaat-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "511 | no meta, no H2 | LOW: add meta, H2s",
+    "reserved": false
+  },
+  {
+    "path": "/precision-calibration-of-standard-lamps",
+    "slug": "precision-calibration-of-standard-lamps",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "482 | no meta, no H2 | LOW: add meta, H2s",
+    "reserved": false
+  },
+  {
+    "path": "/iec-61537-testing-ensuring-reliability-in-cable-tray-systems",
+    "slug": "iec-61537-testing-ensuring-reliability-in-cable-tray-systems",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "501 | no meta, no H2 | LOW: add meta; link to /cable-tray-testing-laboratory/",
+    "reserved": false
+  },
+  {
+    "path": "/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3",
+    "slug": "mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "440 | no meta, long title | LOW: add meta, shorten title",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60269-general-rules-low-voltage-power-fuses",
+    "slug": "iec-60269-general-rules-low-voltage-power-fuses",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "585 | no H2 | LOW: add H2s, FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60269-2-low-voltage-fuses",
+    "slug": "iec-60269-2-low-voltage-fuses",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "375 | no H2 | LOW: add H2s, FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/useful-lumens",
+    "slug": "useful-lumens",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "305 | – | LOW: add FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/iec-en-60073",
+    "slug": "iec-en-60073",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "314 | no H2 | LOW: expand – GSC: \"iec 60073\" 217 impressions at pos 4.4",
+    "reserved": false
+  },
+  {
+    "path": "/bs-en-iec-60335-2-16",
+    "slug": "bs-en-iec-60335-2-16",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "464 | – | LOW: add FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/bs-en-iec-60335-2-7",
+    "slug": "bs-en-iec-60335-2-7",
+    "action": "LOW",
+    "redirectTo": null,
+    "note": "572 | long title | LOW: link to /washing-machine-safety-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60896-22-stationary-lead-acid-batteries-part-22",
+    "slug": "iec-60896-22-stationary-lead-acid-batteries-part-22",
+    "action": "LOW",
+    "redirectTo": null,
+    "note": "417 | 2 H1s | LOW: one H1; link to /battery-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60896-11",
+    "slug": "iec-60896-11",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "401 | no meta, no H2 | LOW: add meta, H2s",
+    "reserved": false
+  },
+  {
+    "path": "/photobiological-safety-of-lamps-and-lamp-systems",
+    "slug": "photobiological-safety-of-lamps-and-lamp-systems",
+    "action": "REDIRECT",
+    "redirectTo": "/iec-62471-photobiological-safety-of-lamps-and-lamp-systems/,",
+    "note": "425 | – | MERGE → /iec-62471-photobiological-safety-of-lamps-and-lamp-systems/, then 301 (same topic)",
+    "reserved": false
+  },
+  {
+    "path": "/high-frequency-surgical-equipment",
+    "slug": "high-frequency-surgical-equipment",
+    "action": "LOW",
+    "redirectTo": null,
+    "note": "358 | 4 img no alt | LOW: link to /iec-60601-2-2-testing-services/",
+    "reserved": false
+  },
+  {
+    "path": "/testing-of-luminaries-by-itc-india-pvt-ltd",
+    "slug": "testing-of-luminaries-by-itc-india-pvt-ltd",
+    "action": "LOW",
+    "redirectTo": null,
+    "note": "488 | – | LOW: link to /luminaries-led-product-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/protection-against-patient-entrapment-in-non-moving-parts",
+    "slug": "protection-against-patient-entrapment-in-non-moving-parts",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "409 | no meta, no H2 | LOW: add meta, H2s",
+    "reserved": false
+  },
+  {
+    "path": "/how-can-you-avoid-emc-failure",
+    "slug": "how-can-you-avoid-emc-failure",
+    "action": "LOW",
+    "redirectTo": null,
+    "note": "340 | – | LOW: link to /emc-emi-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/en-iec-62262-impact-testing",
+    "slug": "en-iec-62262-impact-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "366 | – | LOW: add FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/iso-7175-testing",
+    "slug": "iso-7175-testing",
+    "action": "ADD",
+    "redirectTo": null,
+    "note": "698 | – | LOW: add FAQ, links",
+    "reserved": false
+  },
+  {
+    "path": "/flexible-cord-testing-iec-60227-1",
+    "slug": "flexible-cord-testing-iec-60227-1",
+    "action": "LOW",
+    "redirectTo": null,
+    "note": "302 | in both sitemaps | LOW: list once in sitemap",
+    "reserved": false
+  },
+  {
+    "path": "/iso-9847-calibration-of-field-pyranometers",
+    "slug": "iso-9847-calibration-of-field-pyranometers",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "263 | no meta, thin | LOW: expand; link to pyranometer hub",
+    "reserved": false
+  },
+  {
+    "path": "/flicker-test-on-led-luminaries",
+    "slug": "flicker-test-on-led-luminaries",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "267 | thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/why-safety-testing-compliance-of-batteries-is-important",
+    "slug": "why-safety-testing-compliance-of-batteries-is-important",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "262 | no meta, thin | LOW: expand or merge into /battery-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/safe-working-load-test-on-medical-beds",
+    "slug": "safe-working-load-test-on-medical-beds",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "296 | no meta, thin | LOW: merge into the IEC 60601-2-52 page",
+    "reserved": false
+  },
+  {
+    "path": "/cables-electromagnetic-compatible",
+    "slug": "cables-electromagnetic-compatible",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "165 | thin | LOW: expand or merge into /emc-emi-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/shipping-and-transportation-of-module-package-units",
+    "slug": "shipping-and-transportation-of-module-package-units",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "180 | thin, in both sitemaps | LOW: expand; list once in sitemap",
+    "reserved": false
+  },
+  {
+    "path": "/cct-calibration-procedure-for-a-standard-lamp",
+    "slug": "cct-calibration-procedure-for-a-standard-lamp",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "259 | no meta, thin | LOW: merge into /precision-calibration-of-standard-lamps/",
+    "reserved": false
+  },
+  {
+    "path": "/precision-lumen-calibration-for-halogen-lamps",
+    "slug": "precision-lumen-calibration-for-halogen-lamps",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "299 | no meta, thin | LOW: merge into /precision-calibration-of-standard-lamps/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60884-1-plugs-and-socket-outlets-for-household-and-similar-purpose",
+    "slug": "iec-60884-1-plugs-and-socket-outlets-for-household-and-similar-purpose",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "159 | thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/power-inverter-testing",
+    "slug": "power-inverter-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "219 | thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/laptop-and-monitor-testing",
+    "slug": "laptop-and-monitor-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "299 | thin | LOW: expand; link to IS 13252 page",
+    "reserved": false
+  },
+  {
+    "path": "/ups-testing",
+    "slug": "ups-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "222 | thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/flammability-test-on-conveyor-belt-en-iso-340",
+    "slug": "flammability-test-on-conveyor-belt-en-iso-340",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "155 | thin | LOW: merge into /flame-retardant-test-as-per-iso-340/",
+    "reserved": false
+  },
+  {
+    "path": "/is-8448-automatic-line-voltage-correctorsalvc",
+    "slug": "is-8448-automatic-line-voltage-correctorsalvc",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "246 | no meta, thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/servo-motor-operated-automatic-line-voltage-correctors-20kva-for-single-phase-s-9815-part-1",
+    "slug": "servo-motor-operated-automatic-line-voltage-correctors-20kva-for-single-phase-s-9815-part-1",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "154 | no meta, thin | LOW: expand or merge into the IS 8448 page",
+    "reserved": false
+  },
+  {
+    "path": "/iec-63356-12022-prv-led-light-source-characteristics",
+    "slug": "iec-63356-12022-prv-led-light-source-characteristics",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "95 | no meta, thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/rr-index",
+    "slug": "rr-index",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "240 | thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/gowns-drapes-testing",
+    "slug": "gowns-drapes-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "208 | thin | LOW: expand to 600+ words",
+    "reserved": false
+  },
+  {
+    "path": "/corrosion-testing",
+    "slug": "corrosion-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "152 | no meta, thin | LOW: expand; link to salt spray pages",
+    "reserved": false
+  },
+  {
+    "path": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+    "slug": "unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "275 | long title, thin | LOW: shorten title, expand",
+    "reserved": false
+  },
+  {
+    "path": "/welcome-to-itc-india/welcome-to-get-your-pcb-in-an-emc-proof-way-course",
+    "slug": "welcome-to-itc-india/welcome-to-get-your-pcb-in-an-emc-proof-way-course",
+    "action": "EXPAND",
+    "redirectTo": null,
+    "note": "133 | no meta, thin | LOW: expand course page; link from /training/",
+    "reserved": false
+  },
+  {
+    "path": "/accreditations-approval",
+    "slug": "accreditations-approval",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "5 | Keep if live, or 301 to /nabl-scope-certificate-india/",
+    "reserved": false
+  },
+  {
+    "path": "/accreditations-approval/nabl-scope-full",
+    "slug": "accreditations-approval/nabl-scope-full",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "1 | Keep or 301 to /nabl-scope-certificate-india/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-1-safety-standards-for-household-appliances",
+    "slug": "iec-60335-1-safety-standards-for-household-appliances",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "5 | Keep or 301 to /iec-60335-1-safety-testing-india/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60335-2-9-particular-requirements-for-toasters",
+    "slug": "iec-60335-2-9-particular-requirements-for-toasters",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "1 | Keep or 301 to /iec-60335-2-9-electrical-cooking-appliances-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/solar-radiation-test",
+    "slug": "solar-radiation-test",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "2 | Keep or 301 to /solar-radiation-testing/",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60601-2-27-particular-requirements-for-the-basic-safety-and-essential-performance-of-electro-cardiographic-monitoring",
+    "slug": "iec-60601-2-27-particular-requirements-for-the-basic-safety-and-essential-performance-of-electro-cardiographic-monitoring",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "1 | Old slug of /iec-60601-2-27-testing/; keep the 301",
+    "reserved": false
+  },
+  {
+    "path": "/iec-60068-environmental-conditioning/iec-60068-walkin-chamber",
+    "slug": "iec-60068-environmental-conditioning/iec-60068-walkin-chamber",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "2 | WordPress attachment page; 301 to the parent page",
+    "reserved": false
+  },
+  {
+    "path": "/presenting-power-safety-of-mccb-panel-board/what-is-function-of-mccb-in-electrical-circuit",
+    "slug": "presenting-power-safety-of-mccb-panel-board/what-is-function-of-mccb-in-electrical-circuit",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "1 | Attachment page; 301 to the parent page",
+    "reserved": false
+  },
+  {
+    "path": "/g-mark-and-ce-mark-certification/ce",
+    "slug": "g-mark-and-ce-mark-certification/ce",
+    "action": "REDIRECT",
+    "redirectTo": null,
+    "note": "1 | Attachment page; 301 to /g-mark-certification/ | http://www.itcindia.org/ | 3 | Host-level 301 to https://www.itcindia.org/ | Tag and category archives (146) | 109 tag pages and 37 category pages, ~88 words each, all indexed. | Only 3 tags rank, each for 1–2 keywords (/tag/electrosurgical-unit-p",
+    "reserved": false
+  }
+]

@@ -1,0 +1,293 @@
+{
+  "hero": "/images/page-heroes/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime.webp",
+  "heroPortrait": "/images/page-heroes/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-portrait.webp",
+  "generatedIntro": "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s1.webp",
+  "generatedMid": "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s1.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s2.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s3.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s4.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s5.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s6.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s7.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s8.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s9.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s10.webp",
+    "/images/page-sections/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oxime-s11.webp"
+  ],
+  "category": "medical",
+  "action": "KEEP",
+  "note": "0 / 1 | 1567 | long title | KEEP",
+  "slug": "iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments",
+  "path": "/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments",
+  "source": "https://www.itcindia.org/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/",
+  "ok": true,
+  "title": "ISO 80601-2-61:2017 Particular requirements for basic safety and essential performance of pulse oximeter equipments - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 80601-2-61:2017 entails, why it's important, and how you can use this standard to ensure safe practices in manufacturing pulse oximeter equipment.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The ISO 80601-2-61:2017 standard is a document published by the International Organization for Standardization (ISO). It covers medical electrical equipment used to measure the concentration of oxygen in a patient’s bloodstream, known as pulse oximeters.",
+        "Adopted by several countries, this standard establishes the minimum requirements for manufacturers to ensure the safety and performance of devices.",
+        "In this blog post, we will explore what ISO 80601-2-61:2017 entails, why it’s important, and how you can use this standard to ensure safe practices in manufacturing pulse oximeter equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Terms and definitions",
+      "paragraphs": [
+        "For the purposes of this document, the following terms and definitions apply. Medical electrical equipment: Equipment that uses electrical energy as its primary means of function and is intended to be used for medical purposes in order to diagnose, prevent, or treat a patient. Pulse oximeter: A medical electrical equipment used to measure the oxygen saturation of a patient’s blood. Oxygen saturation: The percentage of hemoglobin molecules in the blood that are carrying oxygen. Hemoglobin: A protein found in red blood cells that helps transport oxygen throughout the body."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/580fe6d3b505.webp",
+          "alt": "ISO 80601-2-61:2017"
+        }
+      ]
+    },
+    {
+      "heading": "ISO 80601-2-61:2017 Electrical safety requirements",
+      "paragraphs": [
+        "Pulse oximeters are medical devices that measure the oxygen saturation of a patient’s blood and are used in a variety of settings, including hospitals, clinics, and home care settings.",
+        "In order to use <a href=\"/pulse-oximeter-testing\">pulse oximeters</a> safely there are certain electrical safety requirements that must be met although this devices are generally safe devices. One of the most important electrical safety requirements for pulse oximeters is that they must be designed and constructed so that they will not shock the patient.",
+        "This means that the device must have proper insulation to prevent electricity from flowing through the patient’s body. In addition, the device must have a mechanism to protect the patient from being exposed to dangerous levels of electricity should the device malfunction. Another important electrical safety requirement for pulse oximeters is that they must be designed to operate within specific voltage and current limits.",
+        "This ensures that the device will not produce too much heat or cause other electrical hazards. Additionally, this requirement helps to ensure that the device will work properly with other medical devices and equipment. Finally, all pulse oximeters must be equipped with an emergency shut-off switch. This switch allows the user to quickly and easily turn off the power of device in case of an emergency."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Constructional safety requirements",
+      "paragraphs": [
+        "There are a few key constructional safety requirements that must be met in order to be safe use of oximeter. These requirements include: – The device must be designed and constructed so that it does not present any undue mechanical hazard during normal operation. – It must be designed and constructed so that it does not allow electrical shock to the user during normal operation. – Pulse oximeter must be designed and constructed so that it does not present any risk of fire during normal operation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Clinical investigations",
+      "paragraphs": [
+        "Clinical investigations are a necessary step in the development of any new medical device. They are used to assess the safety and efficacy of a new device or therapy in humans.",
+        "In order to be ethical and responsible, clinical investigations must be designed and conducted in accordance with internationally recognized standards. The ISO (International Organization for Standardization) is an international body that develops and maintains standards for a wide range of industries, including healthcare.",
+        "The ISO 14155 standard provides guidance on the design, conduct, reporting, and ethical review of clinical investigations. This standard is important for ensuring the safety of patients and research participants, as well as the quality of data collected during a clinical investigation. Pulse oximeter equipment must meet certain essential performance requirements in order to be safe and effective. These requirements are detailed in the ISO 80601-2-61:2017 standard.",
+        "This standard covers pulse oximeters used for measuring arterial oxygen saturation (SpO2) and heart rate. The requirements apply to both stand-alone devices and those that are integrated into other medical devices or systems. In order to ensure that pulse oximeter equipment meets these requirements, manufacturers must conduct clinical investigations. These investigations must be designed in accordance with the ISO 14155 standard and approved by an ethics committee before they can begin.",
+        "Once approved, manufacturers must follow strict protocols during the conduct of the investigation, including regular monitoring of patients and data collection. After the investigation is complete, manufacturers must submit a report detailing their findings too."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/2a1f49c4b3ff.webp",
+          "alt": "ISO 80601-2-61:2017"
+        }
+      ]
+    },
+    {
+      "heading": "Information for use",
+      "paragraphs": [
+        "Pulse oximeter equipment is used to measure the oxygen saturation of a patient’s blood. It is important to follow the instructions for use carefully in order to ensure accurate results. The pulse oximeter should be placed on the patient’s finger, and the sensor should be positioned over the nail bed. The finger should be free of any jewellery or obstructions. The reading will be displayed on the monitor connected to the oximeter. It is important to note that pulse oximetry readings may be affected by factors such as anaemia, low blood pressure, or movement of the finger. If readings are consistently low, it is advisable to seek medical attention."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Labelling",
+      "paragraphs": [
+        "Pulse oximeter equipment is used to measure the oxygen saturation of a patient’s blood and is considered medical electrical equipment. As such, it is subject to the particular requirements for basic safety and essential performance as set out in ISO 80601-2-61:2017. In order to ensure the safe use of pulse oximeter equipment, manufacturers must label their products in accordance with the requirements set out in ISO 80601-2-61.",
+        "This includes providing information on the intended use of the equipment, any warnings or precautions that should be observed during use, and the approximate operating life of replaceable batteries. In addition to the general labeling requirements, manufacturers of pulse oximeter equipment must also provide specific labeling information required by ISO 80601-2-61. This includes specifying the maximum permissible limits for certain electrical and environmental parameters, such as atmospheric pressure and humidity."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Transport, storage and packaging",
+      "paragraphs": [
+        "Medical electrical equipment must be designed and manufactured in such a way that it will not pose an unacceptable risk to the patient, user or other people when used as intended within its specified operational conditions. The risks associated with the use of medical electrical equipment can be divided into two main categories:",
+        "* 1) Those arising from the basic safety and essential performance requirements specified in the relevant product standard; * 2) Those specific to the particular type of equipment, application or environment. In order to address these risks, manufacturers of medical electrical equipment must comply with all applicable product standards. These standards cover a wide range of topics, including design, manufacture, testing, labelling, packaging, storage and transport. The particular requirements for pulse oximeter equipment are specified in ISO 80601-2-61:2017. This standard applies to all types of pulse oximeter equipment used for the non-invasive measurement of arterial oxygen saturation (SpO2) and pulse rate. Pulse oximeters are classified according to their mode of operation: – ear lobe clip; – finger clip; – forehead; – hand-held; – tabletop; – wrist worn. The standard specifies general safety requirements and tests common to all types of pulse oximeter equipment. It also contains specific requirements and tests for each type of equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/2a0979afc3ec.webp",
+          "alt": "ISO 80601-2-61:2017"
+        }
+      ]
+    },
+    {
+      "heading": "Servicing",
+      "paragraphs": [
+        "Pulse oximetry is a non-invasive method of measuring the oxygen saturation of a patient’s blood. The technology uses sensors that emit red and infrared light, which are then detected by the pulse oximeter probe. The sensors measure the absorbance of light at different wavelengths, which is then used to calculate oxygen saturation in blood. There are two types of pulse oximeters: handheld and table-top. Handheld pulse oximeters are smaller and more portable than table-top models, making them ideal for use in clinics, hospitals, and ambulatory care settings. Table-top pulse oximeters are larger and more expensive, but they offer more features and better accuracy than handheld models. Pulse oximeters require routine servicing to ensure accurate readings. Servicing includes calibration, replacement of batteries or light sources, and cleaning of the probes. Most manufacturers recommend that pulse oximeters be serviced every six months to one year."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Recommendations for Pulse Oximeter Equipment",
+      "paragraphs": [
+        "When selecting pulse oximeter equipment, it is important to consider the following factors:- – The intended use of the equipment: Make sure that the equipment you select is appropriate for the specific medical procedures you will be using it for. – The accuracy and precision of the equipment: Check that the device meets all relevant international standards for accuracy and precision. – The durability of the equipment: Select a device that is built to last and can withstand repeated use in a busy medical environment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Annex A (informative) – Basic types of pulse oximeters specimens tested in this standard",
+      "paragraphs": [
+        "Annex A (informative) of ISO –: medical electrical equipment sets out the basic types of pulse oximeter specimens that may be tested in order to assess the performance of pulse oximeter equipment. There are three basic types of pulse oximeter specimens: – arterial line, – venous line – skin probe. 1) Arterial line: usually inserted into the radial artery at the wrist and is the most accurate method for measuring oxygen saturation levels.",
+        "However, it is also invasive and can cause complications if not inserted properly.",
+        "2) Venous line: usually inserted into a vein in the arm and is less accurate than an arterial line but is still considered a reliable method for measuring oxygen saturation levels.",
+        "3) Skin probe: non-invasive and commonly used on infants and young children. The probe is placed on the child’s forehead or temple and uses infrared light to measure oxygen saturation levels."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/370cccd5beab.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/580fe6d3b505.webp",
+      "alt": "ISO 80601-2-61:2017"
+    },
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/2a1f49c4b3ff.webp",
+      "alt": "ISO 80601-2-61:2017"
+    },
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/2a0979afc3ec.webp",
+      "alt": "ISO 80601-2-61:2017"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/370cccd5beab.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/580fe6d3b505.webp",
+      "alt": "ISO 80601-2-61:2017"
+    },
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/2a1f49c4b3ff.webp",
+      "alt": "ISO 80601-2-61:2017"
+    },
+    {
+      "src": "/images/migrated/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/2a0979afc3ec.webp",
+      "alt": "ISO 80601-2-61:2017"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

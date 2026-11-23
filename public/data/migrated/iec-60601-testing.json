@@ -1,0 +1,188 @@
+{
+  "hero": "/images/page-heroes/iec-60601-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-testing-s1.webp",
+    "/images/page-sections/iec-60601-testing-s2.webp",
+    "/images/page-sections/iec-60601-testing-s3.webp",
+    "/images/page-sections/iec-60601-testing-s4.webp",
+    "/images/page-sections/iec-60601-testing-s5.webp",
+    "/images/page-sections/iec-60601-testing-s6.webp"
+  ],
+  "category": "medical",
+  "action": "REWRITE",
+  "note": "0 / 13 | 462 | no meta, no H2 | REWRITE – Electro-Medical hub, P13 (full text in Content tab); 2,106 backlinks, keep URL",
+  "slug": "iec-60601-testing",
+  "path": "/iec-60601-testing",
+  "source": "https://www.itcindia.org/iec-60601-testing/",
+  "ok": true,
+  "title": "IEC 60601 Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Manufacturers of Electrical Medical Equipment who wish to introduce their product in the European Market, must ensure that their products are CE marked, indicating that their products comply with the applicable European Medical Directive. For this, understanding and meeting the requirements of EN 60601 for all such manufacturers is essential.Thank you for reading this post,…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Manufacturers of Electrical Medical Equipment who wish to introduce their product in the European Market, must ensure that their products are CE marked, indicating that their products comply with the applicable European Medical Directive. For this, understanding and meeting the requirements of EN 60601 for all such manufacturers is essential.",
+        "IEC 60601-1 defines electromedical products as, ‘equipment provided with no more than one connection to a particular supply mains and intended to diagnose, treat or monitor the patient under medical supervision, and which makes physical or electrical contact with the patient and/or detects such energy transfer to or from the patient.’",
+        "IEC 60601-1 has become a global benchmark for electrical medical equipment and many companies view compliance with it as de-facto requirement for most markets."
+      ],
+      "bullets": [
+        "Patient ventilators",
+        "Medical lasers",
+        "Patient monitors",
+        "High frequency surgical equipment",
+        "Cardiac Defibrillators etc.",
+        "Excessive current may lead to an electric shock to the patient or user.",
+        "Probability of burns, caused by high frequency surgical equipment.",
+        "Increase respiration by pressure caused by abnormal working of ventilators",
+        "Ventricular fibrillation (VF), caused by leak currents of devices etc.",
+        "Mechanical requirements: The enclosure of the device should be sufficiently strong to stand the wear and tear of normal use.",
+        "Markings: IEC has defined a list of details that must be specified on the product’s name tag. It should include the information of the manufacturer, its electrical requirements, model number etc.",
+        "Earthing: It refers to how the device is connected to the earth or safety ground connection of an electrical power supply to ensure safety is provided in the event of an electrical fault.",
+        "Electrical: The standard requires that the medical device operate safely both in normal conditions as well as in the event of ‘single fault’."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-testing/078ddcef8fe9.jpg",
+          "alt": "IEC 60601 testing"
+        }
+      ]
+    },
+    {
+      "heading": "Earth Leakage Current Test",
+      "paragraphs": [],
+      "bullets": [
+        "ITC India Pvt Ltdis an NABL accredited laboratory to test Medical equipments as per IEC 60601-1.",
+        "All the testing is done with the highly accurate and calibrated machines.",
+        "Qualified engineers are appointed to do the testing of medical products.",
+        "We are customer driven and responsive and always update the client of failed tests with photographs and videos for support.",
+        "We continuously improve our quality of testing without any compromise on integrity."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Do you wish to get your medical device tested?",
+      "paragraphs": [
+        "Mail us to get your QUOTE today!!"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-testing/078ddcef8fe9.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-testing/078ddcef8fe9.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

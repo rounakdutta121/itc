@@ -1,0 +1,318 @@
+{
+  "hero": "/images/page-heroes/packaging.webp",
+  "heroPortrait": "/images/page-heroes/packaging-portrait.webp",
+  "generatedIntro": "/images/page-sections/packaging-s1.webp",
+  "generatedMid": "/images/page-sections/packaging-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/packaging-s1.webp",
+    "/images/page-sections/packaging-s2.webp",
+    "/images/page-sections/packaging-s3.webp",
+    "/images/page-sections/packaging-s4.webp",
+    "/images/page-sections/packaging-s5.webp",
+    "/images/page-sections/packaging-s6.webp",
+    "/images/page-sections/packaging-s7.webp",
+    "/images/page-sections/packaging-s8.webp",
+    "/images/page-sections/packaging-s9.webp",
+    "/images/page-sections/packaging-s10.webp",
+    "/images/page-sections/packaging-s11.webp",
+    "/images/page-sections/packaging-s12.webp",
+    "/images/page-sections/packaging-s13.webp",
+    "/images/page-sections/packaging-s14.webp",
+    "/images/page-sections/packaging-s15.webp"
+  ],
+  "category": "mechanical",
+  "action": "ADD",
+  "note": "965 | 2 img no alt | KEEP – hub, add FAQ schema",
+  "slug": "packaging",
+  "path": "/packaging",
+  "source": "https://www.itcindia.org/packaging/",
+  "ok": true,
+  "title": "Packaging Testing Laboratory in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Packaging testing laboratory in India for transport and shipping packages. Test vibration, drop, toppling and environmental performance with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Packaging protects products from mechanical and environmental stresses during handling, storage and transportation. An inadequate package can result in damaged products, broken components, deformation, leakage or excessive movement inside the package before the shipment reaches its destination.",
+        "ITC India provides packaging testing services in India for manufacturers, exporters, product developers and packaging suppliers who need to evaluate complete packages under simulated transport and handling conditions. Testing can help determine whether packaging provides adequate protection against vibration, impact, toppling, climatic stresses and other conditions expected during the distribution cycle.",
+        "The correct test programme depends on the packaged product, package dimensions and weight, transportation mode, distribution route and applicable customer or industry specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/packaging/ae74f6dffded.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is Packaging Testing?",
+      "paragraphs": [
+        "Packaging testing evaluates the ability of a package and its contents to withstand conditions that may occur during transportation, warehousing and handling.",
+        "Testing may be carried out on a complete filled transport package so that the performance of the outer packaging, cushioning, internal supports, closures and product can be evaluated as a system.",
+        "Depending on the application, a packaging test programme may include:",
+        "The required tests should be selected according to the package specification rather than applying the same sequence to every shipment."
+      ],
+      "bullets": [
+        "Vibration testing",
+        "Drop and impact testing",
+        "Toppling testing",
+        "Repetitive shock or bounce testing",
+        "Compression-related evaluation",
+        "Temperature and humidity conditioning",
+        "Package integrity inspection",
+        "Functional inspection of the packaged product",
+        "Pre- and post-test visual examination"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Vibration Testing of Shipping Packages",
+      "paragraphs": [
+        "Packages transported by road, rail, air or sea can experience continuous vibration. Repeated vibration can cause abrasion, loosen fasteners, damage internal cushioning and allow the packaged product to move within its container.",
+        "ITC India provides <a href=\"/vibration-testing\">ASTM D999 vibration testing of shipping containers</a> for applicable packages requiring vibration evaluation.",
+        "Manufacturers with more complex product-level vibration requirements can also use ITC India’s <a href=\"/vibration-testing\">Vibration Testing Laboratory</a> services.",
+        "Testing should reproduce the required package configuration, product loading and orientation as closely as practical so that weaknesses in the real packaging system can be identified."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Toppling and Handling Tests",
+      "paragraphs": [
+        "Large, tall or unstable packages can be exposed to overturning or toppling during manual handling, warehouse movement and transport operations.",
+        "ITC India provides <a href=\"/iso-8768-complete-filled-transport-packages-toppling-test\">ISO 8768 testing for complete, filled transport packages</a> where toppling resistance needs to be evaluated.",
+        "Such testing can help determine whether impact caused by package instability results in product damage, enclosure deformation, broken internal supports or loss of package integrity.",
+        "Drop, shock and rough-handling tests may also be appropriate depending on package size, mass and expected distribution environment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ISTA Package Testing",
+      "paragraphs": [
+        "ISTA procedures are widely used to evaluate packaged-product performance during distribution.",
+        "ITC India provides testing against applicable <a href=\"/vibration-testing/ista-1a\">ISTA 1A, 1B, 1C and 1D procedures</a> as well as <a href=\"/vibration-testing/ista-2a\">ISTA 2A, 2B and 2C testing</a>.",
+        "The correct ISTA procedure depends on factors such as packaged-product weight, configuration and the level of distribution simulation required.",
+        "Manufacturers should provide the exact requested ISTA procedure or customer packaging specification before testing so that conditioning, vibration, impact and other required sequences can be planned correctly."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Environmental Conditioning of Packages",
+      "paragraphs": [
+        "Packages can experience significant temperature and humidity changes during warehousing and transportation. These conditions may affect corrugated materials, adhesives, cushioning, plastics and the packaged product itself.",
+        "Where required, package testing can therefore be combined with conditioning under controlled environmental conditions.",
+        "ITC India’s <a href=\"/environmental-testing-services\">Environmental Testing Laboratory</a> supports applicable temperature, humidity, vibration, shock and other environmental evaluations that may form part of a wider transport or product-qualification programme.",
+        "Environmental conditioning before mechanical testing can provide a more representative assessment when package materials are sensitive to temperature or moisture."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Packaging Testing for Lithium Batteries",
+      "paragraphs": [
+        "Lithium batteries are subject to specific transport requirements, and their packaging requirements differ from ordinary consumer or industrial shipments.",
+        "ITC India provides dedicated <a href=\"/testing-of-packing-for-transportations-lithium-ion-batteries\">packaging testing for transportation of lithium-ion batteries</a> for applicable battery shipments.",
+        "Battery manufacturers should identify the battery type, configuration, weight and intended mode of transport before determining the required testing and packaging documentation.",
+        "Where battery qualification itself is required, additional transport-safety requirements may apply separately from package-performance testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Packaging Testing Is Important",
+      "paragraphs": [
+        "Laboratory testing can reveal packaging weaknesses before products enter large-scale distribution. Problems such as excessive internal movement, inadequate cushioning, weak closures, unstable package geometry and insufficient resistance to vibration may otherwise become visible only after field damage occurs.",
+        "Testing during package development allows manufacturers to improve protective materials and packaging configuration while balancing product protection, package size and material use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required Before Testing",
+      "paragraphs": [
+        "To establish an appropriate packaging test plan, manufacturers should provide the package dimensions and weight, product weight, packaging material and construction, intended transportation method, applicable test standard and required test sequence.",
+        "The package submitted for testing should represent the actual shipping configuration wherever possible.",
+        "For packaging testing in India, submit your package specifications, required standard and transport conditions through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is packaging testing?",
+      "paragraphs": [
+        "Packaging testing evaluates whether a package and its contents can withstand mechanical and environmental stresses encountered during handling, storage and transportation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What types of packaging tests are available?",
+      "paragraphs": [
+        "Depending on the required standard, testing can include vibration, drop, shock, toppling, environmental conditioning and other transport-simulation evaluations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is ASTM D999 packaging testing?",
+      "paragraphs": [
+        "ASTM D999 covers vibration testing methods for shipping containers and is used to evaluate how packaged products respond to repetitive vibration."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does ITC India provide ISTA packaging testing?",
+      "paragraphs": [
+        "ITC India provides testing against applicable ISTA procedures, including dedicated services for ISTA 1A/1B/1C/1D and ISTA 2A/2B/2C requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can complete filled packages be tested?",
+      "paragraphs": [
+        "Yes. Many transport packaging standards evaluate the complete package with the actual or representative product and internal packaging components installed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What information is needed for a packaging test quotation?",
+      "paragraphs": [
+        "Provide package dimensions and weight, packaged-product weight, packaging construction, required standard or procedure, transportation conditions and the number of samples available for testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/packaging/ae74f6dffded.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/packaging/ae74f6dffded.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

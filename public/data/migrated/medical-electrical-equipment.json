@@ -1,0 +1,225 @@
+{
+  "hero": "/images/page-heroes/medical-electrical-equipment.webp",
+  "heroPortrait": "/images/page-heroes/medical-electrical-equipment-portrait.webp",
+  "generatedIntro": "/images/page-sections/medical-electrical-equipment-s1.webp",
+  "generatedMid": "/images/page-sections/medical-electrical-equipment-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/medical-electrical-equipment-s1.webp",
+    "/images/page-sections/medical-electrical-equipment-s2.webp",
+    "/images/page-sections/medical-electrical-equipment-s3.webp",
+    "/images/page-sections/medical-electrical-equipment-s4.webp",
+    "/images/page-sections/medical-electrical-equipment-s5.webp",
+    "/images/page-sections/medical-electrical-equipment-s6.webp"
+  ],
+  "category": "medical",
+  "action": "KEEP",
+  "note": "1 / 16 | 564 | 14 img no alt | KEEP – link to /iec-60601-testing/",
+  "slug": "medical-electrical-equipment",
+  "path": "/medical-electrical-equipment",
+  "source": "https://www.itcindia.org/medical-electrical-equipment/",
+  "ok": true,
+  "title": "What is Medical Electrical Equipment?",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Medical Electrical Equipment is defined in the standard as electrical equipment having an applied part or transferring energy to or from the patient or detecting such energy transfer to or from the patient and which is",
+  "sections": [
+    {
+      "heading": "What is Medical Electrical Equipment?",
+      "paragraphs": [
+        "Medical Electrical Equipment is defined in the standard as electrical equipment having an applied part or transferring energy to or from the patient or detecting such energy transfer to or from the patient and which is:"
+      ],
+      "bullets": [
+        "Provided with not more than one connection to a particular supply mains; and",
+        "Intended by its manufacturer to be used: in the diagnosis, treatment, or monitoring of a patient; or for compensation or alleviation of disease, injury or disability."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "High Frequency Surgical Equipment",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/medical-electrical-equipment/88b4935ed76b.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Cardiac Defibrillators",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/medical-electrical-equipment/6c35c44ee2c9.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Therapeutic and Diagnostic Ultrasound Equipment",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/medical-electrical-equipment/6225579da3fa.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Medical Lasers",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/medical-electrical-equipment/a2e9cf6ee836.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Patient Ventilators",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/medical-electrical-equipment/bdfe3e568bd0.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Infant Incubators and Warmers",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/medical-electrical-equipment/df1d4a3b8240.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Medical Beds",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/medical-electrical-equipment/a5ec9ead7bfd.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Applicable Standard to Medical Devices & Medical Systems:",
+      "paragraphs": [
+        "IEC 60601 is a family of standards whose scope covers the safety, essential performance and electromagnetic compatibility of Medical Electrical Equipment and Systems. The “Part 1” of standard, IEC 60601-1 covers basic safety and essential performance for all Medical Electrical Equipment and the “Part 2” or “Particular” standards cover requirements for specific product groups (e.g IEC 60601-2-2 High Frequency Surgical Equipment)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Hazards of Electro Medical Equipment:",
+      "paragraphs": [
+        "Medical electrical equipment can present a range of hazards to the patient, the user, or to service personnel. Some of hazards are as follows:",
+        "Equipment shall be so designed to prevent such hazard to patient, the user, or to service personnel during use or during service, so this is important that you get your product compliance with IEC 60601."
+      ],
+      "bullets": [
+        "High Touch Leakage current in High Frequency surgical equipment.",
+        "High Frequency leakage current in HF Surgical Equipment during surgery.",
+        "Protection against Electric Shock from accessible live parts.",
+        "Hazard from Defibrillationon Surgical Equipment.",
+        "Mechanical Hazard from insecure fittings of controls to loose fixings of wheels on equipment trolleys",
+        "Risk of fire in medical equipment due to short circuit or fault condition.",
+        "Absence of Function in fault condition would not be merely inconvenient, but could be life threatening.",
+        "Burn due to excess output from Medical electrical equipment.",
+        "Risk of infection to patients, nursing staff and service personnel due to inadequately decontaminated after use.",
+        "Effect of frequency on neuro-muscular stimulation",
+        "Muscle crampsdue to electric shock."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Benefits of compliance with IEC 60601during designing of product:",
+      "paragraphs": [
+        "It is important to understand these and related IEC 60601 requirements early in your device design process to help you choose appropriate components and build in construction that complies with the standard. If you do not follow specific aspects contained in IEC 60601 when designing your product, it can result in costly design modifications later.",
+        "ITC India has a quality management system as per ISO 17025. It has been accredited by IABCBL, the UK and its results have been recognized by most of the Notified bodies in European ITC India’s lab have been witnessed by 3 notified bodies from Europe and has been approved.",
+        "ITC India can help you to get your product compliance with IEC 60601and guide you with product Designing, Marking &amp; Labeling and we can assists you to prepare the necessary Documentation required to get CE, UL and CSA marking. You can go through our Sample test report here. ITC India Pvt Ltd is NABL, For more information log on to <a href=\"/\">www.itcindia.org</a> , if any query than mail us at info@itcindia.org or call on +91 9316473033"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/medical-electrical-equipment/88b4935ed76b.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/6c35c44ee2c9.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/6225579da3fa.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/a2e9cf6ee836.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/bdfe3e568bd0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/df1d4a3b8240.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/a5ec9ead7bfd.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/medical-electrical-equipment/88b4935ed76b.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/6c35c44ee2c9.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/6225579da3fa.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/a2e9cf6ee836.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/bdfe3e568bd0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/df1d4a3b8240.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/medical-electrical-equipment/a5ec9ead7bfd.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

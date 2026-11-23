@@ -1,0 +1,193 @@
+{
+  "hero": "/images/page-heroes/ups-testing.webp",
+  "heroPortrait": "/images/page-heroes/ups-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/ups-testing-s1.webp",
+  "generatedMid": "/images/page-sections/ups-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ups-testing-s1.webp",
+    "/images/page-sections/ups-testing-s2.webp",
+    "/images/page-sections/ups-testing-s3.webp",
+    "/images/page-sections/ups-testing-s4.webp",
+    "/images/page-sections/ups-testing-s5.webp",
+    "/images/page-sections/ups-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "222 | thin | LOW: expand to 600+ words",
+  "slug": "ups-testing",
+  "path": "/ups-testing",
+  "source": "https://www.itcindia.org/ups-testing/",
+  "ok": true,
+  "title": "UPS Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "UPS Testing and Inverter Testing are done under the scope of IS 16242 and IEC 62040. Major tests conducted under these standards are:",
+  "sections": [
+    {
+      "heading": "UPS (Uninterruptible Power Supply)",
+      "paragraphs": [
+        "An uninterruptible power supply or uninterruptible power source (UPS) is an electrical apparatus that provides emergency power to a load when the input power source or mains power fails. A UPS differs from an auxiliary or emergency power system or standby generator in that it will provide near-instantaneous protection from input power interruptions, by supplying energy stored in batteries, super capacitors, or flywheels. The on-battery run-time of most uninterruptible power sources is relatively short (only a few minutes) but sufficient to start a standby power source or properly shut down the protected equipment. It is a type of continual power system."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/ups-testing/426896f69618.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/ups-testing/f5aa403144a8.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Power Interface",
+      "paragraphs": [],
+      "bullets": [
+        "Protection from electric shock and energy Hazards"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Provision for Earthing and Bonding",
+      "paragraphs": [],
+      "bullets": [
+        "Over Current and earth fault Protection in the primary circuit",
+        "Stability"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mechanical Strength",
+      "paragraphs": [
+        "ITC India Electrical Safety Testing Lab Accredited by NABL (ISO/IEC 17025).",
+        "We provide EMC, EMI, Lighting and Entertainment Equipment, LED, Photometric (LM 79), IP (dust and water ingress protection testing), Household Equipment (IEC 60335), Electro Medical Equipment (IEC 60601), Laboratory Equipment, UPS and Inverters, IT Equipment, Machinery Equipment, PV Modules, Cable Glands, Secondary Cells & Batteries Testing services, etc."
+      ],
+      "bullets": [
+        "Protection against hazardous moving parts"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/ups-testing/426896f69618.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/ups-testing/f5aa403144a8.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/ups-testing/426896f69618.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/ups-testing/f5aa403144a8.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

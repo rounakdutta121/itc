@@ -1,0 +1,356 @@
+{
+  "hero": "/images/page-heroes/electrical-kitchen-machine-testing.webp",
+  "heroPortrait": "/images/page-heroes/electrical-kitchen-machine-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/electrical-kitchen-machine-testing-s1.webp",
+  "generatedMid": "/images/page-sections/electrical-kitchen-machine-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/electrical-kitchen-machine-testing-s1.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s2.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s3.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s4.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s5.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s6.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s7.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s8.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s9.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s10.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s11.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s12.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s13.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s14.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s15.webp",
+    "/images/page-sections/electrical-kitchen-machine-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1125 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "electrical-kitchen-machine-testing",
+  "path": "/electrical-kitchen-machine-testing",
+  "source": "https://www.itcindia.org/electrical-kitchen-machine-testing/",
+  "ok": true,
+  "title": "IEC 60335-2-14 Kitchen Machine Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60335-2-14:2025 testing in India for mixers, grinders, blenders, juicers and food processors. Evaluate electrical and mechanical safety with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides IEC 60335-2-14 testing for electrical kitchen machines used in household and similar applications. The current IEC 60335-2-14:2025, Edition 7.0 specifies particular safety requirements for kitchen machines such as blenders, food mixers, food processors, juicers, grinders, mincers, graters, slicers and similar appliances.",
+        "Kitchen appliances combine electrical power with motors, blades, rotating parts, containers, switches and electronic controls. Product safety testing helps manufacturers identify risks related to electric shock, excessive temperatures, moisture, mechanical injury, abnormal operation and fire before products are placed on the market.",
+        "ITC India also provides broader <a href=\"/household\">household equipment testing</a> for electrical appliances covered by the IEC 60335 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/electrical-kitchen-machine-testing/05e1be618f65.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60335-2-14?",
+      "paragraphs": [
+        "IEC 60335-2-14 contains particular safety requirements for electric kitchen machines intended for household and similar purposes. The standard covers appliances with rated voltages not exceeding 250 V, including applicable DC-supplied and battery-operated products.",
+        "Examples within its scope include blenders, auger juicers, centrifugal juicers, citrus-fruit squeezers, food mixers, food processors, coffee mills within the specified capacity, grain grinders, mincers, peelers, shredders, graters, knives, noodle makers and slicing machines.",
+        "The standard is applied together with the relevant general safety requirements of IEC 60335-1. Manufacturers planning complete product evaluation can therefore also review ITC India’s <a href=\"/iec-60335-1-safety-testing-india\">IEC 60335-1 safety testing services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Protection Against Electric Shock",
+      "paragraphs": [
+        "Kitchen machines are frequently operated near water, food ingredients and conductive surfaces. Protection against access to hazardous live parts is therefore an important part of the safety assessment.",
+        "Depending on the appliance construction, evaluation may include accessible parts, insulation systems, protective earthing, supply cords, terminals, switches and internal electrical connections.",
+        "ITC India’s <a href=\"/electrical-testing\">electrical testing services</a> support electrical safety evaluation for household and similar electrical products."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Power Input, Heating and Temperature Rise",
+      "paragraphs": [
+        "Motors, electronic controls and other internal components generate heat during normal operation. IEC 60335-2-14 defines operating conditions appropriate to different kitchen-machine types so that heating can be evaluated under representative use.",
+        "Temperature measurements help determine whether windings, insulation, wiring, enclosures and accessible surfaces remain within acceptable limits.",
+        "The 2025 edition also includes updated requirements relating to external accessible surface temperatures and clarifies normal operating conditions for several types of kitchen machines."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Leakage Current and Electric Strength",
+      "paragraphs": [
+        "Electrical insulation needs to remain effective during and after appliance operation.",
+        "Leakage-current testing evaluates whether accessible current stays within permitted limits, while electric-strength testing checks whether the insulation system can withstand the required test voltage without breakdown.",
+        "These evaluations are particularly important for appliances containing mains-powered motors, electronic controls and conductive mechanical assemblies."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Moisture Resistance and Spillage Testing",
+      "paragraphs": [
+        "Kitchen appliances routinely come into contact with liquids, food ingredients and cleaning processes.",
+        "Moisture and spillage testing helps determine whether liquids can enter the appliance in a way that reduces insulation or creates an electric-shock hazard. The latest IEC 60335-2-14 edition includes updated requirements addressing leakage from liquid containers and certain detachable gasket arrangements.",
+        "After applicable conditioning, electrical safety tests can be repeated to confirm that the appliance remains adequately protected."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mechanical Hazards and Moving Parts",
+      "paragraphs": [
+        "Mechanical safety is especially important for blenders, grinders, food processors, mincers and slicers because they incorporate blades or rapidly moving parts.",
+        "Testing evaluates whether users can access dangerous moving parts during foreseeable operation. Guards, lids, feed openings, interlocks and switches may need to prevent contact with hazardous components.",
+        "Where safety depends on an interlock, testing should verify that opening or removing the protective part produces the intended safe condition.",
+        "The 2025 edition includes updated interlock and test-probe requirements for several kitchen-machine constructions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Abnormal Operation",
+      "paragraphs": [
+        "A kitchen appliance must also remain acceptably safe when foreseeable abnormal conditions occur.",
+        "Depending on the machine, evaluation may include stalled motors, blocked blades, overloaded operation, control failures or other conditions specified by the standard.",
+        "The purpose is to determine whether abnormal use can cause dangerous temperatures, fire, electrical hazards or unintended movement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Remote and Electronic Controls",
+      "paragraphs": [
+        "Modern kitchen machines increasingly use electronic controls, touch panels and connected functions.",
+        "IEC 60335-2-14:2025 includes clarified requirements relating to remote operation. Manufacturers of smart kitchen appliances should therefore provide details of software-controlled functions, remote commands and safety-related interlocks during technical review."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Construction, Wiring and Components",
+      "paragraphs": [
+        "Compliance also depends on the construction of the complete appliance.",
+        "Testing and inspection may cover internal wiring, supply cords, switches, terminals, screws, protective earthing, insulation, creepage distances, clearances and resistance to heat and fire.",
+        "Appliances should also carry appropriate markings and instructions describing safe assembly, operation, cleaning and use of accessories."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mixer and Grinder Testing for the Indian Market",
+      "paragraphs": [
+        "Manufacturers of domestic food mixers and grinders targeting India may also need to consider applicable Indian requirements.",
+        "ITC India provides dedicated <a href=\"/electrical-kitchen-machine-testing\">IS 4250 testing for electric food mixers and grinders</a> covering electrical, thermal and mechanical safety evaluations for relevant domestic mixer and grinder products.",
+        "The applicable IEC or Indian standard should be confirmed according to the product type, target market and certification requirement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products Covered by IEC 60335-2-14",
+      "paragraphs": [
+        "The standard can apply to household blenders, mixers, food processors, juicers, grinders, mincers, peelers, graters, shredders, noodle makers, knife sharpeners and similar electrical kitchen machines.",
+        "It does not cover every professional food-processing appliance. Kitchen machines intended specifically for commercial use may instead fall under IEC 60335-2-64, while industrial machines or equipment for special hazardous environments require other requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for Testing",
+      "paragraphs": [
+        "Manufacturers should provide the product model, rated voltage and power, motor rating, appliance class, operating modes, accessories, circuit diagram, construction drawings, critical component list and user instructions.",
+        "For appliances with interlocks, electronic controls or remote-operation functions, details of those safety-related features should also be included."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports manufacturers with household-appliance and electrical-safety testing covering electrical, thermal and mechanical hazards.",
+        "A technical review before testing helps identify the applicable standard edition, required samples, accessories, operating conditions and product-specific safety evaluations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request IEC 60335-2-14 Testing",
+      "paragraphs": [
+        "For IEC 60335-2-14:2025 electrical kitchen machine testing, <a href=\"/contact-us/inquiry\">send your testing requirement to ITC India</a> with the product specifications, electrical ratings, accessories, drawings and required compliance standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60335-2-14?",
+      "paragraphs": [
+        "IEC 60335-2-14 is the international safety standard containing particular requirements for electric kitchen machines used in household and similar applications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the latest edition of IEC 60335-2-14?",
+      "paragraphs": [
+        "The current edition is IEC 60335-2-14:2025, Edition 7.0, published in February 2025."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which products are covered by IEC 60335-2-14?",
+      "paragraphs": [
+        "Products can include blenders, food mixers, food processors, juicers, grinders, mincers, graters, peelers, shredders, slicers and similar kitchen machines."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What safety tests are important for kitchen machines?",
+      "paragraphs": [
+        "Typical areas include protection against electric shock, heating, leakage current, electric strength, moisture resistance, abnormal operation, mechanical hazards, interlocks, wiring and resistance to heat and fire."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60335-2-14 cover commercial kitchen machines?",
+      "paragraphs": [
+        "Not generally where the appliance is specifically intended for professional commercial food processing. Such equipment may fall under IEC 60335-2-64 or another applicable standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/electrical-kitchen-machine-testing/05e1be618f65.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/electrical-kitchen-machine-testing/05e1be618f65.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

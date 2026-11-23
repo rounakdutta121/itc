@@ -1,0 +1,339 @@
+{
+  "hero": "/images/page-heroes/iec-61010-2-101-testing-services.webp",
+  "heroPortrait": "/images/page-heroes/iec-61010-2-101-testing-services-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61010-2-101-testing-services-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61010-2-101-testing-services-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61010-2-101-testing-services-s1.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s2.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s3.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s4.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s5.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s6.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s7.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s8.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s9.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s10.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s11.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s12.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s13.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s14.webp",
+    "/images/page-sections/iec-61010-2-101-testing-services-s15.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1013 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-61010-2-101-testing-services",
+  "path": "/iec-61010-2-101-testing-services",
+  "source": "https://www.itcindia.org/iec-61010-2-101-testing-services/",
+  "ok": true,
+  "title": "IEC 61010-2-101 IVD Equipment Testing India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61010-2-101 testing in India for in vitro diagnostic medical equipment. Evaluate electrical, mechanical and thermal safety of IVD equipment with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "In vitro diagnostic medical equipment is used to examine specimens obtained from the human body and can combine electrical circuits, motors, heaters, optical systems, fluid-handling components and software-controlled functions. Because this equipment is used in medical and laboratory environments, appropriate safety evaluation is essential to reduce electrical, mechanical, thermal and other foreseeable hazards.",
+        "ITC India provides IEC 61010-2-101 testing in India for manufacturers and developers of in vitro diagnostic medical equipment. The standard contains particular safety requirements for IVD equipment and is applied together with the general laboratory-equipment safety requirements of IEC 61010-1.",
+        "Manufacturers should therefore also review ITC India’s <a href=\"/iec-61010-1-testing\">IEC 61010-1 safety testing services</a> when planning a complete IVD equipment compliance programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61010-2-101-testing-services/1bf16f0d6e2e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does IEC 61010-2-101 Cover?",
+      "paragraphs": [
+        "IEC 61010-2-101 applies to electrical equipment intended for in vitro diagnostic medical purposes, including equipment intended for self-testing.",
+        "IVD equipment is generally used to examine specimens such as blood, tissue or other materials derived from the human body to obtain information relevant to diagnosis, monitoring or medical decision-making.",
+        "Depending on design and intended use, applicable equipment can include:",
+        "The correct applicable standards should be identified from the equipment’s intended use, construction and functions before formal testing.",
+        "Manufacturers working with multiple laboratory-equipment categories can also review ITC India’s broader <a href=\"/iec-61010-testing-lab\">IEC 61010 Testing Laboratory services</a>."
+      ],
+      "bullets": [
+        "Automated laboratory analysers",
+        "Clinical diagnostic analysers",
+        "Specimen-processing equipment",
+        "IVD measurement systems",
+        "Diagnostic laboratory instruments",
+        "Self-test IVD equipment",
+        "Other electrically operated equipment intended specifically for in vitro diagnostic purposes"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major IEC 61010-2-101 Safety Evaluations",
+      "paragraphs": [
+        "The actual test programme depends on the equipment design, electrical rating, specimen-handling system, moving parts, heating functions and intended operating environment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Typical safety evaluations may include",
+      "paragraphs": [
+        "Testing helps identify safety-related design issues before certification or commercial production.",
+        "For broader product electrical-safety evaluations, manufacturers can also review ITC India’s <a href=\"/electrical-safety-testing-for-medical-device\">Electrical Safety Testing for Medical Devices</a> services."
+      ],
+      "bullets": [
+        "Marking and accompanying documentation",
+        "Protection against electric shock",
+        "Accessibility of hazardous live parts",
+        "Protective earthing and bonding",
+        "Dielectric strength",
+        "Creepage and clearance distances",
+        "Temperature-rise evaluation",
+        "Protection against excessive heat",
+        "Mechanical strength and stability",
+        "Protection against moving parts",
+        "Protection against spread of fire",
+        "Abnormal and single-fault conditions",
+        "Fluid-related hazards",
+        "Components and protective devices",
+        "Safety interlocks",
+        "Cleaning and decontamination considerations",
+        "Biological-hazard markings and instructions",
+        "Evaluation of foreseeable misuse"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-101 and IEC 61010-1",
+      "paragraphs": [
+        "IEC 61010-2-101 is a particular product standard and should not normally be used independently.",
+        "IEC 61010-1 establishes the general safety requirements for electrical measurement, control and laboratory equipment. IEC 61010-2-101 modifies or supplements those requirements for equipment intended for IVD medical purposes.",
+        "The applicable requirements from both standards therefore need to be considered when establishing the test plan.",
+        "It is also important not to automatically apply IEC 60601-1 simply because a product is used in healthcare. Medical electrical equipment and in vitro diagnostic laboratory equipment can fall under different safety-standard frameworks. Product classification and intended use should be confirmed before formal compliance testing begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Biological and Specimen-Handling Considerations",
+      "paragraphs": [
+        "IVD equipment may handle human-derived specimens and other potentially hazardous materials. Product design and instructions should therefore address relevant risks associated with specimen loading, fluid leakage, contamination and cleaning.",
+        "Depending on the equipment, evaluation can include accessible areas, sample containers, waste systems, fluid pathways, protective covers and instructions relating to biological hazards.",
+        "Manufacturers should clearly describe intended specimens, reagents, consumables, cleaning procedures and operator interactions when submitting equipment for safety evaluation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-101 and EMC Testing",
+      "paragraphs": [
+        "IEC 61010-2-101 primarily covers product safety. IVD analysers containing processors, sensors, switching power supplies, motors and digital communication circuits may also require separate electromagnetic compatibility testing.",
+        "Applicable EMC requirements for relevant measurement, control and laboratory equipment are addressed through the IEC 61326 series.",
+        "Manufacturers can therefore combine safety assessment with ITC India’s <a href=\"/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing\">IEC 61326 EMC testing services</a> when electromagnetic compatibility requirements apply to the product."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Software-Controlled IVD Equipment",
+      "paragraphs": [
+        "Modern IVD systems often use embedded software to control measurement processes, alarms, calculations, user interfaces and data handling.",
+        "Where software forms part of a medical device or contributes to safety-related functions, additional software lifecycle requirements may also need to be considered. Manufacturers developing software-controlled IVD products can review ITC India’s <a href=\"/iec-62304-medical-device-software-system-testing\">IEC 62304 medical device software testing</a> services.",
+        "Software requirements do not replace IEC 61010 electrical and equipment-safety testing; they form part of the wider compliance programme where applicable."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Documents Required for IEC 61010-2-101 Testing",
+      "paragraphs": [
+        "Manufacturers should provide sufficient technical information to establish the correct test scope. Useful documentation includes product specifications, intended-use description, rated voltage and frequency, circuit diagrams, critical component lists, insulation details, mechanical drawings, specimen-handling details, safety interlocks, product labels and user instructions.",
+        "Information about reagents, consumables, cleaning methods and software-controlled safety functions may also be relevant."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-101 Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with safety evaluation of IVD and laboratory equipment against applicable IEC 61010 requirements. Early testing can help identify problems involving electrical insulation, earthing, temperature, fluid systems, moving components and protective devices before final certification.",
+        "For IEC 61010-2-101 IVD equipment testing in India, submit your product specifications, intended use and technical documentation through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61010-2-101?",
+      "paragraphs": [
+        "IEC 61010-2-101 specifies particular safety requirements for electrical equipment intended for in vitro diagnostic medical purposes, including self-test IVD equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 61010-1 also required?",
+      "paragraphs": [
+        "Yes. IEC 61010-2-101 is intended to be used together with IEC 61010-1, which provides the general safety requirements for measurement, control and laboratory equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which products can require IEC 61010-2-101 testing?",
+      "paragraphs": [
+        "Relevant products can include automated IVD analysers, diagnostic laboratory instruments, specimen-processing systems and self-test IVD equipment within the standard’s scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61010-2-101 include EMC testing?",
+      "paragraphs": [
+        "No. IEC 61010-2-101 primarily addresses equipment safety. Applicable EMC requirements may need separate evaluation under the IEC 61326 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60601-1 applicable to IVD equipment?",
+      "paragraphs": [
+        "Not automatically. IEC 61010-2-101 specifically addresses IVD medical equipment. The applicable safety-standard framework should be determined from the product’s intended use and construction."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test IVD medical equipment?",
+      "paragraphs": [
+        "ITC India supports safety testing of applicable in vitro diagnostic equipment against IEC 61010 requirements. The final testing scope depends on the equipment design, functions, intended use and destination-market requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61010-2-101-testing-services/1bf16f0d6e2e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61010-2-101-testing-services/1bf16f0d6e2e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "hero": "/images/page-heroes/secondary-battery-and-their-application.webp",
+  "heroPortrait": "/images/page-heroes/secondary-battery-and-their-application-portrait.webp",
+  "generatedIntro": "/images/page-sections/secondary-battery-and-their-application-s1.webp",
+  "generatedMid": "/images/page-sections/secondary-battery-and-their-application-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/secondary-battery-and-their-application-s1.webp",
+    "/images/page-sections/secondary-battery-and-their-application-s2.webp",
+    "/images/page-sections/secondary-battery-and-their-application-s3.webp",
+    "/images/page-sections/secondary-battery-and-their-application-s4.webp",
+    "/images/page-sections/secondary-battery-and-their-application-s5.webp",
+    "/images/page-sections/secondary-battery-and-their-application-s6.webp"
+  ],
+  "category": "battery",
+  "action": "KEEP",
+  "note": "0 / 6 | 321 | – | KEEP",
+  "slug": "secondary-battery-and-their-application",
+  "path": "/secondary-battery-and-their-application",
+  "source": "https://www.itcindia.org/secondary-battery-and-their-application/",
+  "ok": true,
+  "title": "Different Types of Secondary Battery and their application",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Different Types of Secondary Battery and their application What is a Secondary Battery? In Common words, Secondary Battery is known as Rechargeable Battery.",
+  "sections": [
+    {
+      "heading": "Different Types of Secondary Battery and their application",
+      "paragraphs": [
+        "What is a Secondary Battery? In Common words, Secondary Battery is known as Rechargeable Battery. Secondary batteries are batteries with electrochemical cells whose chemical reactions can be reversed by applying a voltage to the battery in the reversed direction. any query related battery testing as per IS/IEC standards visit our website <a href=\"/\">www.itcindia.org</a> or email us on info@itcindia.org"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Types of Secondary Battery: There are basically four Types of Secondary Battery. Which are the following:"
+          ],
+          "rows": [
+            [
+              "l Nickel Cadmium (Ni-Cd) (Testing as per IEC 61951-1) l Nickel-Metal Hydride(Ni-MH) (Testing as per IEC 61951-2) l Lead-Acid ( Testing as per IS 1651, IEC60896-11) l Lithium-ion(Li-ion) (Testing as per IS 16046, IEC 62133)"
+            ],
+            [
+              "For any query visit our Website www.itcindia.org or Email us on info@itcindia.org"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Pictures of Nickel Cadmium (Ni-Cd) battery",
+      "paragraphs": [
+        "Pictures of Nickel Cadmium (Ni-Cd) battery",
+        "Application: The small packs are used in portable devices, electronics and toys while the bigger used in aircraft, Electric vehicles."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/secondary-battery-and-their-application/5114402e4279.webp",
+          "alt": "Pictures of Nickel Cadmium (Ni-Cd) battery"
+        }
+      ]
+    },
+    {
+      "heading": "Pictures of Nickel Cadmium Nickel-Metal Hydride (Ni-MH) battery",
+      "paragraphs": [
+        "Pictures of Nickel Cadmium Nickel-Metal Hydride (Ni-MH) battery",
+        "Application: Ni-MH cells are often used in digital cameras and other high-drain devices."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/secondary-battery-and-their-application/81b922874ba0.webp",
+          "alt": "Pictures of Nickel Cadmium Nickel-Metal Hydride (Ni-MH) battery"
+        }
+      ]
+    },
+    {
+      "heading": "Pictures of Lead-Acid Battery",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/secondary-battery-and-their-application/a0d31c1de557.webp",
+          "alt": "Pictures of Lead-Acid Battery"
+        }
+      ]
+    },
+    {
+      "heading": "Pictures of Lead-Acid Battery",
+      "paragraphs": [
+        "Application: Lead acid batteries are a low-cost reliable power workhorse used in heavy duty applications. They are usually very large and because of their weight, they’re always used in non-portable applications.",
+        "ITC India Pvt. Ltd. Electrical Safety Testing Laboratory Accreditated by NABL (ISO/IEC 17025) &amp; We provide EMC, EMI, Lighting &amp; Entertainment Equipment, LED, Photometric (LM 79), IP( dust and water ingress protection testing) , Household Equipment( IEC 60335) , Electro Medical Equipment( IEC 60601) , Laboratory Equipment, IT Equipment, Machinery Equipment, , PV Modules, Cable Glands, Secondary Cells &amp; Batteries testing services, etc. For more details please visit our website <a href=\"/\">www.itcindia.org</a> or email us on info@itcindia.org"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/secondary-battery-and-their-application/5114402e4279.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/secondary-battery-and-their-application/81b922874ba0.webp",
+      "alt": "Pictures of Nickel Cadmium Nickel-Metal Hydride (Ni-MH) battery"
+    },
+    {
+      "src": "/images/migrated/secondary-battery-and-their-application/a0d31c1de557.webp",
+      "alt": "Pictures of Lead-Acid Battery"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/secondary-battery-and-their-application/5114402e4279.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/secondary-battery-and-their-application/81b922874ba0.webp",
+      "alt": "Pictures of Nickel Cadmium Nickel-Metal Hydride (Ni-MH) battery"
+    },
+    {
+      "src": "/images/migrated/secondary-battery-and-their-application/a0d31c1de557.webp",
+      "alt": "Pictures of Lead-Acid Battery"
+    }
+  ],
+  "relatedLinks": []
+}

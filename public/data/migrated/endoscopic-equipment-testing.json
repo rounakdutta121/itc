@@ -1,0 +1,189 @@
+{
+  "hero": "/images/page-heroes/endoscopic-equipment-testing.webp",
+  "heroPortrait": "/images/page-heroes/endoscopic-equipment-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/endoscopic-equipment-testing-s1.webp",
+  "generatedMid": "/images/page-sections/endoscopic-equipment-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/endoscopic-equipment-testing-s1.webp",
+    "/images/page-sections/endoscopic-equipment-testing-s2.webp",
+    "/images/page-sections/endoscopic-equipment-testing-s3.webp",
+    "/images/page-sections/endoscopic-equipment-testing-s4.webp",
+    "/images/page-sections/endoscopic-equipment-testing-s5.webp",
+    "/images/page-sections/endoscopic-equipment-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 2 | 369 | 4 img no alt | KEEP",
+  "slug": "endoscopic-equipment-testing",
+  "path": "/endoscopic-equipment-testing",
+  "source": "https://www.itcindia.org/endoscopic-equipment-testing/",
+  "ok": true,
+  "title": "Endoscopic Equipment Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "The international standard that applies to endoscopic equipment testing is IEC 60601-2-18. The list of tests under this standard are -",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Endoscopy is a nonsurgical procedure used to examine a person’s digestive tract. Using an endoscope, a flexible tube with a light and camera attached to it, your doctor can view pictures of your digestive tract on a color TV monitor. During an upper endoscopy, an endoscope is easily passed through the mouth and throat and into the esophagus, allowing the doctor to view the esophagus, stomach, and upper part of the small intestine. Similarly, endoscopes can be passed into the large intestine (colon) through the rectum to examine this area of the intestine. This procedure is called sigmoidoscopy or colonoscopy depending on how far up the colon is examined. A special form of endoscopy called endoscopic retro grade cholangiopancreaticography, or ERCP, allows pictures of the pancreas, gallbladder, and related structures to be taken. ERCP is also used for stent placement and biopsies. Endoscopic ultrasound or EUS combines upper endoscopy and ultrasound examination to obtain images and information about various parts of the digestive tract.",
+        "In addition, your doctor may use an endoscope to take a biopsy (removal of tissue) to look for the presence of disease. Endoscopy may also be used to treat a digestive tract problem. For example, the endoscope might not only detect active bleeding from an ulcer, but devices can be passed through the endoscope that can stop the bleeding. In the colon, polyps can be removed through the scope to prevent the development of colon cancer. Also, using ERCP, gallstones that have passed outside the gallbladder and into the bile duct can often be removed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/endoscopic-equipment-testing/99d4e2e75c09.jpg",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/endoscopic-equipment-testing/badbeb3f39ee.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Scope of IEC 60601-2-18",
+      "paragraphs": [
+        "This International Standard applies to the BASIC SAFETY and ESSENTIAL PERFORMANCE of ENDOSCOPIC EQUIPMENT together with its INTERCONNECTION CONDITIONS and INTERFACE CONDITIONS."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "List of Critical Tests of IEC 60601-2-18:",
+      "paragraphs": [],
+      "bullets": [
+        "ME EQUIPMENT identification, marking and documents",
+        "Protection against electrical HAZARDS from ME EQUIPMENT",
+        "Protection against MECHANICAL HAZARDS of ME EQUIPMENT and ME SYSTEMS",
+        "Protection against unwanted and excessive radiation HAZARDS",
+        "Protection against excessive temperatures and other HAZARDS",
+        "Accuracy of controls and instruments and protection against hazardous outputs",
+        "HAZARDOUS SITUATIONS and fault conditions",
+        "Electromagnetic compatibility of ME EQUIPMENT and ME SYSTEMS",
+        "Electromagnetic compatibility – Requirements and tests"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/endoscopic-equipment-testing/99d4e2e75c09.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/endoscopic-equipment-testing/badbeb3f39ee.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/endoscopic-equipment-testing/99d4e2e75c09.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/endoscopic-equipment-testing/badbeb3f39ee.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

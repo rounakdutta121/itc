@@ -1,0 +1,222 @@
+{
+  "hero": "/images/page-heroes/testing-of-sensors-as-per-standard-iec-60751.webp",
+  "heroPortrait": "/images/page-heroes/testing-of-sensors-as-per-standard-iec-60751-portrait.webp",
+  "generatedIntro": "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s1.webp",
+  "generatedMid": "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s1.webp",
+    "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s2.webp",
+    "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s3.webp",
+    "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s4.webp",
+    "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s5.webp",
+    "/images/page-sections/testing-of-sensors-as-per-standard-iec-60751-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "ADD",
+  "note": "1 / 2 | 389 | no meta, no H2 | KEEP – add meta",
+  "slug": "testing-of-sensors-as-per-standard-iec-60751",
+  "path": "/testing-of-sensors-as-per-standard-iec-60751",
+  "source": "https://www.itcindia.org/testing-of-sensors-as-per-standard-iec-60751/",
+  "ok": true,
+  "title": "Sensor Testing as per Standard IEC 60751 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "This standard specifies the requirements and temperature/resistance relationship for industrial platinum resistance temperature sensors later referred to as “platinum resistors” or “resistors” and industrial platinum resistance thermometers later referred to as “thermometers” whose electrical resistance is a defined function of temperature.Thank you for reading this post, don't forget to subscribe! The standard covers resistors or…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "This standard specifies the requirements and temperature/resistance relationship for industrial platinum resistance temperature sensors later referred to as “platinum resistors” or “resistors” and industrial platinum resistance thermometers later referred to as “thermometers” whose electrical resistance is a defined function of temperature.",
+        "The standard covers resistors or thermometers for all or part of the temperature range -200 °C to +850 °C with different tolerance classes, which may cover restricted temperature ranges."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Our Accreditation (ITC India Pvt. Ltd)",
+      "paragraphs": [
+        "ITC India Electrical Safety testing laboratory Accredited by (ISO/IEC 17025) &amp; BIS. For any Query mail us info@itcindia.orgor visit our website <a href=\"/\">www.itcindia.org</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Tests as per IEC 60751",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Clause No.",
+            "Type Test Name",
+            "Remarks (Test Involve/ Test Duration)"
+          ],
+          "rows": [
+            [
+              "6.3.4",
+              "Resistance Tolerance",
+              "As per Cl.6.2.1Test at 0°C & other Temp. to measure resistance"
+            ],
+            [
+              "6.3.1",
+              "Insulation Resistance at ambient Temperature",
+              "IR at 100Vdc & shall be > 100 mΩ"
+            ],
+            [
+              "6.3.2",
+              "Sheath Integrity Test",
+              "(i) Water Quench Test (>300°C for 5 min.)(Immediately plunged into water at room temp.)(IR as per Cl.6.5.1) (ii) Nitrogen Pressure Test (2.5 Mpa for 30 sec) (Immediately immersed in water or alcohol)(No bubbling from the weld) (iii) Liquid Nitrogen Test (immersed in liquid nitrogen until the temp. stabilized)( Immediately immersed in water or alcohol)(No bubbling from the weld)(Recommended for thermometers used at temp. down to -196°C)"
+            ],
+            [
+              "6.3.3",
+              "Dimensional Test",
+              "As per IEC 61152"
+            ],
+            [
+              "6.5.3",
+              "Stability at upper temperature limit",
+              "4 weeks (672 Hrs)(resistance value at 0 °C shall not be more than tolerance value)(IR as per Cl.6.5.1)"
+            ],
+            [
+              "6.5.4",
+              "Thermoelectric Effect",
+              "Heated to max. declared temp.(obtain resistance reading with normal and reverse polarity that shall be in tolerance value/ class)"
+            ],
+            [
+              "6.5.7",
+              "Self-heating",
+              "The Self-heating coefficient in °C/mW evaluated at temp. between 0°C and 30°C in flowing water (in tolerance)"
+            ],
+            [
+              "6.5.1",
+              "Insulation Resistance at elevated temperature",
+              "Thermometer at max. Rated temp. over at least min. immersion depth at test voltage min. 10 V dc.Table 4"
+            ],
+            [
+              "6.5.2",
+              "Thermal Response Time",
+              "The Thermal Response Time shall be recorded:in flowing water with a velocity of >0.2m/sin flowing air with a velocity of(3 ±0.3)m/s"
+            ],
+            [
+              "6.5.5",
+              "Effect of Temperature Cycling",
+              "At declared min. immersion depth à 10 cyles to be done b/w upper & Lower Temp. (Check at 0°C within tolerance level as per the tolerance class)"
+            ],
+            [
+              "6.5.6",
+              "Hysteresis",
+              "Measure resistance at middle of the range1st while going from lower to upper (at middle)2nd while going upper to middle."
+            ],
+            [
+              "6.5.8",
+              "Minimum immersion depth",
+              "At declared immersion depth – Immersed in water at 85°C and then taking it out till change of 0.1°C observe"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

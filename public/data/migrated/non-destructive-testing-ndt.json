@@ -1,0 +1,237 @@
+{
+  "hero": "/images/page-heroes/non-destructive-testing-ndt.webp",
+  "heroPortrait": "/images/page-heroes/non-destructive-testing-ndt-portrait.webp",
+  "generatedIntro": "/images/page-sections/non-destructive-testing-ndt-s1.webp",
+  "generatedMid": "/images/page-sections/non-destructive-testing-ndt-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/non-destructive-testing-ndt-s1.webp",
+    "/images/page-sections/non-destructive-testing-ndt-s2.webp",
+    "/images/page-sections/non-destructive-testing-ndt-s3.webp",
+    "/images/page-sections/non-destructive-testing-ndt-s4.webp",
+    "/images/page-sections/non-destructive-testing-ndt-s5.webp",
+    "/images/page-sections/non-destructive-testing-ndt-s6.webp",
+    "/images/page-sections/non-destructive-testing-ndt-s7.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 9 | 452 | 4 img no alt, few links | KEEP",
+  "slug": "non-destructive-testing-ndt",
+  "path": "/non-destructive-testing-ndt",
+  "source": "https://www.itcindia.org/non-destructive-testing-ndt/",
+  "ok": true,
+  "title": "Non - Destructive Testing (NDT) - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "NDT allows inspectors touse inspection methods to evaluate & collect data about a material/system/component without permanently altering it...",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC INDIA is ISO 17025 Accredited lab for All type of Testing & Calibration services.",
+        "ITC is recognized by NABL, TEC & BIS."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "NDT Means:",
+      "paragraphs": [
+        "NDT stands for Non-Destructive Testing. It’s allow to inspection methods that inspectors to evaluate and collect data about a material, system, or component without permanently altering it. NDT may also be called: NDE (non-destructive examination or evaluation)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/non-destructive-testing-ndt/baee9f71ec23.jpg",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/non-destructive-testing-ndt/5dfa3eea6672.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "NDT also Known as:",
+      "paragraphs": [
+        "In the field, NDT it is used as an umbrella term for non-destructive inspection methods, inspection tools, or even the wide field of non-destructive inspection.",
+        "For commercial applications—the primary focus of this content, and of our work at Flammability—the scope of NDT is to ensure that critical infrastructure is properly maintained in order to avoid accidents.",
+        "While NDT methods are associated with industrial use cases, like inspecting weak points in a boiler used at an oil refinery, uses in medicine are actually some of the most common. Eg, an expecting mother getting an ultrasound to check on the health of her baby would be considered an NDT use case, as would getting an X-ray or MRI to learn more about an injury.",
+        "But it’s important to note that NDT does not necessarily require the use of special tools, or any tools at all.",
+        "For instance, when inspectors in industrial settings review the outside of a pressure vessel with their naked eye, that would fall under the NDT designation, since they are collecting data on the status of the boiler without damaging it. On the other hand, using a sophisticated tool like an ultrasonic sensor to look for defects in a certain material or asset would also be called NDT"
+      ],
+      "bullets": [
+        "NDE (non-destructive evaluation)",
+        "NDI (non-destructive inspection)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major Industries for Non-Destructive Testing",
+      "paragraphs": [
+        "Depending on how broadly you define NDT you could say that it’s used in almost every industry in the world, since visual inspections (whether formalized or casual) take place in almost every workplace in some form or other.",
+        "That being said, there are specific industries that require NDT and have formalized processes for its use, as codified by those organizations we listed above like API and ASME."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Power Generation",
+      "paragraphs": [],
+      "bullets": [
+        "Chemicals",
+        "Mining",
+        "Aerospace",
+        "Automotive",
+        "Maritime",
+        "Mining"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Benefits of NDT test",
+      "paragraphs": [],
+      "bullets": [
+        "Less Waste.",
+        "Less Downtime.",
+        "Accident Prevention.",
+        "Identify Areas of Concern Before Failure.",
+        "Comprehensive Testing."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are the benefits of Testing by ITC INDIA ?",
+      "paragraphs": [],
+      "bullets": [
+        "Save money & save energy as well",
+        "Provide faith in the product",
+        "Improve the safety of the product"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/non-destructive-testing-ndt/baee9f71ec23.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/non-destructive-testing-ndt/5dfa3eea6672.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/non-destructive-testing-ndt/baee9f71ec23.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/non-destructive-testing-ndt/5dfa3eea6672.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

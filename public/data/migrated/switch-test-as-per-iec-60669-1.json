@@ -1,0 +1,212 @@
+{
+  "hero": "/images/page-heroes/switch-test-as-per-iec-60669-1.webp",
+  "heroPortrait": "/images/page-heroes/switch-test-as-per-iec-60669-1-portrait.webp",
+  "generatedIntro": "/images/page-sections/switch-test-as-per-iec-60669-1-s1.webp",
+  "generatedMid": "/images/page-sections/switch-test-as-per-iec-60669-1-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/switch-test-as-per-iec-60669-1-s1.webp",
+    "/images/page-sections/switch-test-as-per-iec-60669-1-s2.webp",
+    "/images/page-sections/switch-test-as-per-iec-60669-1-s3.webp",
+    "/images/page-sections/switch-test-as-per-iec-60669-1-s4.webp",
+    "/images/page-sections/switch-test-as-per-iec-60669-1-s5.webp",
+    "/images/page-sections/switch-test-as-per-iec-60669-1-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 1 | 580 | – | KEEP",
+  "slug": "switch-test-as-per-iec-60669-1",
+  "path": "/switch-test-as-per-iec-60669-1",
+  "source": "https://www.itcindia.org/switch-test-as-per-iec-60669-1/",
+  "ok": true,
+  "title": "Switch test as per IEC 60669-1 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "There are two types of Switch test as per IEC 60669-1: mechanical and electrical both types of IEC switch testing are important.",
+  "sections": [
+    {
+      "heading": "What is Switch Testing ?",
+      "paragraphs": [
+        "Switch testing is a test to check that the elements of an electrical circuit are operating. In this, there will be two different product samples and check which one performs better when put together."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/switch-test-as-per-iec-60669-1/bab3e123866d.webp",
+          "alt": "Switch test as per IEC 60669-1"
+        }
+      ]
+    },
+    {
+      "heading": "How does IEC 60669-1 switch testing works?",
+      "paragraphs": [
+        "There are two types of Switch test as per IEC 60669-1: mechanical and electrical.",
+        "Mechanical testing is used to test the contact force of the switch. This is important because it ensures that the switch can withstand the wear and tear of repeated use.",
+        "Electrical testing is used to test the conductivity of the switch. This is important because it ensures that the switch can carry an electric current.",
+        "Both types of IEC switch testing are important. Which type of test to choose depends on the type of switch you are using and the application it will be used in."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "SWITCH Test Procedure as per IEC60669-1",
+      "paragraphs": [
+        "Switch test as per IEC 60669-1 is done to determine the correct functioning of a switch. This is important because a switch is an electrical component that controls the flow of current in a circuit. A switch can be either manual or automatic.",
+        "There are two main types of switch tests: functional and dielectric. Functional testing assesses the working of the switch, while dielectric testing assesses the insulation of the switch.",
+        "The most common type of switch test is the functional test. This test is conducted by applying a voltage to the terminals of the switch and then checking to see if the current flows through the switch as it should.",
+        "Dielectric testing is conducted by applying a high voltage to the terminals of the switch and then checking for any leaks in the insulation. This type of test is important because it ensures that the switch can safely control the flow of electricity.",
+        "Both functional and dielectric testing are important for ensuring that switches are safe and reliable. When choosing a switch, it is important to consider both types of tests."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/switch-test-as-per-iec-60669-1/39c5a2a89380.webp",
+          "alt": "Switch test as per IEC 60669-1"
+        }
+      ]
+    },
+    {
+      "heading": "CONNECTION TO THE ACTIVE PARTS of SWITCHES according to the IEC 60669 -1 and IEC 60829",
+      "paragraphs": [
+        "When it comes to <a href=\"/power-supply-equipment-testing\">electrical safety</a>, one of the most important elements is the switch. Switches are what allow us to control the flow of electricity, and as such, they need to be able to withstand a lot of wear and tear. That’s why there are different types of switch testing, to make sure that they can all handle the job they’re meant to do.",
+        "There are two main types of Switch test as per IEC 60669-1: mechanical and electrical. Mechanical testing is all about making sure that the switch can physically withstand being used over and over again. This includes things like pull force testing and durability testing. Electrical testing, on the other hand, is all about making sure that the switch can actually conduct electricity properly. This includes things like contact resistance testing and insulation resistance testing.",
+        "So, which type of switch testing should you choose? Well, it really depends on what you’re looking for. If you need a switch that’s going to be durable and last for a long time, then you’ll want to go with mechanical testing. On the other hand, if you need a switch that’s going to be able to conduct electricity properly, then you’ll want to go with electrical testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/switch-test-as-per-iec-60669-1/d80703c9013e.webp",
+          "alt": "Switch test as per IEC 60669-1"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/switch-test-as-per-iec-60669-1/bab3e123866d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/switch-test-as-per-iec-60669-1/39c5a2a89380.webp",
+      "alt": "Switch test as per IEC 60669-1"
+    },
+    {
+      "src": "/images/migrated/switch-test-as-per-iec-60669-1/d80703c9013e.webp",
+      "alt": "Switch test as per IEC 60669-1"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/switch-test-as-per-iec-60669-1/bab3e123866d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/switch-test-as-per-iec-60669-1/39c5a2a89380.webp",
+      "alt": "Switch test as per IEC 60669-1"
+    },
+    {
+      "src": "/images/migrated/switch-test-as-per-iec-60669-1/d80703c9013e.webp",
+      "alt": "Switch test as per IEC 60669-1"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

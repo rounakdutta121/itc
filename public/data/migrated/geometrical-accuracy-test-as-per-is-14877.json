@@ -1,0 +1,187 @@
+{
+  "hero": "/images/page-heroes/geometrical-accuracy-test-as-per-is-14877.webp",
+  "heroPortrait": "/images/page-heroes/geometrical-accuracy-test-as-per-is-14877-portrait.webp",
+  "generatedIntro": "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s1.webp",
+  "generatedMid": "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s1.webp",
+    "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s2.webp",
+    "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s3.webp",
+    "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s4.webp",
+    "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s5.webp",
+    "/images/page-sections/geometrical-accuracy-test-as-per-is-14877-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 1 | 701 | few links | KEEP",
+  "slug": "geometrical-accuracy-test-as-per-is-14877",
+  "path": "/geometrical-accuracy-test-as-per-is-14877",
+  "source": "https://www.itcindia.org/geometrical-accuracy-test-as-per-is-14877/",
+  "ok": true,
+  "title": "Geometrical Accuracy Test as per IS 14877 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Geometrical Accuracy Test as per IS 14877 is a test to check the accuracy of a measuring instrument. It is done by observing the deviation of the readings from the true value.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Do you want to ensure precise and error-free measurement results for your engineering projects? Look no further than the Geometrical Accuracy Test as per IS 14877.",
+        "This standard provides a comprehensive guide to test geometrical accuracy, ensuring that components and assemblies comply with the required tolerance levels.",
+        "In this blog post, we will explore how this test can benefit various industries and help them achieve optimal quality control measures for their products. So read on to learn more about the ultimate solution to geometrical accuracy testing!"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the Geometrical Accuracy Test?",
+      "paragraphs": [
+        "It is a test to check the accuracy of a measuring instrument. Observers determine the deviation of the readings from the true value",
+        "One obtains the true value by averaging the readings of the measuring instrument over a period of time and plots the deviation on a graph to check the accuracy of the instrument"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why is the Test Important?",
+      "paragraphs": [
+        "Geometrical Accuracy Test as per IS: Why is the Geometrical Accuracy Test Important? It measures the degree to which a 3D model conforms to a set of predefined standards. These standards are important because they ensure that the 3D model will be able to function as intended and be compatible with other models or systems. One can use two types of standards for the Geometrical Accuracy Test: absolute and relative.",
+        "Absolute standards are based on actual physical measurements and are therefore more accurate. However, they are also more difficult to achieve, so most tests use relative standards. Relative standards assume that all models have some inherent inaccuracies, so instead of measuring a model against an absolute standard, we measure it against another similar model.",
+        "This means that the test results are not as accurate as if we had used an absolute standard, but they still serve a useful purpose in assessing overall accuracy. The Geometrical Accuracy Test is important because it provides a way to measure and compare the accuracy of different 3D models. It is also useful for identifying areas where improvement is needed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How to Perform the Geometrical Accuracy Test",
+      "paragraphs": [
+        "As per IS, one should perform the geometrical accuracy test as follows: 1.Choose a suitable plane surface to place the object for testing, ensuring that the surface is large enough to make at least three measurements. 2. Place the object to be tested on the surface, ensuring that it is level and centrally located. 3. Using a tape measure, ruler or other suitable measuring device, take three measurements of the object in different directions. These measurements should be perpendicular to each other if possible. 4. Calculate the mean of the three measurements.This represents the true size of the object being tested. 5. Compare the true size with the stated size of the object being tested. If the two sizes are within the specified tolerance, then the object passes the test."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Results of the Geometrical Accuracy Test",
+      "paragraphs": [
+        "As per the IS code, the geometrical accuracy test was conducted on five samples from each heat and lot. The test results are tabulated below. It can be seen that all the measured values are well within the specified limits. Sample No. Heat/Lot Mean of 3 measurements, mm Deviation from nominal size, mm 1 2 3 1 A 0.502 0.499 0.501 -0.001 2 A 0.498 0.497 0.499 -0.001 3 A 0.501 0.500 0.502 -0- 4 B 0.502 0.501 0.503 -0- 5 B 0.499 0-498 500 -0-1 From the above table, it can be concluded that the geometrical accuracy of the tested samples is as per the IS code requirements and all the measured values are well within the specified limits"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "In conclusion, the Geometrical Accuracy Test as per IS 14877 is an important way to ensure that manufactured parts are of high quality and meet industry standards.",
+        "This method provides a uniform way for manufacturers and designers to test their products for accuracy and integrity. The results of this test can also help to inform design decisions and provide objective feedback on product designs.",
+        "By using the Geometrical Accuracy Test as per IS 14877, manufacturers can improve their overall process efficiency while ensuring they make products that are safe and reliable."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

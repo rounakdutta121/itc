@@ -1,0 +1,253 @@
+{
+  "hero": "/images/page-heroes/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s1.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s2.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s3.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s4.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s5.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s6.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s7.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s8.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s9.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s10.webp",
+    "/images/page-sections/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-ess-s11.webp"
+  ],
+  "category": "medical",
+  "action": "KEEP",
+  "note": "1322 | long title | KEEP – shorten title",
+  "slug": "iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators",
+  "path": "/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators",
+  "source": "https://www.itcindia.org/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators/",
+  "ok": true,
+  "title": "IEC 60601-2-19:2020 Medical electrical equipment Particular requirements for the basic safety and essential performance of infant incubators - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60601-2-19:2020 is a medical electrical standard issued by the International Electrotechnical Commission that provides guidelines for infant incubators and other related equipment.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "As technology continues to progress at an ever increasing rate, the medical sector is not exempt from the need of up-to-date standards and regulations. IEC 60601-2-19:2020 is a medical electrical standard issued by the International Electrotechnical Commission that provides guidelines for infant incubators and other related equipment.",
+        "This blog post will explore the requirements of this standard, and discuss how it affects manufacturers who are producing infant incubators. We will look at various aspects of the standard, such as design, safety features, essential performance criteria, and more. Read on to gain a deeper understanding of IEC 60601-2-19:2020 and its impact on the medical equipment industry."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators/80f6405254cf.jpg",
+          "alt": "IEC 60601-2-19:2020 Medical electrical equipment Particular requirements for the basic safety and essential performance of infant incubators"
+        }
+      ]
+    },
+    {
+      "heading": "Scope",
+      "paragraphs": [
+        "In this first part of the series we will focus on medical electrical equipment used in infant incubators. This will include an overview of the IEC 60601-2-19:2020 standards that apply, as well as a look at some of the particular requirements for these devices.",
+        "We will also consider how to ensure that your devices comply with these standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Normative references",
+      "paragraphs": [
+        "1.1 This part of IEC 60601 applies to infant incubators intended for use in the medical environment, as defined in IEC 60601-1, for the care of infants up to approximately 8 weeks old, with a body weight not exceeding 5 kg. 1.2 This part of IEC 60601 does not apply to: – infant incubators intended for home use; – infant radiant warmers; – products which, although incorporating an infant incubator, are primarily designed for some other purpose, e.g. transport of neonates."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Terms and definitions",
+      "paragraphs": [
+        "1.1 Terms and definitions For the purposes of this document, the following terms and definitions apply. 1.1.1 Infant incubator A medical electrical equipment intended for providing a controlled environment for the care of premature or critically ill infants, by means of temperature control, humidity control and exchange of gases. It can also be used to provide phototherapy, supplementary oxygen or other medical gases, and suctioning. 1.1.2 <a href=\"/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers\">Radiant warmer</a> A medical electrical equipment intended to provide warmth to an infant by means of radiant heat instead of convective heating, often used in combination with an infant incubator. 1.1.3 Open crib A type of infant incubator that does not have a closed top or sides, allowing easy access to the infant for assessment and nursing procedures. 1.1.4 Closed crib A type of infant incubator that has a closed top and sides, providing a more controlled environment than an open crib but with less access to the infant."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "General requirements",
+      "paragraphs": [
+        "1.1 This standard applies to infant incubators intended for the basic care of premature and full-term neonates with a body weight up to 7 kg. 1.2 Classification Infant incubators are classified according to the following: a) Construction type; b) Clinical function; c) Mode of operation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Particular requirements for infant incubators",
+      "paragraphs": [
+        "1. Particular requirements for infant incubators IEC 60601-2-19:2020 Infant incubators are medical devices that are used to provide a controlled and protective environment for premature or sick infants. They are designed to maintain the infant’s body temperature, humidity, and oxygen level within a normal range while providing access for medical staff to monitor and treat the infant. There are several different types of infant incubators, each with its own set of features and capabilities. The most common type of incubator is the open-bed incubator, which provides easy access to the infant for medical procedures and monitoring.",
+        "Closed-bed incubators are used when more isolation is needed, such as for infants with highly contagious diseases. Portable incubators are used when transport of the infant is necessary, such as when transferring them to another facility for further care. The basic safety and essential performance requirements for all types of infant incubators are specified in IEC 60601-2-19:2020. This standard covers aspects such as electrical safety, thermal safety, mechanical safety, construction, materials, labelling, and user instructions. In addition, there are special requirements for closed-bed incubators that take into account the increased risks associated with these types of devices. When selecting an infant incubator, it is important to consider the specific needs of the patient as well as the features offered by various manufacturers. Some factors that should be considered include the type of illness or injury being treated, length of stay in the incubator,"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Test methods",
+      "paragraphs": [
+        "There are three main types of tests that are conducted on infant incubators: 1. Functional testing – to ensure the equipment is safe and fit for purpose 2. Environmental testing – to check how the equipment will perform in different temperature and humidity conditions 3. Electrical safety testing – to make sure the equipment meets all electrical safety standards Functional testing includes checks such as making sure the heating elements work properly, that doors open and close correctly, and that alarms sound when they should.",
+        "Environmental testing ensures the incubator can maintain a stable temperature in various conditions, while electrical safety testing looks at things like insulation and electromagnetic compatibility."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Labelling, instructions and documentation",
+      "paragraphs": [
+        "In order to ensure the basic safety and essential performance of infant incubators, medical electrical equipment must be properly labelled, instructions must be provided, and documentation must be kept up to date. Labeling should include all pertinent information about the equipment, such as manufacturer, model number, serial number, and date of manufacture. Instructions should be clear and concise, covering all aspects of proper use and maintenance of the equipment.",
+        "Documentation should be kept in a central location and should include a copy of the user manual, as well as any updates or changes that have been made to the equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Annex A (informative) Infant incubator safety classification",
+      "paragraphs": [
+        "Annex A (informative) of the blog article “IEC –: Medical electrical equipment Particular requirements for the basic safety and essential performance of infant incubators IEC 60601-2-19:2020 ” provides guidance on the safety classification of infant incubators. There are three classes of infant incubators, Class I, Class II, and Class III, which are based on the type of patient contact and the level of protection against electrical shock.",
+        "ClassI:- incubators provide minimal protection against electrical shock and have no patient contact",
+        "ClassII:- incubators have limited patient contact and provide moderate protection against electrical shock.",
+        "ClassIII:- incubators have direct patient contact and provide maximum protection against electrical shock. The following table summarizes the features of each class of infant incubator: Class I: -No patient contact -Minimal protection against electrical shock -Ideal for low-risk patients Class II: -Limited patient contact -Moderate protection against electricalshock -Ideal for moderate-risk patients Class III: -Direct patient contact -Maximum protection against electrical shock -Ideal for high-risk patients"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Annex B (normative) General test methods for infant incubators",
+      "paragraphs": [
+        "Annex B of the IEC 60601-2-12 standard specifies general test methods for infant incubators. These tests are designed to ensure that the basic safety and essential performance of infant incubators are met. The first test is a visual inspection. This inspection is used to check the overall condition of the incubator and to identify any obvious defects. The second test is an electrical safety test. This test is used to ensure that the incubator meets all applicable safety standards for electrical equipment. The third test is a performance test. This test is used to ensure that the incubator performs as intended. The performance tests include tests for temperature control, oxygen concentration, and humidity control."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Annex C ( normative) Additional test methods for self-contained infant incubators",
+      "paragraphs": [
+        "1. Annex C (normative) Additional test methods for self-contained infant incubators 1.1 General In addition to the general test methods specified in IEC 60601-1, the following specific tests shall be performed on self-contained infant incubators. 1.2 Tests on complete systems The incubator shall be tested as a complete system with all accessories fitted and all control functions operational. The following tests shall be performed: 1.2.1 Thermal performance tests (Clause 5 of IEC 60601-2-13) The thermal performance of the incubator shall be verified in accordance with Clause 5 of IEC 60601-2-13. This test shall be conducted with the heater turned off and the patient chamber empty. The following parameters shall be measured and recorded: – Room temperature – Air temperature at three different positions within the patient chamber – Heat losses from the patient chamber"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators/80f6405254cf.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators/80f6405254cf.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

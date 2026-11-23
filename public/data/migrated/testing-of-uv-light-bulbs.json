@@ -1,0 +1,213 @@
+{
+  "hero": "/images/page-heroes/testing-of-uv-light-bulbs.webp",
+  "heroPortrait": "/images/page-heroes/testing-of-uv-light-bulbs-portrait.webp",
+  "generatedIntro": "/images/page-sections/testing-of-uv-light-bulbs-s1.webp",
+  "generatedMid": "/images/page-sections/testing-of-uv-light-bulbs-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/testing-of-uv-light-bulbs-s1.webp",
+    "/images/page-sections/testing-of-uv-light-bulbs-s2.webp",
+    "/images/page-sections/testing-of-uv-light-bulbs-s3.webp",
+    "/images/page-sections/testing-of-uv-light-bulbs-s4.webp",
+    "/images/page-sections/testing-of-uv-light-bulbs-s5.webp",
+    "/images/page-sections/testing-of-uv-light-bulbs-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "REWRITE",
+  "note": "9 / 9 | 202 | thin, 2 img no alt, few links | REWRITE – P11 (full text in Content tab)",
+  "slug": "testing-of-uv-light-bulbs",
+  "path": "/testing-of-uv-light-bulbs",
+  "source": "https://www.itcindia.org/testing-of-uv-light-bulbs/",
+  "ok": true,
+  "title": "UV Testing: Testing of UV light Bulbs - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India ia a testing lab that conduct UV Testing for UV lights and UV light bulbs. The tests conducted under UV light testing are...",
+  "sections": [
+    {
+      "heading": "What is UV?",
+      "paragraphs": [
+        "Ultra Violet radiations emitted by a light source such as sun."
+      ],
+      "bullets": [
+        "Harmful effect on human: skin Cancer or sunburns, damage eyes, weaken immune system.",
+        "Benefits: Trigger Vitamin D, Treatment of some skin disease such as psoriasis."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why UV Light Bulbs?",
+      "paragraphs": [],
+      "bullets": [
+        "Improves indoor air quality.",
+        "Used in Hospitals to sanitize equipment.",
+        "Increased energy savings.",
+        "They can prevent asthma and allergies."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Equipment required",
+      "paragraphs": [],
+      "bullets": [
+        "Suitable radiometer appropriate for 254 nm UV",
+        "A true Power analyzer"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Test Chamber",
+      "paragraphs": [
+        "Testing steps"
+      ],
+      "bullets": [
+        "A lab requires 25UV bulb samples for testing.",
+        "Bulbs are marked clearly from 1 to 25.",
+        "Randomly 12 bulbs are selected for testing.",
+        "Before testing, these 12 bulbs are operated for 100 hrs at full power.",
+        "The testing is done using a lamp testing chamber as per the protocol.",
+        "All the testing is done in care of Experts and data is recorded (Temperature of the test chamber and the distance of radiometer to the lamp center).",
+        "All the testing is done by calibrated instruments (calibration valid for 1 year only)."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/testing-of-uv-light-bulbs/6e3d26a10fb3.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Result of the testing",
+      "paragraphs": [],
+      "bullets": [
+        "Relevant Lamp testing Data",
+        "Average UVC efficiency"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ITC india provides the following service",
+      "paragraphs": [],
+      "bullets": [
+        "Calibration of UV bulbs",
+        "Calibration of UV intensity meters",
+        "Validation of UV chambers"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/testing-of-uv-light-bulbs/6e3d26a10fb3.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/testing-of-uv-light-bulbs/6e3d26a10fb3.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

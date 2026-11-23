@@ -1,0 +1,186 @@
+{
+  "hero": "/images/page-heroes/laptop-and-monitor-testing.webp",
+  "heroPortrait": "/images/page-heroes/laptop-and-monitor-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/laptop-and-monitor-testing-s1.webp",
+  "generatedMid": "/images/page-sections/laptop-and-monitor-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/laptop-and-monitor-testing-s1.webp",
+    "/images/page-sections/laptop-and-monitor-testing-s2.webp",
+    "/images/page-sections/laptop-and-monitor-testing-s3.webp",
+    "/images/page-sections/laptop-and-monitor-testing-s4.webp",
+    "/images/page-sections/laptop-and-monitor-testing-s5.webp",
+    "/images/page-sections/laptop-and-monitor-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "299 | thin | LOW: expand; link to IS 13252 page",
+  "slug": "laptop-and-monitor-testing",
+  "path": "/laptop-and-monitor-testing",
+  "source": "https://www.itcindia.org/laptop-and-monitor-testing/",
+  "ok": true,
+  "title": "Laptop and Monitor Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Laptop Tetsing, Monitor Testing, Notebook Testing: Critical Tests as per IEC 60950-1 and IS 13252 part 1 - power interface, earth provision...",
+  "sections": [
+    {
+      "heading": "Laptop, Notebook and Monitors",
+      "paragraphs": [
+        "Computer monitor is an output device that displays information in pictorial or text form. A monitor usually comprises a visual display, some circuitry, a casing, and a power supply. The display device in modern monitors is typically a thin film transistor liquid crystal display (TFT-LCD) with LED backlighting having replaced cold-cathode fluorescent lamp (CCFL) backlighting. Previous monitors used a cathode ray tube (CRT) and some Plasma (also called Gas-Plasma) displays. Monitors are connected to the computer via VGA, Digital Visual Interface (DVI), HDMI, DisplayPort, USB-C, low-voltage differential signaling (LVDS) or other proprietary connectors and signals.",
+        "Safety Standards for Laptops and Monitors (IEC 60950-1 and IS 13252 part 1)"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/laptop-and-monitor-testing/af751bd9ef6b.jpg",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/laptop-and-monitor-testing/f25746f26f19.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Scope of standards:",
+      "paragraphs": [
+        "Equipment, including electrical business equipment and associated equipment, with a RATED VOLTAGE not exceeding 600 V.",
+        "This standard is also applicable to such information technology equipment:",
+        "− designed for use as telecommunication terminal equipment and TELECOMMUNICATION NETWORK infrastructure equipment, regardless of the source of power;",
+        "− designed and intended to be connected directly to, or used as infrastructure equipment in, a CABLE DISTRIBUTION SYSTEM, regardless of the source of power;",
+        "− designed to use the AC MAINS SUPPLY as a communication transmission medium (see Clause 6, Note 4 and 7.1, Note 4).",
+        "This standard is also applicable to components and subassemblies intended for incorporation in information technology equipment. It is not expected that such components and subassemblies comply with every aspect of the standard, provided that the complete information technology equipment, incorporating such components and subassemblies, does comply."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Earth Provision",
+      "paragraphs": [],
+      "bullets": [
+        "Stability"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/laptop-and-monitor-testing/af751bd9ef6b.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/laptop-and-monitor-testing/f25746f26f19.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/laptop-and-monitor-testing/af751bd9ef6b.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/laptop-and-monitor-testing/f25746f26f19.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

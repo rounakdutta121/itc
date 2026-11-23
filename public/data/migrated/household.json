@@ -1,0 +1,334 @@
+{
+  "hero": "/images/page-heroes/household.webp",
+  "heroPortrait": "/images/page-heroes/household-portrait.webp",
+  "generatedIntro": "/images/page-sections/household-s1.webp",
+  "generatedMid": "/images/page-sections/household-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/household-s1.webp",
+    "/images/page-sections/household-s2.webp",
+    "/images/page-sections/household-s3.webp",
+    "/images/page-sections/household-s4.webp",
+    "/images/page-sections/household-s5.webp",
+    "/images/page-sections/household-s6.webp",
+    "/images/page-sections/household-s7.webp",
+    "/images/page-sections/household-s8.webp",
+    "/images/page-sections/household-s9.webp",
+    "/images/page-sections/household-s10.webp",
+    "/images/page-sections/household-s11.webp",
+    "/images/page-sections/household-s12.webp",
+    "/images/page-sections/household-s13.webp",
+    "/images/page-sections/household-s14.webp",
+    "/images/page-sections/household-s15.webp"
+  ],
+  "category": "electrical",
+  "action": "FIX_TITLE",
+  "note": "989 | title cut off \"ITC Indi\" | FIX TITLE – \"Household Appliance Testing Lab | IEC 60335 – ITC India\"; appliance hub",
+  "slug": "household",
+  "path": "/household",
+  "source": "https://www.itcindia.org/household/",
+  "ok": true,
+  "title": "Household Appliance Testing Laboratory India | ITC Indi",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Household appliance testing laboratory in India for electrical safety, IEC 60335 and IS 302 requirements. Test kitchen, heating and domestic appliances with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Household electrical appliances must operate safely during normal use and under reasonably foreseeable abnormal conditions. Products can involve electrical, thermal, mechanical, moisture and fire hazards, making product-safety testing an important part of development, certification and market-entry programmes.",
+        "ITC India provides household appliance testing services in India for manufacturers, importers and product developers. Testing can support appliances used for cooking, cleaning, refrigeration, heating, personal care and other household or similar applications.",
+        "Many household electrical appliances fall within the IEC 60335 safety-standard family. Manufacturers can review ITC India’s dedicated <a href=\"/household\">IEC 60335 household appliance testing services</a> when determining the appropriate general and product-specific standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/household/0e6384446f3d.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "IEC 60335 Testing for Household Appliances",
+      "paragraphs": [
+        "IEC 60335-1 establishes general safety requirements for household and similar electrical appliances. It is normally used together with the appropriate IEC 60335 Part 2 standard covering the particular appliance.",
+        "The applicable standard therefore depends on the product rather than IEC 60335-1 being used alone.",
+        "Manufacturers starting a safety programme can review ITC India’s <a href=\"/iec-60335-1-safety-testing-india\">IEC 60335-1 safety testing</a> service for general requirements concerning electrical, thermal, mechanical and other foreseeable hazards.",
+        "For products intended for India, applicable Indian standards and regulatory requirements such as relevant IS 302 requirements may also need to be considered. The required edition and certification route should be confirmed for the product and target market before formal testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Household Appliances Tested",
+      "paragraphs": [
+        "ITC India supports safety evaluation across a range of household and similar electrical products. Depending on the applicable standard, relevant appliances can include:",
+        "Each product category can have specific hazards and additional Part 2 requirements.",
+        "For example, manufacturers can use ITC India’s <a href=\"/washing-machine-safety-testing\">IEC 60335-2-7 washing machine testing</a>, <a href=\"/iec-60335-2-24-safety-testing-india\">IEC 60335-2-24 refrigerator safety testing</a> and <a href=\"/iec-60335-2-3-safety-testing-india\">IEC 60335-2-3 electric iron testing</a> for these appliance categories."
+      ],
+      "bullets": [
+        "Washing machines and laundry equipment",
+        "Refrigerators and freezers",
+        "Electric irons",
+        "Mixers, grinders and kitchen machines",
+        "Electric cooking appliances",
+        "Room heaters and heating appliances",
+        "Dishwashers",
+        "Vacuum cleaners",
+        "Personal-care appliances",
+        "Warming plates and similar appliances"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major Household Appliance Safety Tests",
+      "paragraphs": [
+        "The actual test programme varies according to appliance type, construction and applicable Part 2 standard. Typical electrical-safety evaluations can include:",
+        "The applicable product-specific standard may modify these tests or introduce additional requirements.",
+        "Manufacturers requiring broader electrical-safety support can also review ITC India’s <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a>."
+      ],
+      "bullets": [
+        "Marking and instructions",
+        "Protection against access to live parts",
+        "Power input and current",
+        "Heating and temperature-rise testing",
+        "Leakage current",
+        "Electric strength",
+        "Moisture resistance",
+        "Transient overvoltage evaluation",
+        "Abnormal operation",
+        "Stability and mechanical hazards",
+        "Mechanical strength",
+        "Internal wiring",
+        "Components and protective devices",
+        "Supply connections and flexible cords",
+        "Protective earthing",
+        "Creepage and clearance distances",
+        "Resistance to heat and fire",
+        "Resistance to rusting where applicable"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Kitchen Appliance Testing",
+      "paragraphs": [
+        "Kitchen appliances can combine heating elements, motors, blades, moving components and electronic controls. Their safety assessment can therefore involve electrical protection as well as mechanical and thermal hazards.",
+        "ITC India provides <a href=\"/electrical-kitchen-machine-testing\">IEC 60335-2-14 electrical kitchen machine testing</a> for applicable kitchen machines and <a href=\"/iec-60335-2-9-electrical-cooking-appliances-testing\">IEC 60335-2-9 electrical cooking appliance testing</a> for relevant cooking appliances.",
+        "For domestic food mixers and grinders requiring Indian-standard evaluation, manufacturers can also review <a href=\"/electrical-kitchen-machine-testing\">IS 4250 mixer and grinder testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Heating Appliance Safety Testing",
+      "paragraphs": [
+        "Heating appliances require careful assessment because excessive temperatures, inadequate insulation or abnormal operation can create electric-shock, burn and fire hazards.",
+        "Testing can include surface and internal temperature measurements, leakage current, electric strength, abnormal-operation safeguards, stability and resistance to heat and fire.",
+        "For applicable space-heating products, ITC India provides dedicated <a href=\"/room-heater-testing\">room heater testing</a> against relevant IEC and IS requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC and Additional Product Testing",
+      "paragraphs": [
+        "Electrical safety and electromagnetic compatibility are separate compliance areas. Household appliances containing motors, electronic controls, switching power supplies, displays or communication functions may also require applicable EMC testing.",
+        "ITC India provides <a href=\"/emc-emi-testing\">EMC Testing Services</a> for products requiring emission and immunity evaluation in addition to electrical safety.",
+        "Depending on the product and market, manufacturers may also require performance, ingress-protection, environmental or other regulatory testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing a Household Appliance for Testing",
+      "paragraphs": [
+        "Manufacturers should provide the product model, rated voltage and frequency, intended use, applicable standard, circuit diagrams, critical component list, mechanical drawings, insulation details, labels and user instructions.",
+        "Accessories and operating configurations needed to reproduce normal and abnormal conditions should also be supplied.",
+        "Early testing during product development can help identify issues involving insulation, overheating, earthing, mechanical protection and component selection before final certification testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Household Appliance Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports household and similar electrical-appliance manufacturers with safety and related product testing against applicable IEC, IS and other requirements.",
+        "Where an accredited report is required, manufacturers should confirm that the exact test standard and parameter are covered by the laboratory’s current scope. ITC India’s <a href=\"/about-us/accreditations\">NABL accreditation and scope information</a> can be reviewed before testing.",
+        "For household appliance testing in India, submit your product specifications, target market and applicable standard through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is household appliance testing?",
+      "paragraphs": [
+        "Household appliance testing evaluates electrical, thermal, mechanical and other safety requirements applicable to appliances used in homes and similar environments."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which standard is commonly used for household electrical appliances?",
+      "paragraphs": [
+        "The IEC 60335 series is widely used for household and similar electrical-appliance safety. IEC 60335-1 contains general requirements and is used with an applicable product-specific Part 2 standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does every household appliance use the same IEC 60335 Part 2?",
+      "paragraphs": [
+        "No. Different products have different Part 2 standards. Washing machines, refrigerators, electric irons, kitchen machines and heating appliances can each require different particular standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What safety tests are performed on household appliances?",
+      "paragraphs": [
+        "Testing can include electric-shock protection, leakage current, electric strength, heating, moisture resistance, abnormal operation, mechanical strength, stability, earthing and heat/fire resistance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Are IEC 60335 and IS 302 the same?",
+      "paragraphs": [
+        "They are related safety-standard frameworks, but applicable Indian requirements and adopted editions should be confirmed for the particular product and regulatory route."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test household appliances?",
+      "paragraphs": [
+        "ITC India supports testing of applicable household and similar electrical appliances against IEC, IS and other product requirements. The final scope depends on the appliance, applicable standard and target market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/household/0e6384446f3d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/household/0e6384446f3d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

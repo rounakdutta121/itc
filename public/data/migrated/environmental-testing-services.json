@@ -1,0 +1,355 @@
+{
+  "hero": "/images/page-heroes/environmental-testing-services.webp",
+  "heroPortrait": "/images/page-heroes/environmental-testing-services-portrait.webp",
+  "generatedIntro": "/images/page-sections/environmental-testing-services-s1.webp",
+  "generatedMid": "/images/page-sections/environmental-testing-services-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/environmental-testing-services-s1.webp",
+    "/images/page-sections/environmental-testing-services-s2.webp",
+    "/images/page-sections/environmental-testing-services-s3.webp",
+    "/images/page-sections/environmental-testing-services-s4.webp",
+    "/images/page-sections/environmental-testing-services-s5.webp",
+    "/images/page-sections/environmental-testing-services-s6.webp",
+    "/images/page-sections/environmental-testing-services-s7.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "0 / 13 | 2458 | few links | ADD – title \"Environmental Testing Lab | IEC 60068, JSS 55555 – ITC India\"; keep content",
+  "slug": "environmental-testing-services",
+  "path": "/environmental-testing-services",
+  "source": "https://www.itcindia.org/environmental-testing-services/",
+  "ok": true,
+  "title": "Environmental Testing Lab| Dry heat ,Dry Cold, Damp heat",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India provide Environmental Testing like Dry heat ,Dry Cold, Damp heat (Steady state), Damp heat(Cyclic) Damp heat Composite, Temperature cycling/change",
+  "sections": [
+    {
+      "heading": "JS 55555 Testing",
+      "paragraphs": [
+        "ITC can do Electrical Safety testing against Environmental Testing equipment against following types of products/standards:"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Types of Tests",
+            "Applicable Standards"
+          ],
+          "rows": [
+            [
+              "Dry heat test",
+              "IS 9000 pt (III); IS 9000(part- 3) ; IS 1248 ; IS 13779 ; IEC 60068-2-2"
+            ],
+            [
+              "Dry Cold test",
+              "IS 9000 pt- (II) ; IS 1248 ; IS 13779 ; IEC 60068-2-1"
+            ],
+            [
+              "Damp heat test (Steady state)",
+              "IS 9000 pt (IV); IS 13779 ; IS 1534; IEC 60068-2-78"
+            ],
+            [
+              "Damp heat test (Cyclic)",
+              "IS 9000 Pt(V); IEC 60068-2-30"
+            ],
+            [
+              "Damp heat test (Composite)",
+              "IS 9001-4"
+            ],
+            [
+              "Composite temperature/Humidity Cyclic test",
+              "IEC 60068-2-38"
+            ],
+            [
+              "Temperature cycling/change of temperature",
+              "IS 9000 Pt (XIV); IEC 60068-2-14"
+            ],
+            [
+              "Impact test (IK01, IK02, IK03, IK04, Ik05, IK06, IK07, IK08, IK09, IK10)",
+              "IEC 62262 ; IEC 60068-2-75 ; IEC 62208; IEC 62275; IS 8828 ; IS/IEC 60898-2 ; IEC 60898-1 ; IS 12640 (Part 1) / IEC 61008-1 ; IS 12640 (Part 2) / IEC 61009-1 ; IEC 61008-2-1 ; IEC 61009-2-1 ; IEC 61330"
+            ],
+            [
+              "Dust test Ingress of protections (Degrees) (IP 1X, 2X, 3X, 4X, 5X, 6X IP X3, X4, X5, X6, X7, X8)",
+              "IS 9000 Pt (XII); IS/IEC 60529"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Environment Testing on electrical/electronic products under electrical safety testing",
+      "paragraphs": [
+        "Before, we discuss about the environment testing, let’s first discuss about the importance of the environment testing. Multifarious reason can be explained regarding to this query. First and foremost reason is to know “How safe is your product”. Any dangerous substance used in your product can cause gloomy impact on biotic and biotic components. Apart from it, is the life of your product? If, it meets or exceed the standard requirements, it will increase quality of your product, hence Longevity . Another important factor is durability. Environment testing gives you all the answers.",
+        "Now a big question arises where to go for environment testing. The product is tested on temperature, humidity factors. Environment testing is performed in the labs where the testing facility is provided to test various environment factors and ITC India pvt ltd is the laboratory where you can find all the facility are under one roof. ITC India has the facility to test as per IEC /EN/ /IS standards in its own premises. Here is a list of some the standards:",
+        "IEC 60068-1,`IEC 60068-2, IEC 60028-3, IEC 60028-4, IEC 60028-2-27, IEC 60028-2-21, IEC 60028-2-78, IEC 60028-2-7, IEC 60028-3-4, IEC 60028-2-56, IEC 60028-2-56, IEC 60028-2-39, IEC 60028-2-40, IEC 60028-2-30, IEC 60028-3-1, IEC 60028-2-2, IEC 60028-2-1, IEC 60028-2-38, IEC 60028-2-14, IS 9000 part 3, IS 1248, IS 13779, IS 13031, IS 1534, IS9000 PART 5, IS 9001, IS 9000 PART xiv etc.",
+        "The list of test facility which can be performed by ITC India pvt ltd with a NABL logo is mentioned below:",
+        "Any Electrical, electronics and process control items or product can be tested here and the reports are issued with NABL logo.",
+        "Environment chamber is a machine owned by ITC with the temperature range between -40°c to 140°C and the range of humidity is 25% R.H. to 95 % R.H."
+      ],
+      "bullets": [
+        "Dry heat test",
+        "Dry cold test",
+        "Damp heat test (steady state)",
+        "Damp heat test( cyclic)",
+        "Damp heat test(composite)",
+        "Composite temperature",
+        "Humidity cycle test",
+        "Temperature cycling/change of temperature."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Vibration Testing",
+      "paragraphs": [
+        "Vibration testing is used to test the durability or identify the scope of improvements in the product. In vibration testing, the product is exposed to a vibration environment which is a replica of the same vibration environment to which the product will be exposed while in real use. Vibration testing condenses a life time of wear and stress into a short period of time to expose out the hidden design weaknesses of the product. Vibration testing can be done in two ways:",
+        "The purpose of vibration testing is to make sure that products are robust and perform safely during transit or operation. It detects performance issues and possible failures before they start."
+      ],
+      "bullets": [
+        "Vibration Experiment: In this, testing is done on a sample model of the total production. It is generally used for design improvement of the product.",
+        "Vibration Stress Screening: In this, testing is done on all production products. It is generally done to dispose of the faulty units and approve good ones. It might be compulsory for certain industries."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Vibration Testing and Product Quality",
+      "paragraphs": [
+        "The design weaknesses which can be only known while the product is in transit or use can be easily revealed beforehand with the vibration tests. Tests like BSR (buzz, squeak and rattle) help in detecting the development of unwanted noise in vehicle interiors. For environmental testing like HALT and HASS, it is essential to integrate vibration testing and environmental chambers for additional expansion stresses of rapid cooling and heating."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Some common vibration tests are",
+      "paragraphs": [],
+      "bullets": [
+        "Durability – Fatigue Testing: This vibration testing aids the manufactures to gauge the behavior of their product and its components to the typical use.",
+        "Shock and Drop Testing: During the shock tests, payloads like televisions, are moved swiftly for a short period of time 11 m/s or 100 g, to imitate a television being dropped during transport.",
+        "Package Testing – Transport Vibration Simulation: This type of vibration testing is used to reproduce a product’s journey from when it is packed at the factory until it reaches the customer.",
+        "Environmental Stress Screening (ESS): Here the products are exposed to cyclical temperature fluctuations or to low and high temperatures while simultaneously being shaken, so as to ensure that the product does not fail under the combined stress of both vibration and temperature.",
+        "Buzz, Squeak and Rattle (BSR): This vibration test is to test the durability of automotive components. It also ensures that the interiors are free from noise, for better passenger comfort.",
+        "Mechanical Satellite Qualification Test: The test is conducted to ensure that equipment design meet the performance expectations needed for a particular assignment i.e. from assembly and transportation to launch and operation."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Humidity Testing",
+      "paragraphs": [
+        "Humidity Testing is a type of corrosion analysis technique which determines the corrosion rates in materials. Products and materials can experience serious damage due to prolonged exposure to humidity. With humidity testing, issues like corrosion, electrical shortage, mechanical failure etc. can be mitigated.",
+        "In a humidity test, both fog and humidity are controlled particularly for analyzing corrosion. This test can be used on a wide range of products, from coatings or electrodeposited paints to copper tube systems. Humidity test is mostly used to gauge the material’s corrosivity or the impact of substances like residual contaminants.",
+        "The specifications of the test defines the test conditions and applied humidity, which can be a non-condensing test in case of which the humidity is present in the air but does not cause formation of condensation, or a condensing test, in case of which the humidity and temperature cycle is performed precipitating condensation onto the sample.",
+        "Humidity Testing helps in studying a number of things like coating degradation, mechanical failures, parameter shift failures as well as various other factors which are essential for maintaining the quality of operations.",
+        "A variation of the Humidity Testing, known as the Cyclic Humidity Testing, is also conducted to reproduce a high humidity and heat exposure. The cabinet used for testing must has a reliable humidity sensor as well as a feedback controller.",
+        "All the data obtained through this testing is essential in planning and selection of paints, materials, coatings and products. The lifespan of the product can be extended if the product is properly protected against humidity.",
+        "Standards",
+        "The international standards as per which ITC India Lab conducts testing include:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Temperature and Humidity Testing",
+      "paragraphs": [
+        "Also referred to as ‘Damp Heat Testing’, Temperature and Humidity Testing is one of the most popular methods of identifying and rectifying the weaknesses in performance of plastic, metal and electronic products when subject to humid environments. Generally, the root causes of product failure are high temperature and humidity as they quickly lead to corrosion, weakening of moving parts and moisture diffusion through moldings.",
+        "Temperature and Humidity Testing reveals weaknesses through high and low humidity, high and low temperature, thermal shocks and thermal cycling. Some of the weaknesses that are exposed through this testing are:",
+        "There is a long list of products which can be subjected to Temperature and Humidity Testing, but it mainly depends on the intended working environment of the product. The type of testing also depends on the industry that is applying for it. Some of the common industries that regularly make use of Temperature and Humidity Testing are:",
+        "Some of the products which are suitable to be subjected to Temperature and Humidity Testing are:"
+      ],
+      "bullets": [
+        "Water Tightness: Products which are subject to wet environments are an excellent choice for testing. The Temperature and Humidity Testing reveals ingress weaknesses and water leakages in the product.",
+        "Epoxy Coatings: A large number of products which are destined for harsh environments generally contain epoxy coatings. Under Temperature and Humidity Testing, such products are placed under extreme stress, where any weaknesses through contraction, expansion, surface corrosion or abrasion and moisture ingression are exposed.",
+        "Mechanical Failures: Change in cold and heat cycles can overwhelm many products which most of the times end in catastrophic or minor mechanical failures. Temperature and Humidity Testing acts as an insurance against products failing in the field and resulting in injury or damage.",
+        "Fogging: Sealed units like windshields and windows are mostly tested for this particular weakness. Any weakness in the product is quickly revealed when stressed to cold and hot cycles of dryness and dampness. If the moisture fogging is there between the layers, it concludes as a sure sign of the product’s failure.",
+        "Automotive",
+        "Energy",
+        "Aerospace",
+        "Telecommunications",
+        "Defense"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Medical Diagnostic Products",
+      "paragraphs": [
+        "The most used condition under Temperature and Humidity Testing is 85/85 because of which it is also referred to as ‘85/85 Testing’. While testing, the test samples are subject to the stress of temperature-humidity for the periods of 100, 500, 1000 or more hours and humidity levels from 10-98% RH. In case of long test durations like 1000 hrs, the test samples can be removed from the test chamber for interim electrical testing and inspection as per customer’s designated intervals."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "High Accelerated Stress Testing – HAST",
+      "paragraphs": [
+        "Also known as Pressure Cooker Test (PCT) or Unsaturated Pressure Cooker Test (USPCT), High Accelerated Stress Test (HAST) is a method used to test the reliability of electronic component using environmental parameters of humidity and temperature. The purpose of HAST is to observe the humidity resistance of the test sample. The sample is tested by increasing the pressure of water vapors in the test chamber above the partial water vapors inside the test sample. This process increases the infiltration of moisture into the test sample for a short period.",
+        "The test was developed as an alternative to Temperature Humidity Bias Testing (THB) for the latter was a lengthy process. If THB takes 1000 hrs to complete, the High Accelerated Stress Testing results are available within 96-100 hrs. HAST can also be used for transportation, packaging and shelf-life programs in addition to fulfilling humidity testing requirements.",
+        "The PCT accelerates corrosion, especially of the thin film resistors and die metal lines. This test is conducted with electrical bias at 130℃ and 85% RH and needs preconditioning. The following guidelines are considered while defining electrical bias:"
+      ],
+      "bullets": [
+        "Minimizing dissipation of power so that moisture is present at the die surface",
+        "As much as possible, subjecting the alternate pins to opposite bias (low voltage vs. high voltage)",
+        "Maximizing probable differences between the various metallization on the die",
+        "Maximizing the operating voltage range for the device as long as the dissipation of power is under control."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "HAST Related Testing Standards",
+      "paragraphs": [
+        "High Accelerated Stress Test is suggested for qualifying any change that can possibly affect the product’s corrosion resistance. Therefore, a new fab/assembly site, a new package, or a new fab process definitely require High Accelerated Stress Test data. Metallization or thin film resistors, changes in the molding compound, as well as changes in the die glassivation are also suggested for HAST tests. It can also be used for the assessment of reliability of lots believed to be prone to corrosion due to ionic contamination."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/environmental-testing-services/a415eafbf6e3.webp",
+          "alt": "High accelerated stress testing standards"
+        }
+      ]
+    },
+    {
+      "heading": "JS 55555 Testing",
+      "paragraphs": [
+        "Also known as ‘Penta-Five Test’, JS 55555 Testing is a test method which is globally accepted as a performance test in the range of consumer and industrial products market. It is an antifungal product test for electronics and is used to determine the electrical and electronic equipment’s resistance against the growth of mold.",
+        "The JS 55555 standard has a total of 31 tests which can be conducted as per requirement to test the electrical and electronic equipment’s resistance against mold growth.",
+        "Some of the tests stated in the standard are:",
+        "Many other tests are available to test the performance of the products as per the requirements."
+      ],
+      "bullets": [
+        "Acceleration (Steady State): The objective of this test is to ascertain the satisfactory performance and structural integrity of the electrical and electronic equipment during and after being subjected to a constant acceleration aside from gravity.",
+        "Acoustic Noise: The objective of this test is to ascertain the effects of an acoustic field produced by vehicle power plants, aerospace vehicles etc. on electrical and electronic equipment. The test equipment used for this test include a test chamber, measuring system, spectrum measurements, noise source and microphones.",
+        "Fine Mist: This test is conducted to know the suitability of electrical and electronic equipment for use when it comes in contact with conditions of fine mist of water. The test equipment used in this case is an enclosure of adequate size that is capable of producing a fine mist of tap water.",
+        "Fungal Growth: This test is conducted with the objective of testing the resistance of the electrical and electronic equipment against mould growth. The only test equipment used in this test is a humidity chamber.",
+        "Drop: The drop test determines the ability of the electrical and electronic equipment to withstand the shocks induced through dropping or rough handling while in use. A drop test platform is used for such testing.",
+        "Bump: Bump testing is done to test the ability of the electrical and electronic equipment to cope with repeated bumps without any mechanical damage or malfunctioning.",
+        "Bounce: The objective of this test is to prepare the equipment for hazards of transportation when they are carried as loose cargo on wheeled vehicles across irregular surface, where it can experience bounces or scuffs or even a collision with other items of cargo or with the sides of the vehicle."
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/environmental-testing-services/4697f30e2c3a.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/environmental-testing-services/a415eafbf6e3.webp",
+      "alt": "High accelerated stress testing standards"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/environmental-testing-services/4697f30e2c3a.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/environmental-testing-services/a415eafbf6e3.webp",
+      "alt": "High accelerated stress testing standards"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

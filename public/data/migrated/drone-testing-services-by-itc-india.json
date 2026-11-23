@@ -1,0 +1,260 @@
+{
+  "hero": "/images/page-heroes/drone-testing-services-by-itc-india.webp",
+  "heroPortrait": "/images/page-heroes/drone-testing-services-by-itc-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/drone-testing-services-by-itc-india-s1.webp",
+  "generatedMid": "/images/page-sections/drone-testing-services-by-itc-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/drone-testing-services-by-itc-india-s1.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s2.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s3.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s4.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s5.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s6.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s7.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s8.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s9.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s10.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s11.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s12.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s13.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s14.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s15.webp",
+    "/images/page-sections/drone-testing-services-by-itc-india-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1 / 1 | 511 | no meta, 2 img no alt | KEEP – add meta",
+  "slug": "drone-testing-services-by-itc-india",
+  "path": "/drone-testing-services-by-itc-india",
+  "source": "https://www.itcindia.org/drone-testing-services-by-itc-india/",
+  "ok": true,
+  "title": "Drone Testing Services by ITC India - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Pioneering Safe Skies with Certified UAV TestingThank you for reading this post, don't forget to subscribe! 📧 info@itcindia.org | 📞 +91 9316473033 | 🌐 www.itcindia.org 🛩️ Introduction As drones evolve from hobbyist gadgets to critical tools in defense, agriculture, logistics, surveying, and cinematography, ensuring their performance and safety becomes non-negotiable. ITC India, a leading NABL-accredited…Read More+",
+  "sections": [
+    {
+      "heading": "Pioneering Safe Skies with Certified UAV Testing",
+      "paragraphs": [
+        "📧 info@itcindia.org | 📞 +91 9316473033 | 🌐 <a href=\"/\">www.itcindia.org</a>"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/drone-testing-services-by-itc-india/2cd2054d8f71.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "🛩️ Introduction",
+      "paragraphs": [
+        "As drones evolve from hobbyist gadgets to critical tools in defense, agriculture, logistics, surveying, and cinematography, ensuring their performance and safety becomes non-negotiable. ITC India, a leading NABL-accredited testing lab based in Chandigarh, offers Drone Testing Services by ITC India aligned with global standards to support manufacturers and integrators in achieving regulatory compliance and performance excellence."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔍 International Testing Standards for UAVs",
+      "paragraphs": [
+        "ITC India adheres to globally recognized testing protocols and benchmarks, including:"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Standard",
+            "Description"
+          ],
+          "rows": [
+            [
+              "ASTM F3266",
+              "Standard for Performance Requirements for Unmanned Aircraft Systems (UAS)."
+            ],
+            [
+              "ASTM F2910",
+              "Design and construction requirements for small UAS."
+            ],
+            [
+              "ASTM F3002",
+              "Guidelines for airworthiness certification and reliability evaluation."
+            ],
+            [
+              "DO-178C",
+              "Software development assurance for airborne systems."
+            ],
+            [
+              "DO-254",
+              "Certification guidelines for hardware systems on UAVs."
+            ],
+            [
+              "MIL-STD-810H",
+              "Environmental testing (vibration, temperature, shock, humidity) for military-grade drones."
+            ],
+            [
+              "ISO 21384-3",
+              "Unmanned aircraft systems — Operational procedures for commercial drone applications."
+            ],
+            [
+              "EU UAS Regulations",
+              "Testing aligned with EASA’s Open, Specific, and Certified categories."
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Compliance Testing for EASA Certification (Europe)",
+      "paragraphs": [],
+      "bullets": [
+        "FCC/CE Certification Support (for electronics and radio frequency compliance)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Thermal & Structural Compliance Testing (MIL-STD & ASTM)",
+      "paragraphs": [],
+      "bullets": [
+        "NABL-accredited Electrical, Mechanical, and EMC Tests"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "⚙️ Propulsion and Performance Testing",
+      "paragraphs": [
+        "Using high-precision equipment like the LY-10KGF Thrust Stand, ITC India evaluates:",
+        "📸 Image: LY-10KGF Thrust Stand (Source: wingflyingtech.com)"
+      ],
+      "bullets": [
+        "Thrust-to-weight ratio",
+        "Torque",
+        "Power draw (voltage/current)",
+        "RPM vs payload performance"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🌬️ Wind Tunnel & Environmental Simulation",
+      "paragraphs": [
+        "📸 Image: UAV in wind tunnel undergoing lateral thrust evaluation"
+      ],
+      "bullets": [
+        "Real-time drone flight simulation in controlled wind environments",
+        "MIL-STD-810H testing for rain, dust, and temperature variations"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔧 Structural and Vibration Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Vibration analysis for flight stress and hardware fatigue",
+        "Load-bearing tests to determine max payload capacity"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📡 Electromagnetic Compatibility (EMC) Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Ensure safe operation of communication modules (RF, GPS, telemetry)",
+        "Avoid electromagnetic interference with other airborne systems"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Using Imatest MTS, we test",
+      "paragraphs": [
+        "📸 Image: Drone camera testing setup with modular lighting environment"
+      ],
+      "bullets": [
+        "Lens distortion",
+        "Sharpness",
+        "Color reproduction",
+        "Low-light performance"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📘 Case Study: Precision Testing for Agri-Tech Drone",
+      "paragraphs": [
+        "Client: AgriBot Systems Pvt. Ltd. Use Case: Agricultural spraying and crop health mapping."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📌 Problem:",
+      "paragraphs": [],
+      "bullets": [
+        "Unstable hover in windy conditions",
+        "Poor thermal sensor accuracy",
+        "Short battery life"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🛠️ ITC India’s Solution:",
+      "paragraphs": [],
+      "bullets": [
+        "Wind Tunnel Testing revealed aerodynamic inefficiencies; redesigned frame for wind resistance.",
+        "Sensor Calibration corrected false data readings under direct sunlight.",
+        "Thrust Stand Testing identified inefficient propeller-motor pairing, boosting battery runtime by 25%."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "✅ Outcome:",
+      "paragraphs": [
+        "Drone passed ASTM F3266, MIL-STD-810H**, and ISO 21384-3 tests, earning DGCA certification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📞 Contact ITC India",
+      "paragraphs": [],
+      "bullets": [
+        "🌐 Website: <a href=\"/\">www.itcindia.org</a>",
+        "📧 Email: info@itcindia.org"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📈 Conclusion",
+      "paragraphs": [
+        "ITC India offers end-to-end drone testing and certification services that align with international standards such as ASTM, ISO, EASA, and MIL-STD. By ensuring quality, compliance, and safety, we empower drone developers and OEMs to enter global markets with confidence."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/drone-testing-services-by-itc-india/2cd2054d8f71.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/drone-testing-services-by-itc-india/2cd2054d8f71.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

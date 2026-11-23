@@ -1,0 +1,332 @@
+{
+  "hero": "/images/page-heroes/jss-5855-11-testing.webp",
+  "heroPortrait": "/images/page-heroes/jss-5855-11-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/jss-5855-11-testing-s1.webp",
+  "generatedMid": "/images/page-sections/jss-5855-11-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/jss-5855-11-testing-s1.webp",
+    "/images/page-sections/jss-5855-11-testing-s2.webp",
+    "/images/page-sections/jss-5855-11-testing-s3.webp",
+    "/images/page-sections/jss-5855-11-testing-s4.webp",
+    "/images/page-sections/jss-5855-11-testing-s5.webp",
+    "/images/page-sections/jss-5855-11-testing-s6.webp",
+    "/images/page-sections/jss-5855-11-testing-s7.webp",
+    "/images/page-sections/jss-5855-11-testing-s8.webp",
+    "/images/page-sections/jss-5855-11-testing-s9.webp",
+    "/images/page-sections/jss-5855-11-testing-s10.webp",
+    "/images/page-sections/jss-5855-11-testing-s11.webp",
+    "/images/page-sections/jss-5855-11-testing-s12.webp",
+    "/images/page-sections/jss-5855-11-testing-s13.webp",
+    "/images/page-sections/jss-5855-11-testing-s14.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "2 / 1 | 958 | 2 img no alt | KEEP",
+  "slug": "jss-5855-11-testing",
+  "path": "/jss-5855-11-testing",
+  "source": "https://www.itcindia.org/jss-5855-11-testing/",
+  "ok": true,
+  "title": "JSS 5855-11 Testing Laboratory in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "JSS 5855-11 testing in India for optical and electro-optical equipment, covering vibration, shock, temperature, humidity, dust and corrosion testing services.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides JSS 5855-11 testing support for optical and electro-optical instruments, devices and associated equipment requiring environmental and durability evaluation. Testing helps manufacturers and suppliers assess whether equipment can withstand the environmental stresses defined by the applicable specification, procurement requirement or customer test plan.",
+        "JSS 5855-11 includes test procedures relevant to optical and electro-optical equipment used in demanding applications. Depending on the applicable revision, product configuration and specified test programme, evaluation may include temperature, humidity, vibration, shock, dust, corrosion, solar radiation, immersion and other environmental stresses.",
+        "Because every product does not require every test, manufacturers should provide the applicable JSS 5855-11 revision, test number, severity, duration and acceptance criteria before laboratory testing begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/jss-5855-11-testing/c5731617d55c.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is JSS 5855-11 Testing?",
+      "paragraphs": [
+        "JSS 5855-11 is a Joint Services Specification used for evaluating optical and electro-optical instruments and devices. It includes environmental and durability test procedures that can be selected according to the equipment requirement and intended service conditions.",
+        "Environmental qualification is particularly important for equipment that may experience transportation loads, vibration, temperature extremes, humidity, dust, rain, corrosive atmospheres or mechanical shock during storage and operation.",
+        "ITC India can review the specified test requirement and determine the laboratory setup required for the applicable environmental test.",
+        "For broader climatic and durability capabilities, see our <a href=\"/environmental-testing-services\">Environmental Testing Laboratory</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Environmental Tests Under JSS 5855-11",
+      "paragraphs": [
+        "Depending on the applicable test programme, JSS 5855-11 environmental testing may include:",
+        "The required test should always be selected from the applicable specification rather than applying the complete list automatically.",
+        "For products requiring dynamic mechanical evaluation, visit our <a href=\"/vibration-testing\">Vibration Testing Laboratory</a>.",
+        "For corrosion-related requirements, ITC India also provides <a href=\"/salt-testing\">Salt Spray Testing</a> facilities."
+      ],
+      "bullets": [
+        "High-temperature testing",
+        "Low-temperature testing",
+        "Damp heat testing",
+        "Rapid temperature cycling or thermal shock",
+        "Vibration testing",
+        "Shock or impact testing",
+        "Bump testing",
+        "Drop and toppling tests",
+        "Dust testing",
+        "Immersion and sealing tests",
+        "Driving rain and drip-proof testing",
+        "Salt or salt-fog corrosion testing",
+        "Solar radiation testing",
+        "Mould or fungus growth testing",
+        "Tropical exposure",
+        "Contamination testing",
+        "Fine mist and icing tests",
+        "Acid or alkaline corrosion tests"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Vibration and Shock Testing",
+      "paragraphs": [
+        "Optical and electro-optical equipment can contain sensitive lenses, optical assemblies, mounts, electronic modules, connectors and mechanical components. Vibration or shock can affect alignment, structural integrity or functional performance.",
+        "Where specified, testing may be performed using the vibration or shock conditions defined in the applicable JSS 5855-11 test requirement.",
+        "Products subject to additional military environmental specifications may also require separate evaluation under <a href=\"/vibration-testing/mil-std-810h\">MIL-STD-810H Vibration and Shock Testing</a>.",
+        "The required standard, test method and severity should be confirmed before testing because JSS 5855-11 and MIL-STD-810H are separate specifications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Temperature, Humidity and Climatic Testing",
+      "paragraphs": [
+        "Temperature and humidity can affect optical coatings, seals, adhesives, electronic assemblies and mechanical components. JSS 5855-11 programmes may therefore require high-temperature, low-temperature, damp-heat or rapid-temperature-cycling tests.",
+        "These tests allow equipment to be evaluated under controlled environmental conditions before deployment or qualification.",
+        "For products requiring IEC-based climatic testing in addition to JSS requirements, see our <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 Environmental Testing</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Solar Radiation and Corrosion Testing",
+      "paragraphs": [
+        "Outdoor optical and electro-optical equipment may also be exposed to sunlight and corrosive environments.",
+        "Where required by the product specification, solar radiation testing can be used to evaluate equipment under simulated solar exposure. Learn more about our <a href=\"/solar-radiation-testing-laboratory-in-india\">Solar Radiation Testing Laboratory</a>.",
+        "Corrosion or salt-fog testing may also form part of the qualification programme for equipment intended for marine, coastal or other corrosive environments.",
+        "The required exposure duration and acceptance criteria should come from the governing specification or procurement document."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "JSS 5855-11 Testing Process at ITC India",
+      "paragraphs": [
+        "Before starting testing, manufacturers should provide sufficient technical information for laboratory review."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Useful information includes",
+      "paragraphs": [
+        "After reviewing the requirement, the laboratory team can determine the required facility, test configuration and supporting arrangements."
+      ],
+      "bullets": [
+        "Product name and model",
+        "Equipment dimensions and weight",
+        "Applicable JSS 5855-11 revision",
+        "Required test number or test method",
+        "Test severity and duration",
+        "Operating or non-operating condition",
+        "Mounting and fixture requirements",
+        "Functional checks before, during or after testing",
+        "Customer or procurement acceptance criteria"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why JSS 5855-11 Environmental Testing Is Important",
+      "paragraphs": [
+        "Optical and electro-optical systems are often expected to maintain mechanical integrity, optical alignment and functional performance under difficult environmental conditions.",
+        "Laboratory environmental testing helps manufacturers identify weaknesses that may not appear under normal indoor operating conditions. The results can support product development, design verification, qualification programmes and customer or procurement documentation.",
+        "Testing should always follow the exact revision, method and severity specified for the product."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request JSS 5855-11 Testing",
+      "paragraphs": [
+        "If your optical or electro-optical equipment requires JSS 5855-11 testing, send ITC India the applicable standard, tender specification or customer test requirement together with your product details.",
+        "Providing the exact test number, test severity, duration, dimensions, weight and acceptance criteria will help our technical team review your requirement and determine the appropriate testing route."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is JSS 5855-11?",
+      "paragraphs": [
+        "JSS 5855-11 is a Joint Services Specification covering testing procedures applicable to optical and electro-optical instruments, devices and associated equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests can be required under JSS 5855-11?",
+      "paragraphs": [
+        "Depending on the applicable requirement, testing may include vibration, shock, high and low temperature, damp heat, dust, immersion, corrosion, thermal cycling, solar radiation, driving rain and other environmental tests."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does every product require all JSS 5855-11 tests?",
+      "paragraphs": [
+        "No. The required tests, severity levels and durations should be selected according to the applicable product specification, procurement requirement and intended operating environment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What information should I provide for a JSS 5855-11 testing quotation?",
+      "paragraphs": [
+        "Provide the product name, dimensions, weight, applicable standard revision, test number, severity, duration, mounting requirements, operating condition and acceptance criteria."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can JSS 5855-11 testing be combined with other environmental standards?",
+      "paragraphs": [
+        "A project may specify JSS 5855-11 together with other standards such as IEC 60068 or MIL-STD-810H. Each requirement should be reviewed separately because the test methods and severity levels can differ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/jss-5855-11-testing/c5731617d55c.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/jss-5855-11-testing/c5731617d55c.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

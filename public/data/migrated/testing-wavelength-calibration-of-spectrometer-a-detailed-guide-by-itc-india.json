@@ -1,0 +1,185 @@
+{
+  "hero": "/images/page-heroes/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india.webp",
+  "heroPortrait": "/images/page-heroes/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s1.webp",
+  "generatedMid": "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s1.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s2.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s3.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s4.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s5.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s6.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s7.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s8.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s9.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s10.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s11.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s12.webp",
+    "/images/page-sections/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india-s13.webp"
+  ],
+  "category": "photometry",
+  "action": "ADD",
+  "note": "0 / 3 | 461 | no meta, long title, 2 img no alt | KEEP – add meta",
+  "slug": "testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india",
+  "path": "/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india",
+  "source": "https://www.itcindia.org/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india/",
+  "ok": true,
+  "title": "Testing Wavelength Calibration of Spectrometer – A Detailed Guide by ITC India - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "📞 Contact: info@itcindia.org | 📱 Call Us: +91 9316473033🌐 Website: www.itcindia.orgThank you for reading this post, don't forget to subscribe! Introduction: Why Wavelength Calibration Matters Wavelength calibration is a critical step in maintaining the accuracy, precision, and reliability of a UV-Vis or NIR spectrometer. Without periodic calibration, even top-grade instruments can drift, causing errors in…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "📞 Contact: info@itcindia.org | 📱 Call Us: +91 9316473033 🌐 Website: <a href=\"/\">www.itcindia.org</a>"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Introduction: Why Wavelength Calibration Matters",
+      "paragraphs": [
+        "Wavelength calibration is a critical step in maintaining the accuracy, precision, and reliability of a UV-Vis or NIR spectrometer. Without periodic calibration, even top-grade instruments can drift, causing errors in spectral measurements. At ITC India, we use traceable standards and rigorous ISO/IEC 17025 compliant procedures to ensure your instruments perform as intended."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india/b986fd5c7a02.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "1. Spectrometer",
+      "paragraphs": [],
+      "bullets": [
+        "UV-Vis double beam spectrophotometer",
+        "NIR spectrometer (for broader range calibration)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Calibration Standards & Tools",
+      "paragraphs": [
+        "📸 Visual Note: Calibration setup includes a stable optical bench, cuvette holder, computer interface, and temperature-controlled sample environment."
+      ],
+      "bullets": [
+        "Mercury-Argon Lamp: For accurate line emission (Ocean Insight)",
+        "Holmium Oxide Filters: Used to verify peak positions (NIST Reference Material)",
+        "Potassium Dichromate Solution: For absorbance validation",
+        "Toluene in Hexane: For assessing instrument resolution",
+        "Spectral Calibration Software: Polynomial fitting and peak matching"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "➤ Step 1: Lamp-Based Calibration (Emission Line Matching)",
+      "paragraphs": [
+        "λ(p) = I + C₁p + C₂p² + C₃p³ Where λ(p) is the calibrated wavelength at pixel p."
+      ],
+      "bullets": [
+        "The mercury-argon lamp is activated and aligned with the sample port.",
+        "Sharp emission peaks at known wavelengths (e.g., 253.65 nm, 365.02 nm) are recorded.",
+        "A third-order polynomial is used to map pixel data to wavelength."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "➤ Step 2: Absorbance Calibration",
+      "paragraphs": [
+        "🔗 Read more about UV-Vis absorbance standards"
+      ],
+      "bullets": [
+        "Prepare a 60 mg potassium dichromate solution in 0.005M sulfuric acid.",
+        "Measure absorbance at 235 nm, 257 nm, 313 nm, and 350 nm.",
+        "Compare results with the European Pharmacopeia accepted ranges:235 nm: 122.9 – 126.2",
+        "257 nm: 142.8 – 145.7",
+        "313 nm: 47.0 – 50.3",
+        "350 nm: 105.3 – 108.2"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "➤ Step 3: Resolution Check",
+      "paragraphs": [],
+      "bullets": [
+        "Use toluene in hexane.",
+        "Scan from 260 nm to 270 nm.",
+        "Verify peak-to-valley ratio (A269/A266) is ≥ 1.5."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📊 Case Study: Calibration of a Dual-Beam UV-Vis Spectrometer",
+      "paragraphs": [
+        "Client: Pharmaceutical Testing Laboratory Instrument: Shimadzu UV-1800 Problem: Wavelength drift over time causing ±2 nm deviation"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Calibration Action Taken:",
+      "paragraphs": [],
+      "bullets": [
+        "Pre-calibration error: Emission peak at 365 nm was recorded at 367.1 nm",
+        "After recalibration using Hg-Ar lamp and holmium oxide filter, error reduced to ±0.02 nm",
+        "Resolution confirmed using toluene standard"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Outcome:",
+      "paragraphs": [],
+      "bullets": [
+        "Instrument passed all required tolerances for GLP compliance",
+        "Issued ISO 17025-compliant calibration certificate",
+        "Client’s FDA inspection cleared without remarks"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📷 Image Suggestion",
+      "paragraphs": [],
+      "bullets": [
+        "Spectrometer with calibration lamp",
+        "Screenshot of emission line fit curve",
+        "Table showing pre- and post-calibration wavelengths"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📞 Ready for a Calibration Audit?",
+      "paragraphs": [
+        "Ensure your spectrometer calibration is up to industry standards with ITC India. 📧 info@itcindia.org | 📞 +91 9316473033 🌐 Visit: <a href=\"/\">www.itcindia.org</a>"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india/b986fd5c7a02.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india/b986fd5c7a02.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

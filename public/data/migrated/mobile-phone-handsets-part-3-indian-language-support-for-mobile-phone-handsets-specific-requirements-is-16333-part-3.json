@@ -1,0 +1,204 @@
+{
+  "hero": "/images/page-heroes/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements.webp",
+  "heroPortrait": "/images/page-heroes/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-portrait.webp",
+  "generatedIntro": "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s1.webp",
+  "generatedMid": "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s1.webp",
+    "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s2.webp",
+    "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s3.webp",
+    "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s4.webp",
+    "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s5.webp",
+    "/images/page-sections/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "440 | no meta, long title | LOW: add meta, shorten title",
+  "slug": "mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3",
+  "path": "/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3",
+  "source": "https://www.itcindia.org/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3/",
+  "ok": true,
+  "title": "Mobile Phone Handsets Part 3 Indian Language Support for Mobile Phone Handsets – Specific Requirements- IS 16333 (Part 3) - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "The Indian Standard 16333 IS: Mobile Phone Handsets Part 3, Specific Requirements is addressing how to design and deploy multilingual mobile phone handsets in India.Thank you for reading this post, don't forget to subscribe!  The specific requirements for language support on mobile phone handsets shall be as follows: a) The handset shall have a language…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The Indian Standard 16333 IS: Mobile Phone Handsets Part 3, Specific Requirements is addressing how to design and deploy multilingual mobile phone handsets in India."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The specific requirements for language support on mobile phone handsets shall be as follows:",
+      "paragraphs": [
+        "a) The handset shall have a language selection option in the settings menu.",
+        "b) The handset shall support Unicode UTF-8 encoding.",
+        "c) The handset shall display Indian language characters correctly.",
+        "d) The handset shall allow input of Indian language characters using the virtual keyboard or any other input method supported by the handset.",
+        "e) The handset shall support SMS in Indian languages.",
+        "f) The handset shall support MMS in Indian languages.",
+        "g) The handset shall support email in Indian languages.",
+        "The mobile phone handset must support the display of at least three Indian languages, namely, Hindi, Bengali and Oriya, in addition to English."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3/e3fcfa97f2f8.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "a) Devanagari Script – IS 16333 (Part 3)",
+      "paragraphs": [
+        "The Devanagari script shall be used for the display of Hindi language text on mobile phone handsets.",
+        "b) Bengali Script- IS 16333 (Part 3)",
+        "The Bengali script shall be used for the display of Bengali language text on mobile phone handsets.",
+        "c) Oriya Script- IS 16333 (Part 3)",
+        "The Oriya script shall be used for the display of Oriya language text on mobile phone handsets.",
+        "d) Gujarati Script- IS 16333 (Part 3)",
+        "The Gujarati script may be used for the display of Gujarati language text on mobile phone handsets.",
+        "e) Kannada Script- IS 16333 (Part 3)",
+        "The Kannada script may be used for the display of Kannada language text on mobile phone handsets",
+        "Lots of people in India want to use their own language with the touchscreen device",
+        "1. There is a huge demand for mobile phone handsets that support Indian languages.",
+        "2. People want to be able to use their own language when they are interacting with their mobile phone handset.",
+        "3. The touchscreen interface makes it difficult to use Indian languages.",
+        "4. There are a number of different scripts used in India, making it even more difficult to develop a handset that can support all of them.",
+        "5. Despite the challenges, there are a number of companies working on developing mobile phone handsets that support Indian languages.",
+        "6. Hopefully, in the near future, there will be more options available for people who want to use their own language with their mobile phone handset.",
+        "This standard test the Indian Language Support for Mobile Phone Handsets to check the reliabilty and accuracy of the headset."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3/00489c7fbaaa.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3/e3fcfa97f2f8.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3/00489c7fbaaa.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3/e3fcfa97f2f8.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3/00489c7fbaaa.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "hero": "/images/page-heroes/laser-testing-iec-60825-1.webp",
+  "heroPortrait": "/images/page-heroes/laser-testing-iec-60825-1-portrait.webp",
+  "generatedIntro": "/images/page-sections/laser-testing-iec-60825-1-s1.webp",
+  "generatedMid": "/images/page-sections/laser-testing-iec-60825-1-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/laser-testing-iec-60825-1-s1.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s2.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s3.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s4.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s5.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s6.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s7.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s8.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s9.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s10.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s11.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s12.webp",
+    "/images/page-sections/laser-testing-iec-60825-1-s13.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "897 | no meta | LOW: add meta",
+  "slug": "laser-testing-iec-60825-1",
+  "path": "/laser-testing-iec-60825-1",
+  "source": "https://www.itcindia.org/laser-testing-iec-60825-1/",
+  "ok": true,
+  "title": "Laser Testing IEC 60825-1 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "A step by step guide for Laser Testing Lasers are everywhere now — from barcode scanners to LIDAR, medical devices to toys. They’re sharp tools of modern design. But like scalpels, they can cut — literally.Thank you for reading this post, don't forget to subscribe! If you’re building or certifying a product with a laser,…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Lasers are everywhere now — from barcode scanners to LIDAR, medical devices to toys. They’re sharp tools of modern design. But like scalpels, they can cut — literally.",
+        "If you’re building or certifying a product with a laser, the IEC 60825-1 standard is your safety blueprint. It tells you how to test, classify, and label lasers to reduce harm. But getting through the standard can feel like reading ancient code carved in math.",
+        "This guide? It’s your translator. Clear, direct, and visual — with 8 steps to get your laser tested, classified, and safe for launch.",
+        "Let’s illuminate the path."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/laser-testing-iec-60825-1/1811726eee37.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "1. Zoom Out: Understand the Laser Safety Map",
+      "paragraphs": [
+        "Before jumping into tools and testing, you need context. IEC 60825-1 is not just about testing — it’s about managing risk."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Lasers are classified into risk-based categories",
+      "paragraphs": [
+        "📌 Your job? Measure the maximum accessible laser radiation and compare it to these limits.",
+        "🧠 Think of it like a nutrition label — you need to know how much “laser energy” your product delivers.",
+        "📸 Image Description: A “Laser Safety Pyramid” infographic. Class 1 at the bottom (green), Class 4 at the top (red), with icons showing typical products at each level (e.g., DVD player, laser pointer, laser cutter).",
+        "📖 Learn more about IEC 60825-1 from the IEC official site."
+      ],
+      "bullets": [
+        "1: Safe under all conditions.",
+        "2: Visible light, blink reflex protects.",
+        "3R/3B: Risky, especially for eyes.",
+        "4: Hazardous — fire, blindness, even diffuse reflections."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Collect the DNA: Know Your Laser’s Specs",
+      "paragraphs": [
+        "Every laser is unique. Before testing, gather its “DNA.”"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "✅ Record",
+      "paragraphs": [
+        "These specs will influence how you test and what limits apply.",
+        "🧪 Tip: Even a 5 mW laser at 532 nm is treated differently than one at 850 nm.",
+        "📸 Image Description: A futuristic “laser passport” graphic. Fields for wavelength, power, beam type, pulse width, and modulation."
+      ],
+      "bullets": [
+        "Wavelength (in nm)",
+        "Power or energy output",
+        "Beam shape",
+        "Pulse details (if pulsed)",
+        "Operating mode (CW, pulsed, modulated)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3. Build a Safe Laser Lab (Fortress Style)",
+      "paragraphs": [
+        "You wouldn’t test explosives in your kitchen. Don’t test lasers without a safe setup."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "✅ Minimum safety gear",
+      "paragraphs": [
+        "🌐 Innovative tip: Use smart glass or remote viewing to observe tests without direct exposure.",
+        "📸 Image Description: A sleek laser test chamber. Transparent enclosure, signs, laser inside, technician in PPE."
+      ],
+      "bullets": [
+        "Laser safety goggles (match wavelength!)",
+        "Beam stop (fireproof, matte black)",
+        "Warning signs on doors",
+        "Key switch or interlock",
+        "Controlled access room"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4. Measure the Firepower: Output Power or Energy",
+      "paragraphs": [
+        "Now, you’re ready to measure the laser’s bite.",
+        "🎯 Use:",
+        "💡 Pro Tip: Test all modes — startup, calibration, or fault. Lasers can surprise you.",
+        "📸 Image Description: Side-by-side meters in action — one shows steady 5.00 mW, another flashes 2.5 mJ.",
+        "🛠️ Tools we recommend: Thorlabs Power Meters, Ophir Photonics."
+      ],
+      "bullets": [
+        "A power meter for continuous beams (CW)",
+        "An energy meter for pulsed lasers",
+        "Match sensor type to beam size and wavelength",
+        "Place it where the user would be exposed"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "5. Trace the Beam: Measure Size and Divergence",
+      "paragraphs": [
+        "Check the beam shape. A tight beam is like a sniper — small, focused, and dangerous."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "✅ Measure",
+      "paragraphs": [
+        "Use a beam profiler, knife-edge scan, or even burn paper (with caution).",
+        "📸 Image Description: A digital HUD overlay on the beam showing diameter readings and divergence angle."
+      ],
+      "bullets": [
+        "Beam diameter at two distances",
+        "Divergence angle (rate of beam spread)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "6. Capture the Timing: Measure Emission Duration",
+      "paragraphs": [
+        "Time matters. Especially for pulsed lasers."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "⏱️ Measure",
+      "paragraphs": [
+        "Even short bursts can add up to risk.",
+        "📸 Image Description: Oscilloscope display of sharp pulses. Labels for 20 ns pulse width, 10 kHz rep rate.",
+        "📘 External guide: Laser Pulse Calculations by Edmund Optics"
+      ],
+      "bullets": [
+        "Pulse width",
+        "Repetition rate",
+        "Pulse energy"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "7. Crunch the Numbers: Compare to AELs",
+      "paragraphs": [
+        "Now compare your data to Accessible Emission Limits (AELs) in the standard.",
+        "Use:",
+        "If your values exceed a limit for Class 1, move to Class 2, 3, or 4 — and adjust design and labeling accordingly.",
+        "📸 Image Description: Dashboard showing data inputs vs. class thresholds. Red “Exceeds Class 1” warning appears."
+      ],
+      "bullets": [
+        "IEC tables",
+        "Safety software",
+        "Certified AEL calculators"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "8. Classify and Label the Laser System",
+      "paragraphs": [
+        "Label your product correctly — it’s required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Laser Class (1–4)",
+      "paragraphs": [],
+      "bullets": [
+        "Wavelength range",
+        "Output power or energy",
+        "IEC 60825-1 reference"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📁 Document everything",
+      "paragraphs": [
+        "📸 Image Description: Laser product close-up with a compliant yellow Class 2 label and user manual open beside it.",
+        "📋 Also read: <a href=\"#\">How to Create a Laser Safety Manual</a>"
+      ],
+      "bullets": [
+        "Test results",
+        "Measurement setups",
+        "Calculations",
+        "Photos"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🧭 Need Professional Testing Help?",
+      "paragraphs": [
+        "IEC 60825-1 can be complex. A trusted lab makes the process faster, safer, and fully compliant."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ITC India – Laser Product Testing & Certification",
+      "paragraphs": [],
+      "bullets": [
+        "🌐 Website: <a href=\"/\">www.itcindia.org</a>",
+        "📧 Email: info@itcindia.org"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "We provide",
+      "paragraphs": [],
+      "bullets": [
+        "Full laser testing per IEC 60825-1",
+        "Pre-compliance assessments",
+        "CE marking support"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "✅ Wrap-Up: Safer Products, Smarter Engineering",
+      "paragraphs": [
+        "Laser safety isn’t just compliance — it’s good design. It protects people, builds trust, and opens doors to global markets."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Take these steps",
+      "paragraphs": [
+        "Done right, your laser product becomes both powerful and responsible."
+      ],
+      "bullets": [
+        "Understand the risks",
+        "Measure the facts",
+        "Compare to limits",
+        "Label and document"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/laser-testing-iec-60825-1/1811726eee37.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/laser-testing-iec-60825-1/1811726eee37.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/iec-60068-2-5-solar-radiation-test-why-its-essential-for-outdoor-electronics",
+      "label": "Previous"
+    },
+    {
+      "href": "/anti-rodent-test-for-cables",
+      "label": "Next"
+    }
+  ]
+}

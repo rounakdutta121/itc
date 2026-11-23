@@ -1,0 +1,522 @@
+{
+  "generatedAt": "2026-11-21T04:21:50Z",
+  "count": 297,
+  "paths": [
+    "/ac-dc-rectifier-testing",
+    "/all-about-masks",
+    "/antenna-and-convertor-testing",
+    "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+    "/anti-rodent-test-for-cables",
+    "/anti-static-electrical-resistance-testing",
+    "/astm-d999-vibration-testing-of-shipping-containers",
+    "/atex-testing-certification",
+    "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+    "/batteries-for-portable-products-testing-lab-is-16046-iec-62133",
+    "/battery-testing",
+    "/biodegradability",
+    "/biodegradable-standard",
+    "/blog",
+    "/blood-pressure-monitor-testing",
+    "/bs-en-1838-2013-emergency-lighting",
+    "/bs-en-iec-60335-2-16",
+    "/bs-en-iec-60335-2-7",
+    "/bs-en-iec-60947-1",
+    "/cable-gland-testing",
+    "/cable-tray-safe-working-load-test-swl",
+    "/cable-tray-testing-laboratory",
+    "/cables-electromagnetic-compatible",
+    "/calibrating-a-uv-intensity-meter",
+    "/calibration-for-impulse-measuring-system",
+    "/calibration-of-electrical-fast-transients",
+    "/calibration-of-humidity-chamber",
+    "/calibration-of-humidity-sensor",
+    "/calibration-of-lux-meter",
+    "/calibration-of-micrometer",
+    "/calibration-of-pressure-gauge",
+    "/calibration-of-profile-projectors",
+    "/calibration-of-pyranometer",
+    "/calibration-of-surge-generator",
+    "/calibration-of-temperature-sensor",
+    "/calibration-of-voltage-dips-and-short-interruption",
+    "/calibration-of-volumetric-glassware",
+    "/camera-ip-testing",
+    "/chemical-analysis-testing",
+    "/chemical-impurities-detection-testing",
+    "/chemical-testing-and-analysis",
+    "/cispr-11-en-55011",
+    "/cispr-15",
+    "/cispr-22",
+    "/cispr-32-en-55032",
+    "/cm4-calibration-as-per-iso-9060",
+    "/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements",
+    "/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08",
+    "/conduit-testing-iec-61386-23",
+    "/confirm-subscription",
+    "/control-panel-training-program",
+    "/corrosion-testing",
+    "/crash-test-as-per-iec-61010-1",
+    "/customer-support",
+    "/disposable-glove-testing-en-455",
+    "/drone-information-security-testing",
+    "/drone-testing-services-by-itc-india",
+    "/drop-ball-impact-test",
+    "/ear-probe-for-audiometry",
+    "/earthing-enhancing-testing-according-to-iec-62561-72018",
+    "/efficiency-test-method-iec-60034-2-1",
+    "/electric-cable-testing-for-photovoltaic-systems",
+    "/electric-shaver-safety-testing",
+    "/electrical-kitchen-machine-testing",
+    "/electrical-motor-testing-lab",
+    "/electrical-safety-in-hospitals-and-medical-locations",
+    "/electrical-safety-testing-for-lighting-products",
+    "/electrical-safety-testing-for-medical-device",
+    "/electrical-surgical-unit-esu",
+    "/electrical-testing",
+    "/electrical-testing-for-automotive-components-2",
+    "/electronic-push-button-telephone-testing",
+    "/electronic-testing",
+    "/emc-emi-testing",
+    "/emi-emc-for-medical-devices",
+    "/en-301-489-1-testing",
+    "/en-301-489-19-testing",
+    "/en-301-489-52-v1-2-1-testing",
+    "/en-62304-2006-a1-2015",
+    "/en-iec-62262-impact-testing",
+    "/endoscopic-equipment-testing",
+    "/endurance-test-as-per-iec-60947-1",
+    "/energy-meter-calibration-testing-nabl",
+    "/environmental-testing-services",
+    "/expert-infusion-pump-testing",
+    "/explosion-proof-test",
+    "/face-mask-testing-lab",
+    "/flame-retardant-test-as-per-iso-340",
+    "/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1",
+    "/flexible-cord-testing-iec-60227-1",
+    "/flicker-test-on-led-luminaries",
+    "/geometrical-accuracy-test-as-per-is-14877",
+    "/gowns-drapes-testing",
+    "/grp-electrical-enclosure-testing",
+    "/hast-test-highly-accelerated-stress-test",
+    "/high-frequency-surgical-equipment",
+    "/high-voltage-short-circuit-test-facility-for-mcc-and-fuse",
+    "/household",
+    "/how-can-you-avoid-emc-failure",
+    "/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers",
+    "/iec-60034-5-electrical-machines",
+    "/iec-60068-2-5-solar-radiation-test-why-its-essential-for-outdoor-electronics",
+    "/iec-60068-2-6-vibration-testing-2-2",
+    "/iec-60068-environmental-conditioning",
+    "/iec-60269-2-low-voltage-fuses",
+    "/iec-60269-general-rules-low-voltage-power-fuses",
+    "/iec-60335-1-safety-testing-india",
+    "/iec-60335-11-particular-requirements-for-tumble-dryers",
+    "/iec-60335-2-12-warming-plate-testing-india",
+    "/iec-60335-2-23-testing",
+    "/iec-60335-2-24-safety-testing-india",
+    "/iec-60335-2-3-safety-testing-india",
+    "/iec-60335-2-5-the-safety-of-electric-dishwashers-for-household",
+    "/iec-60335-2-76-safety-of-electric-fence-energizers-testing",
+    "/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing",
+    "/iec-60335-2-9-electrical-cooking-appliances-testing",
+    "/iec-60571-testing-services-india",
+    "/iec-60601-1-2-emc-testing",
+    "/iec-60601-1-defibrillation-proof-applied-parts",
+    "/iec-60601-1-testing",
+    "/iec-60601-2-10",
+    "/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators",
+    "/iec-60601-2-2-testing-services",
+    "/iec-60601-2-20-testing",
+    "/iec-60601-2-27-testing",
+    "/iec-60601-2-34-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-invasive-blood-pressure-monitoring-equipment",
+    "/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants",
+    "/iec-60601-2-52-the-safety-standard-for-medical-beds",
+    "/iec-60601-testing",
+    "/iec-60884-1-plugs-and-socket-outlets-for-household-and-similar-purpose",
+    "/iec-60896-11",
+    "/iec-60896-22-stationary-lead-acid-batteries-part-22",
+    "/iec-60947-4-1-low-voltage-switchgear-and-controlgear",
+    "/iec-61000-6-1-emc-testing",
+    "/iec-61000-6-3-emc-testing",
+    "/iec-61010-1-testing",
+    "/iec-61010-2-010-testing",
+    "/iec-61010-2-011-testing",
+    "/iec-61010-2-051-testing",
+    "/iec-61010-2-101-testing-services",
+    "/iec-61010-testing-lab",
+    "/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing",
+    "/iec-61373-vibration-testing",
+    "/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies",
+    "/iec-61537-testing-ensuring-reliability-in-cable-tray-systems",
+    "/iec-62208-testing-empty-enclosures-for-low-voltage-switchgear-and-controlgear-assemblies",
+    "/iec-62304-medical-device-software-system-testing",
+    "/iec-62368-1-2023-testing",
+    "/iec-62444-for-cable-gland-testing",
+    "/iec-62471-photobiological-safety-of-lamps-and-lamp-systems",
+    "/iec-63356-12022-prv-led-light-source-characteristics",
+    "/iec-80601-2-12-certification-for-critical-care-ventilators",
+    "/iec-80601-2-49-testing",
+    "/iec-80601-2-74",
+    "/iec-en-60073",
+    "/iec-en-60445-1",
+    "/importance-of-emi-emc-proof-pcb-design",
+    "/industrial-scientific-medical-equipment-emc-emi-testing-as-per-cispr-112019",
+    "/infrared-heater-testing",
+    "/infrared-optometer-calibration-testing",
+    "/inquiry",
+    "/insulation-resistance-test-on-cable-as-per-is-10810",
+    "/iot-embedded-system-testing-services",
+    "/ip-66-ingress-protection-testing",
+    "/ip-67-waterproof-testing",
+    "/ip-68-upto-5bar-testing",
+    "/ip-testing-laboratory-india",
+    "/ip-testing-procedure",
+    "/ip41-protection-rating",
+    "/ip42-protection-rating-testing",
+    "/ip55-protection-rating-testing",
+    "/ip56-protection-rating-testing",
+    "/ip65-testing-unveiled-how-to-ensure-your-gadgets-survive-extreme-conditions",
+    "/ip69k-protection-rating-testing",
+    "/is-7872-testing-deep-freezers",
+    "/is-8448-automatic-line-voltage-correctorsalvc",
+    "/is-9537-conduits-testing",
+    "/iso-10218-1-industrial-robots",
+    "/iso-10218-robotics-safety-testing",
+    "/iso-13482-safety-requirement-for-personal-care-robots",
+    "/iso-17088-testing-plastics-organic-recycling-compostable-plastics",
+    "/iso-20653-ip-testing",
+    "/iso-31101-services-provided-by-service-robots-safety-management-systems-requirements",
+    "/iso-54122022-compostable-plastic-shopping-bags-testing",
+    "/iso-7175-testing",
+    "/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments",
+    "/iso-8768-complete-filled-transport-packages-toppling-test",
+    "/iso-9847-calibration-of-field-pyranometers",
+    "/ista-1a-1b-1c-1d-testing",
+    "/ista-2a-2b-2c",
+    "/it-equipments-testing",
+    "/itc-india-pvt-ltd-receives-nabl-and-bis-accreditation",
+    "/jobs",
+    "/jss-0256-01-testing",
+    "/jss-50101-testing",
+    "/jss-55555-2012-mil-std-461-g",
+    "/jss-5855-11-testing",
+    "/laptop-and-monitor-testing",
+    "/laser-power-meter-calibration",
+    "/laser-testing-iec-60825-1",
+    "/led-driver-and-lamp-control-gear-testing",
+    "/led-ot-light-testing",
+    "/lighting-equipment-emc-emi-testing-as-per-iec-615472020-cispr-152018",
+    "/lithium-ion-battery-testing",
+    "/lm-79-testing",
+    "/lm-80-testing",
+    "/luminaire-ip-testing-ensuring-quality-and-safety",
+    "/luminance-radiance-illuminance-and-irradiance",
+    "/luminaries-led-product-testing",
+    "/machinery-equipment-testing-2",
+    "/measuring-uv-intensity",
+    "/mechanical-testing",
+    "/medical-electrical-equipment",
+    "/metal-iso-9227-salt-spray-test",
+    "/midmeasuring-instrument-directive-instruction",
+    "/mil-std-810-g-test-method-505-5-solar-radiation-sunshine",
+    "/mil-std-810h-vibration-shock-testing",
+    "/mixed-flowing-gas-mfg-testing",
+    "/mobile-phone-handsets-part-3-indian-language-support-for-mobile-phone-handsets-specific-requirements-is-16333-part-3",
+    "/motor-torque-and-speed-testing",
+    "/nabl-scope-certificate-india",
+    "/non-destructive-testing-ndt",
+    "/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79",
+    "/packaging",
+    "/particle-counter-calibration",
+    "/payment",
+    "/photometry-testing",
+    "/photovoltaic-energy-system-iec-61427",
+    "/photovoltatc-pv-modules-testing",
+    "/pirpassive-infrared-sensor-testing",
+    "/power-inverter-testing",
+    "/power-supply-equipment-testing",
+    "/precision-calibration-of-standard-lamps",
+    "/presenting-power-safety-of-mccb-panel-board",
+    "/privacy-policy",
+    "/professional-grade-infant-incubator-testing",
+    "/protection-against-patient-entrapment-in-non-moving-parts",
+    "/pulse-oximeter-testing",
+    "/rain-test-services-india",
+    "/rdso-environmental-testing-for-led-based-luminaries",
+    "/rdso-photometry-testing-led-luminaries",
+    "/rdso-tl-0091-testing",
+    "/reach-certification-services",
+    "/recyclability-test",
+    "/refrigerator-testing",
+    "/resistance-to-salt-and-sulfur-dioxide-laden-atmospheres-as-per-bs-en-50262",
+    "/rohs-3-testing-nabl-report",
+    "/rohs-testing",
+    "/room-heater-testing",
+    "/rr-index",
+    "/safety-of-power-converters-testing-photovoltaic-power-systems-up-to-20kva-iec-62109-1-is-16221part-1",
+    "/safety-standard-as-per-iec-60335-8",
+    "/safety-testing-for-face-shield-mask-respirators-mask",
+    "/secondary-battery-and-their-application",
+    "/secondary-cells-and-batteries",
+    "/servo-motor-operated-automatic-line-voltage-correctors-20kva-for-single-phase-s-9815-part-1",
+    "/shipping-and-transportation-of-module-package-units",
+    "/smp-10-calibration-pyranometer",
+    "/smps-units-and-transformers-for-smps-units-iec-61558-2-16",
+    "/sodium-ion-cell-battery-testing",
+    "/software-testing",
+    "/solar-fence-energizer-testing",
+    "/solar-radiation-testing",
+    "/spectroradiometer-wavelength-calibration-services",
+    "/standards-and-specifications-of-some-major-foods",
+    "/stationary-lead-acid-battery",
+    "/submerged-motor-ip-testing",
+    "/surface-coolant-temperature-by-using-ir-camera-testing",
+    "/swaat-testing",
+    "/switch-test-as-per-iec-60669-1",
+    "/terms-conditions",
+    "/testing-for-high-voltage-fuse-as-per-iec-60282-1",
+    "/testing-of-automatic-sanitizer-dispenser-soap-dispenser-as-per-iec-60335-1",
+    "/testing-of-chemical-composition",
+    "/testing-of-luminaries-by-itc-india-pvt-ltd",
+    "/testing-of-micro-wave-ovens",
+    "/testing-of-packing-for-transportations-lithium-ion-batteries",
+    "/testing-of-sensors-as-per-standard-iec-60751",
+    "/testing-of-uv-light-bulbs",
+    "/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india",
+    "/thank-you",
+    "/training",
+    "/ul-50e-testing",
+    "/un-38-3-lithium-ion-batteries-transpotation-testing",
+    "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+    "/ups-testing",
+    "/usability-file",
+    "/usability-testing-of-medical-devices-iec-62366",
+    "/useful-lumens",
+    "/valve-regulated-lead-acid-batteries-vrla",
+    "/washing-machine-safety-testing",
+    "/welcome-to-itc-india/welcome-to-get-your-pcb-in-an-emc-proof-way-course",
+    "/what-is-infant-incubator",
+    "/what-is-nema-certification",
+    "/what-is-photometry-testing",
+    "/what-is-tm-21",
+    "/why-safety-testing-compliance-of-batteries-is-important"
+  ],
+  "redirects": [
+    {
+      "from": "/jss-55555-testing",
+      "to": "/jss-55555"
+    },
+    {
+      "from": "/salt-spray-testing",
+      "to": "/salt-testing"
+    },
+    {
+      "from": "/major-tests-facility-2",
+      "to": "/services"
+    },
+    {
+      "from": "/understanding-quality-of-masks",
+      "to": "/face-mask-testing-lab"
+    },
+    {
+      "from": "/electro-medical-equipments-testing",
+      "to": "/iec-60601-testing"
+    },
+    {
+      "from": "/emc-testing-for-electronic-and-electrical-products",
+      "to": "/emc-emi-testing"
+    },
+    {
+      "from": "/atex-certification",
+      "to": "/atex-testing-certification"
+    },
+    {
+      "from": "/rohs-testing-and-certification",
+      "to": "/rohs-testing"
+    },
+    {
+      "from": "/what-is-g-mark-certification",
+      "to": "/g-mark-certification/,"
+    },
+    {
+      "from": "/g-mark-and-ce-mark-certification",
+      "to": "/g-mark-certification/,"
+    },
+    {
+      "from": "/lm-79-testing-laboratory",
+      "to": "/lm-79-testing"
+    },
+    {
+      "from": "/nerve-and-muscle-stimulator-testing-as-per-iec-60601-2-10",
+      "to": "/iec-60601-2-10"
+    },
+    {
+      "from": "/lm-79-testing-laboratory-in-india",
+      "to": "/lm-79-testing/:"
+    },
+    {
+      "from": "/is-iec-60529-1-degrees-of-protection",
+      "to": "/ip-testing-procedure/,"
+    },
+    {
+      "from": "/consumer-household-and-commercial-appliance-equipment-testing",
+      "to": "/household"
+    },
+    {
+      "from": "/iec-60335-2-7-domestic-washing-machine-testing",
+      "to": "/washing-machine-safety-testing"
+    },
+    {
+      "from": "/what-is-ip",
+      "to": "/ip-testing-procedure/,"
+    },
+    {
+      "from": "/variable-message-signs-vms",
+      "to": "/en-12966-testing"
+    },
+    {
+      "from": "/what-is-iec-60601-1",
+      "to": "/iec-60601-1"
+    },
+    {
+      "from": "/ce-marking-of-face-mask",
+      "to": "/face-mask-testing-lab"
+    },
+    {
+      "from": "/free-testing-for-ventilators-as-per-iso-80601-2-12-iec-60601-1",
+      "to": "/iec-80601-2-12-certification-for-critical-care-ventilators"
+    },
+    {
+      "from": "/testing-services-core-areas-2",
+      "to": "/services"
+    },
+    {
+      "from": "/vertical-road-signs-and-variable-message-signs-testing",
+      "to": "/en-12966-testing"
+    },
+    {
+      "from": "/iec-60335-12-electric-warming-plates-testing",
+      "to": "/iec-60335-2-12-warming-plate-testing-india"
+    },
+    {
+      "from": "/6420-2",
+      "to": "/biodegradability"
+    },
+    {
+      "from": "/jss-5855-11-testing-2",
+      "to": "/jss-5855-11-testing"
+    },
+    {
+      "from": "/emc-testing",
+      "to": "/emc-emi-testing"
+    },
+    {
+      "from": "/biodegradability-testing",
+      "to": "/biodegradability"
+    },
+    {
+      "from": "/uv-light-bulbs-testing",
+      "to": "/testing-of-uv-light-bulbs"
+    },
+    {
+      "from": "/calibration-of-eletrical-fast-transients",
+      "to": "/calibration-of-electrical-fast-transients"
+    },
+    {
+      "from": "/thermopile-pyranometer-calibration",
+      "to": "/calibration-of-pyranometer/,"
+    },
+    {
+      "from": "/recalibrate-pyranometer",
+      "to": "/calibration-of-pyranometer/,"
+    },
+    {
+      "from": "/calibration-of-pyranometer-in-nabl-scope",
+      "to": "/calibration-of-pyranometer/,"
+    },
+    {
+      "from": "/why-iec-60601",
+      "to": "/iec-60601-1/,"
+    },
+    {
+      "from": "/en-60204-1-safety-of-machinery",
+      "to": "/iec-60204-1-testing"
+    },
+    {
+      "from": "/iec-60204-1-safety-of-machinery-electrical-equipment-of-machines-lab",
+      "to": "/iec-60204-1-testing"
+    },
+    {
+      "from": "/household-equipment-testing",
+      "to": "/household"
+    },
+    {
+      "from": "/home-solutions-for-product-development-service-enhancement-under-iec-60335-standards",
+      "to": "/household"
+    },
+    {
+      "from": "/ingress-protection-ip-testing",
+      "to": "/ip-testing-laboratory-india"
+    },
+    {
+      "from": "/medical-bed-testing",
+      "to": "/iec-60601-2-52-the-safety-standard-for-medical-beds"
+    },
+    {
+      "from": "/mixer-grinder-testing",
+      "to": "/electrical-kitchen-machine-testing"
+    },
+    {
+      "from": "/testing-of-electric-food-mixers-grinders-is-4250",
+      "to": "/electrical-kitchen-machine-testing"
+    },
+    {
+      "from": "/mixing-and-stirring-laboratory-equipment-testing-as-per-standard-iec-61010-2-051",
+      "to": "/iec-61010-2-051-testing"
+    },
+    {
+      "from": "/patient-monitor-testing-is-13450-part-2-sec-49-iec-80601-2-49-iso-80601-2-49",
+      "to": "/iec-80601-2-49-testing"
+    },
+    {
+      "from": "/ventilators-testing-lab-iso-80601-2-12",
+      "to": "/iec-80601-2-12-certification-for-critical-care-ventilators"
+    },
+    {
+      "from": "/testing-of-commercial-refrigerators-freezers-60035-2-24",
+      "to": "/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing"
+    },
+    {
+      "from": "/safety-of-laser-products-bs-en-60825-1iec-60825-42022rlv",
+      "to": "/laser-testing-iec-60825-1"
+    },
+    {
+      "from": "/recycling-testing",
+      "to": "/recyclability-test"
+    },
+    {
+      "from": "/iec-60335-2-3-is-302-2-3-electric-iron-testing",
+      "to": "/iec-60335-2-3-safety-testing-india"
+    },
+    {
+      "from": "/iec-60335-2-24",
+      "to": "/iec-60335-2-24-safety-testing-india"
+    },
+    {
+      "from": "/drone-information-security-testing-complete-client-guide-itc",
+      "to": "/drone-information-security-testing/,"
+    },
+    {
+      "from": "/chemical-testing-services",
+      "to": "/chemical-testing-and-analysis/,"
+    },
+    {
+      "from": "/photobiological-safety-of-lamps-and-lamp-systems",
+      "to": "/iec-62471-photobiological-safety-of-lamps-and-lamp-systems/,"
+    }
+  ],
+  "deletes": [
+    "/slot-big-bass-bonanza-megaways",
+    "/founding-of-youtube-a-short-history",
+    "/digital-marketing-trends-that-still-matter-in-2026"
+  ]
+}

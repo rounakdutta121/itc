@@ -1,0 +1,145 @@
+{
+  "hero": "/images/page-heroes/iec-60601-1-defibrillation-proof-applied-parts.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-1-defibrillation-proof-applied-parts-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s1.webp",
+    "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s2.webp",
+    "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s3.webp",
+    "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s4.webp",
+    "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s5.webp",
+    "/images/page-sections/iec-60601-1-defibrillation-proof-applied-parts-s6.webp"
+  ],
+  "category": "medical",
+  "action": "KEEP",
+  "note": "0 / 2 | 374 | 8 img no alt | KEEP",
+  "slug": "iec-60601-1-defibrillation-proof-applied-parts",
+  "path": "/iec-60601-1-defibrillation-proof-applied-parts",
+  "source": "https://www.itcindia.org/iec-60601-1-defibrillation-proof-applied-parts/",
+  "ok": true,
+  "title": "IEC 60601-1 Defibrillation Proof Applied Parts",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60601-1 Defibrillation Proof Applied Parts, Applied Parts are part of Medical Electrical Devices & Equipment which comes in direct or indirect contact with patient to perform its function.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Applied Parts are part of Medical Electrical Devices & Equipment which comes in direct or indirect contact with patient to perform its function. These part are classified into B, BF, CF Applied Parts. Type CF Applied Parts are also known as Defibrillation Proof Applied Parts. This is second classification for protection against electric shock. CF Type Applied is used for direct cardiac application so it is the most stringent classification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/e8ac971d1691.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Why Defibrillation Proof Applied Parts should be Isolated ?",
+      "paragraphs": [
+        "During Direct Cardiac application a Defibrillation voltages caused by a defibrillator shown above can create electric hazard if equipment is not isolated properly. So, CF Type applied Parts are isolated from these defibrillator voltages to be able to use them for direct cardiac application.",
+        "These Equipment needed to satisfy the requirements given in IEC 60601-1. so it has become important that your Medical electrical Equipment is defibrillation proof against defibrillation voltages. This is one of the most critical test in Medical Standard IEC 60601-1 which ensure that the product is compliant for direct cardiac application or not. As Per IEC 60601-1, a defibrillation voltage is applied to CF Type Applied Parts of Medical Electrical Equipment and its effects are checked on different applied parts, input/output ports & different locations of Equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/da80aa78938e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Some example of Medical Equipment with Type-CF Applied Parts:",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/2091d727fca6.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "ENT Dermatology Surgical Cautery",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/f70626dbf926.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Medical Monitoring Equipment",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/d0c26b10c785.webp",
+          "alt": "Medical Monitoring Equipment"
+        }
+      ]
+    },
+    {
+      "heading": "Do you want your Medical Electrical Equipment to get compliant with IEC 60601-1?",
+      "paragraphs": [
+        "If you have any Medical Electrical Equipment with CF Type applied part for direct cardiac application and if you are confused to get your product compliance with IEC 60601-1 then don’t worry we will help you. We have all facility to test your product &amp; get your product Compliance with IEC 60601-1. We are India based Electrical Safety Testing Laboratory Accredited by NABL (ISO/IEC 17025) &amp; IABCBL,UK. We also have EMC, EMI testing facility to get your Medical Electrical Equipment compliance with EMC &amp; EMI Standards Requirement. For more information please visit to <a href=\"/\">www.itcindia.org</a> or email us on info@itcindia.org or call us on +91 9316473033."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/e8ac971d1691.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/da80aa78938e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/2091d727fca6.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/f70626dbf926.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/d0c26b10c785.webp",
+      "alt": "Medical Monitoring Equipment"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/e8ac971d1691.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/da80aa78938e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/2091d727fca6.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/f70626dbf926.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-1-defibrillation-proof-applied-parts/d0c26b10c785.webp",
+      "alt": "Medical Monitoring Equipment"
+    }
+  ],
+  "relatedLinks": []
+}

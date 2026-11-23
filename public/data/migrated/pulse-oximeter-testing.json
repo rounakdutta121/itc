@@ -1,0 +1,209 @@
+{
+  "hero": "/images/page-heroes/pulse-oximeter-testing.webp",
+  "heroPortrait": "/images/page-heroes/pulse-oximeter-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/pulse-oximeter-testing-s1.webp",
+  "generatedMid": "/images/page-sections/pulse-oximeter-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/pulse-oximeter-testing-s1.webp",
+    "/images/page-sections/pulse-oximeter-testing-s2.webp",
+    "/images/page-sections/pulse-oximeter-testing-s3.webp",
+    "/images/page-sections/pulse-oximeter-testing-s4.webp",
+    "/images/page-sections/pulse-oximeter-testing-s5.webp",
+    "/images/page-sections/pulse-oximeter-testing-s6.webp"
+  ],
+  "category": "medical",
+  "action": "KEEP",
+  "note": "0 / 3 | 552 | 4 img no alt | KEEP",
+  "slug": "pulse-oximeter-testing",
+  "path": "/pulse-oximeter-testing",
+  "source": "https://www.itcindia.org/pulse-oximeter-testing/",
+  "ok": true,
+  "title": "Pulse Oximeter Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 80601-2-61 standard which is applicable to Pulse Oximeter. ITC India can help you get your product comply with IEC 60601 & ISO 80601",
+  "sections": [
+    {
+      "heading": "What is Pulse Oximeter?",
+      "paragraphs": [
+        "A pulse oximeter is a device that is placed on a fingertip to estimate the oxygen saturation of the blood and the pulse rate using a light beam. Oxygen saturation gives us information about the amount of oxygen in the blood. There are many types of Pulse Oximeters and their accessories. ISO 80601-2-61 is applied to Pulse oximeter monitors, pulse oximeter probes and probe cable extenders etc. Some of the examples are shown below:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/pulse-oximeter-testing/41f88ff8a440.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/pulse-oximeter-testing/820311f1a08f.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Applicable Standard to Pulse Oximeter:",
+      "paragraphs": [
+        "ISO 80601-2-61 is the particular standard which is applicable to Pulse Oximeter. As described in scope of this standard, This document applies to the basic safety and essential performance of pulse oximeter equipment intended for use on humans. This includes any part necessary for normal use, including the pulse oximeter monitor, pulse oximeter probe, and probe cable extender.This document is not applicable to pulse oximeter equipment intended for use in laboratory research applications nor to oximeters that require a blood sample from the patient.",
+        "ISO 80601-2-61 is particular standard for these devices hence it calls to IEC 60601-1 General Standard as well for basic safety & essential performance. IEC 60601 is a family of standards whose scope covers the safety, essential performance and electromagnetic compatibility of Medical Electrical Equipment and Systems. The “Part 1” of standard, IEC 60601-1 covers basic safety and essential performance for all Medical Electrical Equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major applicable test as per ISO 80601-2-61:",
+      "paragraphs": [],
+      "bullets": [
+        "Accuracy of controls i.e SpO2 Accuracy, Pulse rate accuracy etc",
+        "Temp Measurement at probe-tissue interface"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "MOOP & MOPP",
+      "paragraphs": [
+        "Equipment shall be so designed to prevent such hazard to patient, the user, or to service personnel during use or during service, so this is important that you get your product compliance with IEC 60601 as well as their particular standard i.e ISO 80601-2-61 in this case."
+      ],
+      "bullets": [
+        "Mechanical Hazard from insecure fittings of controls etc",
+        "Risk of fire in medical devices due to short circuit or other fault condition.",
+        "Risk of infection to patients, nursing staff and service personnel due to inadequately decontaminated after use.",
+        "Enclosure rigidity & strength.",
+        "Ingress protection",
+        "Basic safety in single fault conditions"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Benefits of compliance with IEC 60601 during designing of product:",
+      "paragraphs": [
+        "It is important to understand standard requirements early in your device design process to help you choose appropriate components and build in construction that complies with the standard. If you do not follow specific aspects contained in particular Standard of Device & IEC 60601 when designing your product, it can result in costly design modifications later.",
+        "ITC India has a quality management system as per ISO 17025. It has been accredited by IABCBL, the UK and its results have been recognized by most of the Notified bodies in European ITC India’s lab have been witnessed by 3 notified bodies from Europe and has been approved.",
+        "ITC India can help you to get your product compliance with IEC 60601 & ISO 80601-2-61 and guide you with product Designing, Marking & Labelling and we can also help you to prepare for necessary Documentation needed to get CE, UL and CSA marking. If any query than mail us at, care@itcindia.org, info@itcindia.org or call on +91 98724 45146"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/pulse-oximeter-testing/41f88ff8a440.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/pulse-oximeter-testing/820311f1a08f.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/pulse-oximeter-testing/41f88ff8a440.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/pulse-oximeter-testing/820311f1a08f.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "hero": "/images/page-heroes/secondary-cells-and-batteries.webp",
+  "heroPortrait": "/images/page-heroes/secondary-cells-and-batteries-portrait.webp",
+  "generatedIntro": "/images/page-sections/secondary-cells-and-batteries-s1.webp",
+  "generatedMid": "/images/page-sections/secondary-cells-and-batteries-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/secondary-cells-and-batteries-s1.webp",
+    "/images/page-sections/secondary-cells-and-batteries-s2.webp",
+    "/images/page-sections/secondary-cells-and-batteries-s3.webp",
+    "/images/page-sections/secondary-cells-and-batteries-s4.webp",
+    "/images/page-sections/secondary-cells-and-batteries-s5.webp",
+    "/images/page-sections/secondary-cells-and-batteries-s6.webp"
+  ],
+  "category": "battery",
+  "action": "KEEP",
+  "note": "0 / 4 | 402 | 2 img no alt | KEEP",
+  "slug": "secondary-cells-and-batteries",
+  "path": "/secondary-cells-and-batteries",
+  "source": "https://www.itcindia.org/secondary-cells-and-batteries/",
+  "ok": true,
+  "title": "What are Secondary cells and batteries?",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Secondary cells and batteries In Common Words those batteries are rechargeable are known as secondary batteries.Secondary batteries & Cells are the rechargeable.",
+  "sections": [
+    {
+      "heading": "What are Secondary cells and batteries?",
+      "paragraphs": [
+        "In Common Words those batteries are rechargeable are known as secondary batteries.Secondary batteries & Cells are the rechargeable. They have the advantage of being more cost-efficient over the long term."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/secondary-cells-and-batteries/66f293248e58.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Applications Secondary cells and batteries:",
+      "paragraphs": [
+        "Traction",
+        "Power tools",
+        "Motor drives",
+        "Laptop computers",
+        "Mobile phones",
+        "Camcorders",
+        "Toys"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Our Accreditations (ITC India Pvt. Ltd.)",
+      "paragraphs": [
+        "ITC India Electrical Safety Testing Laboratory Accreditated by NABL (ISO/IEC 17025) &amp; BIS. For any query Email us (info@itcindia.org ) or Visit our Website (<a href=\"/\">www.itcindia.org</a> )",
+        "For the safe operation or safety purposes IEC ( International Electrotechnical Commission) Introduce the IEC 62133 ( for more info visit our website (<a href=\"/\">www.itcindia.org</a> ) the standard for Secondary cells and batteries containing alkaline or other non-acid electrolytes. This standard covers rechargeable Nickel cells and batteries, as well as lithium ion (Li-Ion) cells and batteries."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "About the IEC 62133 Standard",
+      "paragraphs": [
+        "IEC 62133 is the most important standard for exporting Lithium-Ion batteries, including those used in IT equipment, tools, laboratory, household and medical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Following Tests as per IEC 62133/IS 16046",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Clause",
+            "Measurement/testing",
+            "Testing / measuring equipment / material needed"
+          ],
+          "rows": [
+            [
+              "5.2",
+              "Insulation resistance",
+              "Insulation resistance measurement equipment. Per IEC 62133-1:2017, Clause 5.2."
+            ],
+            [
+              "6",
+              "Type test conditions",
+              "Temperature recorder."
+            ],
+            [
+              "7.1",
+              "Charging procedures for test purposes",
+              "DC power supply."
+            ],
+            [
+              "Electric load."
+            ],
+            [
+              "7.2.1",
+              "Continuous low-rate charging (cells)",
+              "Multimeter."
+            ],
+            [
+              "DC power supply."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.2.2",
+              "Vibration",
+              "Vibration tester. Per IEC 62133-1:2017, Clause 7.2.2."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.2.3",
+              "Case stress at high ambient temperature (batteries)",
+              "Oven."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.2.4",
+              "Temperature cycling",
+              "Oven. Per IEC 62133-1:2017, Clause 7.2.4."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.3.1",
+              "Incorrect installation (cells)",
+              "Multimeter."
+            ],
+            [
+              "7.3.2",
+              "External short circuit",
+              "Multimeter – 80 mΩ ± 20 mΩ."
+            ],
+            [
+              "Oven."
+            ],
+            [
+              "Temperature measurement device. Per IEC 62133-1:2017, Clause 7.3.2."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.3.3",
+              "Free fall",
+              "Concrete floor."
+            ],
+            [
+              "Height measurement."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.3.4",
+              "Mechanical shock (crash hazard)",
+              "Shock tester. Per IEC 62133-1:2017, Clause 7.3.4."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.3.5",
+              "Thermal abuse (cells)",
+              "Oven. Per IEC 62133-1:2017, Clause 7.3.5."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.3.6",
+              "Crushing of cells",
+              "Crush tester. Per IEC 62133-1:2017, Clause 7.3.6. Multimeter."
+            ],
+            [
+              "7.3.7",
+              "Low pressure (cells)",
+              "Vacuum chamber. Per IEC 62133-1:2017, Clause 7.3.7."
+            ],
+            [
+              "",
+              "",
+              "Timer."
+            ],
+            [
+              "7.3.8",
+              "Overcharge",
+              "DC power supply."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "7.3.9",
+              "Forced discharge (cells)",
+              "DC power supply."
+            ],
+            [
+              "Timer."
+            ],
+            [
+              "8.2",
+              "Small cell and battery safety information",
+              "Ingestion gauge. Per IEC 62133-1:2017, Figure 2."
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Sample Test Report",
+      "paragraphs": [
+        "For Sample test report of Is 16046/IEC 62133 visit our website (<a href=\"/\">www.itcindia.org</a> ) or Email us for any clarification (info@itcindia.org )"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/secondary-cells-and-batteries/66f293248e58.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/secondary-cells-and-batteries/66f293248e58.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

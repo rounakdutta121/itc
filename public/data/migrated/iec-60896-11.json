@@ -1,0 +1,94 @@
+{
+  "hero": "/images/page-heroes/iec-60896-11.webp",
+  "heroPortrait": "/images/page-heroes/iec-60896-11-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60896-11-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60896-11-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60896-11-s1.webp",
+    "/images/page-sections/iec-60896-11-s2.webp",
+    "/images/page-sections/iec-60896-11-s3.webp",
+    "/images/page-sections/iec-60896-11-s4.webp",
+    "/images/page-sections/iec-60896-11-s5.webp",
+    "/images/page-sections/iec-60896-11-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "401 | no meta, no H2 | LOW: add meta, H2s",
+  "slug": "iec-60896-11",
+  "path": "/iec-60896-11",
+  "source": "https://www.itcindia.org/iec-60896-11/",
+  "ok": true,
+  "title": "IEC 60896 -11 Stationary Lead – Acid Batteries Part 11 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60896 -11 STATIONARY LEAD – ACID BATTERIES PART 11 : VENTED TYPES GENERAL REQUIREMENTS AND METHODS OF TESTS Thank you for reading this post, don't forget to subscribe! Itc India Pvt Ltd is a testing and certification company which is well known for its excellent track record for the best customer satisfaction. We have…Read More+",
+  "sections": [
+    {
+      "heading": "GENERAL REQUIREMENTS AND METHODS OF TESTS",
+      "paragraphs": [
+        "Itc India Pvt Ltd is a testing and certification company which is well known for its excellent track record for the best customer satisfaction. We have never compromised on the quality and the services that we provide to our customer. We believe in keeping the customers happy and providing those services at a very competent price. We have an excellent staffs who will guide you with their best ideas by keeping in constant touch with your company and informing about the market trends.",
+        "These vented lead acid batteries are also known as flooded or sealable or wet cell batteries. These batteries have terminals- negative terminal and positive terminal on their top or sides along with vent caps on their tops.",
+        "This segment of IEC standard is related to lead- acid cells and batteries those are particularly workable in fixed locations, which means that these batteries cannot be moved from one place to another. These batteries are permanently connected to the load and the d.c. power supply.",
+        "The designing of the cells and batteries shall be in such a way that they are able to withstand all the mechanical stresses during hauling, packing, handling etc.",
+        "Many other tests that comes under this standard are:-",
+        "Tests like endurance test are typically done so as ensure that the stationary cells and batteries are able to hold on against the load and be able to endure it for a long period of time. So, basically in endurance test charging and discharging cycles are done on the battery",
+        "Capacity test is done to ensure whatsoever is claimed by the manufacturer is available or not.",
+        "The other test like charge retention test helps us to see the strength of the charge present in battery if we put it in idle condition.",
+        "Some of the measuring instruments that are used while performing the other tests are voltmeter, ammeter, thermometer, hydrometers etc."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Cl. No.",
+            "Test Name"
+          ],
+          "rows": [
+            [
+              "14",
+              "Capacity (240 h, 120h , 48h, 10 h, 8 h, 3 h, 1 h, 0,5 h)"
+            ],
+            [
+              "15",
+              "Suitability for floating battery operation"
+            ],
+            [
+              "16",
+              "Endurance in cycles"
+            ],
+            [
+              "17",
+              "Endurance in overcharge"
+            ],
+            [
+              "18",
+              "Charge retention"
+            ],
+            [
+              "19",
+              "Short-circuit current and internal resistance"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60896-11/51c78c356994.webp",
+          "alt": "IEC 60896 -11"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60896-11/51c78c356994.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60896-11/51c78c356994.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

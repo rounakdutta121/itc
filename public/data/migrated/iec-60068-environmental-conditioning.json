@@ -1,0 +1,269 @@
+{
+  "hero": "/images/page-heroes/iec-60068-environmental-conditioning.webp",
+  "heroPortrait": "/images/page-heroes/iec-60068-environmental-conditioning-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60068-environmental-conditioning-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60068-environmental-conditioning-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60068-environmental-conditioning-s1.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s2.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s3.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s4.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s5.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s6.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s7.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s8.webp",
+    "/images/page-sections/iec-60068-environmental-conditioning-s9.webp"
+  ],
+  "category": "electrical",
+  "action": "CTR",
+  "note": "12 / 9 | 996 | no meta, 6 img no alt | ADD + CTR FIX – meta + parts table",
+  "slug": "iec-60068-environmental-conditioning",
+  "path": "/iec-60068-environmental-conditioning",
+  "source": "https://www.itcindia.org/iec-60068-environmental-conditioning/",
+  "ok": true,
+  "title": "IEC 60068- Environmental Conditioning - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Why is IEC 60068 so popular standard for Environmental conditioning? IEC 60068 gives a set of techniques for testing the environmental performance and survival of electronic devices, components, and electromechanical goods. these environmental conditions are simulation for situations like transportation, storage, operational environments, extreme cold, and heat. Thank you for reading this post, don't forget…Read More+",
+  "sections": [
+    {
+      "heading": "Why is IEC 60068 so popular standard for Environmental conditioning?",
+      "paragraphs": [
+        "IEC 60068 gives a set of techniques for testing the environmental performance and survival of electronic devices, components, and electromechanical goods. these environmental conditions are simulation for situations like transportation, storage, operational environments, extreme cold, and heat.",
+        "For measurements and tests in each test method, IEC 60068 specifies multiple environmental conditions and acceptable severities. This standard’s below-listed processes include a number of repeatable test procedures. Companies typically evaluate their goods against one or more of the following standards.",
+        "For test methods using constant temperature conditions, such as IEC 60068-2-1, IEC 60068-2-2, and IEC 60068-2-78, the specimens can be heat-dissipating or non-heat dissipating. When the temperature stability has been attained, a subject is considered to dissipate heat if the hottest point of its surface, measured in free conditions, is more than 5K higher than the ambient temperature of the surrounding atmosphere."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-2 Dry Heat Test",
+      "paragraphs": [
+        "Our variety of testing ambient temperature to +140°C degrees with a 3°C Ramp rate"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60068-environmental-conditioning/cca15c84079a.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "IEC 60068-2-14 Testing – Change of temperature testing",
+      "paragraphs": [
+        "This technique is intended to ascertain whether machinery or goods can resist sudden temperature changes. Due to how frequently rapid temperature changes might take place due to exposure to weather or transportation from warm outside temps to chilly indoor conditions or vice versa.",
+        "it is an important test. It is advised to use IEC 60068-2-14 when assessing a product’s electrical and mechanical performance, the adaptability of its components, materials, and material combinations to survive sudden changes in temperature, and the strength of its structure under artificial stress."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60068-environmental-conditioning/a7e2f8ae4264.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "IEC 60068-2-30 Damp heat, cyclic",
+      "paragraphs": [
+        "This test examines how goods or machinery fare while used, stored, or transported in environments with high humidity and cyclical temperature fluctuations. Condensation often forms on the specimen’s surface as a result of the temperature/humidity cycles used in this procedure.",
+        "If Damp heat test is being performed to confirm the performance of the specimens while being transported or stored in packaging, the specimens should be examined in the packaging. Consider using IEC 60068-2-38 for small, low mass specimens when condensation on the specimen surface is challenging"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-38 Composite temperature/humidity cyclic test",
+      "paragraphs": [],
+      "bullets": [
+        "This all-encompassing test measures how well objects or machinery withstand the damaging impacts of cold, high humidity, and high temperatures. It is intended to find flaws in test participants that are caused by “breathing” rather than by absorbing fluids. IEC 60068-2-38 is primarily designed for specimens of the component type. Other cyclic damp heat tests do not complete as many temperature cycles as IEC-60068-2-38 does.",
+        "It uses a wider cycle temperature range.",
+        "It uses a faster temperature transition rate.",
+        "It features several excursions into extremely low temperatures."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-39 Combined temperature or temperature/humidity with low air pressure tests",
+      "paragraphs": [
+        "This approach outlines the steps for testing machinery or parts in a temperature- or humidity-controlled environment with low air pressure. Products must operate without suffering considerable degradation. Components and gaskets may be negatively impacted by the combined conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-78 Damp heat, steady state",
+      "paragraphs": [
+        "IEC 60068-2-78 determines whether goods or machinery can resist handling, storage, and usage in hot and humid environments. High humidity levels, a consistent temperature, and no condensation on the test specimens are the required conditions. It is applicable to both heat-dissipating and non-heat-dissipating specimens, as well as to small and big pieces of equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-5 Solar radiation testing",
+      "paragraphs": [
+        "This technique assesses the potential impacts of solar radiation on products at ground level. It outlines methods for putting equipment or parts through simulated solar radiation tests and looks into the impact that solar radiation has on equipment when there is moisture present.",
+        "Two testing procedures are listed in IEC 60068-2-5: test procedure Sa is a thermal effect test, and test procedure Sb is a weathering test. Using Method Sa, samples are exposed to radiation in a test chamber with regulated humidity and temperature. Water spray is incorporated into Method Sb."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-13 Low Air Pressure Testing",
+      "paragraphs": [
+        "This test is to find out whether parts, machinery, or other items can be utilized, stored, or transported under low air pressure will deteriorate or not. IEC-60068-2-13 requires that all testing be done at room temperature.",
+        "The air pressure must stay within a tolerance of plus or minus 5% of the necessary limits for the testing defined in the IEC 60068-2-13. The testing lab should have a equipment which includes a chart that lists the approximate altitude above sea level, the kPa (which varies from 1 to 84), and the mbar (which ranges from 10 to 840). (ranges from 31,200 to 3,000).",
+        "IEC 60068-2-13 describes the duration of the test in addition to the pressure. Five minutes, thirty minutes, two hours, four hours, and sixteen hours are the available durations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60068-environmental-conditioning/7f9a7bf45ff0.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/c6b2f8a94a26.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/cca15c84079a.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/a7e2f8ae4264.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/7f9a7bf45ff0.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/c6b2f8a94a26.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/cca15c84079a.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/a7e2f8ae4264.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60068-environmental-conditioning/7f9a7bf45ff0.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

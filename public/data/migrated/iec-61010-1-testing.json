@@ -1,0 +1,314 @@
+{
+  "hero": "/images/page-heroes/iec-61010-1-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-61010-1-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61010-1-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61010-1-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61010-1-testing-s1.webp",
+    "/images/page-sections/iec-61010-1-testing-s2.webp",
+    "/images/page-sections/iec-61010-1-testing-s3.webp",
+    "/images/page-sections/iec-61010-1-testing-s4.webp",
+    "/images/page-sections/iec-61010-1-testing-s5.webp",
+    "/images/page-sections/iec-61010-1-testing-s6.webp",
+    "/images/page-sections/iec-61010-1-testing-s7.webp",
+    "/images/page-sections/iec-61010-1-testing-s8.webp",
+    "/images/page-sections/iec-61010-1-testing-s9.webp",
+    "/images/page-sections/iec-61010-1-testing-s10.webp",
+    "/images/page-sections/iec-61010-1-testing-s11.webp",
+    "/images/page-sections/iec-61010-1-testing-s12.webp",
+    "/images/page-sections/iec-61010-1-testing-s13.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "856 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-61010-1-testing",
+  "path": "/iec-61010-1-testing",
+  "source": "https://www.itcindia.org/iec-61010-1-testing/",
+  "ok": true,
+  "title": "IEC 61010-1 / EN 61010-1| Safety Testing Laboratory equipment",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61010-1 / EN 61010-1 testing for electrical equipment for laboratories, industrial control. Safety & compliance with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Electrical equipment used for measurement, control and laboratory applications may expose operators to electrical, mechanical, thermal, fire and other hazards if it is not designed and evaluated correctly. IEC 61010-1 establishes general safety requirements intended to reduce these risks throughout normal use and reasonably foreseeable conditions.",
+        "ITC India provides IEC 61010-1 testing in India for manufacturers and product developers of electrical test equipment, measuring instruments, industrial control equipment and laboratory equipment. Testing can help identify safety-related non-conformities before certification, export or commercial production.",
+        "Manufacturers working across the complete IEC 61010 family can also review ITC India’s broader <a href=\"/iec-61010-testing-lab\">IEC 61010 Testing Laboratory</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61010-1-testing/34debea21416.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Equipment Is Covered by IEC 61010-1?",
+      "paragraphs": [
+        "IEC 61010-1 provides general safety requirements for three main categories of electrical equipment and associated accessories:",
+        "Typical products may include measuring instruments, laboratory analysers, power supplies, controllers, transmitters, test equipment and other electrically operated laboratory or measurement systems.",
+        "The exact applicable standard depends on the equipment’s function and construction. IEC 61010-1 provides the general requirements, while additional Part 2 standards can introduce specific requirements for particular product categories."
+      ],
+      "bullets": [
+        "Electrical test and measurement equipment",
+        "Electrical industrial process-control equipment",
+        "Electrical laboratory equipment"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major IEC 61010-1 Safety Tests",
+      "paragraphs": [
+        "The required test program varies according to product design, rated voltage, insulation system, intended environment and applicable particular standard. Typical IEC 61010-1 evaluations may include:",
+        "These evaluations help determine whether foreseeable hazards to operators and the surrounding environment have been adequately controlled.",
+        "For additional product electrical-safety requirements, manufacturers can also review ITC India’s <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a>."
+      ],
+      "bullets": [
+        "Marking and documentation",
+        "Protection against electric shock",
+        "Accessibility of hazardous live parts",
+        "Protective bonding and earthing",
+        "Dielectric strength",
+        "Creepage and clearance distances",
+        "Mechanical strength",
+        "Drop and impact testing",
+        "Stability assessment",
+        "Protection against spread of fire",
+        "Temperature-rise testing",
+        "Resistance to excessive heat",
+        "Single-fault condition testing",
+        "Protection against fluids and fluid pressure",
+        "Radiation-related hazards where applicable",
+        "Protection against explosion and implosion",
+        "Interlocks and protective devices",
+        "Component and construction evaluation"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-1 and Product-Specific Part 2 Standards",
+      "paragraphs": [
+        "IEC 61010-1 is the general standard, but certain products require an applicable Part 2 standard in addition to Part 1.",
+        "For example, laboratory equipment used for heating materials may require <a href=\"/iec-61010-2-010-testing\">IEC 61010-2-010 testing</a>. Laboratory refrigerators and similar equipment may require <a href=\"/iec-61010-2-011-testing\">IEC 61010-2-011 testing</a>.",
+        "Equipment used for mechanical mixing or stirring can require <a href=\"/iec-61010-2-051-testing\">IEC 61010-2-051 testing</a>, while in-vitro diagnostic equipment may require additional evaluation under <a href=\"/iec-61010-2-101-testing-services\">IEC 61010-2-101 testing</a>.",
+        "Selecting the correct combination of Part 1 and applicable Part 2 requirements before laboratory testing helps reduce unnecessary retesting and compliance delays."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-1 and EMC Requirements",
+      "paragraphs": [
+        "IEC 61010-1 primarily addresses product safety. Electromagnetic compatibility is normally evaluated separately under the applicable IEC 61326 requirements for electrical equipment used for measurement, control and laboratory applications.",
+        "Equipment containing electronic controls, digital interfaces, sensors or communication functions may therefore require both safety and EMC assessment.",
+        "ITC India provides dedicated <a href=\"/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing\">IEC 61326 EMC testing for electrical measurement, control and laboratory equipment</a>, allowing manufacturers to plan related safety and EMC evaluations as part of the same overall compliance program."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Documents Required for IEC 61010-1 Testing",
+      "paragraphs": [
+        "Providing complete product information before testing helps establish the correct test scope. Manufacturers should typically prepare available documentation such as:",
+        "Additional documents may be required depending on the equipment and destination market."
+      ],
+      "bullets": [
+        "Product specifications and model information",
+        "Rated voltage, frequency and power",
+        "Circuit diagrams and schematics",
+        "Critical component list",
+        "Insulation details",
+        "PCB and mechanical drawings",
+        "Product labels and markings",
+        "User instructions",
+        "Intended-use information",
+        "Applicable IEC 61010 Part 2 standards"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India for IEC 61010-1 Testing?",
+      "paragraphs": [
+        "ITC India supports manufacturers with safety evaluation of laboratory, measuring and control equipment against applicable IEC and EN requirements.",
+        "Testing during product development can help identify issues involving electrical insulation, earthing, accessible parts, excessive temperatures, mechanical construction, fire hazards, clearances and protective devices before final product approval.",
+        "Manufacturers evaluating laboratory capability can also review ITC India’s <a href=\"/about-us/accreditations\">NABL accreditation and scope information</a>.",
+        "For IEC 61010-1 or EN 61010-1 testing in India, submit your product specifications, technical documents and applicable market requirements through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61010-1?",
+      "paragraphs": [
+        "IEC 61010-1 specifies general safety requirements for electrical equipment used for measurement, control and laboratory applications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which products require IEC 61010-1 testing?",
+      "paragraphs": [
+        "The standard can apply to electrical test and measuring instruments, industrial process-control equipment, laboratory equipment and relevant accessories."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 61010-1 enough for all laboratory equipment?",
+      "paragraphs": [
+        "Not always. Some products also require a particular IEC 61010 Part 2 standard covering hazards specific to that equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between IEC 61010-1 and IEC 61326?",
+      "paragraphs": [
+        "IEC 61010-1 primarily covers product safety, while the IEC 61326 series addresses electromagnetic compatibility requirements for measurement, control and laboratory electrical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is EN 61010-1 related to IEC 61010-1?",
+      "paragraphs": [
+        "Yes. EN 61010-1 is the European adoption of the IEC 61010-1 safety requirements. Manufacturers should confirm the applicable edition and regional requirements for their target market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test laboratory and measuring equipment?",
+      "paragraphs": [
+        "ITC India provides safety-testing support for laboratory, measurement and control equipment against applicable IEC 61010 requirements. The exact test scope should be determined from the product construction, intended use and applicable particular standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61010-1-testing/34debea21416.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61010-1-testing/34debea21416.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

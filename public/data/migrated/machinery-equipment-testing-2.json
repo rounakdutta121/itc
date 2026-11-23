@@ -1,0 +1,171 @@
+{
+  "hero": "/images/page-heroes/machinery-equipment-testing-2.webp",
+  "heroPortrait": "/images/page-heroes/machinery-equipment-testing-2-portrait.webp",
+  "generatedIntro": "/images/page-sections/machinery-equipment-testing-2-s1.webp",
+  "generatedMid": "/images/page-sections/machinery-equipment-testing-2-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/machinery-equipment-testing-2-s1.webp",
+    "/images/page-sections/machinery-equipment-testing-2-s2.webp",
+    "/images/page-sections/machinery-equipment-testing-2-s3.webp",
+    "/images/page-sections/machinery-equipment-testing-2-s4.webp",
+    "/images/page-sections/machinery-equipment-testing-2-s5.webp",
+    "/images/page-sections/machinery-equipment-testing-2-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "REWRITE",
+  "note": "136 | thin | REWRITE – Machinery hub (linked from home)",
+  "slug": "machinery-equipment-testing-2",
+  "path": "/machinery-equipment-testing-2",
+  "source": "https://www.itcindia.org/machinery-equipment-testing-2/",
+  "ok": true,
+  "title": "Machinery Equipment Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC Provide Testing on Machinery Equipments like Metalworking machinery, Food machinery, Plastic and rubber machinery, printing paper and board machinery, Wood machinery, Textile machines, laundry machines, footwear machinery, Construction and building material machinery,etc..",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC can do Electrical Safety testing against Machinery equipment for following types of products:",
+        "Metalworking machinery, Food machinery, Plastic and rubber machinery, printing paper and board machinery, Wood machinery, Textile machines, laundry machines, footwear machinery, Construction and building material machinery,etc..",
+        "List of tests as per product safety includes:"
+      ],
+      "bullets": [
+        "Incoming supply conductor terminations and devices for disconnecting and switching off",
+        "Protection against electric shock",
+        "Protection of equipment",
+        "Equipotential bonding",
+        "Control circuits and control functions",
+        "Operator interface and machine-mounted control devices",
+        "Control gear: location, mounting, and enclosures",
+        "Conductors and cables",
+        "Wiring practices",
+        "Electric motors and associated equipment",
+        "Accessories and lighting",
+        "Marking, warning signs and reference designations",
+        "Technical documentation",
+        "Verification of conditions for protection by automatic disconnection of supply",
+        "Insulation resistance tests",
+        "Voltage tests",
+        "Protection against residual voltages",
+        "Functional tests"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/machinery-equipment-testing-2/7ade28410fb8.jpg",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/machinery-equipment-testing-2/7ade28410fb8.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/machinery-equipment-testing-2/7ade28410fb8.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "hero": "/images/page-heroes/en-301-489-1-testing.webp",
+  "heroPortrait": "/images/page-heroes/en-301-489-1-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/en-301-489-1-testing-s1.webp",
+  "generatedMid": "/images/page-sections/en-301-489-1-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/en-301-489-1-testing-s1.webp",
+    "/images/page-sections/en-301-489-1-testing-s2.webp",
+    "/images/page-sections/en-301-489-1-testing-s3.webp",
+    "/images/page-sections/en-301-489-1-testing-s4.webp",
+    "/images/page-sections/en-301-489-1-testing-s5.webp",
+    "/images/page-sections/en-301-489-1-testing-s6.webp",
+    "/images/page-sections/en-301-489-1-testing-s7.webp",
+    "/images/page-sections/en-301-489-1-testing-s8.webp",
+    "/images/page-sections/en-301-489-1-testing-s9.webp",
+    "/images/page-sections/en-301-489-1-testing-s10.webp",
+    "/images/page-sections/en-301-489-1-testing-s11.webp",
+    "/images/page-sections/en-301-489-1-testing-s12.webp",
+    "/images/page-sections/en-301-489-1-testing-s13.webp",
+    "/images/page-sections/en-301-489-1-testing-s14.webp",
+    "/images/page-sections/en-301-489-1-testing-s15.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1064 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "en-301-489-1-testing",
+  "path": "/en-301-489-1-testing",
+  "source": "https://www.itcindia.org/en-301-489-1-testing/",
+  "ok": true,
+  "title": "EN 301 489-1 EMC Testing for Radio Equipment",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "EN 301 489-1 V2.2.3 EMC testing for radio equipment in India. Evaluate emissions, immunity andperformance requirements for RED compliance with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Radio and wireless products must operate reliably in electromagnetic environments without creating excessive electromagnetic disturbances that could affect nearby equipment. Manufacturers targeting European markets therefore need to consider electromagnetic compatibility as an important part of the conformity assessment process.",
+        "ITC India provides EN 301 489-1 testing for radio equipment and wireless products, supporting manufacturers with EMC emissions, immunity and product-performance evaluation. ETSI EN 301 489-1 defines common electromagnetic compatibility requirements for radio equipment and services and is generally applied together with the appropriate product-specific part of the EN 301 489 series.",
+        "Manufacturers requiring broader electromagnetic compatibility evaluation can also review ITC India’s <a href=\"/emc-emi-testing\">EMC Testing Laboratory services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/en-301-489-1-testing/bc1d2b835081.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is EN 301 489-1?",
+      "paragraphs": [
+        "ETSI EN 301 489-1 specifies common technical requirements for electromagnetic compatibility of radio equipment and associated ancillary equipment.",
+        "The currently published version is ETSI EN 301 489-1 V2.2.3. The standard establishes the common EMC framework, while additional parts of the EN 301 489 series define product- or technology-specific conditions and performance criteria.",
+        "For this reason, EN 301 489-1 should not normally be treated as the only standard required for a wireless device. The applicable radio technology, operating frequency, intended use and equipment configuration must also be considered when identifying the relevant specific standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Products May Require EN 301 489-1 Testing?",
+      "paragraphs": [
+        "EN 301 489-1 can form part of the compliance program for many categories of radio-enabled equipment, including:",
+        "The applicable test program depends on the radio technology and the corresponding particular part of the EN 301 489 series.",
+        "For Bluetooth-enabled products, manufacturers can also review ITC India’s <a href=\"/about-us/bluetooth-testing\">Bluetooth Testing services</a>."
+      ],
+      "bullets": [
+        "Wireless communication equipment",
+        "Bluetooth-enabled products",
+        "Wi-Fi devices",
+        "IoT equipment and gateways",
+        "Cellular communication equipment",
+        "GNSS and positioning receivers",
+        "Industrial wireless equipment",
+        "Telemetry and remote-control devices",
+        "Radio modules integrated into finished products"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-1 EMC Testing Requirements",
+      "paragraphs": [
+        "An EMC evaluation can include both electromagnetic emissions and immunity testing. The exact tests depend on the equipment type, ports, power supply, operating mode and applicable product-specific standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Typical evaluation areas may include",
+      "paragraphs": [
+        "Radio functions may need to remain operational or satisfy specified performance criteria during and after electromagnetic disturbances.",
+        "The appropriate performance criteria should be established before testing according to the relevant EN 301 489 particular standard and the normal operation of the equipment."
+      ],
+      "bullets": [
+        "Radiated electromagnetic emissions",
+        "Conducted emissions",
+        "Electrostatic discharge immunity",
+        "Radiated RF electromagnetic-field immunity",
+        "Conducted RF immunity",
+        "Electrical fast transient and burst immunity",
+        "Surge immunity",
+        "Voltage dips and interruptions",
+        "Continuous RF disturbances",
+        "Performance monitoring during immunity testing"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-1 and Product-Specific Standards",
+      "paragraphs": [
+        "EN 301 489-1 provides common requirements, but particular radio technologies are addressed by additional standards.",
+        "For example, equipment incorporating GNSS functionality may need evaluation against <a href=\"/en-301-489-19-testing\">EN 301 489-19 testing requirements for GNSS receivers</a> together with EN 301 489-1.",
+        "Likewise, cellular products may require the specific requirements covered by <a href=\"/en-301-489-52-v1-2-1-testing\">EN 301 489-52 testing for cellular and LTE equipment</a>.",
+        "Selecting the correct particular standard is important because different radio products can have different operating modes, ports, performance criteria and test configurations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-1 and the Radio Equipment Directive",
+      "paragraphs": [
+        "EN 301 489 standards are closely associated with electromagnetic compatibility requirements for radio equipment placed on the European market under the Radio Equipment Directive 2014/53/EU (RED).",
+        "Manufacturers preparing radio products for European conformity assessment should consider the complete set of applicable requirements rather than EMC in isolation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Depending on the product, this may include",
+      "paragraphs": [],
+      "bullets": [
+        "EMC requirements",
+        "Radio-spectrum requirements",
+        "Electrical or product-safety requirements",
+        "RF exposure requirements",
+        "Technical documentation",
+        "Applicable cybersecurity requirements"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EU Declaration of Conformity",
+      "paragraphs": [
+        "The exact conformity pathway depends on the product, applicable harmonised standards and intended market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Difference Between EMC Testing and RF Testing",
+      "paragraphs": [
+        "EMC testing and radio-frequency performance testing serve different purposes.",
+        "EMC testing evaluates whether equipment creates excessive electromagnetic disturbances and whether it can continue operating acceptably when subjected to electromagnetic interference.",
+        "RF testing, in contrast, evaluates characteristics of the radio transmitter or receiver, such as output power, occupied bandwidth, unwanted emissions, frequency behaviour and other technology-specific radio parameters.",
+        "A wireless product may therefore require both RF and EMC testing before the manufacturer completes its compliance assessment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing Radio Equipment for EMC Testing",
+      "paragraphs": [
+        "Manufacturers should prepare representative production-equivalent samples and complete technical information before testing begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Useful documentation can include",
+      "paragraphs": [
+        "The equipment should be operated in representative modes during testing so that emissions and immunity performance can be evaluated under realistic conditions."
+      ],
+      "bullets": [
+        "Product specification",
+        "Intended use and operating environment",
+        "Radio technologies and frequency bands",
+        "Antenna specifications",
+        "Power-supply information",
+        "I/O and communication-port details",
+        "Normal operating modes",
+        "Firmware and software versions",
+        "User instructions",
+        "Accessories and peripheral equipment",
+        "Previous EMC or pre-compliance results"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-1 Testing Support from ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with electromagnetic compatibility testing for electrical, electronic, communication and radio-enabled products.",
+        "A coordinated testing strategy can combine EN 301 489-1 common EMC requirements with the appropriate product-specific ETSI standard, helping manufacturers identify EMC problems before final conformity assessment.",
+        "For products where general immunity requirements also need evaluation, manufacturers can review ITC India’s <a href=\"/iec-61000-6-1-emc-testing\">IEC 61000-6-1 EMC immunity testing services</a>.",
+        "To discuss the appropriate standards and test configuration for your radio product, submit your technical details through the <a href=\"/contact-us/inquiry\">ITC India testing and certification inquiry</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is EN 301 489-1?",
+      "paragraphs": [
+        "EN 301 489-1 is an ETSI electromagnetic compatibility standard specifying common technical EMC requirements for radio equipment and associated ancillary equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current published version of EN 301 489-1?",
+      "paragraphs": [
+        "The currently published standard is ETSI EN 301 489-1 V2.2.3 (2019-11). Manufacturers should confirm the applicable standards and editions for their intended conformity-assessment route."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is EN 301 489-1 enough for all radio equipment?",
+      "paragraphs": [
+        "Usually not. EN 301 489-1 provides common requirements and is generally used together with a product- or technology-specific part of the EN 301 489 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests are performed under EN 301 489-1?",
+      "paragraphs": [
+        "Depending on the product and applicable specific standard, testing can include radiated and conducted emissions plus immunity against ESD, radiated RF fields, conducted RF disturbances, EFT, surge and voltage variations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between EN 301 489-1 and EN 301 489-52?",
+      "paragraphs": [
+        "EN 301 489-1 contains common EMC requirements for radio equipment, while EN 301 489-52 contains specific EMC conditions for certain cellular communication equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does EN 301 489-1 testing include RF transmitter testing?",
+      "paragraphs": [
+        "No. EMC testing and RF performance testing are different assessments. Radio transmitters may require separate technology-specific RF standards in addition to the applicable EN 301 489 EMC requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/en-301-489-1-testing/bc1d2b835081.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/en-301-489-1-testing/bc1d2b835081.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

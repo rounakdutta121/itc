@@ -1,0 +1,294 @@
+{
+  "hero": "/images/page-heroes/iec-61000-6-3-emc-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-61000-6-3-emc-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61000-6-3-emc-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61000-6-3-emc-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61000-6-3-emc-testing-s1.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s2.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s3.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s4.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s5.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s6.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s7.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s8.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s9.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s10.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s11.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s12.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s13.webp",
+    "/images/page-sections/iec-61000-6-3-emc-testing-s14.webp"
+  ],
+  "category": "emc",
+  "action": "ADD",
+  "note": "1 / 3 | 830 | 2 img no alt | ADD – IEC 61000 series table",
+  "slug": "iec-61000-6-3-emc-testing",
+  "path": "/iec-61000-6-3-emc-testing",
+  "source": "https://www.itcindia.org/iec-61000-6-3-emc-testing/",
+  "ok": true,
+  "title": "IEC 61000-6-3 EMC Emissions Testing India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61000-6-3 EMC testing in India for residential electrical and electronic equipment. Test conducted and radiated emissions with ITC India testing support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Electrical and electronic equipment can generate electromagnetic disturbances that interfere with radio reception, communication systems and nearby products. IEC 61000-6-3 is a generic electromagnetic compatibility emission standard used for equipment intended for residential locations when no more specific product or product-family EMC emission standard applies.",
+        "ITC India provides IEC 61000-6-3 EMC testing in India for manufacturers and product developers who need to evaluate conducted and radiated emissions before certification, export or market launch. The current IEC 61000-6-3:2026 edition covers equipment for residential locations and can also apply in other locations when the equipment does not fall within IEC 61000-6-8 or IEC 61000-6-4.",
+        "Manufacturers requiring broader electromagnetic compatibility support can also review ITC India’s <a href=\"/emc-emi-testing\">EMC Testing services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61000-6-3-emc-testing/7ac7ae33723d.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does IEC 61000-6-3 Cover?",
+      "paragraphs": [
+        "IEC 61000-6-3 is used when a dedicated product or product-family emission standard has not been published for the equipment.",
+        "It is primarily intended for electrical and electronic equipment used in residential locations. It can also cover equipment used in commercial and light-industrial locations that does not meet the professional-equipment conditions addressed by IEC 61000-6-8. Equipment intended for industrial environments may instead fall under IEC 61000-6-4.",
+        "Because EMC requirements depend on intended use, installation environment, ports and product category, the correct emission standard should be confirmed before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Main IEC 61000-6-3 Emission Evaluations",
+      "paragraphs": [
+        "IEC 61000-6-3 establishes limits and measurement requirements intended to control electromagnetic disturbances produced by equipment. Depending on construction and available ports, testing can include:",
+        "The final programme depends on the equipment configuration, supply method, cable connections, operating modes and edition required by the target market.",
+        "ITC India’s <a href=\"/emc-emi-testing\">EMC/EMI Testing Laboratory</a> services can support manufacturers requiring a wider combination of emission and immunity assessments."
+      ],
+      "bullets": [
+        "Conducted emissions at power and applicable wired ports",
+        "Radiated emissions from the enclosure",
+        "Assessment of relevant AC, DC and communication ports",
+        "Required detector, bandwidth and measurement arrangements",
+        "Worst-case operating-mode and configuration selection",
+        "Verification against applicable emission limits"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conducted and Radiated Emissions",
+      "paragraphs": [
+        "Conducted emissions are electromagnetic disturbances transferred from equipment onto connected cables, particularly power and other applicable wired interfaces. Excessive disturbances can propagate through connected networks and interfere with nearby equipment.",
+        "Radiated emissions are disturbances emitted through space from the enclosure, cables and internal circuitry. Testing evaluates whether these emissions remain below the applicable limits."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61000-6-3 vs IEC 61000-6-1",
+      "paragraphs": [
+        "IEC 61000-6-3 covers emissions: electromagnetic disturbances produced by the equipment. IEC 61000-6-1 covers immunity: the equipment’s ability to continue operating when exposed to disturbances such as electrostatic discharge, RF fields, electrical fast transients and surges.",
+        "Products for residential, commercial or light-industrial use may therefore need both emission and immunity evaluation. Manufacturers can review ITC India’s <a href=\"/iec-61000-6-1-emc-testing\">IEC 61000-6-1 EMC Immunity Testing</a> service when a complete generic EMC programme is required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61000-6-3, IEC 61000-6-8 and IEC 61000-6-4",
+      "paragraphs": [
+        "Correct environment classification is important. IEC 61000-6-3 is the generic emission standard for residential locations and can also apply where IEC 61000-6-8 or IEC 61000-6-4 does not apply.",
+        "IEC 61000-6-8 addresses certain professional equipment for commercial and light-industrial locations that is professionally installed and maintained and is not intended for residential use. IEC 61000-6-4 addresses industrial environments."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Documents Required for Testing",
+      "paragraphs": [
+        "Manufacturers should provide product specifications, rated voltage and frequency, power-supply details, interface and cable information, intended operating modes, product configuration and destination market.",
+        "Samples should be supplied with the accessories, cables and external power supplies needed to reproduce normal and worst-case operating conditions during EMC testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61000-6-3 Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with EMC emission testing for electrical and electronic products against applicable IEC, EN and CISPR requirements.",
+        "Manufacturers can also review ITC India’s <a href=\"/electronic-testing\">Electrical Equipment Testing Services</a> where EMC forms part of a wider product-compliance programme.",
+        "For IEC 61000-6-3 EMC emissions testing in India, submit your product details, required standard edition and technical information through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61000-6-3?",
+      "paragraphs": [
+        "IEC 61000-6-3 is a generic EMC emission standard for electrical and electronic equipment intended primarily for residential locations where no applicable dedicated product or product-family emission standard exists."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current edition of IEC 61000-6-3?",
+      "paragraphs": [
+        "IEC currently lists IEC 61000-6-3:2026 as the latest edition. Manufacturers should still confirm the edition required by the destination market or certification scheme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61000-6-3 include immunity testing?",
+      "paragraphs": [
+        "No. IEC 61000-6-3 covers emissions. Generic immunity requirements for residential, commercial and light-industrial environments are addressed by IEC 61000-6-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between IEC 61000-6-3 and IEC 61000-6-4?",
+      "paragraphs": [
+        "IEC 61000-6-3 is intended primarily for residential locations, while IEC 61000-6-4 applies to industrial environments when no more specific product or product-family standard applies."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61000-6-3 cover commercial and light-industrial equipment?",
+      "paragraphs": [
+        "It can. The 2026 scope works alongside IEC 61000-6-8 so that residential, commercial and light-industrial equipment is covered by the appropriate generic standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India perform IEC 61000-6-3 EMC testing?",
+      "paragraphs": [
+        "ITC India provides EMC testing support for applicable electrical and electronic equipment. The final scope depends on product type, ports, intended environment, operating modes and required standard edition."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61000-6-3-emc-testing/7ac7ae33723d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61000-6-3-emc-testing/7ac7ae33723d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

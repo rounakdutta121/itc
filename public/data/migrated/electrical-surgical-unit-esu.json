@@ -1,0 +1,229 @@
+{
+  "hero": "/images/page-heroes/electrical-surgical-unit-esu.webp",
+  "heroPortrait": "/images/page-heroes/electrical-surgical-unit-esu-portrait.webp",
+  "generatedIntro": "/images/page-sections/electrical-surgical-unit-esu-s1.webp",
+  "generatedMid": "/images/page-sections/electrical-surgical-unit-esu-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/electrical-surgical-unit-esu-s1.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s2.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s3.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s4.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s5.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s6.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s7.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s8.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s9.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s10.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s11.webp",
+    "/images/page-sections/electrical-surgical-unit-esu-s12.webp"
+  ],
+  "category": "electrical",
+  "action": "FIX_TITLE",
+  "note": "622 | no meta, title ends \" 1\" | FIX TITLE + add meta",
+  "slug": "electrical-surgical-unit-esu",
+  "path": "/electrical-surgical-unit-esu",
+  "source": "https://www.itcindia.org/electrical-surgical-unit-esu/",
+  "ok": true,
+  "title": "Electrical Surgical Unit (ESU) Testing Services 1 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "By ITC India – Ensuring Compliance, Performance & Patient Safety📍 Mohali, Punjab | 📧 info@itcindia.org | 📞 +91-9316473033Website: www.itcindia.org Thank you for reading this post, don't forget to subscribe! Regular testing of Electrosurgical Units isn’t just about ticking a compliance box. It’s about saving lives, protecting patients, and ensuring surgical excellence. At ITC India, we…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "By ITC India – Ensuring Compliance, Performance &amp; Patient Safety 📍 Mohali, Punjab | 📧 info@itcindia.org | 📞 +91-9316473033 Website: <a href=\"/\">www.itcindia.org</a>",
+        "Regular testing of Electrosurgical Units isn’t just about ticking a compliance box. It’s about saving lives, protecting patients, and ensuring surgical excellence. At ITC India, we combine top-tier analyzers with expert biomedical engineers to deliver trustworthy, traceable, and timely results.Electrical Surgical Unit (ESU) Testing Services IEC 60601-2-2 Standard"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/electrical-surgical-unit-esu/17dd88a0c1ee.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "🔍 What is Electrical Surgical Unit Testing?",
+      "paragraphs": [
+        "An Electrosurgical Unit (ESU) is a critical device used in modern surgeries to cut tissue or coagulate bleeding using high-frequency electric currents. Proper testing of these units is vital for clinical safety, regulatory compliance, and device performance.",
+        "At ITC India, we offer comprehensive ESU in accordance with IEC 60601-2-2, ensuring that each device meets international safety and performance standards. Electrical Surgical Unit (ESU) Testing Services"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/electrical-surgical-unit-esu/7e5b3a721169.jpg",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/electrical-surgical-unit-esu/7501183129f7.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Based in Mohali, Punjab",
+      "paragraphs": [],
+      "bullets": [
+        "On-site and off-site testing support",
+        "Latest calibrated test equipment",
+        "Fast turnaround and technical support",
+        "Detailed compliance reports for CE marking, CDSCO, and FDA submissions. Electrical Surgical Unit (ESU) Testing Services"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/electrical-surgical-unit-esu/a0a4a150cb29.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "🔬 Key Tests Conducted on Electrosurgical Units",
+      "paragraphs": [
+        "We follow IEC 60601-2-2 and IEC 60601-1 for device-specific and general safety testing."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Test Type",
+            "Description"
+          ],
+          "rows": [
+            [
+              "High-Frequency Leakage Current",
+              "Ensures patient safety from unintended current"
+            ],
+            [
+              "Output Power Testing",
+              "Confirms power output within acceptable tolerance"
+            ],
+            [
+              "Crest Factor & Waveform",
+              "Evaluates the shape and peak of the output wave"
+            ],
+            [
+              "Monopolar & Bipolar Mode Verification",
+              "Verifies mode functions for precision surgery"
+            ],
+            [
+              "Neutral Electrode Safety",
+              "Tests contact quality monitoring for burns risk"
+            ],
+            [
+              "EMI/EMC Tests",
+              "Ensures electromagnetic compatibility with other equipment"
+            ],
+            [
+              "Earth Continuity & Isolation",
+              "Electrical grounding verification for safety"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "🛠️ How It Works- Electrical Surgical Unit (ESU) Testing Services",
+      "paragraphs": [],
+      "bullets": [
+        "Connection Setup: The active output from the ESU is connected to a dummy load, simulating tissue resistance.",
+        "Monitoring Neutral Electrode: The return (neutral) electrode is connected to monitor unintended leakage.",
+        "Analyzer Testing: Fluke QA-ES III Analyzer, to measure leakage current from the active and neutral lines.",
+        "Compliance Validation: We validate that measured leakage is within IEC 60601-2-2 standards:Max active HF leakage: < 150 mA",
+        "Max return electrode HF leakage: < 10 mA"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "✅ Why This Test is Critical Electrical Surgical Unit (ESU) Testing Services",
+      "paragraphs": [],
+      "bullets": [
+        "Ensures patient safety by verifying no excessive RF currents pass through unintended paths.",
+        "Verifies compliance with IEC 60601‑2‑2 standards, essential for CE, FDA, and CDSCO certifications.",
+        "Highlights potential degradation in insulation or neutral electrode detection systems over time."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔗 Learn More & Enhance Your Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Check Fluke’s Next Level Electrosurgery Testing resource on accurate, safe connections rigelmedical.com+1flukebiomedical.com+1desmitmedical.com+3medicalexpo.com+3rigelmedical.com+3documents.cdn.ifixit.com+4flukebiomedical.com+4rigelmedical.com+4.",
+        "For detailed guidance on analyser setup and load selection, refer to the ESU analyzer manual in “ESU‑2300 user guide” section “Operational Testing – RF Leakage” .Electrical Surgical Unit (ESU) Testing Services"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🖼️ Equipment Used for Testing",
+      "paragraphs": [
+        "Visual Description of Setup: A test lab setup includes the Fluke QA-ESIII Electrosurgical Analyzer, isolation transformer, IEC-standard dummy loads, and oscilloscopes. Our engineers wear anti-static gear and use calibrated probes to ensure accurate measurements. Electrical Surgical Unit (ESU) Testing Services"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ISO 13485 & MDR Guidelines for Quality Compliance",
+      "paragraphs": [
+        "For detailed information on standards, visit the IEC Standards Portal."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "📄 Request a Quote or Schedule Testing",
+      "paragraphs": [
+        "If you manufacture, distribute, or maintain electrosurgical equipment, it’s critical to test and certify each device. ITC India provides full-service ESU testing, from design validation to pre-market compliance.",
+        "📞 Call Now: +91-9316473033 📧 Email: info@itcindia.org 🌐 Visit: <a href=\"/\">www.itcindia.org</a>",
+        "🧪 “Precision testing today ensures safe surgeries tomorrow.”"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/17dd88a0c1ee.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/7e5b3a721169.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/7501183129f7.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/a0a4a150cb29.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/17dd88a0c1ee.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/7e5b3a721169.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/7501183129f7.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/electrical-surgical-unit-esu/a0a4a150cb29.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

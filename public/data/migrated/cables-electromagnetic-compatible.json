@@ -1,0 +1,83 @@
+{
+  "hero": "/images/page-heroes/cables-electromagnetic-compatible.webp",
+  "heroPortrait": "/images/page-heroes/cables-electromagnetic-compatible-portrait.webp",
+  "generatedIntro": "/images/page-sections/cables-electromagnetic-compatible-s1.webp",
+  "generatedMid": "/images/page-sections/cables-electromagnetic-compatible-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cables-electromagnetic-compatible-s1.webp",
+    "/images/page-sections/cables-electromagnetic-compatible-s2.webp",
+    "/images/page-sections/cables-electromagnetic-compatible-s3.webp",
+    "/images/page-sections/cables-electromagnetic-compatible-s4.webp",
+    "/images/page-sections/cables-electromagnetic-compatible-s5.webp",
+    "/images/page-sections/cables-electromagnetic-compatible-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "165 | thin | LOW: expand or merge into /emc-emi-testing/",
+  "slug": "cables-electromagnetic-compatible",
+  "path": "/cables-electromagnetic-compatible",
+  "source": "https://www.itcindia.org/cables-electromagnetic-compatible/",
+  "ok": true,
+  "title": "Are your cables Electromagnetic Compatible?",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Are your cables Electromagnetic Compatible that is used in Electronic Equipment’s play a significant role in overall EMC situation either in a positive or negative way",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cables-electromagnetic-compatible/0e7943f6ed51.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Are your cables Electromagnetic Compatible",
+      "paragraphs": [
+        "Cables that are used in Electronic Equipment’s play a significant role in overall EMC situation either in positive or negative way…",
+        "The electromagnetic compatibility (EMC) principle of cables is that communication signals should be kept inside the cables, and outside electromagnetic fields should not disturb the data transmission inside the cable.",
+        "Requirement for COAXIAL Cables designed for Broadcast and communication Technology to avoid interference problem",
+        "Majority of Coaxial cables available in market do not full fill the above said requirement that lead to EMC and Mechanical weakness. Thus , affects the immunity of the equipment."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Sr. No",
+            "Metrics",
+            ""
+          ],
+          "rows": [
+            [
+              "1",
+              "Impedance",
+              "Less than 5 mΩ/m from 5 to 30 MHZ"
+            ],
+            [
+              "2",
+              "Screening Attenuation",
+              "85 dB from 30 – 1000MHZ( Screening Class A , in IEC 61196-6 )"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/cables-electromagnetic-compatible/0e7943f6ed51.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/cables-electromagnetic-compatible/0e7943f6ed51.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

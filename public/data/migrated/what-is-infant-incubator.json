@@ -1,0 +1,96 @@
+{
+  "hero": "/images/page-heroes/what-is-infant-incubator.webp",
+  "heroPortrait": "/images/page-heroes/what-is-infant-incubator-portrait.webp",
+  "generatedIntro": "/images/page-sections/what-is-infant-incubator-s1.webp",
+  "generatedMid": "/images/page-sections/what-is-infant-incubator-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/what-is-infant-incubator-s1.webp",
+    "/images/page-sections/what-is-infant-incubator-s2.webp",
+    "/images/page-sections/what-is-infant-incubator-s3.webp",
+    "/images/page-sections/what-is-infant-incubator-s4.webp",
+    "/images/page-sections/what-is-infant-incubator-s5.webp",
+    "/images/page-sections/what-is-infant-incubator-s6.webp"
+  ],
+  "category": "medical",
+  "action": "EXPAND",
+  "note": "0 / 10 | 294 | no meta, thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+  "slug": "what-is-infant-incubator",
+  "path": "/what-is-infant-incubator",
+  "source": "https://www.itcindia.org/what-is-infant-incubator/",
+  "ok": true,
+  "title": "What is Infant Incubator? - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Thank you for reading this post, don't forget to subscribe! A neonatal incubator is a rigid box-like enclosure in which an infant can be kept in a controlled environment for observation and care. The device may include a heater, a fan, a container for water to add humidity, a control valve through which oxygen may…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "A neonatal incubator is a rigid box-like enclosure in which an infant can be kept in a controlled environment for observation and care. The device may include a heater, a fan, a container for water to add humidity, a control valve through which oxygen may be added, and access ports for nursing care."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/what-is-infant-incubator/3820a3b389a9.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Infant Incubator Monitors:",
+      "paragraphs": [
+        "Infant and transport incubators provide warmth to help an infant, especially the premature babies, maintain a normal body temperature essentially for the infant’s survival. Most incubators warm the infant by a forced or natural flow of heated air. Research shows that thermostat failure that can cause incubator overheating and infant hyperthermia, malfunctions or design defects that can produce fires and electrical shock hazards. Rough handling and ignorance of its safety design especially in the electrical aspect can produce a hazard. After realizing the vital role of safety in life-supporting infant incubators, the International Electrotechnical Commission had set generally accepted minimum requirements to ensure efficacy and safety of this device. The particular standard for basic safety & essential performance of infant incubator is IEC 60601-2-19."
+      ],
+      "bullets": [
+        "Heart rate",
+        "Blood pressure",
+        "Breathing",
+        "Oxygen levels",
+        "Temperature"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/what-is-infant-incubator/92b9c1990850.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Major tests in IEC 60601-2-19:",
+      "paragraphs": [
+        "ITC India can assist you to get your product compliance with IEC 60601 &amp; and guide you with product Designing, Marking &amp; Labeling even in the preparation of necessary Documentation required to get CE, UL, and CSA marking. We are NABL, For more information log on to <a href=\"/\">www.itcindia.org</a> ,or mail us at info@itcindia.org or call on +91 9316473033"
+      ],
+      "bullets": [
+        "The grounding resistance of equipment",
+        "leakage current in equipment",
+        "line voltage of the equipment",
+        "temperature control system safety",
+        "safety of thermostat"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/what-is-infant-incubator/3820a3b389a9.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-infant-incubator/92b9c1990850.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/what-is-infant-incubator/3820a3b389a9.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-infant-incubator/92b9c1990850.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

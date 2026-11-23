@@ -1,0 +1,356 @@
+{
+  "hero": "/images/page-heroes/calibration-of-voltage-dips-and-short-interruption.webp",
+  "heroPortrait": "/images/page-heroes/calibration-of-voltage-dips-and-short-interruption-portrait.webp",
+  "generatedIntro": "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s1.webp",
+  "generatedMid": "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s1.webp",
+    "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s2.webp",
+    "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s3.webp",
+    "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s4.webp",
+    "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s5.webp",
+    "/images/page-sections/calibration-of-voltage-dips-and-short-interruption-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "ADD",
+  "note": "0 / 1 | 322 | no meta, long title, 16 img no alt | KEEP – add meta",
+  "slug": "calibration-of-voltage-dips-and-short-interruption",
+  "path": "/calibration-of-voltage-dips-and-short-interruption",
+  "source": "https://www.itcindia.org/calibration-of-voltage-dips-and-short-interruption/",
+  "ok": true,
+  "title": "Calibration of Voltage Dips and Short Interruption",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Introduction Electrical and electronic equipment can be affected by voltage dips, short interruptions or voltage variations of the power supply. Thank you for reading this post, don't forget to subscribe! Voltage dips and short interruptions occur due to faults in a (public or non-public) network or in installations by sudden changes of large loads. In…Read More+",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "paragraphs": [
+        "Electrical and electronic equipment can be affected by voltage dips, short interruptions or voltage variations of the power supply.",
+        "Voltage dips and short interruptions occur due to faults in a (public or non-public) network or in installations by sudden changes of large loads. In certain cases, two or more consecutive dips or interruptions can occur. Voltage variations are caused by continuously varying loads connected to the network."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Reference Standard",
+            "Calibration Parameter"
+          ],
+          "rows": [
+            [
+              "IEC 61000-4-11:2020",
+              "Voltage output % and Time"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Calibration of the characteristics of Voltage Dips and Short Interruption",
+      "paragraphs": [
+        "In order to compare the results obtained from different test generators, the generator characteristics shall be verified according to the following:"
+      ],
+      "bullets": [
+        "The 100%, 80%, 70%, and 40% RMS output voltage of the Generator shall conform to the percentages of the selected operating voltage: 230 V, 120 V, etc.",
+        "The 100%, 80%, 70% and 40% RMS output voltage of the generator shall be measured at no load, and shall be maintained within a specified percentage of the UT."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Voltage Dips and Short Interruptions",
+      "paragraphs": [
+        "The change between UT and the changed voltage is abrupt. The step can start and stop at any phase angle on the mains voltage. The following test voltage levels (in % UT) are used: 0%, 40%, 70% and 80%, corresponding to dips with residual voltages of 0%, 40%, 70% and 80%.",
+        "For voltage dips, the preferred test levels and duration are given in Table 1, and an example is shown in Figure 1a) and Figure 1b).",
+        "For short interruptions, the preferred test levels and duration are given in Table 2, and an example is shown in Figure 2.",
+        "The rise and fall time are detailed in Figure 3."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/8259c0835e15.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/3323e67ea943.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/ab8522373197.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/3ed202b5c1ea.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/32f0be1c2279.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/e88f2e5c054f.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Specification of Calibration",
+      "paragraphs": [
+        "According to standard Parameter and specification."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Parameter",
+            "Nominal Voltage",
+            "Tolerance"
+          ],
+          "rows": [
+            [
+              "Voltage",
+              "230 V ± 5%"
+            ],
+            [
+              "Output voltage %",
+              ""
+            ],
+            [
+              "80",
+              "184",
+              "± 5%"
+            ],
+            [
+              "70",
+              "161"
+            ],
+            [
+              "40",
+              "92"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Output voltage %",
+            "Voltage Dips"
+          ],
+          "rows": [
+            [
+              "80",
+              "5000ms"
+            ],
+            [
+              "70",
+              "500ms"
+            ],
+            [
+              "40",
+              "200ms"
+            ],
+            [
+              "0",
+              "20ms"
+            ],
+            [
+              "0",
+              "10ms"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Calibration Setup",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/09f569b61c7b.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Waveform",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/b4c2ab4dc7e1.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/8259c0835e15.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/3323e67ea943.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/ab8522373197.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/3ed202b5c1ea.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/32f0be1c2279.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/e88f2e5c054f.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/09f569b61c7b.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/b4c2ab4dc7e1.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/8259c0835e15.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/3323e67ea943.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/ab8522373197.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/3ed202b5c1ea.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/32f0be1c2279.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/e88f2e5c054f.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/09f569b61c7b.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-voltage-dips-and-short-interruption/b4c2ab4dc7e1.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

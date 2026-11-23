@@ -1,0 +1,297 @@
+{
+  "hero": "/images/page-heroes/ip55-protection-rating-testing.webp",
+  "heroPortrait": "/images/page-heroes/ip55-protection-rating-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip55-protection-rating-testing-s1.webp",
+  "generatedMid": "/images/page-sections/ip55-protection-rating-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip55-protection-rating-testing-s1.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s2.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s3.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s4.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s5.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s6.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s7.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s8.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s9.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s10.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s11.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s12.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s13.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s14.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s15.webp",
+    "/images/page-sections/ip55-protection-rating-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "2 / 5 | 945 | – | KEEP",
+  "slug": "ip55-protection-rating-testing",
+  "path": "/ip55-protection-rating-testing",
+  "source": "https://www.itcindia.org/ip55-protection-rating-testing/",
+  "ok": true,
+  "title": "IP55 Rating Testing Lab in India | IEC 60529",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IP55 testing under IEC 60529 for dust and water-jet protection of electrical and electronic enclosures. Get IP55 enclosure testing support from ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IP55 testing evaluates whether an electrical or electronic enclosure provides the specified level of protection against dust and water jets. ITC India provides ingress protection testing for manufacturers that need to evaluate enclosures according to IEC 60529 and applicable product requirements.",
+        "An IP55 rating consists of two characteristic numerals. The first digit, 5, relates to protection against dust and solid particles. The second digit, 5, relates to protection against water projected in jets against the enclosure.",
+        "Manufacturers requiring other ingress protection classifications can review ITC India’s complete <a href=\"/ip-testing-laboratory-india\">IP Testing Laboratory in India</a> services covering different dust and water IP ratings."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Does an IP55 Rating Mean?",
+      "paragraphs": [
+        "Under the IP classification system, IP55 means that an enclosure is dust protected and protected against water jets.",
+        "The first digit “5” does not mean that the enclosure is completely dust-tight. Instead, dust ingress must be limited so that it does not enter in a quantity that could interfere with satisfactory operation or impair safety.",
+        "The second digit “5” represents protection against water jets projected against the enclosure from different directions. Water entering the enclosure must not produce harmful effects under the applicable acceptance criteria.",
+        "For a detailed explanation of how different IP classifications are evaluated, see the <a href=\"/ip-testing-procedure\">IP Testing Procedure under IEC 60529</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How Is an IP55 Test Performed?",
+      "paragraphs": [
+        "IP55 testing generally involves separate assessments for solid-particle protection and water ingress protection."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IP5X Dust Protection Test",
+      "paragraphs": [
+        "For the first characteristic numeral, the enclosure is evaluated against dust ingress using the conditions applicable to IP5X testing. The test helps determine whether dust can enter the enclosure in a quantity that could negatively affect the intended operation or safety of the equipment.",
+        "During the assessment, attention may be given to enclosure joints, covers, seals, cable glands, ventilation openings and other possible ingress points."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IPX5 Water Jet Test",
+      "paragraphs": [
+        "For IPX5 water protection, water is projected against the enclosure using the specified test nozzle. IEC 60529 IPX5 testing uses a 6.3 mm nozzle with a water flow rate of approximately 12.5 litres per minute ±5%.",
+        "The nozzle is normally maintained approximately 2.5 to 3 metres from the enclosure. The test duration depends on the enclosure surface area, subject to the minimum duration specified by the standard.",
+        "After the test, the enclosure is inspected to determine whether water ingress has produced harmful effects.",
+        "Products requiring protection against more severe water jets may instead need <a href=\"/ip56-protection-rating-testing\">IP56 protection rating testing</a> or <a href=\"/ip-66-ingress-protection-testing\">IP66 ingress protection testing</a>, depending on the applicable requirement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP55 Waterproof?",
+      "paragraphs": [
+        "IP55 should not be described as fully waterproof.",
+        "An IP55 enclosure is tested for resistance to water jets, but the rating does not establish protection against temporary or continuous immersion in water.",
+        "Products intended for immersion applications may require higher water-ingress classifications. For example, <a href=\"/ip-67-waterproof-testing\">IP67 testing</a> evaluates temporary immersion conditions, while <a href=\"/ip-68-upto-5bar-testing\">IP68 testing up to specified pressure conditions</a> may be applicable where IPX8 immersion requirements are specified.",
+        "Selecting the correct IP rating should therefore be based on the product’s intended environment and the requirements of the relevant product standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products That May Require IP55 Testing",
+      "paragraphs": [
+        "IP55 protection may be specified for many types of electrical and electronic equipment used in industrial, commercial or outdoor environments. Typical examples can include electrical control panels, junction boxes, lighting equipment, motor enclosures, electrical cabinets, industrial electronics, monitoring equipment, communication enclosures and outdoor electrical products.",
+        "The exact required IP classification should always be confirmed from the relevant product standard, customer specification, regulatory requirement or intended application."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Is IP55 Testing Important?",
+      "paragraphs": [
+        "Dust, moisture and water entering an electrical enclosure can contribute to insulation deterioration, corrosion, electrical malfunction, short circuits and reduced product reliability.",
+        "IP55 testing gives manufacturers objective evidence of how their enclosure performs under defined dust and water-jet conditions. It can also help engineering teams identify potential weaknesses in seals, enclosure joints, covers, cable entries and gaskets before a product reaches production or customer approval.",
+        "Ingress protection testing may therefore form an important part of product development, design verification, compliance evaluation and quality assurance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for IP55 Testing",
+      "paragraphs": [
+        "Before submitting a product for testing, manufacturers should provide the product name and model, enclosure dimensions, required IP classification, applicable product standard and any special mounting or operating conditions.",
+        "Technical drawings, installation instructions and information about cable entries, seals or accessories can also help define the correct test configuration.",
+        "To discuss your product and obtain testing requirements or a quotation, submit the technical details through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry</a> page."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is an IP55 rating?",
+      "paragraphs": [
+        "IP55 means an enclosure is dust protected under IP5X requirements and protected against water jets under IPX5 requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP55 completely dust-tight?",
+      "paragraphs": [
+        "No. IP5X is dust protected, not completely dust-tight. Complete dust-tight protection is associated with the first characteristic numeral 6."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP55 waterproof?",
+      "paragraphs": [
+        "No. IP55 demonstrates protection against water jets. It does not mean the enclosure is suitable for immersion in water."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between IP55 and IP56?",
+      "paragraphs": [
+        "Both use a first digit of 5 for dust protection, but IP56 requires protection against more powerful water jets than IP55."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What nozzle is used for the IPX5 test?",
+      "paragraphs": [
+        "IPX5 testing under IEC 60529 uses a 6.3 mm water-jet nozzle with a specified flow rate of approximately 12.5 litres per minute."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IP55 testing follow IEC 60529?",
+      "paragraphs": [
+        "IEC 60529 is the primary international standard defining IP codes and the associated enclosure protection tests. The applicable product standard should also be reviewed before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How can I request IP55 testing from ITC India?",
+      "paragraphs": [
+        "Provide ITC India with the product details, required IP rating, applicable standard, enclosure dimensions and relevant technical documentation so the appropriate test programme can be reviewed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

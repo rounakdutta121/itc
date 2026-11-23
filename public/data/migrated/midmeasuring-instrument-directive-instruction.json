@@ -1,0 +1,185 @@
+{
+  "hero": "/images/page-heroes/midmeasuring-instrument-directive-instruction.webp",
+  "heroPortrait": "/images/page-heroes/midmeasuring-instrument-directive-instruction-portrait.webp",
+  "generatedIntro": "/images/page-sections/midmeasuring-instrument-directive-instruction-s1.webp",
+  "generatedMid": "/images/page-sections/midmeasuring-instrument-directive-instruction-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/midmeasuring-instrument-directive-instruction-s1.webp",
+    "/images/page-sections/midmeasuring-instrument-directive-instruction-s2.webp",
+    "/images/page-sections/midmeasuring-instrument-directive-instruction-s3.webp",
+    "/images/page-sections/midmeasuring-instrument-directive-instruction-s4.webp",
+    "/images/page-sections/midmeasuring-instrument-directive-instruction-s5.webp",
+    "/images/page-sections/midmeasuring-instrument-directive-instruction-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "0 / 4 | 274 | thin, few links | EXPAND – keep text, add 400+ words",
+  "slug": "midmeasuring-instrument-directive-instruction",
+  "path": "/midmeasuring-instrument-directive-instruction",
+  "source": "https://www.itcindia.org/midmeasuring-instrument-directive-instruction/",
+  "ok": true,
+  "title": "MID(Measuring Instrument Directive) - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "The MID(Measuring Instrument Directive) is applied to any instrument that is used to measure quantities. It helps to ensure accurate measurement.",
+  "sections": [
+    {
+      "heading": "What is MID?",
+      "paragraphs": [
+        "The Measuring Instrument Directive (MID) is a directive which sets out requirements for the design and manufacture of measuring instruments.",
+        "It is applies to any instrument that is used to measure quantities such as length, mass, time, and electric current.",
+        "The MID includes provisions on accuracy, traceability, calibration and conformities.",
+        "The MID is an important directive for manufacturers of measuring instruments, as it provides a level playing field for all companies operating in the EU market.",
+        "MID helps to ensure that measurements made using instruments covered by the Directive are accurate and reliable.",
+        "The MID covers a wide range of products, including but not limited to:"
+      ],
+      "bullets": [
+        "Electricity meters",
+        "Gas meters",
+        "Water meters",
+        "Heat meters",
+        "Calibration instruments"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/midmeasuring-instrument-directive-instruction/fdf27a82f751.webp",
+          "alt": "MID(Measuring Instrument Directive Instruction)"
+        }
+      ]
+    },
+    {
+      "heading": "What does MID apply to?",
+      "paragraphs": [
+        "The Measuring Instrument Directive (MID) applies to any measuring instrument that is placed on the market or put into service for the purpose of measuring any physical or electrical quantity.",
+        "This includes, but is not limited to, instruments used for measuring length, area, volume, mass, time, temperature, humidity, pressure, force, voltage, current, resistance, power and energy.",
+        "All measuring instruments that fall under the scope of the MID must be CE marked in order to be placed on the market or put into service in the EU."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the purpose of MID?",
+      "paragraphs": [
+        "MID ensures that measuring instruments placed on the market or put into service in the EEA meet minimum requirements in terms of accuracy and reliability.",
+        "There are three standards for compliance with MID:",
+        "– General requirements-EN ISO 16825:2006",
+        "– Specific requirements for utility meters-EN ISO21969:2013",
+        "– Calibration laboratories-EN ISO/IEC 17025:2005"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/midmeasuring-instrument-directive-instruction/fdf27a82f751.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/midmeasuring-instrument-directive-instruction/fdf27a82f751.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

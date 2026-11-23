@@ -1,0 +1,188 @@
+{
+  "hero": "/images/page-heroes/calibrating-a-uv-intensity-meter.webp",
+  "heroPortrait": "/images/page-heroes/calibrating-a-uv-intensity-meter-portrait.webp",
+  "generatedIntro": "/images/page-sections/calibrating-a-uv-intensity-meter-s1.webp",
+  "generatedMid": "/images/page-sections/calibrating-a-uv-intensity-meter-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/calibrating-a-uv-intensity-meter-s1.webp",
+    "/images/page-sections/calibrating-a-uv-intensity-meter-s2.webp",
+    "/images/page-sections/calibrating-a-uv-intensity-meter-s3.webp",
+    "/images/page-sections/calibrating-a-uv-intensity-meter-s4.webp",
+    "/images/page-sections/calibrating-a-uv-intensity-meter-s5.webp",
+    "/images/page-sections/calibrating-a-uv-intensity-meter-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "ADD",
+  "note": "1 / 6 | 347 | no meta, 4 img no alt, few links | KEEP – add meta",
+  "slug": "calibrating-a-uv-intensity-meter",
+  "path": "/calibrating-a-uv-intensity-meter",
+  "source": "https://www.itcindia.org/calibrating-a-uv-intensity-meter/",
+  "ok": true,
+  "title": "Calibrating a UV intensity Meter - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Measuring UV intensity An ultravoilet light is divided into three bands i.e. UVA, UVB, UVC.Thank you for reading this post, don't forget to subscribe! UVA : It is a long wave UV transparent wavelength, 315 nm to 400 nm UV transparent. It causes skin tan, skin elasticity and collagen fibers. Uses: Curing Lamps in the…Read More+",
+  "sections": [
+    {
+      "heading": "Measuring UV intensity",
+      "paragraphs": [
+        "An ultravoilet light is divided into three bands i.e. UVA, UVB, UVC.",
+        "There are three fundamental parameters for UV measurement. These are wavelength, energy density and irradiance."
+      ],
+      "bullets": [
+        "UVA : It is a long wave UV transparent wavelength, 315 nm to 400 nm UV transparent. It causes skin tan, skin elasticity and collagen fibers. Uses: Curing Lamps in the Curing Industries.",
+        "UVB : It is a medium wave UV with erythema effect, wavelength 280 nm to 320 nm. It promotes Vitamin D formation in body, but exposure for long time is not recommended. Uses : In Health care Physiotherapy Lamps",
+        "UVC : It is a short wave with bacterial effect wavelength, 200 nm to 280 nm. It is very harmful, and its long term exposure causes skin Cancer. Uses: In Hospitals Germicidal Lamps",
+        "Wavelength: To measure the wavelength we require a Spectroradiometer (they can measure individual peaks) or Spectrometer.",
+        "Irradiance: Intensity is the output energy of UV source. The amount of UV falling on a surface is called irradiance. A cm2 is the area which is used to track the UV from all angles and is determined by direct measurements. It is measured in Watt/cm2 or mW/cm2 .",
+        "UV Energy Density:It is exposure of UV light with time factor. That is 1 watt for 1 sec equal 1 joule. It is measured in Joules/cm2 or mJ/cm2 ."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "UV Instrument",
+      "paragraphs": [
+        "Now it is very important to understand your UV measuring instrument. It will help you and the customers to better understand the readings.",
+        "What factors cause"
+      ],
+      "bullets": [
+        "Potential confusion"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/calibrating-a-uv-intensity-meter/c84ccbfdc6f5.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Some factors which influence Irradiance Measurements are",
+      "paragraphs": [
+        "UVB or UVA light sources irradiation intensity can be detected by the UV lamp intensity meter. Multi-probe UV measurement device that can be equipped with probes: No matter you want to test the UVA,UVB or UVC band. You can select a suitable probe.",
+        "ITC India is offering the following services for Calibration"
+      ],
+      "bullets": [
+        "Filtering",
+        "Solarization",
+        "Cosine error",
+        "Calibration of UV intensity Meter",
+        "Calibration of UV sensor",
+        "Validation of UV chamber",
+        "Calibration of UV bulbs"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/calibrating-a-uv-intensity-meter/c84ccbfdc6f5.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/calibrating-a-uv-intensity-meter/c84ccbfdc6f5.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    },
+    {
+      "href": "/calibration-of-surge-generator",
+      "label": "Calibration of Surge Generators"
+    }
+  ]
+}

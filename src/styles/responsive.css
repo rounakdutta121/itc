@@ -1,8 +1,15 @@
 /* Shared responsive polish — mobile first overrides */
 
+@media (max-width: 899px) {
+  /* Symmetric full-width content — do not reserve space for floating FABs */
+  .wrap {
+    width: min(100% - 1.5rem, var(--max));
+  }
+}
+
 @media (max-width: 479px) {
   .wrap {
-    width: min(100% - 1.25rem, var(--max));
+    width: min(100% - 1rem, var(--max));
   }
 
   .btn {

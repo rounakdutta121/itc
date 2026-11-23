@@ -1,0 +1,426 @@
+{
+  "hero": "/images/page-heroes/battery-testing.webp",
+  "heroPortrait": "/images/page-heroes/battery-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/battery-testing-s1.webp",
+  "generatedMid": "/images/page-sections/battery-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/battery-testing-s1.webp",
+    "/images/page-sections/battery-testing-s2.webp",
+    "/images/page-sections/battery-testing-s3.webp",
+    "/images/page-sections/battery-testing-s4.webp",
+    "/images/page-sections/battery-testing-s5.webp",
+    "/images/page-sections/battery-testing-s6.webp"
+  ],
+  "category": "battery",
+  "action": "EXPAND",
+  "note": "7 / 27 | 1563 | – | EXPAND – P1",
+  "slug": "battery-testing",
+  "path": "/battery-testing",
+  "source": "https://www.itcindia.org/battery-testing/",
+  "ok": true,
+  "title": "Battery Testing As per IS 1651, IEC 60896-1",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITCIndia One of the Best Battery Testing Laboratory in India, offering you Battery Testing Service as per IS 1651 EN/IEC 60896-11 in Mumbai,Ahmedabad,Delhi",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC can do Electrical Safety testing against Battery for following types of products/standards:"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "As per IS 1651",
+            "As per IEC: 60896-11"
+          ],
+          "rows": [
+            [
+              "a. Verification of Constructional Requirement",
+              "a. Capacity test"
+            ],
+            [
+              "b. Marking & Packing",
+              "b. Charge retention Test"
+            ],
+            [
+              "c. Verification of Dimension",
+              "c. endurance in discharge-Charge Cycle"
+            ],
+            [
+              "d. Ah and Watt Hr Efficiency test",
+              "d. endurance in over charge"
+            ],
+            [
+              "",
+              "e. Test for suitability for floating battery operation"
+            ],
+            [
+              "",
+              "f. Short Circuit and internal resistance test"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Battery testing as per IS 1651",
+      "paragraphs": [
+        "The scope of this standard specifies the rated Ah capacities, overall dimensions, performance requirements and test of stationary Lead acid cells and batteries using tubular positive plates."
+      ],
+      "bullets": [
+        "Verification of constructional requirements (Clause 12.2) Cell lids, venting device, Electrolyte level indicator, and terminal posts, connectors, and nuts and bolts spray arrestor are verified for their constructional requirements. The cells shall meet the entire requirement according to the Clause 6 of IS 1651.",
+        "Verification of marking (clause 12.3): The following information must be durably marked on outside the cell. Source of manufacturer, Ah capacity at 10- hours’ rate, Upper and lower electrolyte level for transport containers, year of manufacturer, country of origin and the standard mark. The cell shall be suitably packed to avoid any loss and damage during transit.",
+        "Verification of Dimensions( clause 12.4): The ampere hour capacities and dimensions of the cells shall be in accordance with the table below:",
+        "Test of capacity (12.5) test of voltage during discharge (clause 12.10): Life cycle tester belongs to Institute of testing and certification pvt ltd, which is a highly accurate providing the results. The purpose is to determine the endurance of the batteries. It runs with computer software. Number of cycles (charging and discharging) as per the requirement. Throughout the test, the battery shall be maintained at an ambient temperature between 25 °c and 35°c.",
+        "Ampere-hour and watt hour efficiency tests (clause 12.9): The ampere hour efficiency is calculated as the ratio of ampere hour delivered during second discharge to the ampere hour put in on the charge. The calculated efficiency shall not be less than 90 percent. Watt hour efficiency is calculated by multiplying the ampere hour efficiency by the average discharge and recharge voltage. The value of discharge and recharge are calculated from the log sheets for ampere hour efficiency test. The average voltage is calculated from the hourly readings of the discharge voltage but including the voltage immediately after start of the discharge and the last reading 1.85 V.",
+        "Test for loss of capacity on storage (clause 12.7): this test is performed on 2 cells that had already passed the capacity test as per clause 12.5 of IS 1651. The loss of the capacity is calculated by a formula S= [(C-C´)/C]* 100 Where C is mean value of the2 results the initial capacity C´ is measured capacity after storage. And the calculated capacity shall not exceed 10 percent.",
+        "Endurance test (Clause 12.8): This test is carried on the fresh cells which have not been gone through any tests earlier. After this test again the ampere hour efficiency is calculated and it shall be not less than 90 %."
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Capacity at 10 hour rate",
+            "Maximum overall dimensions"
+          ],
+          "rows": [
+            [
+              "Length",
+              "Width",
+              "Height"
+            ],
+            [
+              "(1)",
+              "(2)",
+              "(3)",
+              "(4)"
+            ],
+            [
+              "Ah",
+              "mm",
+              "mm",
+              "mm"
+            ],
+            [
+              "20",
+              "105",
+              "170",
+              "365"
+            ],
+            [
+              "40",
+              "105",
+              "170",
+              "365"
+            ],
+            [
+              "60",
+              "140",
+              "170",
+              "365"
+            ],
+            [
+              "80",
+              "165",
+              "190",
+              "365"
+            ],
+            [
+              "100",
+              "190",
+              "190",
+              "450"
+            ],
+            [
+              "120",
+              "190",
+              "190",
+              "450"
+            ],
+            [
+              "150",
+              "190",
+              "190",
+              "550"
+            ],
+            [
+              "200",
+              "265",
+              "215",
+              "550"
+            ],
+            [
+              "300",
+              "320",
+              "215",
+              "550"
+            ],
+            [
+              "400",
+              "380",
+              "215",
+              "550"
+            ],
+            [
+              "500",
+              "390",
+              "235",
+              "550"
+            ],
+            [
+              "600",
+              "390",
+              "235",
+              "715"
+            ],
+            [
+              "800",
+              "515",
+              "235",
+              "715"
+            ],
+            [
+              "1000",
+              "515",
+              "300",
+              "750"
+            ],
+            [
+              "1500",
+              "450",
+              "400",
+              "865"
+            ],
+            [
+              "2000",
+              "500",
+              "450",
+              "865"
+            ],
+            [
+              "2500",
+              "650",
+              "450",
+              "865"
+            ],
+            [
+              "4000",
+              "900",
+              "480",
+              "1240"
+            ],
+            [
+              "5000",
+              "900",
+              "480",
+              "1240"
+            ],
+            [
+              "6000",
+              "900",
+              "500",
+              "1240"
+            ],
+            [
+              "7000",
+              "100",
+              "500",
+              "1240"
+            ],
+            [
+              "8000",
+              "1100",
+              "500",
+              "1240"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "What is the importance of battery testing?",
+      "paragraphs": [
+        "Battery testing is very beneficial to all of us so, before discussion we must know the basics of this. In this contemporary epoch, batteries are very important as they are store house of power backup and are portable. They provide energy when there is no electricity supply and store power for future use. The uses of batteries cannot be counted on fingertips. They are widely used in industries, houses, vehicles, mobiles, offices, Laptops, in medical equipments and many more.",
+        "First of all we must know, what battery testing is? It is the procedure to check whether a Battery (EUT equipment under test or sample) conforms to Indian or International battery standards and it give its full performance. Battery testing gives a clear picture of the 3 main parameters, capacity (means its ability to store power), internal resistance (means that ability to deliver current) and self discharge. For proper function of the battery, the level of the charges must be maintained.",
+        "Batteries are very costly to buy and life of UPS batteries is marketed as 9-10 years, but averagely we have to replace the battery after 5 – 6 years of time span. So, the battery testing shows us the clear picture of the battery. The batteries are generally sold out at higher price, if gone through the safety standards and pass through all the testing formalities. Battery testing provides result of many parameters like, the life of the battery, capacity.",
+        "ITC India Pvt Ltd has the facility to test Lead Acid batteries as per IS 15549, IS 5154, IEC 61427, IEC 60896-21,IEC 60896-22,IEC 60896-11. It is a NABL accredited Lab to perform Type test, Acceptance test and performance test for Lead acid batteries. As batteries are the need of an hour in this modern era so, to buy a genuine and safe product is our right. Hence battery testing is essential for our economy and safety.",
+        "Life cycle tester is owned by ITC is a laboratory equipment which is intended to be used for testing battery life. It can perform discharge capacity tests of automotive batteries. ITC has the capability to perform below test on the batteries"
+      ],
+      "bullets": [
+        "Content and durability of marking",
+        "Material identification"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Discharge Capacity",
+      "paragraphs": [],
+      "bullets": [
+        "Charge retention during storage",
+        "Float service with daily discharge",
+        "Recharge behavior",
+        "Service life at an operating temperature of 40 deg c.",
+        "Impact of a stress temperature of 55 deg or 60 deg",
+        "Abusive over discharge",
+        "Thermal runaway sensitivity",
+        "Low temperature sensitivity",
+        "Dimensional stability at elevated internal pressure and Temperature.",
+        "Stability against mechanical abuse of units during Installation."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Usual methods for battery testing:",
+      "paragraphs": [
+        "Battery testing is done to estimate the state of health, cycle life, actual capacity, state of charge of the battery or bank. There are two methods to test battery, invasive and non invasive methods. These methods detect the battery facts but do not explain reasons. Some typical methods of battery testing are written below:",
+        "Invasive methods"
+      ],
+      "bullets": [
+        "Electrolyte density determination: This estimates the State of Health. Not applicable for VRLAB",
+        "Electrode Potential measurements: Degradation of Positive active mass and negative active mass are determined."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Non- Invasive Methods",
+      "paragraphs": [],
+      "bullets": [
+        "Open circuit and float voltage: State of health and State of Charge is estimated.",
+        "Battery/Cell temperature monitoring: State of Health, Shorts",
+        "Charge/Discharge voltage measurement: State of Health, state of charge is determined.",
+        "DC Current discharge: Actual Battery capacity is determined .",
+        "Discharge testing: Discharge testing is one of the main test in battery testing. This is the only method which shows the real capacity of the battery or battery string ( A battery string or bank means when 2 or more batteries or cells are connected in series to get the required voltage) but it may or may not shows the state of health of the string. This testing gives the précised results but is Expensive and time consuming. Discharge testing, partial discharge testing and limited discharge testing can be carried out for battery testing. Institute of testing and certification India Pvt Ltd holds Life cycle tester which is designed to test batteries confirming to battery standards. It performs discharge capacity tests of automotive batteries. Discharge operation of the Life cycle tester is constant current with forced air cooled power transistors. LCT charging and discharging systems offers maximum charging versatility. These circuits are designed to withstand battery lead shorting and wide variations of input power.",
+        "Visual Inspection: As the name reveals that this is to look for any cracks, rust, corrode or leaks visually without performing any test. It does not let us know about the capacity, state of health of the battery or state of charge of the string or a single battery.",
+        "Impedance testing: Battery’s state of health can be judged by this testing not the capacity. Impedance testing is proposed to be performed quarterly. With the passage of time, the life of battery deteriorate in many ways so, this testing is very important to check the state of health of the battery. It is a test of just 35 min and not a time consuming one.",
+        "<a href=\"/secondary-battery-and-their-application\"> </a><a href=\"/secondary-battery-and-their-application\"> Different Types of Secondary Battery and their application </a><a href=\"/secondary-battery-and-their-application\"> </a><a href=\"/secondary-battery-and-their-application\"> </a>",
+        "<a href=\"/secondary-cells-and-batteries\"> </a><a href=\"/secondary-cells-and-batteries\"> Secondary cells and batteries </a><a href=\"/secondary-cells-and-batteries\"> </a><a href=\"/secondary-cells-and-batteries\"> </a>"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60896 -11 Stationary Lead – Acid Batteries Part 11",
+      "paragraphs": [],
+      "bullets": [
+        "<a href=\"/iec-60896-22-stationary-lead-acid-batteries-part-22\"> </a><a href=\"/iec-60896-22-stationary-lead-acid-batteries-part-22\"> IEC 60896-22 Stationary lead-acid batteries – Part 22 </a><a href=\"/iec-60896-22-stationary-lead-acid-batteries-part-22\"> </a><a href=\"/iec-60896-22-stationary-lead-acid-batteries-part-22\"> </a>"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/battery-testing/5a689d2eed0b.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/battery-testing/5a689d2eed0b.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    },
+    {
+      "href": "/calibration-of-surge-generator",
+      "label": "Calibration of Surge Generators"
+    }
+  ]
+}

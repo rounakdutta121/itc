@@ -1,0 +1,204 @@
+{
+  "hero": "/images/page-heroes/infrared-optometer-calibration-testing.webp",
+  "heroPortrait": "/images/page-heroes/infrared-optometer-calibration-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/infrared-optometer-calibration-testing-s1.webp",
+  "generatedMid": "/images/page-sections/infrared-optometer-calibration-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/infrared-optometer-calibration-testing-s1.webp",
+    "/images/page-sections/infrared-optometer-calibration-testing-s2.webp",
+    "/images/page-sections/infrared-optometer-calibration-testing-s3.webp",
+    "/images/page-sections/infrared-optometer-calibration-testing-s4.webp",
+    "/images/page-sections/infrared-optometer-calibration-testing-s5.webp",
+    "/images/page-sections/infrared-optometer-calibration-testing-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "KEEP",
+  "note": "505 | – | KEEP",
+  "slug": "infrared-optometer-calibration-testing",
+  "path": "/infrared-optometer-calibration-testing",
+  "source": "https://www.itcindia.org/infrared-optometer-calibration-testing/",
+  "ok": true,
+  "title": "Infrared Optometer Calibration TESTING - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Infrared Optometer Calibration Testing (IOC) is a crucial step in the manufacturing process of any device that uses optical sensors.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Infrared Optometer Calibration Testing (IOC) is a crucial step in the manufacturing process of any device that uses optical sensors. Without proper calibration, even the best-designed devices will fall short of their intended accuracy and reliability goals.",
+        "The purpose of Infrared Optometer Calibration testing is to ensure that any optical device meets its specified performance standards before using it in the field. It helps manufacturers maintain high quality control standards and ensures that the end product is as accurate and reliable as possible. This article will look into what IOC testing is, how it’s conducted, and its importance in manufacturing today."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/infrared-optometer-calibration-testing/d1e89d700535.webp",
+          "alt": "Infrared Optometer Calibration TESTING"
+        }
+      ]
+    },
+    {
+      "heading": "What is an INFRARED Optometer?",
+      "paragraphs": [
+        "An INFRARED optometer is a device that measures the intensity of infrared radiation. Devices that measure infrared radiation, such as thermometers and heaters, use it for calibration.",
+        "The optometer consists of a detector, which converts the infrared radiation into an electrical signal, and a readout device, which displays the intensity of the radiation. You can calibrate the optometer using standard sources of infrared radiation, such as blackbody radiators or lamps."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How to Calibrate an INFRARED Optometer during Infrared Optometer Calibration TESTING",
+      "paragraphs": [
+        "To calibrate an INFRARED Optometer, first make sure that the device is turned off. Next, remove the cover from the sensor area of the optometer. Once you remove the cover, locate the calibration screw on the back of the device.",
+        "Once you have found the screw, turn it clockwise until it is snug against the housing. Now, turn on the power switch and aim the optometer at a white surface. Adjust the calibration screw until the reading on the display matches that of the white surface. Finally, turn off the power switch and replace the cover over the sensor area."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/infrared-optometer-calibration-testing/f26f23c0de90.webp",
+          "alt": "Infrared Optometer Calibration TESTING"
+        }
+      ]
+    },
+    {
+      "heading": "INFRARED Optometer Calibration TESTING",
+      "paragraphs": [
+        "When calibrating an infrared (IR) optometer, it is important to use a high-quality IR source that emits a uniform beam of radiation. Position the source at the center of the detector aperture and perpendicular to the optical axis of the optometer. Set the power output of the IR source to the highest level that does not cause saturation of the detector. After turning on the IR source, the temperature of the optometer’s detector will slowly begin to increase. You should monitor and record the temperature increase until it reaches a steady state.",
+        "At this point, the optometer’s reading should be recorded. Then, repeat the entire process for different positions of the IR source within the detector aperture. By doing this, you can account for and correct any variations in the optometer’s readings."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "In conclusion, infrared optometer calibration testing is an essential tool for any organization that relies on accurate readings from optometers. It can be used to check and verify the accuracy of a variety of instruments, ensuring that all measurements taken are correct and reliable.",
+        "With proper use and maintenance, this type of testing can help reduce errors and improve overall productivity in the workplace."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/infrared-optometer-calibration-testing/d1e89d700535.webp",
+      "alt": "Infrared Optometer Calibration TESTING"
+    },
+    {
+      "src": "/images/migrated/infrared-optometer-calibration-testing/f26f23c0de90.webp",
+      "alt": "Infrared Optometer Calibration TESTING"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/infrared-optometer-calibration-testing/d1e89d700535.webp",
+      "alt": "Infrared Optometer Calibration TESTING"
+    },
+    {
+      "src": "/images/migrated/infrared-optometer-calibration-testing/f26f23c0de90.webp",
+      "alt": "Infrared Optometer Calibration TESTING"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

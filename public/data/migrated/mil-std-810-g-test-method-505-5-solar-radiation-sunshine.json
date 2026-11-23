@@ -1,0 +1,219 @@
+{
+  "hero": "/images/page-heroes/mil-std-810-g-test-method-505-5-solar-radiation-sunshine.webp",
+  "heroPortrait": "/images/page-heroes/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-portrait.webp",
+  "generatedIntro": "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s1.webp",
+  "generatedMid": "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s1.webp",
+    "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s2.webp",
+    "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s3.webp",
+    "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s4.webp",
+    "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s5.webp",
+    "/images/page-sections/mil-std-810-g-test-method-505-5-solar-radiation-sunshine-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 1 | 1081 | 2 img no alt, few links | KEEP – link to /solar-radiation-testing/",
+  "slug": "mil-std-810-g-test-method-505-5-solar-radiation-sunshine",
+  "path": "/mil-std-810-g-test-method-505-5-solar-radiation-sunshine",
+  "source": "https://www.itcindia.org/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/",
+  "ok": true,
+  "title": "Solar Radiation Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "MIL STD 810 G – Test Method 505.5 – Solar Radiation determines the the heating effects of direct solar radiation on material and...",
+  "sections": [
+    {
+      "heading": "What is Solar Radiation testing?",
+      "paragraphs": [
+        "It is a test method for testing a product or material by exposing it to simulated solar radiation in order to understand the effect of solar radiation on it. This is because while many equipment are tested for salt spray and dust, the effect of UV and Solar radiation over a period of time has more damaging effect on equipment intended for outdoor installation.",
+        "ITC is accredited by NABL, TEC & BIS."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "MIL STD 810 G – Test Method 505.5 – Solar Radiation Covers:",
+      "paragraphs": [
+        "To determine the heating effects of direct solar radiation on material.",
+        "To help identify the actinic (photo degradation) effects of direct solar radiation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Application",
+      "paragraphs": [
+        "Use this method to evaluate materiel likely to be exposed to solar radiation during its life cycle in the open in hot climates, and when heating or actinic effects are of concern. This method is valuable in evaluating the effects of direct exposure to sunlight (solar spectrum and energy levels at sea level). Procedure I is useful in determining the temperature increase (over ambient) of materiel caused by solar loading. Although not intended for such, Procedure II may be used to simulate the ultraviolet effect of solar radiation at different locations and altitudes by using various radiation sources that allow reasonable comparison to measurements of these natural solar radiation conditions.",
+        "In addition to using Procedure I to evaluate the effects of direct sunlight (actinic effects as well as directional heating for exposed materiel), use Procedure I for determining the heating effects (response temperature) for materiel enclosed within an outer container.",
+        "Use Procedure II of this method when the spectrum of the lamp bank has been measured and conforms to the spectrum identified in Table 505.5-I. Deviations from this table may be justified if the test requirements are based on the tailoring process, or if a specific frequency band is of concern. Detail and justify any deviation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/e67ca09d2add.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Limitations",
+      "paragraphs": [
+        "This test method does not consider all of the effects related to the natural environment (see Annex A, paragraph 7.2) and, therefore, it is preferable to test materiel at appropriate natural sites.",
+        "If the installed environment for an item is within an enclosure, then to properly address the heating effects, the enclosure must be provided to characterize the environment. Once the enclosed environment has been characterized, further testing could be done using Method 501.",
+        "This method is not intended to be used for space applications due to the possible change in irradiance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Procedure I – Cycling",
+      "paragraphs": [
+        "Step 1. Adjust the chamber air temperature to the minimum value of the temperature cycle at which radiation is non existent.",
+        "Step 2. Expose the test item to continuous 24-hour cycles of controlled simulated solar radiation and dry-bulb temperature as indicated on Figure 505.5-1 or as identified in the requirements document, measuring and recording test item temperatures throughout the exposure period. For convenience, and if the test facility is unable to perform the continuous curve of Figure 505.5-1, to approximate the curve increase and decrease the solar radiation intensity in a minimum of eight levels (see Annex C, Figures 505.5C-5 and C-6 for the stepped levels) for each side of the cycle, provided the total energy of the cycle as well as the spectral power distribution (above 1000 w/m2 – see Table 505.5-I and Annex B, paragraph 1.4) is maintained. Perform the longer of the following number of cycles, and record the results:",
+        "The minimum necessary to ensure the peak response temperature of the most critical area of the test item achieved during a cycle is within 2°C (3.6°F) of the peak response temperature achieved during the previous 24-hour cycle, or",
+        "Three continuous cycles, or",
+        "The number of cycles as identified by the requirements document (not to exceed 7 cycles, unless otherwise specified in the test plan).",
+        "Step 3. Based on the requirements document, the test item may or may not be operated throughout the test. If operation is required, operate the test item when the peak response temperature occurs. For some single-use items (e.g., rockets), use thermocouples affixed to critical portions of the test item to determine the time and value of peak temperature. Operate the test item at the peak cycle temperature. Conduct the operational checkout of the test item as in paragraph 4.4.1.2, Step 4. Document the results as well as the peak temperature. If the test item fails to operate as intended, follow the guidance in paragraph 4.3.2 for test item failure.",
+        "Step 4. Adjust the chamber air temperature to standard ambient conditions and maintain until temperature stabilization of the test item has been achieved.",
+        "Step 5. Conduct a complete visual examination of the test item and document the results. For comparison between pre- and post test items, photograph the test item and take material samples (if required).",
+        "Step 6. Conduct an operational checkout of the test item as in paragraph 4.4.1.2, Step 5. See paragraph 5 for analysis of results.",
+        "Step 7. Compare these data with the pretest data.",
+        "Step 1. Adjust the chamber air temperature to 49°C (120°F) or the temperature identified in the test plan.",
+        "Step 2. Adjust the solar radiation source to a radiant energy rate of 1120 ±47 W/m2 or as identified in the materiel specification. Use sufficient air speed to maintain the test item temperature to the peak response temperature obtained in procedure I or obtained from field data.",
+        "Step 3. Maintain these conditions for 20 hours, measuring and recording the test item temperatures. If required, conduct operational checks during the last four hours of each 20-hour exposure when test temperatures are maximized. If the test item fails to operate as intended, follow the guidance in paragraph 4.3.2 for test item failure.",
+        "Step 4. Turn off the solar radiation source for four hours.",
+        "Step 5. Repeat Steps 1 through 4 for the number of cycles identified in the test plan.",
+        "Step 6. At the end of the last radiation cycle, allow the test item to return to standard ambient conditions.",
+        "Step 7. Conduct a visual examination and an operational check as in paragraph 4.4.1.2, Steps 3 and 5, and document the results. Take photographs of the test item and material samples (if required) for comparison between pre- and post-test items. See paragraph 5 for analysis of results."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are the benefits of Testing?",
+      "paragraphs": [],
+      "bullets": [
+        "Save money & save energy as well",
+        "Provide faith in the product",
+        "Improve the safety of the product"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/e67ca09d2add.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/e67ca09d2add.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

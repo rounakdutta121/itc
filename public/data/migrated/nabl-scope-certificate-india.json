@@ -1,0 +1,320 @@
+{
+  "hero": "/images/page-heroes/nabl-scope-certificate-india.webp",
+  "heroPortrait": "/images/page-heroes/nabl-scope-certificate-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/nabl-scope-certificate-india-s1.webp",
+  "generatedMid": "/images/page-sections/nabl-scope-certificate-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/nabl-scope-certificate-india-s1.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s2.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s3.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s4.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s5.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s6.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s7.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s8.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s9.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s10.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s11.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s12.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s13.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s14.webp",
+    "/images/page-sections/nabl-scope-certificate-india-s15.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 1 | 994 | 2 img no alt | KEEP – keep scope PDF paths",
+  "slug": "nabl-scope-certificate-india",
+  "path": "/nabl-scope-certificate-india",
+  "source": "https://www.itcindia.org/nabl-scope-certificate-india/",
+  "ok": true,
+  "title": "NABL Accredited Testing Laboratory in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India is a NABL-accredited testing and calibration laboratory in Mohali. Review laboratory capabilities, ISO/IEC 17025 accreditation and scope information.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India is a NABL-accredited testing and calibration laboratory based in Mohali, Punjab, supporting manufacturers, product developers, importers and organizations requiring laboratory testing and calibration services.",
+        "NABL accreditation provides independent recognition of a laboratory’s technical competence for specific tests, measurements and calibration activities included within its approved scope. Testing and calibration laboratories are accredited against ISO/IEC 17025, the international standard covering competence, impartiality and consistent laboratory operation.",
+        "ITC India supports customers across electrical, electronic, EMC, environmental, medical electrical and other technical disciplines. Because NABL accreditation is scope-specific, customers should always confirm that the required standard, test method, parameter and measurement range are included in the laboratory’s current scope before requesting an accredited report."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/nabl-scope-certificate-india/dfd990ee7501.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is NABL Accreditation?",
+      "paragraphs": [
+        "NABL stands for the National Accreditation Board for Testing and Calibration Laboratories. It provides accreditation to conformity assessment bodies, including testing and calibration laboratories.",
+        "For testing and calibration laboratories, accreditation to ISO/IEC 17025 demonstrates that the laboratory has established systems and technical processes for areas such as personnel competence, equipment, measurement traceability, test methods, quality control and reporting.",
+        "NABL accreditation should not be confused with product certification. A laboratory can perform testing against a particular standard, while a separate certification or regulatory process may be required before the product can enter a specific market.",
+        "Manufacturers looking for information about ITC India’s facilities and technical capabilities can also review the <a href=\"/about-us\">About ITC India</a> page."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Understanding the NABL Scope of Accreditation",
+      "paragraphs": [
+        "A NABL scope certificate identifies the activities for which a laboratory is accredited. This is one of the most important documents to review when selecting a laboratory."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The scope can specify details such as",
+      "paragraphs": [
+        "A laboratory may offer additional technical services that are outside its accredited scope. Therefore, the existence of NABL accreditation should not be interpreted to mean that every service offered by the laboratory is automatically NABL accredited.",
+        "For any project requiring an accredited result, ITC India recommends confirming the current approved scope for the exact standard or parameter before testing begins."
+      ],
+      "bullets": [
+        "Testing or calibration discipline",
+        "Product or material category",
+        "Test method or reference standard",
+        "Measurand or parameter",
+        "Measurement or testing range",
+        "Applicable laboratory location"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Safety Testing",
+      "paragraphs": [
+        "ITC India provides a wide range of <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a> for products such as household appliances, laboratory equipment, lighting products, industrial equipment and other electrical or electronic products.",
+        "Electrical safety evaluation can include protection against electric shock, leakage current, dielectric strength, temperature rise, mechanical hazards, earthing, creepage and clearance distances and other requirements defined by the applicable product standard.",
+        "The exact accreditation status for a requested test should be checked against the current NABL scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC and EMI Testing",
+      "paragraphs": [
+        "Manufacturers developing electrical and electronic equipment may also require electromagnetic compatibility evaluation.",
+        "ITC India’s <a href=\"/emc-emi-testing\">EMC Testing Laboratory</a> supports emission and immunity testing against applicable IEC, CISPR and other EMC standards. Depending on the product, evaluation can include conducted emissions, radiated emissions, electrostatic discharge, RF immunity, electrical fast transients, surge and voltage-dip testing.",
+        "Where an accredited EMC report is specifically required, the applicable test method should be verified against the current NABL scope before scheduling."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Environmental and Ingress Protection Testing",
+      "paragraphs": [
+        "Products used outdoors, in industrial environments or under demanding operating conditions can require climatic and mechanical environmental testing.",
+        "ITC India provides <a href=\"/environmental-testing-services\">Environmental Testing Laboratory</a> services covering applicable temperature, humidity, vibration, shock and related environmental evaluations.",
+        "Manufacturers requiring enclosure protection can also use ITC India’s <a href=\"/ip-testing-laboratory-india\">IP Testing Laboratory</a> for applicable dust and water ingress testing under IEC 60529 and related requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Medical Electrical Equipment Testing",
+      "paragraphs": [
+        "Medical electrical products require careful evaluation because electrical and functional failures can create risks for patients and operators.",
+        "ITC India supports manufacturers with safety testing for applicable medical electrical equipment, including <a href=\"/iec-60601-1-testing\">IEC 60601-1 Testing</a> for basic safety and essential performance requirements.",
+        "Product-specific particular standards and EMC requirements may also apply depending on the medical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "NABL Calibration Services",
+      "paragraphs": [
+        "Calibration provides measurement traceability and confidence that instruments used for inspection, testing or production are operating within appropriate tolerances.",
+        "ITC India provides calibration capabilities for different types of equipment and parameters. For example, manufacturers and laboratories using EMC equipment can review ITC India’s <a href=\"/calibration-of-electrical-fast-transients\">Calibration of Electrical Fast Transient equipment</a> services.",
+        "The required parameter, range and measurement capability should always be compared with the latest approved calibration scope when an accredited calibration certificate is required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Work with a NABL Accredited Laboratory?",
+      "paragraphs": [
+        "Working with a NABL-accredited laboratory can provide greater confidence in laboratory competence, measurement traceability and standardized testing processes.",
+        "Accredited test or calibration reports may also be requested by manufacturers, buyers, regulators, certification bodies or procurement authorities as part of compliance and quality-assurance programmes.",
+        "However, acceptance requirements differ between schemes and markets. Manufacturers should therefore confirm both the required product standard and any accreditation requirements before laboratory testing begins.",
+        "For testing, calibration or scope-related enquiries, submit the applicable standard, product details and required parameters through the <a href=\"/contact-us/inquiry\">ITC India inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is ITC India a NABL accredited laboratory?",
+      "paragraphs": [
+        "ITC India describes its Mohali facility as a NABL-accredited testing and calibration laboratory. Customers should review the current accreditation scope to confirm whether their exact standard, test or calibration parameter is covered."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is a NABL scope certificate?",
+      "paragraphs": [
+        "A NABL scope certificate identifies the specific tests, calibration parameters, methods and ranges for which a laboratory has received accreditation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is every test performed by a NABL laboratory accredited?",
+      "paragraphs": [
+        "No. NABL accreditation is scope-specific. A laboratory may provide services outside its accredited scope, so the required test method should be verified before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What standard applies to NABL testing laboratories?",
+      "paragraphs": [
+        "Testing and calibration laboratories are accredited against ISO/IEC 17025 requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is NABL accreditation the same as product certification?",
+      "paragraphs": [
+        "No. NABL accredits laboratories and other conformity assessment bodies. Product certification is a separate process that may use laboratory test results as supporting evidence."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Where is ITC India’s laboratory located?",
+      "paragraphs": [
+        "ITC India is located in Sector 82, Mohali, Punjab, India, and provides testing and calibration support for manufacturers and organizations across India."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/nabl-scope-certificate-india/dfd990ee7501.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/nabl-scope-certificate-india/dfd990ee7501.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "hero": "/images/page-heroes/cm4-calibration-as-per-iso-9060.webp",
+  "heroPortrait": "/images/page-heroes/cm4-calibration-as-per-iso-9060-portrait.webp",
+  "generatedIntro": "/images/page-sections/cm4-calibration-as-per-iso-9060-s1.webp",
+  "generatedMid": "/images/page-sections/cm4-calibration-as-per-iso-9060-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cm4-calibration-as-per-iso-9060-s1.webp",
+    "/images/page-sections/cm4-calibration-as-per-iso-9060-s2.webp",
+    "/images/page-sections/cm4-calibration-as-per-iso-9060-s3.webp",
+    "/images/page-sections/cm4-calibration-as-per-iso-9060-s4.webp",
+    "/images/page-sections/cm4-calibration-as-per-iso-9060-s5.webp",
+    "/images/page-sections/cm4-calibration-as-per-iso-9060-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "KEEP",
+  "note": "526 | few links | KEEP – link to pyranometer hub",
+  "slug": "cm4-calibration-as-per-iso-9060",
+  "path": "/cm4-calibration-as-per-iso-9060",
+  "source": "https://www.itcindia.org/cm4-calibration-as-per-iso-9060/",
+  "ok": true,
+  "title": "CM4 calibration as per ISO 9060 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "CM4 calibration as per ISO 9060 helps companies ensure that their devices are accurately calibrated and compliant with ISO 9060.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "With the growth of digital applications and technologies, it is essential to ensure that devices and systems are calibrated properly. The CM4 calibration as per ISO 9060 helps companies ensure that their devices are accurately calibrated and compliant with ISO 9060.",
+        "In this blog post, we explore why calibration is so important and how the CM4 standard applies to the industry. We look at what ISO 9060 specifies for calibration accuracy and how it affects businesses, as well as how companies can use the CM4 standard to meet these requirements. Finally, we discuss practical implementation tips for using the CM4 standard in your business."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is CM4 calibration?",
+      "paragraphs": [
+        "The CM4 calibration is the process of verifying the accuracy of a CM4 measuring instrument. This type of calibration is typically performed by a certified lab.",
+        "The process involves setting up the device under test, measuring the output of the device, and then comparing the results to the known values. If the device is found to be inaccurate, it can be adjusted or repaired."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cm4-calibration-as-per-iso-9060/32957c989a33.webp",
+          "alt": "CM4 calibration as per ISO 9060"
+        }
+      ]
+    },
+    {
+      "heading": "ISO 9060 standards",
+      "paragraphs": [
+        "There are two primary internationally recognized standards for calibrating radiometric instruments, ISO 9060 and ISO 12131. Both of these standards are very similar, but there are some key differences that users should be aware of. ISO 9060 is the primary standard for calibrating radiometric instruments used for measuring solar radiation. It specifies the procedures and requirements for calibration laboratories to follow when calibrating radiometers. This standard is widely used by calibration laboratories around the world, and is generally accepted as the most accurate way to calibrate radiometers. One key difference between ISO 9060 and ISO 12131 is that ISO 9060 includes a requirement for the use of a “black body” when calibrating instruments. A black body is a theoretical perfect radiator that absorbs all incoming radiation and reflects none of it. Black bodies are used as reference sources in many scientific applications, and their use in calibration helps to ensure the accuracy of measurements. Another key difference between the two standards is that ISO 12131 includes a requirement for the use of an artificial light source when calibrating certain types of instruments. This requirement is not present in ISO 9060, which means that some laboratories may not be able to provide calibrated measurements if they do not have access to an artificial light source."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "CM4 calibration procedure",
+      "paragraphs": [
+        "As per ISO standards, the CM4 calibration procedure involves four steps: 1. Select the appropriate CM4 configuration settings for your application. 2. Install and configure the CM4 software on your computer. 3. Connect the CM4 to your computer and launch the software. 4. Follow the on-screen instructions to calibrate your CM4."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "CM4 calibration as per ISO 9060 is a method of testing and calibrating photovoltaic modules. It provides accurate, reliable results that can be used to determine the efficiency of the module and ensure its performance over time.",
+        "CM4 calibration is an important part of ensuring your PV system performs optimally for long-term operations. With regular maintenance and periodic checks, you can make sure your PV system keeps producing efficient energy from day one."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/cm4-calibration-as-per-iso-9060/32957c989a33.webp",
+      "alt": "CM4 calibration as per ISO 9060"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/cm4-calibration-as-per-iso-9060/32957c989a33.webp",
+      "alt": "CM4 calibration as per ISO 9060"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

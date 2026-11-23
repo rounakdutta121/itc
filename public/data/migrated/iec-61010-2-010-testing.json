@@ -1,0 +1,331 @@
+{
+  "hero": "/images/page-heroes/iec-61010-2-010-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-61010-2-010-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61010-2-010-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61010-2-010-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61010-2-010-testing-s1.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s2.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s3.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s4.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s5.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s6.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s7.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s8.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s9.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s10.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s11.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s12.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s13.webp",
+    "/images/page-sections/iec-61010-2-010-testing-s14.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "946 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-61010-2-010-testing",
+  "path": "/iec-61010-2-010-testing",
+  "source": "https://www.itcindia.org/iec-61010-2-010-testing/",
+  "ok": true,
+  "title": "IEC 61010-2-010 Testing Laboratory in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61010-2-010 testing in India for laboratory heating equipment, ovens, furnaces and heating systems. Electrical and thermal safety testing by ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Laboratory equipment that heats materials can expose operators to hazards associated with high temperatures, electrical energy, hot surfaces, flammable substances and abnormal operating conditions. IEC 61010-2-010 establishes particular safety requirements for electrical equipment where heating materials is one of the equipment’s functions.",
+        "ITC India provides IEC 61010-2-010 testing in India for manufacturers and developers of laboratory heating equipment. Testing helps evaluate whether the product provides suitable protection against electrical, thermal, mechanical and fire-related hazards before certification, export or commercial production.",
+        "IEC 61010-2-010 is applied together with the general requirements of IEC 61010-1. Manufacturers should therefore begin with the applicable requirements covered under ITC India’s <a href=\"/iec-61010-1-testing\">IEC 61010-1 safety testing service</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61010-2-010-testing/137c4038c7ac.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Equipment Does IEC 61010-2-010 Cover?",
+      "paragraphs": [
+        "IEC 61010-2-010 applies when heating materials is one of the functions of relevant electrical test, measurement, process-control or laboratory equipment.",
+        "Depending on design and intended use, products evaluated may include:",
+        "The exact applicable standard must be established from the product’s intended function and construction. If equipment performs additional functions, another IEC 61010 Part 2 standard may also apply.",
+        "Manufacturers working with several categories of laboratory equipment can review ITC India’s broader <a href=\"/iec-61010-testing-lab\">IEC 61010 Testing Laboratory services</a>."
+      ],
+      "bullets": [
+        "Laboratory ovens",
+        "Drying ovens",
+        "Laboratory furnaces",
+        "Heating blocks",
+        "Laboratory hot plates",
+        "Heating baths",
+        "Laboratory incubators used for material heating",
+        "Temperature-controlled heating equipment",
+        "Other electrically operated laboratory heating systems"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major IEC 61010-2-010 Safety Tests",
+      "paragraphs": [
+        "The exact test program depends on rated voltage, maximum operating temperature, heating method, insulation system, control circuitry, enclosure design and materials processed by the equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Typical evaluations can include",
+      "paragraphs": [
+        "These tests help determine whether foreseeable hazards remain adequately controlled during normal operation and relevant fault conditions.",
+        "ITC India also provides broader <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a> for products requiring additional electrical safety evaluation."
+      ],
+      "bullets": [
+        "Marking and safety documentation",
+        "Protection against electric shock",
+        "Accessible-part evaluation",
+        "Protective bonding and earthing",
+        "Dielectric strength",
+        "Creepage and clearance distances",
+        "Mechanical strength",
+        "Protection against spread of fire",
+        "Temperature limits",
+        "Resistance to heat",
+        "Over-temperature protection",
+        "Abnormal and single-fault conditions",
+        "Protection against fluids and foreign objects",
+        "Evaluation of heating elements",
+        "Components and subassemblies",
+        "Safety interlocks",
+        "Protection against explosion or implosion hazards",
+        "Risks associated with liberated gases or substances",
+        "Risk assessment where applicable"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Temperature and Overheating Safety",
+      "paragraphs": [
+        "Thermal safety is especially important for laboratory heating equipment. An unsafe temperature-control failure can cause excessive enclosure temperatures, damaged insulation, ignition of surrounding materials or unsafe temperatures at operator-accessible surfaces.",
+        "IEC 61010-2-010 therefore supplements the general IEC 61010-1 requirements with particular provisions related to equipment used for heating materials.",
+        "Evaluation may consider heating elements, temperature controllers, thermal cut-outs, insulation, accessible surfaces and protective measures intended to prevent dangerous overheating.",
+        "Equipment using heat-transfer media or flammable liquids may require additional consideration according to its construction and intended application."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-010 and Other Part 2 Standards",
+      "paragraphs": [
+        "Some laboratory systems perform more than one function and may consequently fall under multiple IEC 61010 particular standards.",
+        "For example, equipment incorporating refrigeration may need assessment against <a href=\"/iec-61010-2-011-testing\">IEC 61010-2-011 laboratory refrigerating equipment requirements</a>. Equipment designed for mixing or stirring may require <a href=\"/iec-61010-2-051-testing\">IEC 61010-2-051 testing</a>.",
+        "Where laboratory equipment is intended for in-vitro diagnostic applications, manufacturers should also evaluate the applicability of <a href=\"/iec-61010-2-101-testing-services\">IEC 61010-2-101 testing for IVD equipment</a>.",
+        "Correct standard selection at the beginning of a project can reduce unnecessary redesign and repeated testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-010 and EMC Testing",
+      "paragraphs": [
+        "IEC 61010-2-010 primarily addresses product safety. Laboratory, measurement and control equipment may also require electromagnetic compatibility evaluation under the IEC 61326 series.",
+        "Electronic temperature controllers, sensors, digital displays, switching circuits and communication interfaces can be affected by electromagnetic disturbances or produce unwanted emissions.",
+        "Manufacturers can therefore combine safety assessment with ITC India’s <a href=\"/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing\">IEC 61326 EMC testing services</a> when both requirements apply."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Documents Required for Testing",
+      "paragraphs": [
+        "Providing complete technical information before formal testing helps establish an efficient test plan. Manufacturers should normally prepare product specifications, rated voltage and frequency, maximum operating temperature, circuit diagrams, critical component lists, heating-element details, thermal protection information, insulation details, mechanical drawings, product labels and user instructions.",
+        "The documentation should also clearly identify the intended use, materials to be heated and any liquids or heat-transfer media used by the equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-010 Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with electrical and laboratory-equipment safety evaluation against applicable IEC 61010 requirements. Early-stage testing can identify problems involving insulation, heating elements, temperature control, protective earthing, fire protection and abnormal-operation safeguards before final certification testing.",
+        "Manufacturers assessing laboratory credentials can also review ITC India’s <a href=\"/about-us/accreditations\">NABL accreditation and scope information</a>.",
+        "For an IEC 61010-2-010 testing quotation in India, submit the equipment specifications and technical documents through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61010-2-010?",
+      "paragraphs": [
+        "IEC 61010-2-010 specifies particular safety requirements for electrical laboratory and related equipment where heating materials is one of the equipment’s functions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 61010-1 also required?",
+      "paragraphs": [
+        "Yes. IEC 61010-2-010 is used together with IEC 61010-1, which provides the general safety requirements for measurement, control and laboratory electrical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What products can require IEC 61010-2-010 testing?",
+      "paragraphs": [
+        "Relevant products can include laboratory ovens, furnaces, heating blocks, hot plates, heating baths and other electrically powered equipment designed to heat materials."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61010-2-010 cover laboratory refrigerators?",
+      "paragraphs": [
+        "Not by itself. Laboratory refrigerating equipment may require IEC 61010-2-011. Equipment combining heating and refrigeration functions may need assessment against more than one particular standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61010-2-010 include EMC testing?",
+      "paragraphs": [
+        "No. Product safety and EMC are separate areas. EMC requirements for relevant measurement, control and laboratory equipment are generally addressed through the IEC 61326 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test laboratory heating equipment?",
+      "paragraphs": [
+        "ITC India supports safety testing of laboratory heating equipment against applicable IEC 61010 requirements. The exact test program depends on product construction, intended use, operating temperature and applicable Part 2 standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61010-2-010-testing/137c4038c7ac.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61010-2-010-testing/137c4038c7ac.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

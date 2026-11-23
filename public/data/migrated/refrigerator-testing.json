@@ -1,0 +1,349 @@
+{
+  "hero": "/images/page-heroes/refrigerator-testing.webp",
+  "heroPortrait": "/images/page-heroes/refrigerator-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/refrigerator-testing-s1.webp",
+  "generatedMid": "/images/page-sections/refrigerator-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/refrigerator-testing-s1.webp",
+    "/images/page-sections/refrigerator-testing-s2.webp",
+    "/images/page-sections/refrigerator-testing-s3.webp",
+    "/images/page-sections/refrigerator-testing-s4.webp",
+    "/images/page-sections/refrigerator-testing-s5.webp",
+    "/images/page-sections/refrigerator-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "2 / 8 | 502 | long title, few links | KEEP – link to IEC 60335-2-24 page",
+  "slug": "refrigerator-testing",
+  "path": "/refrigerator-testing",
+  "source": "https://www.itcindia.org/refrigerator-testing/",
+  "ok": true,
+  "title": "Refrigerator Testing: Safety Testing of Refrigerators",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC INDIA is doing refrigerator testing for all types of refrigerators on urgent basis to give our best services (for vaccine storage)",
+  "sections": [
+    {
+      "heading": "Types of Refrigerator:",
+      "paragraphs": [
+        "Refrigerator (fridge) is a home/Commercial appliance consisting of a thermally insulating compartment/Area and a heating Zone (mechanical, electronic) shift or transfer heat from inside to its outside environment so that its inside is cooling to a temperature below the room temperature or set temperature.",
+        "Ice-Lined refrigerators are designed for storage of vaccines, pharmaceutical products, blood bag and samples etc. at a temperature range of 2°C to 8°C. They have a lining of Ice packs hence the name. For long hold-over times should there be a power failure, a PUF insulating material is provided.",
+        "Combined refrigerators consist of two more or less equally-sized compartments: a fridge compartment up above and a freezer compartment down below.",
+        "Refrigerator/ Ice-lined refrigerator/ combined refrigerator-icepack freezer for safety testing following standard are applicable:"
+      ],
+      "bullets": [
+        "IEC 60335-1: Household and similar electrical appliances – Safety – Part 1: (General requirements)",
+        "IEC60335-2-24: Household and similar electrical appliances – Safety – Part 2-24: Particular requirements for refrigerating appliances, ice-cream appliances and ice-makers.",
+        "WHO/PQS/E03/RF03.1: Performance Specification: Ice-lined refrigerator or combined refrigerator-icepack freezer: compression cycle."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/refrigerator-testing/3562feb271eb.webp",
+          "alt": "refrigerator testing"
+        }
+      ]
+    },
+    {
+      "heading": "Why Require IEC/EN/WHO Tested Refrigerators?",
+      "paragraphs": [],
+      "bullets": [
+        "Refrigerator are responsible for 50% of global electricity use in the survey.",
+        "IEC/EN/WHO standards have contributed to the development of energy efficient Refrigerators systems through the internationally relevant test Standard like IEC/EN 60335-1, IEC/EN 60335-2-24 and WHO/PQS/EO3/RF03.1 etc.",
+        "It’s helps to find the faults in Refrigerators in the normal and abnormal conditions.",
+        "Performance related standard improve the working performance to get better output."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are Benefits of Testing?",
+      "paragraphs": [],
+      "bullets": [
+        "Increase use-age life of the refrigerators.",
+        "Save money & save energy as well with using star rating product or CE certified components",
+        "Provide faith in product",
+        "Improve safety of the product",
+        "Improve performance as well",
+        "Provide safety to user"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "List of major Tests under IEC/EN 60335-1 & IEC/EN 60335-2-24",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Sr. No",
+            "Title of test"
+          ],
+          "rows": [
+            [
+              "1.",
+              "Marking and instructions"
+            ],
+            [
+              "2.",
+              "Protection against access to live parts"
+            ],
+            [
+              "3.",
+              "Power input and current"
+            ],
+            [
+              "4.",
+              "Heating"
+            ],
+            [
+              "5.",
+              "Leakage current and electric strength at operating temperature"
+            ],
+            [
+              "6.",
+              "Transient over voltages"
+            ],
+            [
+              "7.",
+              "Moisture resistance"
+            ],
+            [
+              "8.",
+              "Leakage current and electric strength"
+            ],
+            [
+              "9.",
+              "Endurance"
+            ],
+            [
+              "10.",
+              "Abnormal operation"
+            ],
+            [
+              "11",
+              "Mechanical strength"
+            ],
+            [
+              "12.",
+              "Mechanical strength"
+            ],
+            [
+              "13.",
+              "Construction"
+            ],
+            [
+              "14.",
+              "Internal wiring"
+            ],
+            [
+              "15.",
+              "Components"
+            ],
+            [
+              "16.",
+              "Supply connection test & external flexible cords test"
+            ],
+            [
+              "17.",
+              "Terminals for external conductors"
+            ],
+            [
+              "18.",
+              "Provision for earthing"
+            ],
+            [
+              "19.",
+              "Screws and connections"
+            ],
+            [
+              "20.",
+              "Clearances, creepage distances and solid insulation"
+            ],
+            [
+              "21.",
+              "Resistance to heat and fire"
+            ],
+            [
+              "22.",
+              "Resistance to rusting"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "List of major Tests under WHO/PQS/EO3/RF03.1 etc.",
+      "paragraphs": [
+        "ITC INDIA: Is Capable of Testing all Refrigerators for the safety as per IEC/EN 60335-1, IEC 60335-2-24, and WHO/PQS/EO3/RF03.1 Including all Electrical safety standard.",
+        "Our Goal: Electrical /Electronic device testing, certification, and evaluation for compliance to Product Safety requirements for demonstrating basic safety and essential performance as per IEC/EN 60335-1, IEC 60335-2-24, and WHO/PQS/EO3/RF03.1 all related standard",
+        "“To Evaluate the Best & Reduce the waste”",
+        "ITC INDIA is a NABL/BIS/TEC Approved Testing laboratory as 17025.",
+        "ITC INDIA is doing the Safety Testing for all Type of Refrigerators on urgent basis to give our best services (for vaccine storage Refrigerators)."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Sr. No",
+            "Title of test"
+          ],
+          "rows": [
+            [
+              "1.",
+              "Type examination"
+            ],
+            [
+              "2.",
+              "Test temperatures"
+            ],
+            [
+              "3.",
+              "Cool-down Test"
+            ],
+            [
+              "4.",
+              "Stable running and power consumption test"
+            ],
+            [
+              "5.",
+              "Stable running and power consumption test"
+            ],
+            [
+              "6.",
+              "Icepack freezing capacity Test"
+            ],
+            [
+              "7.",
+              "Holdover time Test"
+            ],
+            [
+              "8.",
+              "Day/night test"
+            ],
+            [
+              "9.",
+              "Compressor starting test"
+            ],
+            [
+              "10.",
+              "Minimum rated ambient temperature test"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/refrigerator-testing/3562feb271eb.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/refrigerator-testing/3562feb271eb.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

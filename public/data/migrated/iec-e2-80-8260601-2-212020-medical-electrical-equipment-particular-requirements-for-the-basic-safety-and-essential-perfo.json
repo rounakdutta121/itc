@@ -1,0 +1,235 @@
+{
+  "hero": "/images/page-heroes/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety.webp",
+  "heroPortrait": "/images/page-heroes/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s1.webp",
+  "generatedMid": "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s1.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s2.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s3.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s4.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s5.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s6.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s7.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s8.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s9.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s10.webp",
+    "/images/page-sections/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-s11.webp"
+  ],
+  "category": "medical",
+  "action": "KEEP",
+  "note": "0 / 2 | 1314 | long title, few links | KEEP – keep the encoded URL exactly",
+  "slug": "iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers",
+  "path": "/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers",
+  "source": "https://www.itcindia.org/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers/",
+  "ok": true,
+  "title": "IEC 60601-2-21:2020 Medical electrical equipment Particular requirements for the basic safety and essential performance of infant radiant warmers - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60601-2-21:2020 is a key safety standard for infant radiant warmers used in healthcare facilities.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IEC 60601-2-21:2020 is a key safety standard for infant radiant warmers used in healthcare facilities. The technical committee is responsible for developing these standards and making sure they are in compliance with the latest international regulations.",
+        "As technology advances, so too do the requirements of IEC 60601-2-21:2020. This blog post will explore what this standard entails and how it impacts the safety and essential performance of infant radiant warmers. We’ll also discuss the importance of keeping up with this standard as well as its impact on medical device manufacturers."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1. Scope and field of application",
+      "paragraphs": [
+        "IEC 60601-2-21:2020 standard applies to infant radiant warmers intended for medical purposes, hereinafter referred to as “infant radiant warmers”, which are electrically powered and used to maintain the thermal stability of an infant by means of heat transfer from the warmer body to the infant.",
+        "IEC 60601-2-21:2020 standard covers essential safety and performance requirements for infant radiant warmers, including electrical, mechanical, thermal and radiation safety aspects. It also includes guidance on labeling and instructions for use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Terms, definitions, symbols and abbreviated terms",
+      "paragraphs": [
+        "In this part of IEC 60601-2-25, the following terms and definitions apply. 1.1 Infant radiant warmer Safe and reliable medical electrical equipment that uses radiant energy to heat a newborn infant lying on a special mattress called an incubator mattress or waterbed. The temperature of the infant’s body is monitored by means of a temperature sensor placed under the infant on the mattress. 1.2 Incubator mattress A mattress made of water-impermeable material, with or without an integral heating element, used in an infant radiant warmer to support and protect the infant from contact with any contaminated surfaces. 1.3 Waterbed A water-filled mattress used in an infant radiant warmer to support and protect the infant from contact with any contaminated surfaces."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "General requirements",
+      "paragraphs": [
+        "1.1 Scope IEC 60601-2-21:2020 standard applies to radiant warmers for the thermal care of newborn infants and specifies particular requirements for the basic safety and essential performance of these devices when they are used as intended by the manufacturer. 1.2 Normative references The following documents, in whole or in part, are normatively referenced in this document and are indispensable for its application. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies. IEC 60601-1-2: Collateral Standard: General Requirements for Safety – Section 2: Electromagnetic Compatibility – Requirements and Tests ISO 80916: Temperature measurement – Thermocouple assemblies with integral connectors for use at temperatures from −200 °C to +3161 °C 1.3 Definitions For the purposes of this document, the following definitions apply. radiant warmer: medical electrical equipment that delivers electromagnetic radiation primarily in the infrared region of the spectrum to provide warmth to a patient infant radiant warmer: radiant warmer intended for use on neonates and infants up to 36 months old 1.4 Classification Radiant warmers shall be classified according to their type as follows: Type I: radiant warmer with closed system incorporating an enclosed water mattress Type II: radiant warmer with open system"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Particular requirements",
+      "paragraphs": [
+        "1. Particular requirements IEC 60601-2-21:2020 Radiant warmers for infants up to four months of age are required to have particular safety and performance features in order to protect the delicate health of young babies. Some of the key requirements for infant radiant warmers include: -A maximum power output of 120 watts -A minimum watertightness rating of IPX4 -A temperature sensor with an accuracy of +/- 0.5°C -An alarm system to notify caregivers if the temperature drops outside of the safe range -Overheating protection to prevent accidental burns In addition, all radiant warmer manufacturers must adhere to the strict quality standards set forth by the International Electrotechnical Commission (IEC). By meeting these standards, manufacturers can ensure that their products will provide safe and reliable operation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Classification of infant radiant warmers",
+      "paragraphs": [
+        "IEC 60601-2-21:2020 Infant radiant warmers are classified according to their mode of operation: – Open loop systems: The temperature of the heater is controlled by a thermostat and the output power is varied to maintain the desired temperature. – Closed loop systems: The heater output power is controlled to maintain the patient’s skin temperature at the setpoint. – Hybrid systems: A combination of both open and closed loop features."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Test methods",
+      "paragraphs": [
+        "There are two main types of radiant warmer test methods: in situ and bench. In situ testing is performed on the infant radiant warmer while it is installed and operational in the hospital. This type of testing is used to verify the performance of the radiant warmer and to identify any potential safety hazards. Bench testing is performed on a radiant warmer that has been removed from service and is not operational. This type of testing is used to investigate specific problems with the radiant warmer, such as electrical or mechanical faults. In order to perform an in situ test, the tester must have access to the infant and the radiant warmer. The tester will use a thermometer to measure the temperature of the infant’s skin surface and will also take readings of air temperature and humidity inside the radiant warmer.",
+        "The tester will then compare these readings to the manufacturer’s specifications to ensure that the infant is being kept warm enough and that there are no safety hazards present. To perform a bench test, the tester will need to have access to the radiant warmer itself. The tester will inspect the electrical components of the radiant warmer and will also operate it under various conditions to test its performance.",
+        "The tester will then report their findings back to the manufacturer so that they can determine what needs to be fixed on the radiant warmer."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information for use",
+      "paragraphs": [
+        "IEC 60601-2-21:2020 Infant radiant warmers are medical electrical equipment that are used to provide warmth to infants. The basic safety and essential performance requirements for infant radiant warmers are specified in IEC 60601-2-21. There are two types of infant radiant warmer: those intended for use with an overhead radiant heat source, and those intended for use with a mattress or pad radiant heat source. Overhead Radiant Heat Source Infant Radiant Warmers: These infant radiant warmers have an overhead heat source that emits infrared radiation. The heat source is typically located above the infant’s head and can be either fixed or movable.",
+        "The advantage of using an overhead radiant heat source is that it allows for more evenly distributed warmth over the infant’s body. Matress/Pad Radiant Heat Source Infant Radiant Warmers: These infant radiant warmers have a mattress or pad as their heat source. The advantage of using a mattress or pad radiant heat source is that it helps to prevent the formation of hot spots on the infant’s skin."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Labelling",
+      "paragraphs": [
+        "Medical electrical equipment used in infant radiant warmers must be labelled in order to identify the manufacturer, type of equipment, and serial number. In addition, this information must be readily accessible to users."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Packaging and transport",
+      "paragraphs": [
+        "Infant radiant warmers are medical devices that are used to provide warmth to newborn infants. They are specifically designed to meet the needs of premature and sick infants who cannot regulate their own body temperature. The packaging and transport of infant radiant warmers is regulated by the International Electrotechnical Commission (IEC). The IEC is an international organization that sets standards for electrical equipment. All infant radiant warmers must be packaged in a way that ensures their safety during transport. This includes using durable packaging materials and ensuring that the packaging is able to protect the warmer from damage. Radiant warmers must also be transported in a way that prevents them from being turned on or off accidentally. This means that they must be transported in a separate container from any other electrical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Annexes",
+      "paragraphs": [
+        "There are three annexes to this standard. Annex A provides instructions on the use of the product, Annex B gives guidance on labeling requirements, and Annex C provides information on precautions for safe use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

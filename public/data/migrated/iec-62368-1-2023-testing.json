@@ -1,0 +1,217 @@
+{
+  "hero": "/images/page-heroes/iec-62368-1-2023-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-62368-1-2023-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-62368-1-2023-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-62368-1-2023-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-62368-1-2023-testing-s1.webp",
+    "/images/page-sections/iec-62368-1-2023-testing-s2.webp",
+    "/images/page-sections/iec-62368-1-2023-testing-s3.webp",
+    "/images/page-sections/iec-62368-1-2023-testing-s4.webp",
+    "/images/page-sections/iec-62368-1-2023-testing-s5.webp",
+    "/images/page-sections/iec-62368-1-2023-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "404 | long title, 8 img no alt | KEEP – expand; target for IS 13252 page link",
+  "slug": "iec-62368-1-2023-testing",
+  "path": "/iec-62368-1-2023-testing",
+  "source": "https://www.itcindia.org/iec-62368-1-2023-testing/",
+  "ok": true,
+  "title": "IEC 62368-1:2023 Part 1: Safety requirements - ITC(India) Pvt Ltd",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 62368-1:2023 is the latest safety standard for audio, video, and IT equipment. ITC (India) Pvt Ltd ensures full compliance through expert testing services.",
+  "sections": [
+    {
+      "heading": "IEC 62368-1:2023 Audio/Video, Information and Communication Technology Equipment – Part 1: Safety Requirements",
+      "paragraphs": [
+        "In 2025, electronic devices like TVs and smartphones are part of everyday life. Ensuring these devices are safe to use is crucial. Manufacturers follow safety standards like IEC 62368 to ensure their products meet necessary safety regulations.",
+        "What is IEC 62368-1:2023 Testing and Certification",
+        "IEC 62368 is a safety standard designed to ensure the protection of consumers using electrical and electronic products. It encompasses a broad range of devices commonly found in residential, commercial, and industrial settings, including computers, televisions, audio systems, and telecommunication equipment.",
+        "As part of a global initiative to enhance product safety, IEC 62368 aims to mitigate potential risks such as electrical shock, fire, and other safety hazards. Unlike its predecessors IEC 60950-1 and IEC 60065, which focused on specific product categories (e.g., audio or information technology equipment), IEC 62368 adopts a hazard-based approach. This approach evaluates the potential risks associated with a product, irrespective of its type, ensuring a more comprehensive and adaptive safety standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Unlock IEC 62368-1:2023 Certification with ITC (India) Pvt Ltd – Start Now",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-62368-1-2023-testing/861b5723a053.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Differences Between IEC 60950 and IEC 62368-1",
+      "paragraphs": [
+        "IEC 62368-1 introduces key updates compared to IEC 60950. It shifts from product-specific safety requirements to a hazard-based approach, assessing risks regardless of product type. The new standard provides more detailed guidelines for enclosures and materials, focusing on fire prevention. It also includes stricter rules for temperature control and internal transformers, areas that were less detailed in IEC 60950. IEC 62368-1 adds comprehensive safety requirements for SELV power supplies, improves fire prevention measures, and protects against dropped conductive materials. Additionally, the drop-test weight requirement has increased from 5 kg to 7 kg, and the standard provides more detailed regulations on material and chemical safety, which were less addressed in IEC 60950."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-62368-1-2023-testing/24842c501847.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Transition from the Legacy Standards into HBSE (Hazard Based Safety Evaluation)",
+      "paragraphs": [
+        "The Legacy Standards (60950-1 & 60065) have been mostly replaced by the HBSE Standard 62368-1.The Clock is Ticking and we move into the next decade, it will be increasingly more difficult to justify using the legacy standards.",
+        "ITC (India) Pvt Ltd: Your Partner in IEC 60950 Testing and CertificationITC (India) Pvt Ltd is a leading provider of electrical safety testing and certification services, specializing in IEC 62368-1 compliance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-62368-1-2023-testing/fa4c10758fde.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/iec-62368-1-2023-testing/bc6f90163fbd.jpg",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/861b5723a053.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/24842c501847.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/fa4c10758fde.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/bc6f90163fbd.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/861b5723a053.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/24842c501847.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/fa4c10758fde.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-62368-1-2023-testing/bc6f90163fbd.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "hero": "/images/page-heroes/importance-of-emi-emc-proof-pcb-design.webp",
+  "heroPortrait": "/images/page-heroes/importance-of-emi-emc-proof-pcb-design-portrait.webp",
+  "generatedIntro": "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s1.webp",
+  "generatedMid": "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s1.webp",
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s2.webp",
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s3.webp",
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s4.webp",
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s5.webp",
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s6.webp",
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s7.webp",
+    "/images/page-sections/importance-of-emi-emc-proof-pcb-design-s8.webp"
+  ],
+  "category": "emc",
+  "action": "ADD",
+  "note": "0 / 4 | 591 | no meta, 10 img no alt | KEEP – add meta",
+  "slug": "importance-of-emi-emc-proof-pcb-design",
+  "path": "/importance-of-emi-emc-proof-pcb-design",
+  "source": "https://www.itcindia.org/importance-of-emi-emc-proof-pcb-design/",
+  "ok": true,
+  "title": "Importance of EMI/EMC-proof PCB design - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Course Overview: The EMI/EMC Proof PCB Designing course provides a comprehensive understanding of the principles, techniques, and best practices for designing printed circuit boards (PCBs) that are immune to electromagnetic interference (EMI) and comply with electromagnetic compatibility (EMC) standards. This course is suitable for electrical engineers, PCB designers, and anyone involved in the development of…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/0e17dfa12ae1.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Course Overview:",
+      "paragraphs": [
+        "The EMI/EMC Proof PCB Designing course provides a comprehensive understanding of the principles, techniques, and best practices for designing printed circuit boards (PCBs) that are immune to electromagnetic interference (EMI) and comply with electromagnetic compatibility (EMC) standards. This course is suitable for electrical engineers, PCB designers, and anyone involved in the development of electronic devices.",
+        "Recognizing poor design features early in a product’s development can save a lot of time and expense later on. This course stresses the fundamental concepts and tools that board designers must be familiar with to avoid electromagnetic compatibility and signal integrity problems. Students completing the course will be able to make good decisions regarding component selection, component placement, and trace routing. In addition, students will have the knowledge and tools necessary to design effective power distribution and grounding strategies for both digital and mixed-signal boards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mr. Sreevas Vasudevan",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/89c621d399cf.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Specialist EMI EMC Engineering :-",
+      "paragraphs": [
+        "Innovative Professional, Twelve years functioning with reputed, Global organizations. Specialised in EMI/EMC design, analysis, simulation, and compliance. Solution provider for Medical, Commercial, Industrial, Automotive and Railway EMI EMC"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/8168620e13dc.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Professional Achievements",
+      "paragraphs": [
+        "Mr. Dharminder’s dedication to the field of EMC/EMI, combined with his vast knowledge and teaching skills, makes him an ideal tutor for individuals and organizations seeking to enhance their understanding and proficiency in electromagnetic compatibility and interference."
+      ],
+      "bullets": [
+        "Successfully trained over 500 students and professionals in EMC/EMI principles and techniques.",
+        "Helped numerous organizations achieve EMC/EMI compliance, resulting in improved product performance and reduced market risks.",
+        "Published research papers on EMC/EMI in renowned journals, contributing to the advancement of the field.",
+        "Received positive feedback and appreciation from students and clients for the ability to simplify complex concepts and provide practical solutions."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is EMI/EMC?",
+      "paragraphs": [],
+      "bullets": [
+        "Consequences of EMI/EMC issues in PCBs"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Definition of EMI (Electromagnetic Interference) and EMC (Electromagnetic Compatibility)",
+      "paragraphs": [
+        "Consequences of EMI/EMC issues in PCBs"
+      ],
+      "bullets": [
+        "EMI (Electromagnetic Interference): The disturbance caused by electromagnetic radiation or signals that interfere with the normal operation of electronic devices.",
+        "EMC (Electromagnetic Compatibility): The ability of electronic devices or systems to function properly in their intended electromagnetic environment without causing or being affected by excessive interference."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Signal Integrity Problems",
+      "paragraphs": [],
+      "bullets": [
+        "Cross-Talk"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Regulatory Standards and Compliance",
+      "paragraphs": [],
+      "bullets": [
+        "Overview of relevant regulatory standards (e.g., FCC, CISPR, IEC)",
+        "Importance of compliance with standards",
+        "Consequences of non-compliance"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "PCB Layout Considerations for EMI/EMC",
+      "paragraphs": [],
+      "bullets": [
+        "Grounding and shielding techniques.",
+        "Component placement and routing strategies.",
+        "Proper layer stack-up for reducing EMI."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/df644044791a.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "EMI Sources and Mitigation Strategies",
+      "paragraphs": [],
+      "bullets": [
+        "Common sources of EMI in PCBs (e.g., clocks, high-speed signals)",
+        "Strategies to mitigate EMI (e.g., filtering, proper grounding)"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/7b9c05b34e81.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [],
+      "bullets": [
+        "Recap of key points covered in the course",
+        "Importance of EMI/EMC awareness in PCB design",
+        "Additional resources and references for further learning"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/0e17dfa12ae1.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/89c621d399cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/8168620e13dc.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/df644044791a.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/7b9c05b34e81.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/0e17dfa12ae1.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/89c621d399cf.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/8168620e13dc.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/df644044791a.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/importance-of-emi-emc-proof-pcb-design/7b9c05b34e81.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

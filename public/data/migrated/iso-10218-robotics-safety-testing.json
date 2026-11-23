@@ -1,0 +1,332 @@
+{
+  "hero": "/images/page-heroes/iso-10218-robotics-safety-testing.webp",
+  "heroPortrait": "/images/page-heroes/iso-10218-robotics-safety-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iso-10218-robotics-safety-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iso-10218-robotics-safety-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iso-10218-robotics-safety-testing-s1.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s2.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s3.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s4.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s5.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s6.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s7.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s8.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s9.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s10.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s11.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s12.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s13.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s14.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s15.webp",
+    "/images/page-sections/iso-10218-robotics-safety-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1059 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iso-10218-robotics-safety-testing",
+  "path": "/iso-10218-robotics-safety-testing",
+  "source": "https://www.itcindia.org/iso-10218-robotics-safety-testing/",
+  "ok": true,
+  "title": "ISO 10218 Robotics Safety Testing in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 10218 robotics safety testing in India for industrial robots and robot cells. Test safeguards, controls and electrical safety with ITC India support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides ISO 10218 robotics safety testing and technical evaluation support for industrial robots, robotic systems and automated robot cells. ISO 10218 defines safety requirements intended to reduce hazards associated with industrial robots and their integration into manufacturing and automation systems.",
+        "The current series consists of ISO 10218-1:2025, which addresses industrial robots themselves, and ISO 10218-2:2025, which covers industrial robot applications and robot cells.",
+        "Robotic systems combine mechanical movement, electrical controls, software, sensors and safeguarding devices. A failure in any of these areas can create risks for operators, maintenance personnel and other people working near the system. Safety evaluation therefore considers not only the robot but also its control system, protective measures, installation and interaction with surrounding machinery."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-10218-robotics-safety-testing/86fb091d3238.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is ISO 10218-1:2025?",
+      "paragraphs": [
+        "ISO 10218-1:2025 specifies safety requirements for the design and construction of industrial robots. It focuses on the robot as partly completed machinery before it is incorporated into a complete industrial application.",
+        "Evaluation can include safety-related control functions, stopping functions, operating modes, enabling devices, emergency stopping, protection against unintended movement, mechanical design and information supplied by the manufacturer.",
+        "Robot manufacturers should identify reasonably foreseeable hazards and implement appropriate risk-reduction measures during the design process.",
+        "Where electrical equipment of the robot or associated machinery also requires evaluation, ITC India provides <a href=\"/iec-60204-1-testing\">IEC 60204-1 safety of machinery testing</a> for electrical, electronic and programmable electronic equipment used on machines."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Is ISO 10218-2:2025?",
+      "paragraphs": [
+        "ISO 10218-2:2025 focuses on industrial robot applications and robot cells rather than the robot alone. It addresses the design, integration, commissioning, operation, maintenance and eventual decommissioning of industrial robotic applications.",
+        "A robot cell may combine an industrial robot with conveyors, fixtures, tooling, sensors, controllers, guarding, interlocks and other machinery.",
+        "Safety evaluation therefore needs to consider how all components interact as a complete system. ITC India’s broader <a href=\"/machinery-equipment-testing-2\">machinery equipment testing</a> services can support electrical and safety evaluation of machinery incorporated into automated production systems."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Industrial Robot Safety Tests and Evaluations",
+      "paragraphs": [
+        "The exact ISO 10218 assessment depends on the robot, application and identified hazards. Safety evaluation may include verification of:",
+        "The test plan should be based on the applicable ISO 10218 part, product configuration, intended application and documented risk assessment."
+      ],
+      "bullets": [
+        "emergency-stop functions;",
+        "protective-stop functions;",
+        "safety interlocks;",
+        "guards and protective devices;",
+        "operating and maintenance modes;",
+        "access to hazardous zones;",
+        "prevention of unexpected start-up;",
+        "speed and movement restrictions;",
+        "safety-related control functions;",
+        "robot workspace and restricted spaces; and",
+        "warning, marking and information-for-use requirements."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Robot Cell Safeguarding",
+      "paragraphs": [
+        "Industrial robot cells frequently operate at speeds and forces capable of causing injury if people can enter the hazardous operating area without adequate protection.",
+        "Safeguarding may use fixed guards, interlocked doors, presence-sensing devices, protective stops and defined restricted spaces. Testing helps verify that access to the hazardous area results in the required safe response and that the robot cannot restart unexpectedly.",
+        "The selection and arrangement of safeguards should be based on the robot application and the risks created by associated machinery, tooling and processed materials."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Emergency Stop and Protective Stop Verification",
+      "paragraphs": [
+        "Emergency stopping is an important safety function in industrial robotic systems. Testing should verify that emergency-stop devices initiate the intended stopping response and remain effective under the defined operating conditions.",
+        "Protective stopping may also be required when a guard is opened, a presence-sensing device is activated or another safety condition is detected.",
+        "The effectiveness of these functions depends on the robot controller, safety circuitry, sensors and connected machinery operating together correctly."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Safety of Robotic Systems",
+      "paragraphs": [
+        "Industrial robots contain motors, drives, power supplies, control circuits, protective bonding systems, cables and electrical enclosures. Electrical failures can create shock, fire or unintended-motion hazards.",
+        "ITC India provides <a href=\"/electrical-testing\">electrical testing services</a> for industrial electrical and electronic equipment. Depending on the machinery configuration, evaluation may include protective bonding, insulation resistance, voltage testing, control circuits, operator interfaces, wiring, protective devices and documentation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Testing for Robot Controllers and Automation Equipment",
+      "paragraphs": [
+        "Modern robot systems rely heavily on electronic controllers, sensors, communication interfaces and variable-speed drives. Electromagnetic disturbances may affect control functions or cause unexpected behaviour if equipment does not have adequate electromagnetic compatibility.",
+        "ITC India’s <a href=\"/emc-emi-testing\">EMC/EMI testing laboratory</a> supports immunity and emissions testing for industrial electronic equipment, including tests for electrostatic discharge, RF immunity, electrical fast transients and surge where required by the applicable product or system standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products and Systems Covered",
+      "paragraphs": [
+        "ISO 10218 testing may be relevant to articulated industrial robots, SCARA robots, Cartesian robots, robot controllers, automated assembly cells, welding robot cells, material-handling robots, palletizing systems, machine-tending robots and other industrial automation systems.",
+        "The ISO 10218 series does not automatically apply to every type of robot. Service robots, medical robots and consumer robots can fall under different standards, so the intended application should be confirmed before selecting the compliance route."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for ISO 10218 Testing",
+      "paragraphs": [
+        "Manufacturers and integrators should provide the robot model, technical specifications, control architecture, safety functions, electrical diagrams, installation layout, guarding arrangement, operating modes, risk assessment and applicable ISO 10218 part and edition.",
+        "For integrated robot cells, details of conveyors, tooling, machines, sensors and other connected equipment should also be included."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports manufacturers and system integrators with machinery, electrical and EMC testing capabilities for industrial automation equipment. Reviewing the system architecture before testing helps identify relevant safety functions, associated standards and required test conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request ISO 10218 Robotics Safety Testing",
+      "paragraphs": [
+        "For ISO 10218-1:2025 or ISO 10218-2:2025 safety testing, <a href=\"/contact-us/inquiry\">send your robotics testing requirement to ITC India</a> with the robot or cell specifications, drawings, safety functions and applicable compliance requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is ISO 10218?",
+      "paragraphs": [
+        "ISO 10218 is the international safety standard series for industrial robots and industrial robot applications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between ISO 10218-1 and ISO 10218-2?",
+      "paragraphs": [
+        "ISO 10218-1:2025 covers the industrial robot itself, while ISO 10218-2:2025 covers integration of robots into industrial applications and robot cells."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the latest edition of ISO 10218?",
+      "paragraphs": [
+        "The current editions are ISO 10218-1:2025 and ISO 10218-2:2025, both published in February 2025."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does ISO 10218 include emergency-stop testing?",
+      "paragraphs": [
+        "Yes. Stopping functions, including emergency and protective stopping, are important elements of industrial robot safety and should be evaluated according to the applicable requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does ISO 10218 apply to collaborative robots?",
+      "paragraphs": [
+        "Collaborative industrial robot applications are addressed within the industrial-robot safety framework, but the complete application, hazards and applicable supplementary requirements must be evaluated rather than assuming collaboration alone makes a system safe."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iso-10218-robotics-safety-testing/86fb091d3238.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iso-10218-robotics-safety-testing/86fb091d3238.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

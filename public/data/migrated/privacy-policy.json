@@ -1,0 +1,145 @@
+{
+  "hero": "/images/page-heroes/privacy-policy.webp",
+  "heroPortrait": "/images/page-heroes/privacy-policy-portrait.webp",
+  "generatedIntro": "/images/page-sections/privacy-policy-s1.webp",
+  "generatedMid": "/images/page-sections/privacy-policy-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/privacy-policy-s1.webp",
+    "/images/page-sections/privacy-policy-s2.webp",
+    "/images/page-sections/privacy-policy-s3.webp",
+    "/images/page-sections/privacy-policy-s4.webp",
+    "/images/page-sections/privacy-policy-s5.webp",
+    "/images/page-sections/privacy-policy-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "255 | – | KEEP",
+  "slug": "privacy-policy",
+  "path": "/privacy-policy",
+  "source": "https://www.itcindia.org/privacy-policy/",
+  "ok": true,
+  "title": "Privacy Policy",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Privacy Policy of ITC India",
+  "sections": [
+    {
+      "heading": "Policy, Mission & Goal of the Company",
+      "paragraphs": [
+        "It is our aim to be viewed by our customers as the best providers of reliable testing services in the electrical fields.",
+        "For this purpose, we are committed to operate a business management policy driven by the following principles and behaviors:",
+        "We will endeavor to implement and support this policy at all levels through the induction training for all the employees.",
+        "ITC India has served the Electrical industry since 2002. We are committed to serving the industry with a qualified facility and a staff devoted to the highest standards of quality and excellent customer service. Our continued growth comes as a result of our commitment to working together with our clients to assure mutual success at the most economical rate possible.",
+        "Provide ITC India clients with a level of confidence and capabilities not available with any other test laboratory. In addition, we are committed to meeting the client’s needs with competitive pricing, reasonable lead-times, thereby satisfying the client’s goals."
+      ],
+      "bullets": [
+        "Build a mutually profitable relationship with our customers through the understanding of their needs and the research of their satisfaction.",
+        "Put efficiency and reliability in the heart of our process management and seek continual compliance to applicable standard and regulations.",
+        "Enhance the systematic research of improvement at all levels.",
+        "Develop staff competencies, creativity and accountability through appropriate development programs and show management involvement and commitment.",
+        "Promote teamwork and use of common language and processes."
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

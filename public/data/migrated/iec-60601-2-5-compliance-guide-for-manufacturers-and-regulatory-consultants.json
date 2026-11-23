@@ -1,0 +1,356 @@
+{
+  "hero": "/images/page-heroes/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s1.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s2.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s3.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s4.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s5.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s6.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s7.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s8.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s9.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s10.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s11.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s12.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s13.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s14.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s15.webp",
+    "/images/page-sections/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants-s16.webp"
+  ],
+  "category": "medical",
+  "action": "ADD",
+  "note": "986 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants",
+  "path": "/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants",
+  "source": "https://www.itcindia.org/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants/",
+  "ok": true,
+  "title": "IEC 60601-2-5 Testing for Ultrasonic Physiotherapy Equipment",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60601-2-5 testing for ultrasonic physiotherapy equipment in India. Test electrical safety, ultrasound output, EMC and essential performance with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Ultrasonic physiotherapy equipment is designed to deliver controlled ultrasonic energy to patients for therapeutic applications. Because the equipment transfers energy directly to the patient, manufacturers need to evaluate electrical safety, ultrasonic output, temperature-related hazards and essential performance before market introduction.",
+        "ITC India provides IEC 60601-2-5 testing for ultrasonic physiotherapy equipment, supporting manufacturers, product-development teams and regulatory consultants with laboratory evaluation against applicable medical electrical equipment requirements.",
+        "IEC 60601-2-5 forms part of the wider <a href=\"/iec-60601-testing\">IEC 60601 medical electrical equipment testing</a> framework and should be evaluated together with the relevant requirements of the general standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants/9c51d2f79534.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60601-2-5?",
+      "paragraphs": [
+        "IEC 60601-2-5 specifies particular requirements for the basic safety and essential performance of ultrasonic physiotherapy equipment.",
+        "The currently published IEC edition is IEC 60601-2-5:2009, Edition 3.0. The particular standard works together with the applicable general requirements for medical electrical equipment.",
+        "Manufacturers should therefore consider IEC 60601-2-5 alongside <a href=\"/iec-60601-1-testing\">IEC 60601-1 testing</a> when establishing the overall compliance program for an ultrasonic therapy device.",
+        "IEC 60601-2-5 is intended for therapeutic ultrasound equipment and should not automatically be applied to diagnostic ultrasound systems, which are covered by different particular requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Equipment Covered by IEC 60601-2-5",
+      "paragraphs": [
+        "The standard applies to ultrasonic equipment intended for physiotherapy and similar therapeutic applications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Typical products can include",
+      "paragraphs": [
+        "The exact test configuration depends on the intended use, operating frequency, treatment modes, applicators, electrical design and accessories supplied with the equipment.",
+        "Manufacturers should clearly identify all intended configurations before laboratory testing begins."
+      ],
+      "bullets": [
+        "Therapeutic ultrasound units",
+        "Physiotherapy ultrasound machines",
+        "Portable ultrasonic therapy equipment",
+        "Ultrasound treatment systems",
+        "Ultrasonic applicators and treatment heads forming part of the equipment"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Key IEC 60601-2-5 Testing Requirements",
+      "paragraphs": [
+        "Testing is defined according to the construction and functions of the equipment. Relevant evaluations can include:",
+        "The ultrasound-generating system, applicator and control circuitry should be evaluated as part of the complete intended device configuration."
+      ],
+      "bullets": [
+        "Protection against electric shock",
+        "Leakage current and patient-related electrical safety",
+        "Dielectric strength and insulation",
+        "Mechanical safety",
+        "Excessive temperature protection",
+        "Ultrasonic output characteristics",
+        "Accuracy of output indications",
+        "Treatment-head and applicator performance",
+        "Protection against hazardous ultrasonic output",
+        "Operation under normal and relevant fault conditions",
+        "Markings and accompanying documents",
+        "Essential-performance requirements"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Ultrasonic Output and Performance Testing",
+      "paragraphs": [
+        "One of the important differences between general medical electrical safety testing and IEC 60601-2-5 evaluation is the need to assess the therapeutic ultrasonic output.",
+        "Manufacturers need to demonstrate that delivered ultrasound remains within appropriate limits and is consistent with the equipment’s indicated settings and intended performance.",
+        "Relevant assessment can involve characteristics such as operating frequency, ultrasonic power, output control and the behaviour of the treatment head.",
+        "The standard also works in conjunction with relevant ultrasonic measurement requirements, including IEC 61689 for physiotherapy ultrasonic systems.",
+        "Accurate characterization is important because an incorrect or uncontrolled output can affect both the safety and intended therapeutic performance of the device."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Safety Requirements",
+      "paragraphs": [
+        "IEC 60601-2-5 supplements the general requirements of IEC 60601-1 rather than replacing them.",
+        "Depending on equipment construction, general electrical safety testing may cover insulation, accessible parts, leakage currents, protective earthing, dielectric strength, creepage and clearance distances, mechanical hazards and operation under single-fault conditions.",
+        "Manufacturers can review ITC India’s broader <a href=\"/electrical-safety-testing-for-medical-device\">electrical safety testing for medical devices</a> when planning the complete product assessment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Testing for Ultrasound Therapy Equipment",
+      "paragraphs": [
+        "Ultrasonic physiotherapy equipment contains electronic power, control and signal circuitry that may generate electromagnetic disturbances or be affected by external interference.",
+        "Where applicable, electromagnetic compatibility should therefore be evaluated through <a href=\"/iec-60601-1-2-emc-testing\">IEC 60601-1-2 EMC testing</a>.",
+        "EMC evaluation can include emissions and immunity testing to determine whether the equipment continues to maintain acceptable safety and essential performance in its intended electromagnetic environment.",
+        "Coordinating EMC and electrical safety testing during product development can help identify design problems before final compliance evaluation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Software and Usability Considerations",
+      "paragraphs": [
+        "Modern physiotherapy ultrasound equipment may use embedded software to control treatment time, operating modes, output level or user settings.",
+        "Where software performs safety-related functions, manufacturers should also consider applicable <a href=\"/iec-62304-medical-device-software-system-testing\">IEC 62304 medical device software requirements</a>.",
+        "User interaction is also important because incorrect selection of treatment settings can create risks. Where applicable, <a href=\"/usability-testing-of-medical-devices-iec-62366\">IEC 62366 usability testing</a> can support evaluation of the device user interface and use-related risk controls."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing Equipment for IEC 60601-2-5 Testing",
+      "paragraphs": [
+        "Manufacturers should provide sufficient technical information before testing begins. Typical documentation includes:",
+        "Complete documentation helps establish the applicable test scope and ensures that representative product configurations are evaluated."
+      ],
+      "bullets": [
+        "Product specifications and intended use",
+        "Electrical ratings",
+        "Circuit diagrams",
+        "Critical component information",
+        "Ultrasound operating frequency",
+        "Output and treatment-mode specifications",
+        "Applicator or treatment-head information",
+        "Risk-management documentation",
+        "Software information, where applicable",
+        "Labels and user instructions",
+        "Accessories supplied with the product"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60601-2-5 Testing Support from ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with <a href=\"/iec-60601-testing\">electro-medical equipment testing</a> against applicable safety, performance and EMC requirements.",
+        "A coordinated test program can cover IEC 60601-2-5 particular requirements together with IEC 60601-1 electrical safety and IEC 60601-1-2 EMC requirements.",
+        "To discuss testing requirements for your ultrasonic physiotherapy equipment, submit the product specifications through the <a href=\"/contact-us/inquiry\">ITC India testing and certification inquiry</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60601-2-5?",
+      "paragraphs": [
+        "IEC 60601-2-5 specifies particular basic safety and essential-performance requirements for ultrasonic physiotherapy equipment used for therapeutic purposes."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current edition of IEC 60601-2-5?",
+      "paragraphs": [
+        "The currently published IEC standard is IEC 60601-2-5:2009, Edition 3.0. Manufacturers should also confirm the edition required by their intended certification scheme or target market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60601-2-5 apply to diagnostic ultrasound machines?",
+      "paragraphs": [
+        "IEC 60601-2-5 is specifically intended for ultrasonic physiotherapy equipment. Diagnostic and monitoring ultrasound equipment is covered by different particular requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60601-1 also required?",
+      "paragraphs": [
+        "IEC 60601-2-5 supplements IEC 60601-1. General medical electrical safety requirements and the applicable particular requirements should therefore be considered together."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does ultrasonic physiotherapy equipment require EMC testing?",
+      "paragraphs": [
+        "Where applicable, medical electrical equipment should also be evaluated for electromagnetic compatibility, commonly using IEC 60601-1-2."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What documents are required for IEC 60601-2-5 testing?",
+      "paragraphs": [
+        "Typical documentation includes circuit diagrams, product ratings, component information, ultrasonic output specifications, treatment-head details, risk-management information, software documentation and the user manual."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants/9c51d2f79534.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants/9c51d2f79534.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

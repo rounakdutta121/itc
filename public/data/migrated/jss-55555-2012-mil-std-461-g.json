@@ -1,0 +1,319 @@
+{
+  "hero": "/images/page-heroes/jss-55555-2012-mil-std-461-g.webp",
+  "heroPortrait": "/images/page-heroes/jss-55555-2012-mil-std-461-g-portrait.webp",
+  "generatedIntro": "/images/page-sections/jss-55555-2012-mil-std-461-g-s1.webp",
+  "generatedMid": "/images/page-sections/jss-55555-2012-mil-std-461-g-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s1.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s2.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s3.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s4.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s5.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s6.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s7.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s8.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s9.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s10.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s11.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s12.webp",
+    "/images/page-sections/jss-55555-2012-mil-std-461-g-s13.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "933 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "jss-55555-2012-mil-std-461-g",
+  "path": "/jss-55555-2012-mil-std-461-g",
+  "source": "https://www.itcindia.org/jss-55555-2012-mil-std-461-g/",
+  "ok": true,
+  "title": "JSS 55555 & MIL-STD-461G Defence Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "JSS 55555 and MIL-STD-461G testing in India for defence electronic equipment. Evaluate environmental durability, EMI emissions and EMC susceptibility",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Electronic and electrical equipment developed for defence applications may need to operate reliably despite severe environmental conditions and electromagnetic disturbances. Environmental qualification and electromagnetic compatibility testing therefore form important parts of many defence product development and procurement programmes.",
+        "ITC India supports manufacturers and developers with JSS 55555 environmental testing and MIL-STD-461G EMC testing for applicable electronic and electrical equipment. These standards address different aspects of product qualification: JSS 55555 focuses primarily on environmental stresses, while MIL-STD-461G establishes requirements for controlling electromagnetic interference characteristics of military subsystems and equipment.",
+        "Manufacturers looking specifically for the broader Indian environmental standard can also review ITC India’s dedicated <a href=\"/jss-55555\">JSS 55555 Environmental Testing Services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/jss-55555-2012-mil-std-461-g/c1c89f9c46d1.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "JSS 55555:2012 and the Current JSS 55555 Standard",
+      "paragraphs": [
+        "JSS 55555:2012 Revision No. 3 was issued by the Directorate of Standardisation, Ministry of Defence, for environmental test methods applicable to electronic and electrical equipment. It defined laboratory methods intended to provide confidence that equipment could withstand environmental conditions encountered during storage, transportation and operational service.",
+        "However, JSS 55555:2012 is now a superseded revision. Manufacturers working on new qualification programmes should verify the edition specified by the procurement document, tender or customer requirement. The Directorate of Standardisation currently lists JSS 55555:2025, Fifth Revision.",
+        "Legacy equipment, existing contracts and previously approved designs may still reference the 2012 revision, so the exact contractual standard should always be confirmed before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Environmental Tests under JSS 55555",
+      "paragraphs": [
+        "Depending on equipment classification, intended service environment and contractual requirements, a JSS 55555 qualification programme may include environmental stresses such as:",
+        "The applicable tests and severity levels depend on the equipment class and service conditions rather than every test automatically applying to every product.",
+        "ITC India also provides wider <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 environmental testing</a> and <a href=\"/vibration-testing/mil-std-810h\">MIL-STD-810H vibration and shock testing</a> for products requiring qualification against additional environmental specifications."
+      ],
+      "bullets": [
+        "High- and low-temperature testing",
+        "Temperature cycling",
+        "Humidity and damp-heat testing",
+        "Vibration testing",
+        "Mechanical shock",
+        "Acceleration",
+        "Low-pressure or altitude conditions",
+        "Rain and water exposure",
+        "Dust and sand exposure",
+        "Salt atmosphere and corrosion",
+        "Solar radiation",
+        "Transportation-related environmental stresses"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Is MIL-STD-461G?",
+      "paragraphs": [
+        "MIL-STD-461G is a U.S. Department of Defense interface standard specifying requirements for controlling electromagnetic interference from electronic, electrical and electromechanical equipment and subsystems.",
+        "Unlike JSS 55555, which primarily addresses environmental stresses, MIL-STD-461G concentrates on electromagnetic emissions and susceptibility.",
+        "Depending on the equipment, installation environment and applicable requirement matrix, evaluation may include conducted and radiated emission or susceptibility tests."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Typical MIL-STD-461G requirement families include",
+      "paragraphs": [
+        "Specific requirements such as CE102, CS101, CS114, CS115, CS116, RE102 and RS103 may apply depending on the equipment and intended platform.",
+        "Manufacturers requiring broader electromagnetic compatibility evaluation can review ITC India’s <a href=\"/emc-emi-testing\">EMI/EMC Testing Laboratory</a> services."
+      ],
+      "bullets": [
+        "CE – Conducted emissions",
+        "CS – Conducted susceptibility",
+        "RE – Radiated emissions",
+        "RS – Radiated susceptibility"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why JSS 55555 and MIL-STD-461G May Both Be Required",
+      "paragraphs": [
+        "Defence electronics frequently have to demonstrate both environmental durability and electromagnetic compatibility.",
+        "For example, an electronic control unit may need to remain functional following vibration, temperature and humidity exposure while also demonstrating that it does not generate unacceptable electromagnetic interference and continues to operate when exposed to external electromagnetic fields.",
+        "Because these standards address separate risks, passing environmental tests under JSS 55555 does not automatically demonstrate MIL-STD-461G compliance, and passing EMC tests does not establish environmental qualification.",
+        "A complete test plan should therefore be developed from the product specification, platform requirements, procurement document and specified acceptance criteria."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required Before Testing",
+      "paragraphs": [
+        "Manufacturers should provide available technical and contractual information before starting a defence qualification programme. Useful information includes:",
+        "Providing this information early helps establish the correct test configuration and avoids testing against requirements that are not applicable to the equipment."
+      ],
+      "bullets": [
+        "Equipment name and model",
+        "Intended Army, Navy or Air Force application",
+        "Applicable standard and revision",
+        "Required JSS test methods",
+        "Applicable MIL-STD-461G requirements",
+        "Equipment operating modes",
+        "Power input details",
+        "Cable and interface configuration",
+        "Mechanical dimensions and weight",
+        "Environmental classifications",
+        "Customer or tender acceptance criteria"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Defence Equipment Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports electrical and electronic manufacturers with environmental, EMC and related product qualification testing. Defence equipment requiring additional environmental evaluation may also use ITC India’s <a href=\"/vibration-testing\">vibration testing laboratory</a> and <a href=\"/ip-testing-laboratory-india\">IP ingress protection testing</a> services where these requirements form part of the qualification programme.",
+        "For accreditation-specific work, manufacturers should confirm that the required test method and parameter are covered by the laboratory’s current approved scope. ITC India’s <a href=\"/about-us/accreditations\">NABL accreditation and scope information</a> can be reviewed before formal testing.",
+        "For JSS 55555 or MIL-STD-461G testing in India, submit your equipment specifications, applicable revision and required test methods through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is JSS 55555:2012 still the latest version?",
+      "paragraphs": [
+        "No. JSS 55555:2012 Revision 3 is a superseded version. New projects should confirm whether the current JSS 55555 revision or a specific legacy revision is required by the contract."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What does MIL-STD-461G cover?",
+      "paragraphs": [
+        "MIL-STD-461G specifies electromagnetic interference emission and susceptibility requirements for military electronic, electrical and electromechanical equipment and subsystems."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Are JSS 55555 and MIL-STD-461G the same standard?",
+      "paragraphs": [
+        "No. JSS 55555 primarily addresses environmental qualification, while MIL-STD-461G addresses electromagnetic interference and compatibility requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which MIL-STD-461G tests may apply?",
+      "paragraphs": [
+        "Applicable requirements can include conducted emissions, conducted susceptibility, radiated emissions and radiated susceptibility tests. The exact methods depend on equipment and installation requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can defence equipment require both standards?",
+      "paragraphs": [
+        "Yes. A procurement specification may require environmental qualification under JSS requirements and separate EMI/EMC qualification under MIL-STD-461G."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India support defence equipment qualification?",
+      "paragraphs": [
+        "ITC India supports applicable environmental and EMC testing for electronic and electrical equipment. Manufacturers should provide the required standards, revisions, test methods and acceptance criteria so the correct testing programme can be established."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/jss-55555-2012-mil-std-461-g/c1c89f9c46d1.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/jss-55555-2012-mil-std-461-g/c1c89f9c46d1.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

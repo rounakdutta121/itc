@@ -1,0 +1,247 @@
+{
+  "hero": "/images/page-heroes/expert-infusion-pump-testing.webp",
+  "heroPortrait": "/images/page-heroes/expert-infusion-pump-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/expert-infusion-pump-testing-s1.webp",
+  "generatedMid": "/images/page-sections/expert-infusion-pump-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/expert-infusion-pump-testing-s1.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s2.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s3.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s4.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s5.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s6.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s7.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s8.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s9.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s10.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s11.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s12.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s13.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s14.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s15.webp",
+    "/images/page-sections/expert-infusion-pump-testing-s16.webp"
+  ],
+  "category": "medical",
+  "action": "ADD",
+  "note": "709 | no meta | LOW: add meta",
+  "slug": "expert-infusion-pump-testing",
+  "path": "/expert-infusion-pump-testing",
+  "source": "https://www.itcindia.org/expert-infusion-pump-testing/",
+  "ok": true,
+  "title": "Expert Infusion Pump Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Standard Testing Procedure for Infusion Pump – ITC India Ensure accuracy, safety, and compliance of your infusion pumps with NABL-accredited testing and calibration services by ITC India – India’s leading biomedical equipment testing partner.Thank you for reading this post, don't forget to subscribe! 📧 Email: info@itcindia.org📞 Call Us: +91 9316473033 🔬 Why Is Infusion Pump…Read More+",
+  "sections": [
+    {
+      "heading": "Standard Testing Procedure for Infusion Pump – ITC India",
+      "paragraphs": [
+        "Ensure accuracy, safety, and compliance of your infusion pumps with NABL-accredited testing and calibration services by <a href=\"/\">ITC India</a> – India’s leading biomedical equipment testing partner.",
+        "📧 Email: info@itcindia.org 📞 Call Us: +91 9316473033"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/expert-infusion-pump-testing/82ce41a77595.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "🔬 Why Is Infusion Pump Testing Crucial?",
+      "paragraphs": [
+        "Infusion pumps are vital for delivering precise medication doses. A malfunction or inaccurate flow can cause under- or over-infusion, leading to serious clinical risks. Regular testing and calibration ensure that your devices:",
+        "💡 Did you know? According to the FDA, infusion pump errors have caused over 56,000 adverse event reports in a single decade. Regular testing significantly reduces this risk."
+      ],
+      "bullets": [
+        "Maintain flow rate accuracy",
+        "Trigger alarms correctly",
+        "Function as per IEC 60601-2-24 standards",
+        "Comply with NABL and ISO 17025 guidelines"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🧪 Case Study: Ensuring Accuracy in a Multispecialty Hospital, Mumbai",
+      "paragraphs": [
+        "Client: A NABH-accredited hospital with over 300 beds in Mumbai Device Type: Volumetric and syringe infusion pumps (20 units from brands like B. Braun, Fresenius, and Baxter) Issue: Reports of inconsistent flow rates and unresponsive alarms in two pumps"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔍 Testing Approach by ITC India",
+      "paragraphs": [
+        "Outcome: All pumps passed post-calibration tests. The hospital improved medication delivery safety and passed NABH audit successfully."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Step",
+            "Description"
+          ],
+          "rows": [
+            [
+              "1. Visual Inspection",
+              "Checked external damages, occlusion points, tubing compatibility, and battery status"
+            ],
+            [
+              "2. Functional Test",
+              "Used a calibrated infusion device analyzer (Fluke IDA-5) for flow rate, volume, occlusion pressure"
+            ],
+            [
+              "3. Alarm System Check",
+              "Simulated air-in-line and occlusion scenarios"
+            ],
+            [
+              "4. Calibration & Adjustment",
+              "Calibrated 4 devices found outside ±5% flow rate margin"
+            ],
+            [
+              "5. Final Verification",
+              "Re-tested for compliance with IEC 60601-2-24 and prepared NABL-traceable certificates"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "1: “Infusion Pump Testing Setup”",
+      "paragraphs": [
+        "An engineer in a white lab coat connects a syringe pump to the Fluke IDA-5 analyzer. A digital display shows flow rate in real-time. Calibrated weights and certified test fluids sit on the bench."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2: “Occlusion Test Simulation”",
+      "paragraphs": [
+        "A technician simulates a blockage in the IV line while monitoring occlusion pressure alerts. The device is tested for auto shutoff and alarm sound within 10 seconds.",
+        "💬 Want visuals for your team or training? Request technical illustrations via info@2itcindia.org."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🛠️ Step-by-Step Infusion Pump Testing Procedure",
+      "paragraphs": [
+        "At ITC India, we follow a scientific, traceable, and manufacturer-compliant testing protocol. Here’s a breakdown of our standard operating procedure:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/expert-infusion-pump-testing/6785eb41d248.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "🔹 1. Pre-Testing Inspection",
+      "paragraphs": [],
+      "bullets": [
+        "Verify pump model, serial number, and test due date.",
+        "Check physical condition (casing, connectors, display, keypad).",
+        "Ensure the correct infusion set and tubing are used."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔹 2. Electrical Safety Test (if applicable)",
+      "paragraphs": [],
+      "bullets": [
+        "Grounding resistance measurement",
+        "Leakage current evaluation (as per IEC 60601-1)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔹 3. Functional Testing",
+      "paragraphs": [
+        "We simulate real clinical conditions using high-precision analyzers like Fluke IDA-5 or Rigel Multi-Flo to test:"
+      ],
+      "bullets": [
+        "Flow Rate Accuracy: Verify delivery rate at set points (e.g., 1 mL/h, 5 mL/h, 25 mL/h)",
+        "Volume Accuracy: Confirm the total volume delivered matches the programmed value.",
+        "Occlusion Pressure: Test device response to line blockage and alarm activation.",
+        "Bolus and KVO (Keep Vein Open) modes where applicable."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔹 4. Alarm Verification",
+      "paragraphs": [
+        "We simulate different error conditions to confirm alarm function:"
+      ],
+      "bullets": [
+        "Air-in-line detection",
+        "Occlusion/flow obstruction",
+        "Battery low or failure",
+        "Door open or tube misplacement"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔹 5. Battery Backup Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Assess battery condition and run-time",
+        "Monitor charge/discharge cycle",
+        "Evaluate performance under simulated power failure"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔹 6. Calibration Adjustment (if required)",
+      "paragraphs": [
+        "If the pump deviates beyond acceptable limits (typically ±5% for flow rate), our experts perform internal calibration following OEM protocols and verify post-adjustment accuracy."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔹 7. Documentation & Compliance",
+      "paragraphs": [],
+      "bullets": [
+        "Generate NABL-traceable calibration certificate",
+        "Include test data, calibration due date, and remarks",
+        "Compliant with IEC 60601-2-24, ISO 13485, NABL, and hospital audit requirements"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/expert-infusion-pump-testing/82ce41a77595.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/expert-infusion-pump-testing/6785eb41d248.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/expert-infusion-pump-testing/82ce41a77595.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/expert-infusion-pump-testing/6785eb41d248.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

@@ -1,0 +1,868 @@
+{
+  "hero": "/images/page-heroes/atex-testing-certification.webp",
+  "heroPortrait": "/images/page-heroes/atex-testing-certification-portrait.webp",
+  "generatedIntro": "/images/page-sections/atex-testing-certification-s1.webp",
+  "generatedMid": "/images/page-sections/atex-testing-certification-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/atex-testing-certification-s1.webp",
+    "/images/page-sections/atex-testing-certification-s2.webp",
+    "/images/page-sections/atex-testing-certification-s3.webp",
+    "/images/page-sections/atex-testing-certification-s4.webp",
+    "/images/page-sections/atex-testing-certification-s5.webp",
+    "/images/page-sections/atex-testing-certification-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "4 / 13 | 1776 | no H2, 24 img no alt | EXPAND – P8 (fix 3 H1s) + CTR FIX",
+  "slug": "atex-testing-certification",
+  "path": "/atex-testing-certification",
+  "source": "https://www.itcindia.org/atex-testing-certification/",
+  "ok": true,
+  "title": "Atex Testing & Certification - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Get reliable ATEX certification in India for explosion-protected equipment. Ensure safety, compliance and global access with expert testing at affordable cost.",
+  "sections": [
+    {
+      "heading": "What are Ex equipment’s?",
+      "paragraphs": [
+        "Ex equipment is specially designed and tested explosion-proof electrical equipment for your applications developed in hazardous location, designed to reliably prevent contact between an explosive atmosphere and ignition sources and thus preclude explosions.",
+        "More precisely, In India, according to PESO Rule 102 of the Petroleum Rules, 2002 lays down that no electrical wiring shall be installed and no electrical apparatus shall be used in Petroleum Refinery, storage installation, storage shed, service station or any other place where petroleum is refined, blended, stored, loaded/filled or unloaded unless it is approved by the Chief Controller of Explosives. It is in this context that electrical equipment which has to be used in an Hazardous area covered under Petroleum Rules, 2002 shall require approval from the Chief Controller of Explosives."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Zones classification and Ex equipment protection level(EPL)",
+      "paragraphs": [
+        "Zone 0/zone 20 : That part of a hazardous area in which a flammable atmosphere is continually present or present for long periods.(1000 Hrs)",
+        "Zone 1 / zone 21 : That part of a hazardous area in which a flammable atmosphere is likely to occur in normal operation.(10-1000 Hrs)",
+        "Zone 2/ zone 22 : That part of a hazardous area in which a flammable atmosphere is not likely to occur in normal operation and, if it occurs, will exist for a short period(1-10 Hrs)"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/atex-testing-certification/e36fceacdb97.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Our Testing facility for Ex equipment’s",
+      "paragraphs": [
+        "ITC Pvt. Ltd. has developed testing facility for Ex electrical and non-electrical equipment in accordance with EN harmonized standards as well IEC/IS standards, some of which are given below:",
+        "EN/IEC/IS 60079-0 provides general requirements for the design, construction, testing, and marking of electrical equipment and components intended for use in explosive gas atmospheres. It sets out principles and provides guidance on the assessment of hazards and risks associated with explosive atmospheres, aiming to prevent the ignition of explosive gases and vapors.",
+        "EN 60079-0 (IEC 60079-0) is necessary for every Ex (explosive atmosphere) product because it serves as the foundational standard that sets out general requirements and principles for ensuring the safety of electrical equipment used in explosive atmospheres.",
+        "However, EN/IEC/IS 60079-0 cannot be used alone as a standalone standard for certification or compliance. Instead, it serves as a foundational document within the broader EN 60079 series, specifically addressing general requirements for electrical equipment used in explosive gas atmospheres."
+      ],
+      "bullets": [
+        "EN/IEC/IS 60079-0 : Explosive atmospheres – Part 0: Equipment – General requirements"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "S.No.",
+            "Clause",
+            "Type of Test/Inspection"
+          ],
+          "rows": [
+            [
+              "1",
+              "6.3",
+              "Opening time test *"
+            ],
+            [
+              "2",
+              "6.3",
+              "Capacitance discharge timing test *"
+            ],
+            [
+              "3",
+              "17.2.1",
+              "Ingress Protection – IP Code 1X-2X – Protected Against Solid foreign objects on ventilation openings *"
+            ],
+            [
+              "4",
+              "26.4.2",
+              "Resistance to impact *"
+            ],
+            [
+              "5",
+              "26.4.3",
+              "Drop test *"
+            ],
+            [
+              "6",
+              "26.4.5",
+              "Degree of protection (IP) by enclosures – dust test *"
+            ],
+            [
+              "7",
+              "26.4.5",
+              "Degree of protection (IP) by enclosures – water test *"
+            ],
+            [
+              "8",
+              "26.5.1",
+              "Temperature measurement tests *"
+            ],
+            [
+              "9",
+              "26.5.2",
+              "Thermal shock test *"
+            ],
+            [
+              "10",
+              "26.5.3",
+              "Small component ignition test (Group I and Group II)"
+            ],
+            [
+              "11",
+              "26.6",
+              "Torque test for bushings *"
+            ],
+            [
+              "12",
+              "26.8",
+              "Thermal endurance to heat *"
+            ],
+            [
+              "13",
+              "26.9",
+              "Thermal endurance to cold *"
+            ],
+            [
+              "14",
+              "26.10",
+              "Resistance to UV light"
+            ],
+            [
+              "15",
+              "26.11",
+              "Resistance to chemical agents for Group I equipment *"
+            ],
+            [
+              "16",
+              "26.12",
+              "Earth continuity *"
+            ],
+            [
+              "17",
+              "26.13",
+              "Surface resistance test of parts of parts of enclosures of non-metallic materials *"
+            ],
+            [
+              "18",
+              "26.14",
+              "Measurement of capacitance *"
+            ],
+            [
+              "19",
+              "26.15",
+              "Verification of ratings of ventilating fans"
+            ],
+            [
+              "20",
+              "26.16",
+              "Alternative qualification of elastomeric sealing O-rings"
+            ],
+            [
+              "21",
+              "26.17",
+              "Transferred charge test *"
+            ],
+            [
+              "22",
+              "A.3.1",
+              "Tests of clamping of non-armoured and braided cables *"
+            ],
+            [
+              "23",
+              "A.3.2",
+              "Tests of clamping of armoured cables *"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/atex-testing-certification/6635173e8e92.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/atex-testing-certification/f46e1fd60e73.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Type of tests under EN/IEC/EN 60079-0 Standard",
+      "paragraphs": [
+        "The construction standard EN 60079-1 defines flameproof as: ‘An enclosure in which the parts which can ignite an explosive atmosphere are placed and which can withstand the pressure developed during an internal explosion of an explosive mixture, and which prevents the transmission of the explosion to the explosive atmosphere surrounding the enclosure’. It has a wide range of applications, typically junction boxes, lighting fittings, electric motors, cable glands, switchgears etc.",
+        "Zone of Use:zone 1,zone 2, zone 21, zone 22 Suitable Gas Groups: IIC, IIB & IIA",
+        "Note: Can be used in zone 0 and zone 20 for catalytic sensors of portable gas detectors."
+      ],
+      "bullets": [
+        "EN 60079-1 : Explosive atmospheres – Part 1: Equipment protection by flameproof enclosures”d”"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/atex-testing-certification/578de3726e8c.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/atex-testing-certification/ee6b2f09f185.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Type of tests",
+      "paragraphs": [
+        "Definition ‘A protection method in which increased measures are taken to prevent the possibility of excessive HEAT, ARCS or SPARKS occurring on internal or external parts of the apparatus in normal operation’.",
+        "EN 60079-7 defines the requirements for increased safety (Ex e) electrical equipment, ensuring that such equipment is designed and tested to prevent ignition in explosive atmospheres through robust design features and rigorous testing procedures. Manufacturers must adhere to these requirements to ensure the safety and reliability of their products in hazardous environments.",
+        "Zone of Use: 1 & 2 Ambient Temperatures: Increased Safety enclosures are normally designed for use in ambient temperatures in the range -20 °C to +40 °C unless otherwise marked. Equipment that normally causes sparks is excluded from use within this method of explosion protection.",
+        "Intrinsic Safety is a widely used method of explosion protection. It is used for very low power applications only, and typical examples are control and instrumentation circuits.",
+        "Definition ‘A type of protection based on the restriction of electrical energy within apparatus and of interconnecting wiring exposed to the potentially explosive atmosphere to a level below that which can cause ignition by either sparking or heating effects. Zones of use: 0, 1 & 2 (Ex ia) (based on traditional approach) 1 & 2 (Ex ib) 2 (Ex ic)"
+      ],
+      "bullets": [
+        "EN 60079-7 : Explosive atmospheres – Part 7: Equipment protection by increased safety “e”",
+        "EN 60079-11: Explosive atmospheres – Part 11: Equipment protection by intrinsic safety ”i”"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "S.no.",
+            "clause",
+            "Type of test"
+          ],
+          "rows": [
+            [
+              "1",
+              "5",
+              "Verification and tests * e.g. Measurement of flamepaths and enclosure dimensions"
+            ],
+            [
+              "2",
+              "15.2.2",
+              "Determination of Reference Pressure *"
+            ],
+            [
+              "3",
+              "15.2.3",
+              "Overpressure test *"
+            ],
+            [
+              "4",
+              "15.3",
+              "Test for non-transmission of an internal ignition *"
+            ],
+            [
+              "5",
+              "15.4",
+              "Tests of flameproof enclosures with breathing and draining devices"
+            ],
+            [
+              "6",
+              "15.5",
+              "Tests for “dc” devices *"
+            ],
+            [
+              "7",
+              "B.1.2",
+              "Sintered metal elements – bubble test pore size"
+            ],
+            [
+              "8",
+              "B.1.3",
+              "Sintered metal elements – Density"
+            ],
+            [
+              "9",
+              "B.1.4",
+              "Sintered metal elements – Open porosity and/or fluid permeability"
+            ],
+            [
+              "10",
+              "C.3.1",
+              "Cable glands – Sealing test *"
+            ],
+            [
+              "11",
+              "C.3.3.1 C.3.4.1",
+              "Type tests for Ex blanking elements – Torque test *"
+            ],
+            [
+              "12",
+              "C.3.4.2",
+              "Impact test for thread adapters *"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "S.no.",
+            "clause",
+            "Type of test"
+          ],
+          "rows": [
+            [
+              "1",
+              "6.1",
+              "Dielectric strength *"
+            ],
+            [
+              "2",
+              "6.2 6.2.1",
+              "Rotating electrical machines Determination of starting current ratio IA/ IN and the time tE"
+            ],
+            [
+              "3",
+              "6.2.3 6.2.3.1",
+              "Additional tests Stator winding insulation"
+            ],
+            [
+              "4",
+              "6.2.3.2",
+              "Cage rotor"
+            ],
+            [
+              "5",
+              "6.2.4",
+              "Overspeed test of cemented magnets"
+            ],
+            [
+              "6",
+              "6.3 6.3.2",
+              "Luminaires Impact and drop tests*"
+            ],
+            [
+              "7",
+              "6.3.3",
+              "Mechanical tests for screw lampholders other than E10 *"
+            ],
+            [
+              "8",
+              "6.3.4",
+              "Abnormal operation of luminaires"
+            ],
+            [
+              "9",
+              "6.3.5",
+              "Sulphur dioxide test for level of protection “eb” for the connection of bi-pin lamp caps to lampholders"
+            ],
+            [
+              "10",
+              "6.3.6",
+              "Vibration test for level of protection “eb” for luminaires with bi-pin lamps"
+            ],
+            [
+              "11",
+              "6.3.7",
+              "Tests for wiring of luminaries subject to high-voltage impulses from ignitors"
+            ],
+            [
+              "12",
+              "6.3.8",
+              "Tests for electronic starters for tubular fluorescent lamps and for ignitors in level of protection “ec” for discharge lamps"
+            ],
+            [
+              "13",
+              "6.3.9",
+              "Test for starter holders for luminaires in Level of Protection “ec”"
+            ],
+            [
+              "14",
+              "6.4",
+              "Measuring instruments and instrument transformers*"
+            ],
+            [
+              "15",
+              "6.5",
+              "Transformers and other than instrument transformers*"
+            ],
+            [
+              "16",
+              "6.6 6.6.2",
+              "Verification and tests for cells and batteries of Level of Protection “eb” Insulation test *"
+            ],
+            [
+              "17",
+              "6.6.3",
+              "Mechanical shock test"
+            ],
+            [
+              "18",
+              "6.6.4",
+              "Test for Level of Protection “eb” ventilation of battery container"
+            ],
+            [
+              "19",
+              "6.7",
+              "Verification and tests for cells and batteries of Level of Protection “ec”"
+            ],
+            [
+              "20",
+              "6.8",
+              "General purpose junction boxes*"
+            ],
+            [
+              "21",
+              "6.9",
+              "Resistance heating devices (not trace heating) *"
+            ],
+            [
+              "22",
+              "6.10",
+              "Terminal insulating material tests – thermal conditioning then pull test *"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/atex-testing-certification/56b4f7bccd08.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/atex-testing-certification/5dc86b565822.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/atex-testing-certification/55cb6ab3550e.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/atex-testing-certification/2342231addf4.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Type of tests",
+      "paragraphs": [],
+      "bullets": [
+        "EN 80079-36 : Explosive atmospheres – Part 36: Non electrical equipment for explosive atmospheres – Basic method and requirements"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "S.no.",
+            "Clause",
+            "Type of test"
+          ],
+          "rows": [
+            [
+              "1",
+              "10.1",
+              "Spark ignition test *"
+            ],
+            [
+              "2",
+              "10.2",
+              "Temperature tests *"
+            ],
+            [
+              "3",
+              "10.3",
+              "Dielectric strength tests *"
+            ],
+            [
+              "4",
+              "10.4",
+              "Determination of parameters of loosely specified components *"
+            ],
+            [
+              "5",
+              "10.5",
+              "Tests for cells and batteries *"
+            ],
+            [
+              "6",
+              "10.6",
+              "Mechanical tests *"
+            ],
+            [
+              "7",
+              "10.7",
+              "Tests for apparatus containing piezoelectric devices *"
+            ],
+            [
+              "8",
+              "10.8",
+              "Type tests for diode safety barriers and safety shunts *"
+            ],
+            [
+              "9",
+              "10.9",
+              "Cable pull tests *"
+            ],
+            [
+              "10",
+              "10.10",
+              "Transformer tests *"
+            ],
+            [
+              "11",
+              "10.11",
+              "Optical isolators tests *"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "S.no.",
+            "Clause",
+            "Type of tests"
+          ],
+          "rows": [
+            [
+              "1",
+              "8.2.1",
+              "Determination of the maximum surface temperature *"
+            ],
+            [
+              "2",
+              "8.2.2",
+              "Hot surface ignition test *"
+            ],
+            [
+              "3",
+              "8.3.1",
+              "Resistance to impact *"
+            ],
+            [
+              "4",
+              "8.3.2",
+              "Drop test *"
+            ],
+            [
+              "5",
+              "8.4.1",
+              "Additional tests of non-metallic parts. Test temperatures"
+            ],
+            [
+              "6",
+              "8.4.2",
+              "Additional tests of non-metallic parts. Tests for Group I equipment"
+            ],
+            [
+              "7",
+              "8.4.3",
+              "Additional tests of non-metallic parts. Tests for Group II equipment"
+            ],
+            [
+              "8",
+              "8.4.4",
+              "Additional tests of non-metallic parts. Thermal endurance to heat *"
+            ],
+            [
+              "9",
+              "8.4.5",
+              "Additional tests of non-metallic parts. Thermal endurance to cold *"
+            ],
+            [
+              "10",
+              "8.4.6",
+              "Additional tests of non-metallic parts. Resistance to chemical substances for Group I equipment"
+            ],
+            [
+              "11",
+              "8.4.7",
+              "Additional tests of non-metallic parts. Mechanical resistance tests"
+            ],
+            [
+              "12",
+              "8.4.8",
+              "Additional tests of non-metallic parts. Surface resistivity test *"
+            ],
+            [
+              "13",
+              "8.4.9",
+              "Additional tests of non-metallic parts. Thermal shock test *"
+            ],
+            [
+              "14",
+              "Annex D D.4.2.1",
+              "Determination of the most efficient charging method * Rubbing with pure polyamide cloth"
+            ],
+            [
+              "15",
+              "Annex D D.4.2.2",
+              "Determination of the most efficient charging method * Rubbing with cotton cloth"
+            ],
+            [
+              "16",
+              "Annex D D.4.2.3",
+              "Determination of the most efficient charging method * Charging with a DC high voltage power supply"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/atex-testing-certification/db620b523d7e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "ATEX CERTIFICATION",
+      "paragraphs": [
+        "ATEX certification refers to a set of regulations and directives governing equipment and protective systems intended for use in potentially explosive atmospheres. The term “ATEX” comes from the French phrase “Atmosphères Explosibles” and is derived from the European Union directive 2014/34/EU. It applies to equipment and protective systems intended for use in environments where there is a risk of explosion due to the presence of flammable gases, vapors, mists, or combustible dusts.",
+        "To launch the Ex equipment in europian econimic area, ATEX certification is madatory for Ex equipments"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ATEX certification procedure map",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/atex-testing-certification/b2a5baa93968.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "2. IECEx CERTIFICATION",
+      "paragraphs": [
+        "IECEx certification, short for the International Electrotechnical Commission System for Certification to Standards Relating to Equipment for Use in Explosive Atmospheres, is a global certification system for electrical and non-electrical equipment intended for use in hazardous areas where the risk of explosion is present due to flammable gases, vapors, liquids, or combustible dusts.",
+        "This certification system ensures that equipment complies with international standards for safety in explosive atmospheres, promoting uniformity and facilitating trade across different countries and regions. The IECEx scheme covers various aspects of equipment design, construction, testing, and performance to mitigate the risk of ignition and ensure safe operation in potentially hazardous environments."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/atex-testing-certification/20bba564fcf5.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "3. PESO CERTIFICATION",
+      "paragraphs": [
+        "PESO certification, also known as Petroleum and Explosives Safety Organization certification, is a regulatory requirement in India for ensuring the safety and quality of equipment and materials used in hazardous industries such as oil and gas, petrochemicals, explosives manufacturing, and mining. PESO is an organization under the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India.",
+        "The PESO certification process involves evaluating equipment and materials to ensure compliance with relevant Indian standards and regulations related to safety, quality, and performance.",
+        "Please check below link to see requirements for PESO approval of Ex equipment:",
+        "https://peso.gov.in/web/updates/procedure-approval-ex-electrical-equipment"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Who can avail Certification",
+      "paragraphs": [
+        "Cable glands, Automatic Lubricator, Electric Pumps, Motors, Fans, Blowers, Mechanical Brakes, Gears, Valves, HVAC, Chillers, Storage Cabinets, Junction Boxes, Empty Panels, Plugs & Socket Outlets, Flame Arrests, Spark Arresters, Transmitter ,Thermocouples, RTD’s, load cells Barrier/Electronic, Machines, and Non Electrical Assembly are among the items that manufacturers and exporters can certify for ATEX compliance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/atex-testing-certification/e36fceacdb97.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/6635173e8e92.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/f46e1fd60e73.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/578de3726e8c.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/ee6b2f09f185.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/56b4f7bccd08.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/5dc86b565822.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/55cb6ab3550e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/2342231addf4.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/db620b523d7e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/b2a5baa93968.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/20bba564fcf5.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/atex-testing-certification/e36fceacdb97.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/6635173e8e92.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/f46e1fd60e73.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/578de3726e8c.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/ee6b2f09f185.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/56b4f7bccd08.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/5dc86b565822.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/55cb6ab3550e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/2342231addf4.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/db620b523d7e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/b2a5baa93968.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/atex-testing-certification/20bba564fcf5.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    },
+    {
+      "href": "/calibration-of-surge-generator",
+      "label": "Calibration of Surge Generators"
+    }
+  ]
+}

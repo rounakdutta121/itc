@@ -1,0 +1,258 @@
+{
+  "hero": "/images/page-heroes/bs-en-1838-2013-emergency-lighting.webp",
+  "heroPortrait": "/images/page-heroes/bs-en-1838-2013-emergency-lighting-portrait.webp",
+  "generatedIntro": "/images/page-sections/bs-en-1838-2013-emergency-lighting-s1.webp",
+  "generatedMid": "/images/page-sections/bs-en-1838-2013-emergency-lighting-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/bs-en-1838-2013-emergency-lighting-s1.webp",
+    "/images/page-sections/bs-en-1838-2013-emergency-lighting-s2.webp",
+    "/images/page-sections/bs-en-1838-2013-emergency-lighting-s3.webp",
+    "/images/page-sections/bs-en-1838-2013-emergency-lighting-s4.webp",
+    "/images/page-sections/bs-en-1838-2013-emergency-lighting-s5.webp",
+    "/images/page-sections/bs-en-1838-2013-emergency-lighting-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 6 | 1037 | – | KEEP",
+  "slug": "bs-en-1838-2013-emergency-lighting",
+  "path": "/bs-en-1838-2013-emergency-lighting",
+  "source": "https://www.itcindia.org/bs-en-1838-2013-emergency-lighting/",
+  "ok": true,
+  "title": "BS EN 1838:2013 Emergency Lighting - ITCIndia",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "BS EN 1838:2013 Emergency Lighting Testing, First of all, What is BS EN 1838:2013 standard? This standard states general rules for emergency escape",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/bs-en-1838-2013-emergency-lighting/e94330cffbac.jpg",
+          "alt": "BS EN 1838:2013 Emergency Lighting"
+        }
+      ]
+    },
+    {
+      "heading": "BS EN 1838:2013 Emergency Lighting Testing",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S.No",
+            "Type of lightning",
+            "Objective"
+          ],
+          "rows": [
+            [
+              "1",
+              "Emergency lighting",
+              "to ensure the safety lighting is provided on the dot in a specified area when the normal mains power supply to the usual lighting installation fails."
+            ],
+            [
+              "2",
+              "Emergency Escape lightning",
+              "to enable a safe exit from a location and/or building in the event of failure of the mains’ normal supply"
+            ],
+            [
+              "3",
+              "Emergency Escape route lightning",
+              "to enable the safe exit from a location or building for occupants by providing appropriate visual conditions and direction finding on escape routes, and in special locations, and to ensure that firefighting and safety equipment can be readily located and used."
+            ],
+            [
+              "4",
+              "Anti Panic Lightning",
+              "to enable safe movement of occupants towards escape routes by providing appropriate visual conditions and direction finding."
+            ],
+            [
+              "5",
+              "High-Risk task area lightning",
+              "to the safety of people involved in a potentially dangerous process or situation and to enable proper shutdown procedures to be carried out for the safety of other occupants of the location or the building."
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "2. Electrical Contractor",
+      "paragraphs": [
+        "3. Landlords, employers and any individual with responsibility for premises such as hospitals, care homes, hotels, schools, laboratories, theatres, cinemas, concert halls, sports halls, libraries, shops, museums and sports stadium. Revised editions of BS EN 1838 has :",
+        "Every employer is required to carry out a risk assessment to identify the risks to people who enter the employer’s premises;",
+        "Measures to be taken on basis of Risk Assessment",
+        "· Provision of safe means of escape",
+        "· Emergency lightning",
+        "· take into account the needs of people with disabilities"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Illumination of the points of emphasis has been clarified and improved and external illuminations have been clarified as needed to extend to a place of safety Illumination of fire alarm call points and first aid posts are now consistent, regardless of location The colour and style of safety signs is amended to the revised ISO format A deviation of some countries has been amended."
+          ],
+          "rows": []
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "2. The time span of the emergency lighting",
+      "paragraphs": [
+        "3. Discover emergency escape routes and take account of possible dangers.",
+        "4. Find the locations of fire alarm call points, firefighting equipment and fire safety signs"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "6. Means of isolation for testing and/or maintenance",
+      "paragraphs": [
+        "7. Coordination/interface with luminaire manufacturers where main luminaires are to be converted into emergency lighting luminaires"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "9. Find any high-risk areas",
+      "paragraphs": [
+        "10. Open areas larger than 60m² floor areas need to be identified",
+        "11. Need for external illumination outside final exit doors and on a route to a place of safety."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Locations",
+      "paragraphs": [
+        "It is paramount that the emergency luminaires are placed to give suitable illuminance in the event of a failure of the normal lighting."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S.no",
+            "Area",
+            "Details"
+          ],
+          "rows": [
+            [
+              "1",
+              "Open Area",
+              "Open areas are often called anti-panic lighting. These are areas larger than 60m² floor area or maybe areas identified by the fire risk assessment as requiring safety illumination"
+            ],
+            [
+              "2",
+              "Emergency Exit and escape route",
+              "Emergency exits and escape routes should be provided with signs"
+            ],
+            [
+              "3",
+              "External areas in the immediate vicinity of exits",
+              "In order to assist dispersal to a place of safety, the external areas in the immediate vicinity of final exits should be illuminated in accordance with the illumination level for escape routes, given in EN 1838 (BS 5266-7) of not less than 1 Lux"
+            ],
+            [
+              "4",
+              "Lift cars",
+              "Lift present a problem because the experience of being confined in the dark within a small space for an indefinite period of time is not only unpleasant but may cause harm to those who are nervous or suffer from claustrophobia"
+            ],
+            [
+              "5",
+              "Moving stairways and walkways",
+              "Moving stairways and walkways should be illuminated as if they were part of an escape route in the event of mains failure."
+            ],
+            [
+              "6",
+              "Toilet Facilities",
+              "Toilet facilities exceeding 8 metres squared gross area should be provided with emergency lighting as if they were open areas."
+            ],
+            [
+              "7",
+              "Switch rooms and plant rooms",
+              "Emergency lighting should be provided in all motor generator rooms, control rooms, plant rooms, switch rooms and adjacent to main switchgear or control equipment associated with the provision of normal and emergency lighting to the premises."
+            ],
+            [
+              "8",
+              "Covered car parks",
+              "The pedestrian escape routes from covered and multi-storey car parks should be provided with emergency lighting."
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Duration of battery backup",
+      "paragraphs": [
+        "The battery back-up of the emergency lighting system will depend on the use of the building and the evacuation strategy. 3-hour duration is required in places of entertainment (cinemas, theatres, etc) and for buildings that have a sleeping risk (hotels and guesthouses, etc.). Lumination Levels",
+        "The level of illuminance required depends on the function of an area.",
+        "Certain specific locations require a specific illuminance and response time the below table gives the locations and response time."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Location",
+            "Minimum luminance(Lux)"
+          ],
+          "rows": [
+            [
+              "Kitchens",
+              "15"
+            ],
+            [
+              "First aid rooms",
+              "15"
+            ],
+            [
+              "Treatment rooms",
+              "50"
+            ],
+            [
+              "Refuges",
+              "5"
+            ],
+            [
+              "PlaPlant rooms, switch rooms & emergency winding facilities for lifts rooms, switch rooms & emergency winding facilities for lifts",
+              "15"
+            ],
+            [
+              "Fire alarm control and indicating equipment",
+              "15"
+            ],
+            [
+              "Reception areas",
+              "15"
+            ],
+            [
+              "Panic bars & pads or security devices",
+              "5"
+            ],
+            [
+              "Swimming pool surrounds and diving area",
+              "5"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/bs-en-1838-2013-emergency-lighting/e94330cffbac.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/bs-en-1838-2013-emergency-lighting/e94330cffbac.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

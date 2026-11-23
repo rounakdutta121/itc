@@ -1,0 +1,208 @@
+{
+  "hero": "/images/page-heroes/electrical-testing-for-automotive-components-2.webp",
+  "heroPortrait": "/images/page-heroes/electrical-testing-for-automotive-components-2-portrait.webp",
+  "generatedIntro": "/images/page-sections/electrical-testing-for-automotive-components-2-s1.webp",
+  "generatedMid": "/images/page-sections/electrical-testing-for-automotive-components-2-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/electrical-testing-for-automotive-components-2-s1.webp",
+    "/images/page-sections/electrical-testing-for-automotive-components-2-s2.webp",
+    "/images/page-sections/electrical-testing-for-automotive-components-2-s3.webp",
+    "/images/page-sections/electrical-testing-for-automotive-components-2-s4.webp",
+    "/images/page-sections/electrical-testing-for-automotive-components-2-s5.webp",
+    "/images/page-sections/electrical-testing-for-automotive-components-2-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "0 / 2 | 253 | no meta, thin, 2 img no alt, few links | EXPAND – keep text, add 400+ words",
+  "slug": "electrical-testing-for-automotive-components-2",
+  "path": "/electrical-testing-for-automotive-components-2",
+  "source": "https://www.itcindia.org/electrical-testing-for-automotive-components-2/",
+  "ok": true,
+  "title": "Electrical Testing for Automotive Components - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "WHY AUTOMOTIVE ELECTRONICS TESTING IS IMPORTANT? Following are the key benefits for testing of Electrical & Electronic components in vehicles:Thank you for reading this post, don't forget to subscribe! Providing safety of automotive electrical & electronics Components  by demonstrating compliance to applicable standards Clarifying market access of electrical & electronic components by meeting relevant country…Read More+",
+  "sections": [
+    {
+      "heading": "WHY AUTOMOTIVE ELECTRONICS TESTING IS IMPORTANT?",
+      "paragraphs": [
+        "Following are the key benefits for testing of Electrical & Electronic components in vehicles:"
+      ],
+      "bullets": [
+        "Providing safety of automotive electrical & electronics Components by demonstrating compliance to applicable standards",
+        "Clarifying market access of electrical & electronic components by meeting relevant country standards (e.g. EU Low Voltage and Machinery Directives and EMC Directives etc)",
+        "Saving time & money as well",
+        "Meeting end-user quality expectations for vehicle electrical & electronics Components."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Environmental Testing (Hot/Cold/Humidity/Thermal Shock)",
+      "paragraphs": [],
+      "bullets": [
+        "Electrical & Electronics safety Testing"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Vibration Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Special purpose testing as per costumer specification or requirements"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Testing",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/electrical-testing-for-automotive-components-2/d360e82d567c.jpg",
+          "alt": "Electrical EMC testing of Automotive components"
+        },
+        {
+          "src": "/images/migrated/electrical-testing-for-automotive-components-2/74b6f769af06.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Standards",
+      "paragraphs": [],
+      "bullets": [
+        "AIS : 048/IEC 60254: Lead-acid traction batteries – Part 1: General requirements and methods of tests.",
+        "IEC 62969-1: Semiconductor devices – Semiconductor interface for automotive vehicles – Part 1: General requirements of power interface for automotive vehicle sensors.",
+        "IEC 60721-3-5: Classification of environmental conditions – Part 3: Classification of groups of environmental parameters and their severities -Section 5: Ground vehicle installations",
+        "IEC 60839-3-5: Alarm systems – Part 10: Alarm systems for road vehicles – Section 1: Passenger cars",
+        "IEC 60529: Degrees of protection provided by enclosures (IP Code)",
+        "IEC 60068: Environmental testing – Part 2: Tests – ALL PARTS",
+        "IEC 61000: Electromagnetic compatibility (EMC)",
+        "IEC 60068-2-11:Basic environmental testing procedures – Part 2-11: Tests – : Salt mist"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/electrical-testing-for-automotive-components-2/d360e82d567c.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electrical-testing-for-automotive-components-2/74b6f769af06.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/electrical-testing-for-automotive-components-2/d360e82d567c.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electrical-testing-for-automotive-components-2/74b6f769af06.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

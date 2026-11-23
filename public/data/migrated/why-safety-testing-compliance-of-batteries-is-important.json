@@ -1,0 +1,95 @@
+{
+  "hero": "/images/page-heroes/why-safety-testing-compliance-of-batteries-is-important.webp",
+  "heroPortrait": "/images/page-heroes/why-safety-testing-compliance-of-batteries-is-important-portrait.webp",
+  "generatedIntro": "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s1.webp",
+  "generatedMid": "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s1.webp",
+    "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s2.webp",
+    "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s3.webp",
+    "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s4.webp",
+    "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s5.webp",
+    "/images/page-sections/why-safety-testing-compliance-of-batteries-is-important-s6.webp"
+  ],
+  "category": "battery",
+  "action": "EXPAND",
+  "note": "262 | no meta, thin | LOW: expand or merge into /battery-testing/",
+  "slug": "why-safety-testing-compliance-of-batteries-is-important",
+  "path": "/why-safety-testing-compliance-of-batteries-is-important",
+  "source": "https://www.itcindia.org/why-safety-testing-compliance-of-batteries-is-important/",
+  "ok": true,
+  "title": "Why Safety Testing/Compliance of Batteries is Important? - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Many explosions in mobile batteries, laptops, notebooks car batteries etc. are seen in past few years. There are many reported incidents due to battery explosion in mobile phone, laptops, cars, vape, Hover board and many more … What were the reasons of the explosion….Thank you for reading this post, don't forget to subscribe! Either Battery…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Many explosions in mobile batteries, laptops, notebooks car batteries etc. are seen in past few years. There are many reported incidents due to battery explosion in mobile phone, laptops, cars, vape, Hover board and many more … What were the reasons of the explosion…."
+      ],
+      "bullets": [
+        "Either Battery were made of cheaper material or recycled batteries were used",
+        "Overcharging",
+        "Exposed to high temperature or humidity"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/why-safety-testing-compliance-of-batteries-is-important/e6c83aa033e1.webp",
+          "alt": "battery testing"
+        }
+      ]
+    },
+    {
+      "heading": "Effect on User",
+      "paragraphs": [],
+      "bullets": [
+        "Risk to users safety",
+        "resulted in injury",
+        "less reliable"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Effect on Manufacturer",
+      "paragraphs": [],
+      "bullets": [
+        "degrade the cost",
+        "Degrade in market with no reputation",
+        "Less sale /No sale",
+        "The Electrical & Chemical hazards Spillage: hazard linked to the corrosive and flammable properties of the electrolyte.",
+        "Toxic or harmful Gas Emission like CO.",
+        "Fire"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Ejection of Parts",
+      "paragraphs": [
+        "To avoid above said incidents on Battery explosion, Compliance testing is necessary for all manufacturer, Importer and supplier. Secondary batteries or portable batteries or rechargeable batteries are to be tested as per IEC 62133 / IS 16046.",
+        "ITC India Pvt Ltd is leading service provider for all kinds of battery testing including IEC 62133 / IS 16046. All types of cells, protection circuit, battery management systems, battery packs ITC India is in the good list of clients. For any query please write to us at info@itcindia.org."
+      ],
+      "bullets": [
+        "High Voltage: a direct danger to humans due to exposure to high voltage or high current",
+        "Loss of one (or more) of the battery service functions"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/why-safety-testing-compliance-of-batteries-is-important/e6c83aa033e1.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/why-safety-testing-compliance-of-batteries-is-important/e6c83aa033e1.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

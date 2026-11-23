@@ -1,0 +1,204 @@
+{
+  "hero": "/images/page-heroes/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements.webp",
+  "heroPortrait": "/images/page-heroes/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-portrait.webp",
+  "generatedIntro": "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s1.webp",
+  "generatedMid": "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s1.webp",
+    "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s2.webp",
+    "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s3.webp",
+    "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s4.webp",
+    "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s5.webp",
+    "/images/page-sections/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "ADD",
+  "note": "544 | no meta, no H2 | LOW: add meta; link to pyranometer hub",
+  "slug": "cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements",
+  "path": "/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements",
+  "source": "https://www.itcindia.org/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/",
+  "ok": true,
+  "title": "CMP Series Pyranometer Calibration: Ensuring Precision in Solar Measurements - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Calibrating a CMP series pyranometer is essential for maintaining accurate solar radiation data, particularly for applications in meteorology, photovoltaics, and climate research. A well-calibrated sensor ensures reliable performance and compliance with international standards. NABL Lab Calibration….ITC India Pvt Ltd & info@itcindia.org & 9316473033Thank you for reading this post, don't forget to subscribe! Why Calibration Matters…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Calibrating a CMP series pyranometer is essential for maintaining accurate solar radiation data, particularly for applications in meteorology, photovoltaics, and climate research. A well-calibrated sensor ensures reliable performance and compliance with international standards. NABL Lab Calibration….ITC India Pvt Ltd & info@itcindia.org & 9316473033"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/ba747b4eae05.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Why Calibration Matters",
+      "paragraphs": [
+        "Over time, pyranometers experience sensor drift due to environmental exposure, contamination, and aging. Regular calibration compensates for these changes, ensuring that the measurements remain within acceptable accuracy limits. Calibration typically involves comparing the sensor’s output against a reference standard under controlled conditions.",
+        "ITC India is now NABL approved for Pyranometer series calibration…."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/51ce78936682.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Recommended Calibration Frequency",
+      "paragraphs": [
+        "Would you like guidance on a specific pyranometer model calibration (e.g., CMP6, CMP11, CMP21)?",
+        "Contact ITC India Pvt Ltd: 📞 9316473033 | ✉️ info@itcindia.org"
+      ],
+      "bullets": [
+        "Every 2 years (per ISO 9847 recommendations).",
+        "Annual checks if the pyranometer is used in harsh environments (e.g., desert, coastal, or industrial areas)."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1. Factory Calibration (Best Practice)",
+      "paragraphs": [],
+      "bullets": [
+        "Conducted in an ISO 17025-accredited lab by Kipp & Zonen.",
+        "Uses a traceable secondary standard pyranometer under controlled conditions.",
+        "Ensures compliance with ISO 9060 and ISO 9847."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Field Calibration (On-Site Verification)",
+      "paragraphs": [],
+      "bullets": [
+        "Ideal for users needing to validate sensor performance without removing the instrument.",
+        "Requires a recently calibrated reference pyranometer placed beside the CMP sensor.",
+        "Simultaneous measurements are compared, and correction factors are applied if necessary."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3. Lamp-Based Calibration (Laboratory Alternative)",
+      "paragraphs": [],
+      "bullets": [
+        "Uses a high-stability tungsten-halogen lamp as a controlled light source.",
+        "Suitable for relative comparisons but lacks the accuracy of outdoor solar-based methods.",
+        "Works best for preliminary checks rather than full-scale recalibrations."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/222b24a23d60.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "1. Pre-Calibration Checks",
+      "paragraphs": [
+        "✅ Clean the dome – Remove dust, dirt, or condensation that may affect readings.",
+        "✅ Check leveling – Ensure the pyranometer is perfectly horizontal using the built-in bubble level.",
+        "✅ Record ambient conditions – Temperature and humidity can influence sensor performance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Reference Measurement",
+      "paragraphs": [],
+      "bullets": [
+        "Position the CMP pyranometer next to a recently calibrated reference pyranometer.",
+        "Align both sensors to capture identical solar radiation exposure.",
+        "Log voltage outputs over a defined period (e.g., 5-minute intervals for 1 hour)."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The sensitivity S (µV/W·m²) is determined using",
+      "paragraphs": [
+        "Where:"
+      ],
+      "bullets": [
+        "E = Solar irradiance from the reference pyranometer (W/m²)",
+        "V = Measured voltage from the CMP pyranometer (µV)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4. Apply Corrections & Update Sensitivity Value",
+      "paragraphs": [],
+      "bullets": [
+        "If the new sensitivity deviates significantly from the original factory value, adjustments are required.",
+        "Update data acquisition systems with the new calibration factor.",
+        "If deviations exceed ±2%, consider sending the unit for professional recalibration."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The Importance of Regular Calibration",
+      "paragraphs": [
+        "Regular calibration of CMP series pyranometers is not just a formality—it’s a critical step in ensuring accurate solar data for energy forecasting, climate modeling, and scientific research. Whether relying on factory recalibration or on-site validation, a properly calibrated pyranometer guarantees precision, reliability, and confidence in your measurements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Illustrative Examples & Best Practices",
+      "paragraphs": [
+        "For expert calibration services, contact ITC India Pvt Ltd: 📞 9316473033 | ✉️ info@itcindia.org"
+      ],
+      "bullets": [
+        "Calibration Setup IllustrationCMP pyranometer placed next to a reference pyranometer under sunlight.",
+        "Connection to a data logger or multimeter.",
+        "Sensitivity Calculation ExampleA graphical representation of voltage vs. irradiance.",
+        "Factory vs. Field Calibration ComparisonSide-by-side comparison of lab calibration vs. outdoor field calibration.",
+        "Pyranometer Cleaning & Maintenance StepsProper cleaning technique using a lint-free cloth and distilled water."
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/ba747b4eae05.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/51ce78936682.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/222b24a23d60.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/ba747b4eae05.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/51ce78936682.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/cmp-series-pyranometer-calibration-ensuring-precision-in-solar-measurements/222b24a23d60.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

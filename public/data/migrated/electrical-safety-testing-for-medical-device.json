@@ -1,0 +1,603 @@
+{
+  "hero": "/images/page-heroes/electrical-safety-testing-for-medical-device.webp",
+  "heroPortrait": "/images/page-heroes/electrical-safety-testing-for-medical-device-portrait.webp",
+  "generatedIntro": "/images/page-sections/electrical-safety-testing-for-medical-device-s1.webp",
+  "generatedMid": "/images/page-sections/electrical-safety-testing-for-medical-device-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/electrical-safety-testing-for-medical-device-s1.webp",
+    "/images/page-sections/electrical-safety-testing-for-medical-device-s2.webp",
+    "/images/page-sections/electrical-safety-testing-for-medical-device-s3.webp",
+    "/images/page-sections/electrical-safety-testing-for-medical-device-s4.webp",
+    "/images/page-sections/electrical-safety-testing-for-medical-device-s5.webp",
+    "/images/page-sections/electrical-safety-testing-for-medical-device-s6.webp"
+  ],
+  "category": "medical",
+  "action": "ADD",
+  "note": "0 / 37 | 543 | no H2, few links | KEEP – add meta + link to /iec-60601-testing/",
+  "slug": "electrical-safety-testing-for-medical-device",
+  "path": "/electrical-safety-testing-for-medical-device",
+  "source": "https://www.itcindia.org/electrical-safety-testing-for-medical-device/",
+  "ok": true,
+  "title": "Electrical Safety Testing for Medical Device",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "If you are looking for Electrical safety testing for Medical Device, ITCIndia can help you! Test Medical equipments as per IEC 60601-1.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India Pvt Ltd is accredited laboratory to test Medical equipment as per IEC 60601-1. The test procedure followed by the laboratory is mentioned in this article. All the testing is done with the highly accurate and calibrated machines. Even qualified engineers are appointed to do the testing of medical products. Safety testing is required at the point of manufacturing of the equipment and before its launch. Safety testing ensures that no hazardous voltage or current are accessible to the user."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why do safety testing of Electrical Equipment?",
+      "paragraphs": [
+        "The answer is for the safety of the operator as well as to block harm to patient and staff. Identifying, correcting and eliminating shock hazards is the motive of electrical safety testing.",
+        "Most of current, voltage and frequencies give harm to the operators, patients and staff. Now, let us discuss about these factors in details.",
+        "We would like to consider the frequency first; Low frequency a.c signals accidentally used to human tissues can cause somatic sensation, muscles cramp or even death. Sensitivity is very much dependent on frequency which should be restricted to a maximum of 60 Hz.",
+        "Another factor is the patient skin resistance, whenever the resistance decreases, smaller voltage can result in higher and higher current and hence can injure patient. The resistance of human body decreases due to illness. Dry and healthy skin has a resistance of 60 kΩ to 100 kΩ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Effect of current on Human Body",
+      "paragraphs": [
+        "Patient contact with leads, catheters, etc. from medical instrumentation reduces skin’s resistance. All of these devices have direct patient contact and can be a conduit for dangerous low frequency a.c. signals. e.g. EKG leads, Catheters inserted into the body, Probes, ESU devices, Defib paddles, Physical therapy equipment. Keeping all in mind many kinds of current are studied by the standards."
+      ],
+      "bullets": [
+        "Chassis source current",
+        "Ground current",
+        "Lead current",
+        "Isolation test"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "S.No",
+            "Current",
+            "Reaction"
+          ],
+          "rows": [
+            [
+              "1",
+              "Less than 1mA",
+              "Generally not recognizable"
+            ],
+            [
+              "2",
+              "1mA",
+              "Faint tingle"
+            ],
+            [
+              "3",
+              "5mA",
+              "Injuries"
+            ],
+            [
+              "4",
+              "6-25 mA",
+              "Painful shock, loss of muscular control"
+            ],
+            [
+              "5",
+              "50 – 150 mA",
+              "Extreme pain, respiratory arrest, death possible"
+            ],
+            [
+              "6",
+              "1000-4300mA",
+              "Muscular contraction and nerve damage, death likely"
+            ],
+            [
+              "7",
+              "10,000mA",
+              "Cardiac Arrest, severe burns, even death"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "The test Plan of IEC 60601-1",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S. No.",
+            "Clause No.",
+            "Title of test",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "1",
+              "4.1-4.10",
+              "General Requirements",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "4.11",
+              "Power input",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "8.4.2",
+              "Protection against accidental contact",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "8.7",
+              "Leakage Current & Patient Auxiliary current",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "8.7.4.5",
+              "Earth Leakage Current",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "8.7.4.6",
+              "Enclosure leakage Current",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "8.7.4.7",
+              "Patient Leakage Current",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "8.7.4.8",
+              "Patient Auxiliary Current",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "8.8.3",
+              "Dielectric Strength Test",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "a.",
+              "Insulation Resistance Test",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "5.7",
+              "Humidity preconditioning treatment",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "7",
+              "Identification, Marking and Documents.",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "8.4.3",
+              "Voltage Drop test",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "8.4.4",
+              "Internal capacitive circuits",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "8.5.2.1",
+              "F-TYPE APPLIED PARTS/ TYPE B APPLIED PARTS",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "8.7.4,",
+              "LEAKAGE CURRENT tests",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "8.8.3",
+              "Dielectric strength test",
+              "",
+              ""
+            ],
+            [
+              "18",
+              "8.9",
+              "Creepage Distance and Air Clearance",
+              "",
+              ""
+            ],
+            [
+              "19",
+              "8.9.3.4",
+              "Thermal cycling",
+              "",
+              ""
+            ],
+            [
+              "20",
+              "8.5.5.2",
+              "Energy reduction test",
+              "",
+              ""
+            ],
+            [
+              "21",
+              "8.6.4",
+              "Impedance and current-carrying capability",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "8.8.4",
+              "Insulation other than wire insulation",
+              "",
+              ""
+            ],
+            [
+              "23",
+              "11.6",
+              "Resistance to moisture,",
+              "",
+              ""
+            ],
+            [
+              "24",
+              "8.8.3",
+              "Dielectric strength",
+              "",
+              ""
+            ],
+            [
+              "25",
+              "15.3",
+              "Mechanical strength",
+              "",
+              ""
+            ],
+            [
+              "26",
+              "8.8.4.1",
+              "Ball-pressure test",
+              "",
+              ""
+            ],
+            [
+              "27",
+              "8.9.1.7",
+              "Material groups classification",
+              "",
+              ""
+            ],
+            [
+              "28",
+              "",
+              "Comparative tracking index (CTI)",
+              "",
+              ""
+            ],
+            [
+              "29",
+              "8.11.3.5",
+              "Cord anchorage Pull Test",
+              "",
+              ""
+            ],
+            [
+              "30",
+              "8.11.3.6/ 15.4.1",
+              "Cord guards",
+              "",
+              ""
+            ],
+            [
+              "31",
+              "8.11.4.2",
+              "MAINS TERMINAL Bent Test",
+              "",
+              ""
+            ],
+            [
+              "32",
+              "9.4.2.2",
+              "Stability Test",
+              "",
+              ""
+            ],
+            [
+              "33",
+              "9.8.3.2",
+              "Static forces",
+              "",
+              ""
+            ],
+            [
+              "34",
+              "9.8.3.3",
+              "Dynamic forces due to loading from persons",
+              "",
+              ""
+            ],
+            [
+              "35",
+              "11",
+              "Protection against excessive temperatures",
+              "",
+              ""
+            ],
+            [
+              "36",
+              "11.6.2",
+              "Overflow in ME EQUIPMENT/ Dielectric Strength/ Leakage Current Test",
+              "",
+              ""
+            ],
+            [
+              "37",
+              "11.6.3",
+              "Spillage on ME EQUIPMENT, Dielectric Strength/ Leakage Current Test",
+              "",
+              ""
+            ],
+            [
+              "38",
+              "12",
+              "Accuracy of controls and instruments and protection against hazardous outputs",
+              "",
+              ""
+            ],
+            [
+              "39",
+              "13.1.2",
+              "limit power dissipation",
+              "",
+              ""
+            ],
+            [
+              "40",
+              "13.2",
+              "SINGLE FAULT CONDITIONS",
+              "",
+              ""
+            ],
+            [
+              "41",
+              "15.3",
+              "Mechanical strength",
+              "",
+              ""
+            ],
+            [
+              "42",
+              "15.3.2",
+              "Push test",
+              "",
+              ""
+            ],
+            [
+              "43",
+              "15.3.3",
+              "Impact test",
+              "",
+              ""
+            ],
+            [
+              "44",
+              "15.3.4",
+              "Drop test",
+              "",
+              ""
+            ],
+            [
+              "45",
+              "15.3.5",
+              "Rough handling test",
+              "",
+              ""
+            ],
+            [
+              "46",
+              "a.",
+              "Ascending step shock",
+              "",
+              ""
+            ],
+            [
+              "47",
+              "b.",
+              "Descending step shock",
+              "",
+              ""
+            ],
+            [
+              "48",
+              "c.",
+              "Door frame shock",
+              "",
+              ""
+            ],
+            [
+              "49",
+              "15.3.6",
+              "Mould stress relief test",
+              "",
+              ""
+            ],
+            [
+              "50",
+              "15.4.6.1",
+              "Rotating controls torque test",
+              "",
+              ""
+            ],
+            [
+              "51",
+              "15.4.7.3",
+              "Foot-operated control devices(IP Testing)",
+              "",
+              ""
+            ],
+            [
+              "52",
+              "15.5",
+              "MAINS SUPPLY TRANSFORMERS",
+              "",
+              ""
+            ],
+            [
+              "53",
+              "15.5.1.2",
+              "Short-circuit test",
+              "",
+              ""
+            ],
+            [
+              "54",
+              "15.5.2",
+              "Dielectric strength",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

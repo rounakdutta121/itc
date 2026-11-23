@@ -1,0 +1,166 @@
+{
+  "hero": "/images/page-heroes/solar-fence-energizer-testing.webp",
+  "heroPortrait": "/images/page-heroes/solar-fence-energizer-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/solar-fence-energizer-testing-s1.webp",
+  "generatedMid": "/images/page-sections/solar-fence-energizer-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/solar-fence-energizer-testing-s1.webp",
+    "/images/page-sections/solar-fence-energizer-testing-s2.webp",
+    "/images/page-sections/solar-fence-energizer-testing-s3.webp",
+    "/images/page-sections/solar-fence-energizer-testing-s4.webp",
+    "/images/page-sections/solar-fence-energizer-testing-s5.webp",
+    "/images/page-sections/solar-fence-energizer-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "0 / 1 | 119 | thin, few links | EXPAND – keep text, add 400+ words",
+  "slug": "solar-fence-energizer-testing",
+  "path": "/solar-fence-energizer-testing",
+  "source": "https://www.itcindia.org/solar-fence-energizer-testing/",
+  "ok": true,
+  "title": "Solar Fence Energizer Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "If you are looking for Solar Fence Energizer Testing, ITC India Can Help You! ITC India NABL Accredited Lab one of the best Solar Fence Energizer Testing",
+  "sections": [
+    {
+      "heading": "Solar Fence Energizer Testing",
+      "paragraphs": [
+        "If you are looking for Solar Fence Energizer Testing, ITC India Can Help You! ITC India NABL Accredited Laboratory one of the best Solar Fence Energizer Testing Service Provider in India."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Essential Test:",
+      "paragraphs": [],
+      "bullets": [
+        "Protection against Electrical shock",
+        "Electrical insulation at operating temperature",
+        "Moist resistance",
+        "Insulation resistance and electric strength (after humidity treatment)",
+        "Stability and mechanical hazards",
+        "Mechanical strength",
+        "Constructions"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Internal Wiring",
+      "paragraphs": [
+        "Test Report of the tested solar fence energizer: Full report is of 40 pages."
+      ],
+      "bullets": [
+        "Components",
+        "Cord grip and cord guard",
+        "Terminals for external conductors Provision for earthing",
+        "Screws and connections",
+        "Creepage distances and clearances",
+        "Resistance to heat fire and tracking"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

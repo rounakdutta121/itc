@@ -1,0 +1,173 @@
+{
+  "hero": "/images/page-heroes/rr-index.webp",
+  "heroPortrait": "/images/page-heroes/rr-index-portrait.webp",
+  "generatedIntro": "/images/page-sections/rr-index-s1.webp",
+  "generatedMid": "/images/page-sections/rr-index-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/rr-index-s1.webp",
+    "/images/page-sections/rr-index-s2.webp",
+    "/images/page-sections/rr-index-s3.webp",
+    "/images/page-sections/rr-index-s4.webp",
+    "/images/page-sections/rr-index-s5.webp",
+    "/images/page-sections/rr-index-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "240 | thin | LOW: expand to 600+ words",
+  "slug": "rr-index",
+  "path": "/rr-index",
+  "source": "https://www.itcindia.org/rr-index/",
+  "ok": true,
+  "title": "RRI(Recycle Reuse Index) - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "The Recycle Reuse Index (RR) is a metric to calculate companies’ sustainability agendas. It help a business to improve their pulic image.",
+  "sections": [
+    {
+      "heading": "What is the Recycle Reuse Index?",
+      "paragraphs": [
+        "The Recycle Reuse Index (RR) is a metric to calculate companies’ sustainability agendas. The barometer is set against three bi-axial social responsibility topics: recycling, reusing and carbon emissions.",
+        "The RRI is a way to compare how well different countries are doing in terms of environmental performance. The Index ranks countries on a scale of 0 to 100, with 100 being the best possible score.",
+        "The RRI is based on various indicators that fall into three broad categories which is: environment, society, and economy. Each indicator is given a weight based on its importance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are the benefits of using the RRI?",
+      "paragraphs": [
+        "There are many benefits to using the recycle reuse index. Perhaps most importantly, it provides a way to compare apples to apples when it comes to sustainability and social responsibility."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/rr-index/35ea4bdf8883.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "The Benefits of a High RR",
+      "paragraphs": [
+        "A high recycle reuse index (RRI) is a valuable tool for any business or organization looking to track and measure their social responsibility. Here are just a few of the benefits of having a high RR:",
+        "-A high RR indicates that a business or organization is committed to recycling and reusing materials, which is good for the environment.",
+        "-Business or organization save money on waste disposal costs with the help of high RR",
+        "-A high RR can help a business or organization improve their public image and reputation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/rr-index/35ea4bdf8883.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/rr-index/35ea4bdf8883.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

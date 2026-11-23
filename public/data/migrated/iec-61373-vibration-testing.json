@@ -1,0 +1,313 @@
+{
+  "hero": "/images/page-heroes/iec-61373-vibration-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-61373-vibration-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61373-vibration-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61373-vibration-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61373-vibration-testing-s1.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s2.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s3.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s4.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s5.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s6.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s7.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s8.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s9.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s10.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s11.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s12.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s13.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s14.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s15.webp",
+    "/images/page-sections/iec-61373-vibration-testing-s16.webp"
+  ],
+  "category": "mechanical",
+  "action": "KEEP",
+  "note": "0 / 1 | 987 | 2 img no alt | KEEP",
+  "slug": "iec-61373-vibration-testing",
+  "path": "/iec-61373-vibration-testing",
+  "source": "https://www.itcindia.org/iec-61373-vibration-testing/",
+  "ok": true,
+  "title": "IEC 61373 Vibration Testing Lab in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61373:2026 vibration and shock testing in India for railway rolling stock. Test body, bogie and axle-mounted equipment with ITC India testing support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides IEC 61373 vibration testing and shock testing for equipment intended for installation on railway rolling stock. IEC 61373:2026, Railway applications – Rolling stock equipment – Shock and vibration tests, specifies laboratory test requirements for equipment exposed to vibration and mechanical shock during railway operation.",
+        "Railway components experience continuous dynamic loading caused by track irregularities, wheel-rail interaction, vehicle speed, suspension behaviour and mounting location. Laboratory testing helps manufacturers determine whether equipment can maintain mechanical integrity and required functionality throughout its expected service environment.",
+        "ITC India also provides broader <a href=\"/vibration-testing\">vibration testing services</a> for electrical, electronic and mechanical equipment under IEC and other international standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61373-vibration-testing/749841ada65c.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 61373 Testing?",
+      "paragraphs": [
+        "IEC 61373 establishes vibration and shock test methods for components, assemblies and equipment installed on railway vehicles. The purpose is to reproduce representative mechanical stresses within a controlled laboratory environment and identify weaknesses before equipment is put into service.",
+        "The standard includes three important stages of mechanical evaluation: functional random vibration testing, simulated long-life vibration testing and shock testing.",
+        "During functional random testing, equipment is evaluated to determine whether it can perform its required functions under representative vibration. Simulated long-life testing applies increased vibration exposure to assess mechanical durability over the expected service life. Shock testing represents less frequent but more severe mechanical events encountered in railway operation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61373 Equipment Categories",
+      "paragraphs": [
+        "Selecting the correct IEC 61373 category is essential because vibration severity depends strongly on where the equipment is installed on the railway vehicle.",
+        "Category 1 – Body Mounted: applies to equipment mounted directly on or under the vehicle body. Category 1 includes Class A and Class B depending on the equipment configuration and mounting arrangement.",
+        "Category 2 – Bogie Mounted: applies to equipment, components and assemblies installed on the bogie. These products generally experience higher mechanical vibration than equipment mounted on the vehicle body.",
+        "Category 3 – Axle Mounted: applies to equipment installed on or associated with the wheelset or axle assembly, where vibration and shock conditions can be particularly demanding.",
+        "The mounting category, installation arrangement and orientation should therefore be established before the vibration test programme begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Functional Random Vibration Testing",
+      "paragraphs": [
+        "The functional random vibration test evaluates whether railway equipment remains operational when exposed to vibration representative of normal service conditions.",
+        "Depending on the product requirement, electrical or electronic equipment may be powered and monitored during testing. Functional parameters can be checked for interruption, unexpected reset, communication failure, loose connections or other degradation.",
+        "For railway electronic products requiring broader electronic qualification, manufacturers can also review ITC India’s <a href=\"/iec-60571-testing-services-india\">IEC 60571 testing services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Simulated Long-Life Vibration Testing",
+      "paragraphs": [
+        "Simulated long-life testing is intended to evaluate mechanical integrity by applying vibration at increased service levels for a defined duration. The objective is to expose weaknesses that might otherwise develop only after extended railway operation.",
+        "Possible failures include cracked PCB assemblies, loose fasteners, connector movement, broken brackets, solder-joint damage, wire fatigue, enclosure deformation and deterioration of internal mounting systems.",
+        "Products should be inspected and evaluated against the defined acceptance criteria after the required exposure."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61373 Shock Testing",
+      "paragraphs": [
+        "Railway equipment can also experience short-duration mechanical shocks caused by coupling, track events, vehicle movement and other operational conditions.",
+        "IEC 61373 shock testing evaluates whether the equipment can withstand specified shock pulses without unacceptable structural damage. Functional inspection and performance verification may be carried out after testing according to the product specification and agreed acceptance criteria."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products Tested to IEC 61373",
+      "paragraphs": [
+        "IEC 61373 testing can apply to train control equipment, electronic control units, railway power supplies, converters, communication equipment, passenger-information systems, lighting equipment, sensors, monitoring systems, signalling-related onboard equipment, relays, switches, displays, control panels and other components installed on rolling stock.",
+        "Manufacturers of railway LED luminaires may also require <a href=\"/vibration-testing/rdso-tl-0091\">RDSO TL 0091 testing</a> depending on the applicable Indian Railways specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Related Railway Environmental and EMC Testing",
+      "paragraphs": [
+        "Vibration and shock are only part of the environmental stresses experienced by railway electronics. Temperature, humidity and other climatic conditions can also influence reliability.",
+        "ITC India provides <a href=\"/environmental-testing-services\">environmental testing services</a> covering climatic and environmental evaluations for electrical and electronic equipment.",
+        "Where electromagnetic compatibility requirements also apply, products can be evaluated through ITC India’s <a href=\"/emc-emi-testing\">EMC/EMI testing services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for IEC 61373 Testing",
+      "paragraphs": [
+        "Before testing, manufacturers should provide the equipment model, dimensions, weight, intended mounting location, Category 1, 2 or 3 classification where known, operating condition, mounting fixture details, applicable IEC 61373 edition and required acceptance criteria.",
+        "The actual installation method should be represented as closely as practical because mounting stiffness and fixture design can influence the test response."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports manufacturers and railway equipment suppliers with vibration, shock, climatic, EMC and electrical testing capabilities. A coordinated test programme allows related railway qualification requirements to be planned around the same product configuration and technical documentation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request IEC 61373 Testing in India",
+      "paragraphs": [
+        "For IEC 61373:2026 vibration and shock testing, provide the product specifications, mounting category, equipment dimensions and weight, required test scope and customer-specific requirements.",
+        "<a href=\"/contact-us/inquiry\">Send your IEC 61373 testing requirement to ITC India</a> for technical review and quotation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61373?",
+      "paragraphs": [
+        "IEC 61373 is an international standard covering shock and vibration testing of equipment intended for use on railway rolling stock."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the latest edition of IEC 61373?",
+      "paragraphs": [
+        "The current international edition is IEC 61373:2026, which supersedes IEC 61373:2010."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are the IEC 61373 equipment categories?",
+      "paragraphs": [
+        "The standard uses Category 1 for body-mounted equipment, Category 2 for bogie-mounted equipment and Category 3 for axle-mounted equipment. Category 1 is further divided into Classes A and B."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests are performed under IEC 61373?",
+      "paragraphs": [
+        "The standard principally includes functional random vibration, simulated long-life vibration and shock testing. The applicable severity depends on the equipment category and test requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 61373 applicable to railway electronic equipment?",
+      "paragraphs": [
+        "Yes. It is widely applicable to electrical, electronic and mechanical equipment installed on railway rolling stock where shock and vibration qualification is required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61373-vibration-testing/749841ada65c.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61373-vibration-testing/749841ada65c.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

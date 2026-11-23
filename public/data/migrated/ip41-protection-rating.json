@@ -1,0 +1,288 @@
+{
+  "hero": "/images/page-heroes/ip41-protection-rating.webp",
+  "heroPortrait": "/images/page-heroes/ip41-protection-rating-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip41-protection-rating-s1.webp",
+  "generatedMid": "/images/page-sections/ip41-protection-rating-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip41-protection-rating-s1.webp",
+    "/images/page-sections/ip41-protection-rating-s2.webp",
+    "/images/page-sections/ip41-protection-rating-s3.webp",
+    "/images/page-sections/ip41-protection-rating-s4.webp",
+    "/images/page-sections/ip41-protection-rating-s5.webp",
+    "/images/page-sections/ip41-protection-rating-s6.webp",
+    "/images/page-sections/ip41-protection-rating-s7.webp",
+    "/images/page-sections/ip41-protection-rating-s8.webp"
+  ],
+  "category": "electrical",
+  "action": "CTR",
+  "note": "534 | 2 H1s, long title | CTR FIX – new title/meta in Content tab",
+  "slug": "ip41-protection-rating",
+  "path": "/ip41-protection-rating",
+  "source": "https://www.itcindia.org/ip41-protection-rating/",
+  "ok": true,
+  "title": "IP41 Protection Rating | Testing & Compliance in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Understand the IP41 protection rating, its testing requirements under IEC 60529, and compliance support services in India from ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IP41 Protection Rating – Meaning, Testing and Compliance Guide",
+        "The IP41 protection rating defines how well an electrical enclosure protects against solid objects and vertically falling water drops. Manufacturers use this rating to demonstrate product safety under IEC 60529. Therefore, understanding IP41 is important before designing or certifying electrical equipment.",
+        "Manufacturers seeking product certification must ensure that their enclosure design meets the specified ingress protection requirements before market approval.",
+        "IP stands for Ingress Protection. It classifies the level of protection an enclosure provides.",
+        "In other words, IP41 prevents small tools and wires from entering the enclosure. However, it does not protect against splashing water or dust accumulation.ngles."
+      ],
+      "bullets": [
+        "The first digit 4 indicates protection against solid objects larger than 1 mm.",
+        "The second digit 1 indicates protection against vertically falling water drops."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/ip41-protection-rating/4f6a0a6a8bf1.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "IP ratings including IP41 are defined under",
+      "paragraphs": [
+        "🔗 International Standard: https://www.iec.ch (Search: IEC 60529)",
+        "Full reference: IEC 60529 – Degrees of Protection Provided by Enclosures (IP Code)",
+        "This standard defines test probes, water test methods, and compliance criteria.",
+        "Manufacturers typically use IP41 for indoor applications. For example:",
+        "Since IP41 provides limited water protection, it is suitable only for dry indoor environments.",
+        "<a href=\"/iec-60601-1-testing\">https://www.itcindia.org/iec-60601-1-testing</a>",
+        "Testing laboratories evaluate IP41 according to IEC 60529 requirements."
+      ],
+      "bullets": [
+        "Electrical distribution boards",
+        "Medical electrical equipment",
+        "Industrial control panels",
+        "Laboratory instruments"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Solid Object Test (IP4X)",
+      "paragraphs": [
+        "The laboratory inserts a 1 mm test probe into enclosure openings. If the probe does not access hazardous parts, the equipment passes the test."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Water Drip Test (IPX1)",
+      "paragraphs": [
+        "The lab exposes the equipment to vertically dripping water for 10 minutes. During this test, the product must continue to operate safely.",
+        "After testing, engineers inspect the enclosure for water ingress and safety risks.ce.",
+        "IP41 testing improves product reliability. In addition, it supports regulatory approvals and customer confidence. Many certification bodies require enclosure protection verification before granting approval.",
+        "Furthermore, proper IP testing reduces product failures in the field. As a result, manufacturers avoid costly recalls and complaints.g can be integrated with:",
+        "<a href=\"/iec-60529-testing\">https://www.itcindia.org/iec-60529-testing</a>",
+        "<a href=\"/iec-60601-1-2-testing\">https://www.itcindia.org/iec-60601-1-2-testing</a>",
+        "Choosing the correct IP rating depends on installation environment and risk assessment."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Rating",
+            "Solid Protection",
+            "Water Protection",
+            "Typical Use"
+          ],
+          "rows": [
+            [
+              "IP41",
+              ">1 mm objects",
+              "Vertical drips",
+              "Indoor equipment"
+            ],
+            [
+              "IP44",
+              ">1 mm objects",
+              "Splashing water",
+              "Light industrial"
+            ],
+            [
+              "IP54",
+              "Dust protected",
+              "Splashing water",
+              "Outdoor panels"
+            ],
+            [
+              "IP65",
+              "Dust tight",
+              "Water jets",
+              "Harsh environments"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "IP41 Testing Services in India",
+      "paragraphs": [
+        "At ITC India, engineers conduct enclosure evaluation according to IEC 60529. We guide manufacturers through testing, documentation, and compliance procedures. Additionally, we assist with electrical safety and EMC testing when required.",
+        "Contact our experts to determine whether IP41 is suitable for your product.",
+        "<a href=\"/iec-60601-1-testing\">https://www.itcindia.org/iec-60601-1-testing</a>",
+        "Our laboratory evaluates enclosures according to IEC 60529 requirements to ensure compliance before certification submission.",
+        "Contact our testing experts",
+        "<a href=\"/contact-us\">www.itcindia.org/contact-us</a>"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What does IP41 protect against?",
+      "paragraphs": [
+        "IP41 protects against solid objects larger than 1 mm and vertically falling water drops."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP41 suitable for outdoor use?",
+      "paragraphs": [
+        "No. IP41 is intended for indoor environments without exposure to splashing or heavy moisture."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP41 dustproof?",
+      "paragraphs": [
+        "No. It provides limited protection against solid objects but not dust-tight protection."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which standard defines IP ratings?",
+      "paragraphs": [
+        "IP ratings are defined under IEC 60529."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/ip41-protection-rating/4f6a0a6a8bf1.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/ip41-protection-rating/4f6a0a6a8bf1.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

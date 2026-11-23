@@ -1,0 +1,349 @@
+{
+  "hero": "/images/page-heroes/iec-80601-2-49-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-80601-2-49-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-80601-2-49-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-80601-2-49-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-80601-2-49-testing-s1.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s2.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s3.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s4.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s5.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s6.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s7.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s8.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s9.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s10.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s11.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s12.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s13.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s14.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s15.webp",
+    "/images/page-sections/iec-80601-2-49-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "449 | 4 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-80601-2-49-testing",
+  "path": "/iec-80601-2-49-testing",
+  "source": "https://www.itcindia.org/iec-80601-2-49-testing/",
+  "ok": true,
+  "title": "IEC 80601-2-49 Testing Services in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 80601-2-49 testing services for multifunction patient monitors. NABL-ready testing support by ITC India. Fast certification assistance across India.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "paragraphs": [
+        "IEC 80601-2-49 is a particular standard under the IEC 60601 series that specifies safety and essential performance requirements for multifunction patient monitoring equipment used in professional healthcare environments.",
+        "Manufacturers of advanced patient monitors must comply with this standard to ensure electrical safety, essential performance, risk management compliance, and global market acceptance.",
+        "At ITC India, we provide complete testing and regulatory support for IEC 80601-2-49 compliance for medical device manufacturers."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-80601-2-49-testing/de1cfa0f5b19.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "IEC 80601-2-49 applies to",
+      "paragraphs": [],
+      "bullets": [
+        "Multiparameter patient monitors",
+        "Central monitoring stations",
+        "Monitoring systems used in hospitals",
+        "Equipment measuring ECG, SpO2, NIBP, temperature, respiration, etc."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "This standard works together with",
+      "paragraphs": [
+        "🔹 IEC 60601-1 (General Safety Standard) 🔹 IEC 60601-1-2 (EMC Requirements) 🔹 ISO 14971 (Risk Management)"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-80601-2-49-testing/f6f5f6663bcc.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "The standard covers",
+      "paragraphs": [
+        "It ensures that patient monitoring systems perform reliably in ICU, OT, and emergency environments."
+      ],
+      "bullets": [
+        "Electrical safety requirements",
+        "Mechanical safety",
+        "Alarm system performance",
+        "Accuracy of monitoring parameters",
+        "Essential performance criteria",
+        "Environmental conditions",
+        "Software validation requirements"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Compliance ensures",
+      "paragraphs": [
+        "✔ Patient safety ✔ Market access in EU and global markets ✔ CE Marking support ✔ Reduced product liability risks ✔ Regulatory approval readiness",
+        "Medical device regulators refer to this standard under the IEC 60601 family for monitoring devices.",
+        "Official reference can be checked from the International Electrotechnical Commission website: https://www.iec.ch"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1️⃣ Electrical Safety Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Leakage current",
+        "Dielectric strength",
+        "Earth continuity",
+        "Patient applied part protection"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2️⃣ EMC Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Immunity testing",
+        "Emission testing",
+        "Electrostatic discharge"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3️⃣ Alarm System Verification",
+      "paragraphs": [],
+      "bullets": [
+        "Alarm priority levels",
+        "Audible and visual indicators",
+        "Alarm response timing"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4️⃣ Accuracy & Performance Validation",
+      "paragraphs": [],
+      "bullets": [
+        "ECG measurement validation",
+        "SpO2 accuracy testing",
+        "Blood pressure measurement validation",
+        "Temperature measurement verification"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "At ITC India, we support",
+      "paragraphs": [
+        "✔ Pre-compliance evaluation ✔ Complete test planning ✔ Documentation review ✔ Risk management guidance ✔ Test report preparation ✔ Certification coordination"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60601-1-2 EMC Testing https://www.itcindia.org/iec-60601-1-2-testing",
+      "paragraphs": [],
+      "bullets": [
+        "Medical Device Regulatory Consulting https://www.itcindia.org/medical-device-consulting"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Who Needs IEC 80601-2-49 Testing?",
+      "paragraphs": [
+        "International Electrotechnical Commission – https://www.iec.ch ISO Organization – https://www.iso.org"
+      ],
+      "bullets": [
+        "Medical device manufacturers",
+        "OEM patient monitor manufacturers",
+        "Importers of monitoring equipment",
+        "Hospitals developing in-house monitoring systems",
+        "Startups launching healthcare monitoring devices"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "✔ Experienced regulatory consultants ✔ Fast turnaround time ✔ Transparent process ✔ Affordable pricing ✔ PAN India support",
+        "Website: <a href=\"/\">https://www.itcindia.org</a> Email: info@itcindia.org Contact: +91-9316473033"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Q1: Is IEC 80601-2-49 mandatory?",
+      "paragraphs": [
+        "Yes, if your device falls under multifunction patient monitoring systems and is marketed internationally."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Q2: How long does testing take?",
+      "paragraphs": [
+        "Typically 3–6 weeks depending on device complexity."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Q3: Does this standard include software validation?",
+      "paragraphs": [
+        "Yes, software forms part of essential performance requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Q4: Is EMC testing required?",
+      "paragraphs": [
+        "Yes, as per IEC 60601-1-2."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-80601-2-49-testing/de1cfa0f5b19.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-80601-2-49-testing/f6f5f6663bcc.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-80601-2-49-testing/de1cfa0f5b19.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-80601-2-49-testing/f6f5f6663bcc.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "hero": "/images/page-heroes/electrical-safety-testing-for-lighting-products.webp",
+  "heroPortrait": "/images/page-heroes/electrical-safety-testing-for-lighting-products-portrait.webp",
+  "generatedIntro": "/images/page-sections/electrical-safety-testing-for-lighting-products-s1.webp",
+  "generatedMid": "/images/page-sections/electrical-safety-testing-for-lighting-products-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/electrical-safety-testing-for-lighting-products-s1.webp",
+    "/images/page-sections/electrical-safety-testing-for-lighting-products-s2.webp",
+    "/images/page-sections/electrical-safety-testing-for-lighting-products-s3.webp",
+    "/images/page-sections/electrical-safety-testing-for-lighting-products-s4.webp",
+    "/images/page-sections/electrical-safety-testing-for-lighting-products-s5.webp",
+    "/images/page-sections/electrical-safety-testing-for-lighting-products-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "485 | no H2 | LOW: add H2s, FAQ, links",
+  "slug": "electrical-safety-testing-for-lighting-products",
+  "path": "/electrical-safety-testing-for-lighting-products",
+  "source": "https://www.itcindia.org/electrical-safety-testing-for-lighting-products/",
+  "ok": true,
+  "title": "Electrical safety Testing for Lighting products",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India NABL approved Testing Laboratory Providing Electrical safety testing for Lighting products in India, LED Lighting Testing & Certification Services",
+  "sections": [
+    {
+      "heading": "Are you looking for a company for testing lighting products?",
+      "paragraphs": [
+        "ITC India Pvt. Ltd. is accredited laboratory as per ISO/IEC 17025:2005, serving since 2009. It is the best service provider in the field of Electrical, Electronic and Photometry testing with the certificate no. T1811, T3509 and T3510 respectively.",
+        "A satisfied clientele is maintained by the lab for testing lightning products as per IEC 60598-1 (general standard) and LM 79. For detailed scope kindly look at the above said certificate at the NABL site."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why to choose ITC India Pvt. Ltd.?",
+      "paragraphs": [],
+      "bullets": [
+        "Reports are issued with a NABL logo.",
+        "Nominal pricing",
+        "Most reliable",
+        "Efficient engineers",
+        "Project Completion on time"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Client Satisfaction",
+      "paragraphs": [
+        "Below is the list of quantitative tests as per general standard IEC 60598-1."
+      ],
+      "bullets": [
+        "Highly accurate equipment are owned by ITC",
+        "Good housekeeping"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "S. No.",
+            "Clause No.",
+            "Title of test",
+            "Equipment used"
+          ],
+          "rows": [
+            [
+              "1",
+              "3.4",
+              "Test of marking",
+              "Piece of cloth/water/petroleum spirit"
+            ],
+            [
+              "2",
+              "4.4.4",
+              "Lampholder pressure test",
+              "Pressure device/torque driver"
+            ],
+            [
+              "3",
+              "4.4.5",
+              "Voltage across lampholder",
+              "High voltage probe/osciloscope"
+            ],
+            [
+              "4",
+              "4.11.6",
+              "Electro mechanical contact system",
+              "Voltmeter,high voltage transformer/electrical saftey analyzer"
+            ],
+            [
+              "5",
+              "4.12.1",
+              "Screw & connections",
+              "test screwdriver & spanner"
+            ],
+            [
+              "6",
+              "4.12.5",
+              "Glands testing",
+              "Test rods"
+            ],
+            [
+              "7",
+              "4.13.1",
+              "Mechanical strength tests",
+              "Spring hammmer"
+            ],
+            [
+              "8",
+              "4.14.1/4.14.2/4.14.3",
+              "Adjusting device testing",
+              "weighting device/glass test shelves"
+            ],
+            [
+              "9",
+              "4.9.2",
+              "insulating linings & sleeve tests",
+              "Heating cabinet/high voltage transformer/megaohmeter or electrical saftey analyzer"
+            ],
+            [
+              "10",
+              "4.18.1",
+              "Resistance to corrosion",
+              "humidity cabinet"
+            ],
+            [
+              "11",
+              "4.18.2",
+              "Stress corrosion",
+              "Heating cabinet/test solution"
+            ],
+            [
+              "12",
+              "4.2o",
+              "Rough service luminaire",
+              "Vibration test equipment"
+            ],
+            [
+              "13",
+              "4.22",
+              "Attachment to lamp",
+              "Weighing device"
+            ],
+            [
+              "14",
+              "4.24",
+              "Protective measures against UV radiations",
+              "UV radiation test apparatus"
+            ],
+            [
+              "15",
+              "4.26",
+              "Short circuit protection test",
+              "Test chain /weighing device"
+            ],
+            [
+              "16",
+              "5.2.10.1",
+              "pull and torque test on cord anchorage",
+              "cord anchorage test(pull & torque)"
+            ],
+            [
+              "17",
+              "5.3",
+              "Internal wiring dimensions",
+              "Micrometer/equipment & insulation thickness"
+            ],
+            [
+              "18",
+              "7.2.3",
+              "Earth continuity test",
+              "Earthing test equipment(Electrical saftey analyzer)"
+            ],
+            [
+              "19",
+              "8.2.5",
+              "Protection against electric shock",
+              "Standard test finger/unjoint test finger"
+            ],
+            [
+              "20",
+              "8.2.7",
+              "Capacitor discharge test",
+              "Voltmeter /oscilloscope"
+            ],
+            [
+              "21",
+              "9.2.0",
+              "Solid object proof luminaire testing",
+              "IP3X/IP4X(IEC 60529)"
+            ],
+            [
+              "22",
+              "9.2.1/9.2.2",
+              "Dust proof luminaire test",
+              "Apparatus for protection against dust"
+            ],
+            [
+              "23",
+              "9.2.3 to 9",
+              "Water proof luminaire test",
+              "Apparatus for protection against water"
+            ],
+            [
+              "24",
+              "9.3.1",
+              "Humidity test",
+              "Humidity cabinet"
+            ],
+            [
+              "25",
+              "10.2.1",
+              "Insulation resistance test",
+              "electrical saftey analyzer"
+            ],
+            [
+              "26",
+              "10.2.2",
+              "Electrical strength test",
+              "electrical saftey analyzer"
+            ],
+            [
+              "27",
+              "10.3.1",
+              "Leakage current testing",
+              "Leakage current tester"
+            ],
+            [
+              "28",
+              "11.2.1",
+              "Creepage and clearance distances",
+              "Vernier calliper"
+            ],
+            [
+              "29",
+              "12.3.1",
+              "Endurance test",
+              "Thermal cabinet(35°C)"
+            ],
+            [
+              "30",
+              "12.4.1",
+              "Thermal test",
+              "Draught proof enclouser/thermometer"
+            ],
+            [
+              "31",
+              "12.5",
+              "Abnormal operation",
+              "Test circuit for metal hallide"
+            ],
+            [
+              "32",
+              "13.2.1",
+              "Resistance to heat test",
+              "Heating cabinet/ball pressure test apparatus"
+            ],
+            [
+              "32",
+              "13.3.1",
+              "Resistance to flame test",
+              "Needle flame testing"
+            ],
+            [
+              "34",
+              "13.3.2",
+              "Resistance to ignition testing",
+              "Glow wire test apparatus"
+            ],
+            [
+              "35",
+              "13.4.1",
+              "Resistance to tracking test",
+              "Proof tracking test device"
+            ],
+            [
+              "36",
+              "14",
+              "Screw terminal",
+              "Torque driver/micrometer"
+            ],
+            [
+              "37",
+              "15",
+              "Screwless terminal",
+              "Pull device/veriable current source/voltmeter"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

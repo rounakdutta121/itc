@@ -1,0 +1,184 @@
+{
+  "hero": "/images/page-heroes/ip-66-ingress-protection-testing.webp",
+  "heroPortrait": "/images/page-heroes/ip-66-ingress-protection-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip-66-ingress-protection-testing-s1.webp",
+  "generatedMid": "/images/page-sections/ip-66-ingress-protection-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip-66-ingress-protection-testing-s1.webp",
+    "/images/page-sections/ip-66-ingress-protection-testing-s2.webp",
+    "/images/page-sections/ip-66-ingress-protection-testing-s3.webp",
+    "/images/page-sections/ip-66-ingress-protection-testing-s4.webp",
+    "/images/page-sections/ip-66-ingress-protection-testing-s5.webp",
+    "/images/page-sections/ip-66-ingress-protection-testing-s6.webp"
+  ],
+  "category": "ip",
+  "action": "EXPAND",
+  "note": "17 / 19 | 650 | few links | EXPAND – P6 + CTR title (Content tab)",
+  "slug": "ip-66-ingress-protection-testing",
+  "path": "/ip-66-ingress-protection-testing",
+  "source": "https://www.itcindia.org/ip-66-ingress-protection-testing/",
+  "ok": true,
+  "title": "IP 66-Ingress protection Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IP 66-Ingress protection Testing is one such rating that ensures complete protection of your devices in harsh environmental conditions.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IP 66-Ingress protection Testing is one such rating that ensures complete protection of your devices in harsh environmental conditions. So, let’s dive in and explore everything about IP 66-Ingress Protection Testing- why it matters, how it works, and what advantages a device with this rating can offer!"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IP 66-Ingress Protection Testing?",
+      "paragraphs": [
+        "Ingress Protection (IP) testing is a certification process that determines how well an electrical enclosure protects against the ingress of foreign bodies (e.g., dust, water, etc.).",
+        "An IP rating consists of the letters “IP” followed by two numbers. The first number corresponds to the level of protection against solids, and the second number corresponds to the level of protection against liquids. The most common types of IP ratings are IP65 and IP66. IP65-rated enclosures protect against low pressure jets of water from all directions, while IP66-rated enclosures protect against high pressure jets of water from all directions. To obtain an IP66 rating, an enclosure must pass a series of tests that simulate real-world conditions. These tests include: Dust resistance test: The enclosure is placed in an enclosed chamber and bombarded with dust particles for a set period. The enclosure must prevent any dust from entering it during this test. water resistance test: The enclosure is placed in an enclosed chamber and sprayed with water from all directions for a set period of time. The enclosure must prevent any water from entering it during this test."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The Different Types of IP 66-Ingress Protection Testing",
+      "paragraphs": [
+        "There are three types of IP66-ingress protection testing: wet, dust, and oil. During wet testing, the tester sprays a stream of water onto the product from all angles for a specified period of time. The product must remain operational during the entire test without leaking any water inside. Dust testing involves enclosing the product in an airtight chamber and then filling the chamber with dust particles. Inspect the chamber after the specified period of time to see if any dust has penetrated the product. Oil testing is similar to dust testing, but instead of using dust particles, oil is used. The product is placed in an airtight chamber and then filled with oil.",
+        "Inspect the chamber after the specified period of time to see if any oil has penetrated the product."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Pros and Cons of IP66-Ingress Protection Testing",
+      "paragraphs": [
+        "When it comes to deciding whether or not to have IP66-ingress protection testing done on your products, there are a few things to consider. Here are some of the pros and cons of this type of testing: Pros: -Can ensure that your product is dust-tight and protected against powerful water jets -It give you peace of mind knowing that your product can withstand harsh conditions -Can help you avoid potential problems down the road Cons: -Can be expensive -May not be necessary for all products"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Products to Test with IP66-Ingress Protection?",
+      "paragraphs": [
+        "Many products available on the market claim to have an IP66 rating. However, manufacturers do not create all of these products equally. In order to ensure that your product meets the highest standards of ingress protection, it is important to test it with a reputable and reliable IP66 testing laboratory. Manufacturers can test some products for ingress protection, including: -Electrical enclosures -Cables and wiring -HVAC equipment -Data center equipment -Outdoor lighting fixtures -Solar panels In order to find a reputable and reliable IP66 testing laboratory, you can search online or ask for recommendations from other businesses in your industry.",
+        "Once you have found a few potential options, you can compare their services and prices to find the best option for your needs."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "In summary, IP 66-Ingress protection testing is a vital and important process for manufacturers of electrical products. It not only provides the user with evidence that their product is safe to use, but it also helps them meet regulatory requirements.",
+        "The test results can be used to determine how well the equipment or product is protected."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "hero": "/images/page-heroes/blood-pressure-monitor-testing.webp",
+  "heroPortrait": "/images/page-heroes/blood-pressure-monitor-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/blood-pressure-monitor-testing-s1.webp",
+  "generatedMid": "/images/page-sections/blood-pressure-monitor-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/blood-pressure-monitor-testing-s1.webp",
+    "/images/page-sections/blood-pressure-monitor-testing-s2.webp",
+    "/images/page-sections/blood-pressure-monitor-testing-s3.webp",
+    "/images/page-sections/blood-pressure-monitor-testing-s4.webp",
+    "/images/page-sections/blood-pressure-monitor-testing-s5.webp",
+    "/images/page-sections/blood-pressure-monitor-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 2 | 357 | 4 img no alt | KEEP",
+  "slug": "blood-pressure-monitor-testing",
+  "path": "/blood-pressure-monitor-testing",
+  "source": "https://www.itcindia.org/blood-pressure-monitor-testing/",
+  "ok": true,
+  "title": "Blood Pressure Monitor Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Blood pressure monitor testing is done as per International Standard IEC 60601-2-34. The list of tests conducted under the standard are -",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The narrower your arteries, the higher your blood pressure. Blood pressure lower than 120/80 mm Hg is considered normal.",
+        "Blood pressure that’s 130/80 mm Hg or more is considered high. If your numbers are above normal but under 130/80 mm Hg, you fall into the category of elevated blood pressure.Blood pressure is measured using a sphygmomanometer, or blood pressure monitor. It consists of an inflatable cuff that’s wrapped around your arm, roughly level with your heart, and a monitoring device that measures the cuff’s pressure. The monitor measures two pressures: systolic, and diastolic. Monitoring your blood pressure at home can: Help with early diagnosis. Self-monitoring can help your doctor diagnose high blood pressure earlier than if you have only occasional blood pressure readings in a medical office. A normal blood pressure reading is below 140/90, but if you have heart or circulatory disease, diabetes or kidney disease, your blood pressure should ideally be less than 130/80.",
+        "To get started, wait a moment, then press start. Remain still and quiet as the machine begins measuring. The cuff will inflate, then slowly deflate so that the machine can take your measurement. When the reading is complete, the monitor displays your blood pressure and pulse on the digital panel."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/blood-pressure-monitor-testing/3f7c5acb8226.jpg",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/blood-pressure-monitor-testing/a0d09195e5ed.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Electrical safety standard for Blood Pressure Monitors is IEC 60601-2-34",
+      "paragraphs": [
+        "Scope of IEC 60601-2-34 : This particular standard applies to BASIC SAFETY and ESSENTIAL PERFORMANCE of INVASIVE BLOOD PRESSURE MONITORING EQUIPMENT as defined in 201.3.63, herein after referred to as ME EQUIPMENT.",
+        "This particular standard does not apply to catheter tubing, catheter needles, Luer locks, taps and tap tables that connect to the DOME. This particular standard does not apply to NON-INVASIVE BLOOD PRESSURE MONITORING EQUIPMENT."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "List of Critical Tests of IEC 60601-2-34:",
+      "paragraphs": [],
+      "bullets": [
+        "ME EQUIPMENT identification, marking and documents",
+        "Protection against electrical HAZARDS from ME EQUIPMENT",
+        "Protection against MECHANICAL HAZARDS of ME EQUIPMENT and ME SYSTEMS",
+        "Protection against unwanted and excessive radiation HAZARDS",
+        "Protection against excessive temperatures and other HAZARDS",
+        "Accuracy of controls and instruments and protection against hazardous outputs",
+        "HAZARDOUS SITUATIONS and fault conditions",
+        "Electromagnetic compatibility of ME EQUIPMENT and ME SYSTEMS",
+        "Electromagnetic compatibility – Requirements and tests"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/blood-pressure-monitor-testing/3f7c5acb8226.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/blood-pressure-monitor-testing/a0d09195e5ed.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/blood-pressure-monitor-testing/3f7c5acb8226.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/blood-pressure-monitor-testing/a0d09195e5ed.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    },
+    {
+      "href": "/calibration-of-surge-generator",
+      "label": "Calibration of Surge Generators"
+    }
+  ]
+}

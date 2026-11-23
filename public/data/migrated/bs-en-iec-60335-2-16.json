@@ -1,0 +1,94 @@
+{
+  "hero": "/images/page-heroes/bs-en-iec-60335-2-16.webp",
+  "heroPortrait": "/images/page-heroes/bs-en-iec-60335-2-16-portrait.webp",
+  "generatedIntro": "/images/page-sections/bs-en-iec-60335-2-16-s1.webp",
+  "generatedMid": "/images/page-sections/bs-en-iec-60335-2-16-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/bs-en-iec-60335-2-16-s1.webp",
+    "/images/page-sections/bs-en-iec-60335-2-16-s2.webp",
+    "/images/page-sections/bs-en-iec-60335-2-16-s3.webp",
+    "/images/page-sections/bs-en-iec-60335-2-16-s4.webp",
+    "/images/page-sections/bs-en-iec-60335-2-16-s5.webp",
+    "/images/page-sections/bs-en-iec-60335-2-16-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "464 | – | LOW: add FAQ, links",
+  "slug": "bs-en-iec-60335-2-16",
+  "path": "/bs-en-iec-60335-2-16",
+  "source": "https://www.itcindia.org/bs-en-iec-60335-2-16/",
+  "ok": true,
+  "title": "BS EN/ IEC 60335-2-16",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "BS EN/ IEC 60335-2-16 Particular requirements for food waste disposers is one of the latest kitchen appliances of 21st century. This is the convenient way.",
+  "sections": [
+    {
+      "heading": "BS EN/ IEC 60335-2-16 Particular requirements for food waste disposers",
+      "paragraphs": [
+        "Food waste disposer is one of the latest kitchen appliances of 21st century. This is the convenient way to dispose the kitchen waste without any mess. Its demand is increasing day by day as it is ecofriendly and efficient. It is electrical powered and is installed under a kitchen sink between sink drain and the trap.",
+        "IEC 60335-2-16 is designed to deal with the safety of electric food waste disposers foe household and similar purpose, rated voltage <250V. This standard does not apply to portable food waste disposers; food waste disposers of the incinerator type; appliances intended exclusively for industrial or commercial purposes; appliances intended to be used in locations where special conditions prevail, such as the presence of a corrosive or explosive atmosphere (dust, vapor or gas)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/bs-en-iec-60335-2-16/d2bf7ab73b97.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Why is the electric safety testing of Food waste disposer necessary?",
+      "paragraphs": [
+        "In this contemporary epoch, existence of safety is of paramount importance. Whether, it is home , office or hotel electrical products are parts and parcel of everyones life. The most important factors to go for electrical safety testing is to secure life and property. Apart from it, it improves the quality of the product. This is another important factor in today’s scenario. Last but not the least is, the value in the market, if your food waste disposer is tested as per IEC 60335-2-16 the value will definitely goes up increasing revenue to the manufacturer.",
+        "It can be concluded that electrical safety testing offers you a greater peace of mind by identifying the potential dangers and defected appliances and removing them from service before they cause any untoward incident. Electrical testing and tagging is, therefore, a boon to all!"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why ITC India Pvt Ltd for testing Food Waste disposer?",
+      "paragraphs": [
+        "So, there is no need to look up for a lab to test food waste disposer as ITC india pvt ltd is here to give you the best service. It is already serving its clients form past 9 years. Service is provided with attractive pricing and without delaying in reports. For any query regarding food waste disposer -Make a call at 9316473033 or write to us at info@itcindia.org"
+      ],
+      "bullets": [
+        "NABL acceridited Lab",
+        "Resonable testing fees",
+        "Coherent and expert staff",
+        "Timely completion of projects",
+        "Express testing facility available",
+        "Satisfied clients",
+        "Accurate equipments"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are the benefits of food waste disposer?",
+      "paragraphs": [],
+      "bullets": [
+        "Fast and efficient way to get rid of food waste.",
+        "Abolish the problems of smelly kitchen bins",
+        "Eco friendly, as food waste is being converted into renewable energy.",
+        "No more plastic bags required in kitchen bins.",
+        "Helps to minimize the waste that goes to landfills."
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/bs-en-iec-60335-2-16/d2bf7ab73b97.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/bs-en-iec-60335-2-16/d2bf7ab73b97.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

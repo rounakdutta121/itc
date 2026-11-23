@@ -1,0 +1,325 @@
+{
+  "hero": "/images/page-heroes/en-301-489-52-v1-2-1-testing.webp",
+  "heroPortrait": "/images/page-heroes/en-301-489-52-v1-2-1-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/en-301-489-52-v1-2-1-testing-s1.webp",
+  "generatedMid": "/images/page-sections/en-301-489-52-v1-2-1-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s1.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s2.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s3.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s4.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s5.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s6.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s7.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s8.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s9.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s10.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s11.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s12.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s13.webp",
+    "/images/page-sections/en-301-489-52-v1-2-1-testing-s14.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "997 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "en-301-489-52-v1-2-1-testing",
+  "path": "/en-301-489-52-v1-2-1-testing",
+  "source": "https://www.itcindia.org/en-301-489-52-v1-2-1-testing/",
+  "ok": true,
+  "title": "EN 301 489-52 EMC Testing for Cellular Equipment",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "EN 301 489-52 EMC testing in India for GSM, LTE, 4G and 5G cellular equipment. Test emissions, immunity and performance with ITC India testing support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Cellular communication equipment must operate reliably in electromagnetic environments without producing unacceptable interference or suffering performance degradation when exposed to electromagnetic disturbances.",
+        "ITC India provides EN 301 489-52 EMC testing in India for manufacturers and developers of applicable cellular communication user equipment. The standard defines specific EMC test conditions, performance assessment methods and performance criteria for cellular User Equipment (UE) and associated ancillary equipment.",
+        "The current ETSI publication is EN 301 489-52 V1.3.1, published in November 2024. Earlier projects and technical documentation may still reference V1.2.1, so manufacturers should confirm the required version for their target market before formal compliance testing begins.",
+        "EN 301 489-52 is used together with the common radio-equipment EMC requirements covered by <a href=\"/en-301-489-1-testing\">EN 301 489-1 EMC testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/en-301-489-52-v1-2-1-testing/f5532f764256.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Equipment Does EN 301 489-52 Cover?",
+      "paragraphs": [
+        "EN 301 489-52 applies to Cellular Communication User Equipment and associated ancillary equipment.",
+        "Depending on technology and product configuration, relevant equipment can include:"
+      ],
+      "bullets": [
+        "GSM cellular user equipment",
+        "3G/UTRA devices",
+        "4G LTE/E-UTRA equipment",
+        "5G New Radio (NR) user equipment",
+        "Cellular routers and gateways"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Customer Premises Equipment (CPE)",
+      "paragraphs": [
+        "The latest standard includes requirements relevant to multiple generations of cellular communication, including 5G NR FR1 and FR2 configurations.",
+        "It is important to distinguish user equipment from cellular base-station equipment. Base stations, repeaters and related infrastructure are addressed by other parts of the EN 301 489 series rather than Part 52."
+      ],
+      "bullets": [
+        "Set-top boxes containing cellular technologies",
+        "IoT equipment with cellular communication",
+        "Industrial cellular terminals",
+        "Cellular modems and communication devices"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-52 and EN 301 489-1",
+      "paragraphs": [
+        "EN 301 489-52 is a product-specific part of the broader ETSI EN 301 489 EMC series.",
+        "EN 301 489-1 contains common EMC requirements applicable to radio equipment and associated ancillary equipment. Part 52 adds specific test conditions and performance criteria for cellular user equipment.",
+        "Manufacturers should therefore evaluate both documents when establishing the applicable test programme.",
+        "For a wider range of emission and immunity services, ITC India also provides comprehensive <a href=\"/emc-emi-testing\">EMC Testing Services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Tests for Cellular User Equipment",
+      "paragraphs": [
+        "The exact evaluation depends on equipment construction, available ports, power supply, operating mode and cellular technology. Applicable EMC assessments can include emission and immunity testing such as:",
+        "The applicable methods and test levels are determined through EN 301 489-1 together with the specific requirements of EN 301 489-52.",
+        "Manufacturers requiring broader emission and susceptibility evaluation can also review ITC India’s <a href=\"/emc-emi-testing\">EMI/EMC Testing Laboratory</a> capabilities."
+      ],
+      "bullets": [
+        "Radiated electromagnetic emissions",
+        "Conducted emissions where applicable",
+        "Electrostatic discharge immunity",
+        "Radiated RF electromagnetic-field immunity",
+        "Conducted RF immunity",
+        "Electrical fast transient/burst testing",
+        "Surge immunity",
+        "Voltage dips and interruptions",
+        "Other applicable port-specific EMC evaluations"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Performance Monitoring During EMC Testing",
+      "paragraphs": [
+        "EMC testing of cellular equipment is not limited to determining whether the equipment switches off or suffers visible damage.",
+        "The communication performance of the Equipment Under Test may need to be monitored while electromagnetic disturbances are applied. Depending on the technology and applicable test, performance criteria can consider whether communication functions remain within specified limits during and after exposure.",
+        "The current EN 301 489-52 version contains dedicated arrangements and performance criteria for GSM, UTRA, E-UTRA and NR equipment.",
+        "Manufacturers should therefore provide the necessary support equipment, software, communication configurations and operating modes needed to establish and monitor the required radio link during testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-52 and the Radio Equipment Directive",
+      "paragraphs": [
+        "EN 301 489-52 is a Harmonised European Standard developed in relation to EMC requirements for radio equipment under Directive 2014/53/EU, the Radio Equipment Directive (RED).",
+        "Testing against the appropriate harmonised standards can form part of the technical evidence used by manufacturers when demonstrating conformity with applicable RED requirements.",
+        "However, manufacturers should confirm the currently cited harmonised version, applicable restrictions and all other relevant RED requirements before placing equipment on the European market. EMC compliance alone does not demonstrate complete compliance with every Radio Equipment Directive requirement.",
+        "For products incorporating GNSS functionality, additional EMC requirements may also be relevant. ITC India provides <a href=\"/en-301-489-19-testing\">EN 301 489-19 EMC testing for GNSS receivers</a> for applicable equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing Cellular Equipment for EMC Testing",
+      "paragraphs": [
+        "Manufacturers should provide a representative production configuration and sufficient technical information before testing.",
+        "Useful information includes the cellular technologies supported, frequency bands, antenna configuration, operating modes, AC/DC power details, communication ports, cables, accessories, software or firmware version and required standard version.",
+        "Where a cellular radio forms part of a larger multi-radio product, other product-specific EMC standards may also need to be considered."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-52 Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with EMC evaluation of radio, wireless and electronic equipment against applicable EN, ETSI, IEC and CISPR standards.",
+        "Early EMC testing can help identify problems involving PCB layout, shielding, grounding, filtering, cable routing and power-supply design before final compliance evaluation.",
+        "For EN 301 489-52 cellular, LTE or 5G EMC testing in India, submit your equipment specifications, supported radio technologies and required standard version through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is EN 301 489-52?",
+      "paragraphs": [
+        "EN 301 489-52 specifies EMC test conditions, performance assessment and performance criteria for cellular communication user equipment and associated ancillary equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the latest version of EN 301 489-52?",
+      "paragraphs": [
+        "ETSI published EN 301 489-52 V1.3.1 in November 2024. Earlier documentation may reference V1.2.1, so the required edition should be confirmed before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does EN 301 489-52 cover 5G equipment?",
+      "paragraphs": [
+        "Yes. The current version includes requirements for 5G New Radio equipment, including applicable NR FR1 and FR2 configurations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is EN 301 489-1 also required?",
+      "paragraphs": [
+        "EN 301 489-52 is used together with EN 301 489-1, which provides the common EMC requirements for radio equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does EN 301 489-52 cover cellular base stations?",
+      "paragraphs": [
+        "Part 52 focuses on Cellular Communication User Equipment. Cellular base stations, repeaters and related equipment are addressed separately within the EN 301 489 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India perform EMC testing for LTE and 5G devices?",
+      "paragraphs": [
+        "ITC India supports EMC testing of applicable cellular and radio equipment against relevant ETSI, EN, IEC and CISPR requirements. The exact test scope depends on the technology, ports, configuration and required standard version."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/en-301-489-52-v1-2-1-testing/f5532f764256.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/en-301-489-52-v1-2-1-testing/f5532f764256.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

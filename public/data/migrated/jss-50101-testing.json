@@ -1,0 +1,292 @@
+{
+  "hero": "/images/page-heroes/jss-50101-testing.webp",
+  "heroPortrait": "/images/page-heroes/jss-50101-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/jss-50101-testing-s1.webp",
+  "generatedMid": "/images/page-sections/jss-50101-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/jss-50101-testing-s1.webp",
+    "/images/page-sections/jss-50101-testing-s2.webp",
+    "/images/page-sections/jss-50101-testing-s3.webp",
+    "/images/page-sections/jss-50101-testing-s4.webp",
+    "/images/page-sections/jss-50101-testing-s5.webp",
+    "/images/page-sections/jss-50101-testing-s6.webp",
+    "/images/page-sections/jss-50101-testing-s7.webp",
+    "/images/page-sections/jss-50101-testing-s8.webp",
+    "/images/page-sections/jss-50101-testing-s9.webp",
+    "/images/page-sections/jss-50101-testing-s10.webp",
+    "/images/page-sections/jss-50101-testing-s11.webp",
+    "/images/page-sections/jss-50101-testing-s12.webp",
+    "/images/page-sections/jss-50101-testing-s13.webp",
+    "/images/page-sections/jss-50101-testing-s14.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 1 | 940 | 2 img no alt | KEEP",
+  "slug": "jss-50101-testing",
+  "path": "/jss-50101-testing",
+  "source": "https://www.itcindia.org/jss-50101-testing/",
+  "ok": true,
+  "title": "JSS 50101 Testing in India | Environmental Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "JSS 50101 environmental testing in India for service electronic components, including vibration, damp heat, temperature cycling and impact/bump tests.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides JSS 50101 testing support for electronic components and related products that require environmental evaluation for defence and demanding service applications. JSS 50101:2022, Second Revision, is titled “Environmental Test Methods for Service Electronic Components” by the Directorate of Standardisation, Ministry of Defence.",
+        "Environmental conditions can affect the reliability, mechanical integrity and functional performance of electronic components. Testing under controlled laboratory conditions helps manufacturers, suppliers and equipment developers evaluate how components respond to environmental stresses before qualification, procurement or integration into larger systems.",
+        "The applicable JSS 50101 test method, severity, duration and acceptance criteria should always be determined from the current specification, product requirement, tender or customer test plan."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/jss-50101-testing/a6bdb6912a5e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is JSS 50101 Testing?",
+      "paragraphs": [
+        "JSS 50101 defines environmental test methods intended for service electronic components. The current edition listed by the Directorate of Standardisation is JSS 50101:2022 (Second Revision). The earlier JSS 50101:1996 edition is listed separately by the Directorate as a superseded version.",
+        "The standard provides controlled environmental test methods that can be selected according to the component and its intended application. Current accredited laboratory scopes reference JSS 50101:2022 for tests including damp heat, impact or bump, temperature cycling or thermal shock, and vibration.",
+        "For wider climatic and mechanical testing capabilities, see ITC India’s <a href=\"/environmental-testing-services\">Environmental Testing Laboratory</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "JSS 50101 Environmental Tests",
+      "paragraphs": [
+        "A JSS 50101 qualification programme should be based on the specific test numbers and severities identified in the governing requirement.",
+        "Examples documented in current laboratory scopes include damp heat or moisture-resistance testing, impact/bump testing, temperature cycling or thermal-shock testing and vibration testing. For example, current accreditation scopes reference JSS 50101:2022 Test No. 6 for damp heat moisture resistance, Test No. 11 for impact/bump, Test No. 20 for temperature cycling and Test No. 23 for vibration.",
+        "Other environmental tests should be performed only where they are specifically required by the applicable revision, component specification or procurement document."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "JSS 50101 Vibration Testing",
+      "paragraphs": [
+        "Electronic components used in defence and other demanding environments may experience vibration during transportation, installation and operation. These dynamic loads can affect connectors, solder joints, component mounting, housings and other mechanical or electrical interfaces.",
+        "Where JSS 50101 vibration testing is specified, the specimen should be configured according to the required mounting arrangement and tested at the prescribed severity and duration.",
+        "For detailed dynamic testing capabilities, visit ITC India’s <a href=\"/vibration-testing\">Vibration Testing Laboratory</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Damp Heat and Temperature Testing",
+      "paragraphs": [
+        "Electronic components can also be affected by temperature extremes, temperature changes and moisture. Environmental conditioning can reveal weaknesses associated with insulation, seals, materials, electrical connections and component construction.",
+        "JSS 50101:2022 is referenced in accredited laboratory scopes for damp-heat and temperature-cycling methods. The exact temperature range, humidity level, exposure period and recovery conditions should come from the applicable test requirement.",
+        "Products that separately require international environmental methods can also be evaluated under <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 Environmental Testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Impact and Bump Testing",
+      "paragraphs": [
+        "Impact and bump testing can be used to evaluate whether electronic components and assemblies can withstand specified mechanical stresses without unacceptable deterioration.",
+        "Current accredited laboratory scopes identify JSS 50101:2022 Test No. 11 for impact/bump testing.",
+        "The required pulse, severity, number of impacts, mounting configuration and acceptance criteria should be taken from the applicable specification rather than assumed from another environmental standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "JSS 50101 Testing Process",
+      "paragraphs": [
+        "Before testing begins, the applicable requirement should be technically reviewed. Manufacturers should provide the product or component name, model or part number, dimensions and weight, applicable JSS 50101 revision, required test number, severity, duration, operating condition, mounting details and acceptance criteria.",
+        "If the requirement originates from a defence tender, customer specification or qualification plan, providing that document helps ensure that the correct test method and severity are selected.",
+        "The test specimen can then be prepared and configured according to the agreed test requirement. Relevant observations, pre-test and post-test checks, environmental conditions and test results can be documented in the laboratory report."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "JSS 50101 vs Other Environmental Standards",
+      "paragraphs": [
+        "JSS 50101 should be treated as a separate specification rather than assumed to be interchangeable with another environmental standard.",
+        "Some products may separately require IEC 60068, JSS 55555 or another defence environmental specification. Where multiple standards are specified, each test method and severity should be reviewed independently.",
+        "For equipment-level defence environmental requirements, also see ITC India’s <a href=\"/jss-55555\">JSS 55555 Environmental Testing</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request JSS 50101 Testing",
+      "paragraphs": [
+        "If your electronic component or product requires JSS 50101 environmental testing, share the applicable specification, tender requirement or customer test plan with ITC India.",
+        "Including the standard revision, test number, severity, duration, specimen dimensions, weight, mounting arrangement and acceptance criteria will help the technical team review the requirement and determine the appropriate testing configuration."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is JSS 50101?",
+      "paragraphs": [
+        "JSS 50101 is a Joint Services Specification covering environmental test methods for service electronic components. The Directorate of Standardisation currently lists JSS 50101:2022 as the Second Revision."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests are performed under JSS 50101?",
+      "paragraphs": [
+        "Depending on the applicable requirement, JSS 50101 testing can include methods such as damp heat, impact/bump, temperature cycling and vibration. The exact test must be selected from the applicable specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is JSS 50101:1996 still the current revision?",
+      "paragraphs": [
+        "The Directorate of Standardisation currently lists JSS 50101:2022 (Second Revision) as the current standard and separately identifies the 1996 revision in its superseded records."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What information is required for a JSS 50101 testing quotation?",
+      "paragraphs": [
+        "Provide the product or component details, applicable revision, test number, severity, duration, dimensions, weight, mounting requirements, operating condition and acceptance criteria."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is JSS 50101 the same as JSS 55555?",
+      "paragraphs": [
+        "No. They are separate Joint Services Specifications. The standard and individual test methods required by the product, tender or qualification document should be followed rather than substituting one specification for another."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/jss-50101-testing/a6bdb6912a5e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/jss-50101-testing/a6bdb6912a5e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

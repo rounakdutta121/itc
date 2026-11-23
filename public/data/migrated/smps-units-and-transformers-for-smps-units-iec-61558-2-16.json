@@ -1,0 +1,199 @@
+{
+  "hero": "/images/page-heroes/smps-units-and-transformers-for-smps-units-iec-61558-2-16.webp",
+  "heroPortrait": "/images/page-heroes/smps-units-and-transformers-for-smps-units-iec-61558-2-16-portrait.webp",
+  "generatedIntro": "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s1.webp",
+  "generatedMid": "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s1.webp",
+    "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s2.webp",
+    "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s3.webp",
+    "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s4.webp",
+    "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s5.webp",
+    "/images/page-sections/smps-units-and-transformers-for-smps-units-iec-61558-2-16-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "0 / 2 | 165 | no meta, thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+  "slug": "smps-units-and-transformers-for-smps-units-iec-61558-2-16",
+  "path": "/smps-units-and-transformers-for-smps-units-iec-61558-2-16",
+  "source": "https://www.itcindia.org/smps-units-and-transformers-for-smps-units-iec-61558-2-16/",
+  "ok": true,
+  "title": "SMPS testing lab-transformer testing as per IEC 61558-2-16 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Why SMPS testing ? The SMPS units and transformers testing IEC 61558-2-16 standard is a testing specification for switch-mode power supplies (SMPS) units and transformers. Standard IEC 61558-2-16:2021 deals with the safety of SMPS units and transformers.Thank you for reading this post, don't forget to subscribe!  This standard defines the minimum requirements for measuring the…Read More+",
+  "sections": [
+    {
+      "heading": "Why SMPS testing ?",
+      "paragraphs": [
+        "The SMPS units and transformers testing IEC 61558-2-16 standard is a testing specification for switch-mode power supplies (SMPS) units and transformers. Standard IEC 61558-2-16:2021 deals with the safety of SMPS units and transformers.",
+        "This standard defines the minimum requirements for measuring the characteristics of SMPS units and transformers, and provides guidance on how to carry out the tests."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Where this standard is applicable?",
+      "paragraphs": [
+        "The standard is applicable to all types of SMPS units and transformers, including those used in electronic equipment, appliances, and power supplies."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/smps-units-and-transformers-for-smps-units-iec-61558-2-16/37c957d09ac9.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Who is intended to use this testing?",
+      "paragraphs": [
+        "This standard is intended for use by manufacturers, testing laboratories, and certification bodies."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The standard covers the following tests",
+      "paragraphs": [
+        "The SMPS units and transformers testing IEC 61558-2-16 standard in testing lab is intended to ensure that SMPS units and transformers meet the minimum performance requirements."
+      ],
+      "bullets": [
+        "input voltage,",
+        "input current,",
+        "output voltage,",
+        "output current,",
+        "efficiency,",
+        "power factor, and",
+        "ripple."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/smps-units-and-transformers-for-smps-units-iec-61558-2-16/5dbe3d2f80fc.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/smps-units-and-transformers-for-smps-units-iec-61558-2-16/37c957d09ac9.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/smps-units-and-transformers-for-smps-units-iec-61558-2-16/5dbe3d2f80fc.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/smps-units-and-transformers-for-smps-units-iec-61558-2-16/37c957d09ac9.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/smps-units-and-transformers-for-smps-units-iec-61558-2-16/5dbe3d2f80fc.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

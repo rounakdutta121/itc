@@ -1,0 +1,230 @@
+{
+  "hero": "/images/page-heroes/led-driver-and-lamp-control-gear-testing.webp",
+  "heroPortrait": "/images/page-heroes/led-driver-and-lamp-control-gear-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/led-driver-and-lamp-control-gear-testing-s1.webp",
+  "generatedMid": "/images/page-sections/led-driver-and-lamp-control-gear-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/led-driver-and-lamp-control-gear-testing-s1.webp",
+    "/images/page-sections/led-driver-and-lamp-control-gear-testing-s2.webp",
+    "/images/page-sections/led-driver-and-lamp-control-gear-testing-s3.webp",
+    "/images/page-sections/led-driver-and-lamp-control-gear-testing-s4.webp",
+    "/images/page-sections/led-driver-and-lamp-control-gear-testing-s5.webp",
+    "/images/page-sections/led-driver-and-lamp-control-gear-testing-s6.webp"
+  ],
+  "category": "photometry",
+  "action": "KEEP",
+  "note": "0 / 3 | 322 | no H2, few links | KEEP",
+  "slug": "led-driver-and-lamp-control-gear-testing",
+  "path": "/led-driver-and-lamp-control-gear-testing",
+  "source": "https://www.itcindia.org/led-driver-and-lamp-control-gear-testing/",
+  "ok": true,
+  "title": "LED Driver and Lamp Control Gear Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITCIndia Can do LED Driver and Lamp control Gear Testing as per IEC 61347 -2-13, IS 15885-2-13 Standards",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India can do LED Driver and Lamp control Gear testing as per IEC 61347 -2-13, IS 15885-2-13 Standards.",
+        "If you are looking for LED Driver and Lamp control Gear Testing Laboratory for LED Driver and Lamp control Gear In India, Mumbai, Chennai, Ahmedabad, New Delhi, Pune, Kolkata, Bangalore, Hyderabad, Surat, Visakhapatnam and other city, ITCINDIA NABL Approved Electrical Safety testing Lab Can Help You! ITC India one of the best LED Driver and Lamp control Gear testing Laboratory in India.",
+        "ITCIndia “Institute of Testing and Certification India Pvt. Ltd” are a leading testing company/laboratory having a NABL accreditation under ELECTRICAL, ELECTRONICS and PHOTOMETRY testing with certificate no. T-3509, T-3570 and T-1811. The Laboratory is following the procedure as required by International Standard IEC 17025 and is already certified for ISO/IEC 17025."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Essential Tests:",
+      "paragraphs": [],
+      "bullets": [
+        "Protection against accidental contact with live parts",
+        "Protective earthing",
+        "Moisture resistance and insulation",
+        "Electric strength",
+        "Endurance test",
+        "Fault condition",
+        "Abnormal conditions",
+        "Creep age and clearance",
+        "Resistance to Heat, fire and tracking",
+        "Resistance to corrosion"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Some important table of the issued report.",
+      "paragraphs": [
+        "For your better understanding, we are going to show you the <a href=\"/wp-content/uploads/2016/12/LED-Driver-Test-Report-IEC-61347-2-13-36C.pdf\">LED Driver and Lamp control Gear Test report</a> of latest LED."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Table 1"
+          ],
+          "rows": [
+            [
+              "Clearances"
+            ],
+            [
+              "RMS working voltage not exceeding 250V",
+              "Minimum Value (mm)",
+              "Measured Value (mm)",
+              "Verdict"
+            ],
+            [
+              "– Basic insulation",
+              ">1.7mm",
+              ">1.7mm",
+              "P"
+            ],
+            [
+              "Creepage"
+            ],
+            [
+              "RMS working voltage not exceeding 250V",
+              "Minimum Value (mm)",
+              "Measured Value (mm)",
+              "Verdict"
+            ],
+            [
+              "– Basic insulation PTI ≥ 600",
+              "1.7mm",
+              ">1.7mm",
+              "P"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Table 2"
+          ],
+          "rows": [
+            [
+              "Sr. No.",
+              "Conducted Test",
+              "Test Conditions",
+              "Test requirements",
+              "Result"
+            ],
+            [
+              "1",
+              "Insulation Resistance Test",
+              "Test Voltage: 500V D.C Time : 1 minTest part: Between live part and metal covered",
+              "Shall not be Less than 2 MΩ",
+              "P (>9900mΩ)"
+            ],
+            [
+              "2",
+              "Dielectric Strength test",
+              "Test voltage:1480V Test Duration: 1 min. Ramp time: 10secTest Part: Between live part and metal covered",
+              "Shall withstand without breakdown",
+              "P"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

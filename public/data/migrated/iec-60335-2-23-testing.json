@@ -1,0 +1,294 @@
+{
+  "hero": "/images/page-heroes/iec-60335-2-23-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-60335-2-23-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60335-2-23-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60335-2-23-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60335-2-23-testing-s1.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s2.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s3.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s4.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s5.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s6.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s7.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s8.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s9.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s10.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s11.webp",
+    "/images/page-sections/iec-60335-2-23-testing-s12.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "794 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-60335-2-23-testing",
+  "path": "/iec-60335-2-23-testing",
+  "source": "https://www.itcindia.org/iec-60335-2-23-testing/",
+  "ok": true,
+  "title": "IEC 60335-2-23 Hair Care Appliance Testing India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60335-2-23 testing in India for hair dryers, straighteners and curling appliances. Test electrical and thermal safety with ITC India testing support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Electrical hair-care appliances operate close to the user’s body and frequently contain heating elements, motors and high-temperature surfaces. Proper safety evaluation is therefore essential to reduce risks associated with electric shock, excessive temperature, fire, mechanical hazards and foreseeable abnormal use.",
+        "ITC India provides IEC 60335-2-23 testing in India for manufacturers, importers and product developers of hair-care and similar electrical appliances. IEC 60335-2-23 provides product-specific safety requirements and is applied together with the general requirements of IEC 60335-1. Manufacturers can also review ITC India’s <a href=\"/iec-60335-1-safety-testing-india\">IEC 60335-1 safety testing services</a> when planning a complete appliance safety evaluation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60335-2-23-testing/0d6c4fa0071f.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Products Covered by IEC 60335-2-23",
+      "paragraphs": [
+        "IEC 60335-2-23 covers electrical appliances intended for hair care and similar household applications. Depending on the product design and intended use, products evaluated can include:",
+        "The applicable standard should always be confirmed before testing. For example, electric shavers and hair clippers are covered by different requirements. Manufacturers of these products can refer to ITC India’s <a href=\"/electric-shaver-safety-testing\">IEC 60335-2-8 electric shaver safety testing</a> service.",
+        "For manufacturers developing several categories of consumer electrical appliances, ITC India also provides broader <a href=\"/household\">Household Equipment Testing</a> services."
+      ],
+      "bullets": [
+        "Hair dryers",
+        "Hair straighteners",
+        "Curling irons",
+        "Curling combs",
+        "Hand dryers",
+        "Heaters for detachable hair curlers",
+        "Permanent-wave appliances",
+        "Similar electrically operated hair-care equipment"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major IEC 60335-2-23 Safety Tests",
+      "paragraphs": [
+        "The exact testing program depends on the appliance construction, rated supply, heating system, motor, controls and intended use. Typical safety evaluations can include:",
+        "These tests help identify electrical, thermal and mechanical safety issues before a product proceeds to certification or commercial production. Additional electrical evaluations may also be supported through ITC India’s <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a>."
+      ],
+      "bullets": [
+        "Marking and instructions",
+        "Protection against access to live parts",
+        "Power input and current",
+        "Heating and temperature-rise testing",
+        "Leakage current and electric strength",
+        "Moisture resistance",
+        "Transient overvoltage assessment",
+        "Abnormal operation",
+        "Stability and mechanical hazards",
+        "Mechanical strength",
+        "Construction requirements",
+        "Internal wiring",
+        "Components and supply connections",
+        "External flexible cords",
+        "Protective earthing",
+        "Screws and electrical connections",
+        "Clearances and creepage distances",
+        "Resistance to heat and fire",
+        "Resistance to rusting"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60335-2-23 and IEC 60335-1",
+      "paragraphs": [
+        "IEC 60335-1 establishes the general safety requirements applicable to household and similar electrical appliances. IEC 60335-2-23 supplements and modifies those general requirements for hair-care and similar appliances.",
+        "A hair dryer, straightener or curling appliance should therefore not be evaluated only against Part 2-23. The applicable requirements of IEC 60335-1 and the particular product standard need to be considered together.",
+        "Manufacturers working with multiple appliance categories can also review ITC India’s wider <a href=\"/household\">IEC 60335 household appliance testing services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IS 302-2-23 Testing for the Indian Market",
+      "paragraphs": [
+        "Products intended for sale in India may also need evaluation against IS 302 (Part 2/Sec 23) and applicable BIS regulatory requirements.",
+        "The Indian Standard addresses electrical appliances for skin or hair care, while the latest international IEC 60335-2-23 scope has been revised to focus on hair-care and similar appliances. Because the applicable standard can depend on the destination market and regulatory route, manufacturers should confirm the required IEC or Indian Standard before starting formal compliance testing.",
+        "Early testing is valuable because failures involving insulation, temperature rise, supply cords, heating elements, protective components or abnormal operation may require product redesign."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India for IEC 60335-2-23 Testing?",
+      "paragraphs": [
+        "ITC India supports manufacturers with product safety testing, interpretation of applicable requirements and identification of non-conformities during product development and compliance preparation.",
+        "For an accurate test plan, manufacturers should provide available product information such as rated voltage, power rating, model details, circuit diagrams, critical component lists, heating-element information, product labels, construction drawings and user instructions.",
+        "For IEC 60335-2-23 or IS 302-2-23 hair-care appliance testing in India, submit your product details through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60335-2-23?",
+      "paragraphs": [
+        "IEC 60335-2-23 specifies particular safety requirements for electrical hair-care and similar appliances. It is used together with the general household appliance safety requirements of IEC 60335-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which appliances are covered by IEC 60335-2-23?",
+      "paragraphs": [
+        "Typical products include hair dryers, hair straighteners, curling irons, curling combs, hand dryers and other hair-care appliances falling within the standard’s defined scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60335-2-23 cover electric shavers?",
+      "paragraphs": [
+        "No. Electric shavers, hair clippers and similar appliances are addressed under IEC 60335-2-8 rather than IEC 60335-2-23."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IS 302-2-23 relevant in India?",
+      "paragraphs": [
+        "Yes. IS 302 (Part 2/Sec 23) applies to relevant skin- and hair-care electrical appliances in India. Manufacturers should verify current BIS and Quality Control Order requirements for their specific product."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What documents are required for hair dryer safety testing?",
+      "paragraphs": [
+        "Useful documents include product specifications, rated electrical values, circuit diagrams, component lists, heating-element details, construction drawings, labels and user manuals."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test hair dryers and hair straighteners?",
+      "paragraphs": [
+        "ITC India can evaluate applicable electrical and product-safety requirements for hair-care appliances based on the relevant IEC or Indian Standard and the intended destination market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60335-2-23-testing/0d6c4fa0071f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60335-2-23-testing/0d6c4fa0071f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

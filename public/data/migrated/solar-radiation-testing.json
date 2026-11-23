@@ -1,0 +1,274 @@
+{
+  "hero": "/images/page-heroes/solar-radiation-testing.webp",
+  "heroPortrait": "/images/page-heroes/solar-radiation-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/solar-radiation-testing-s1.webp",
+  "generatedMid": "/images/page-sections/solar-radiation-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/solar-radiation-testing-s1.webp",
+    "/images/page-sections/solar-radiation-testing-s2.webp",
+    "/images/page-sections/solar-radiation-testing-s3.webp",
+    "/images/page-sections/solar-radiation-testing-s4.webp",
+    "/images/page-sections/solar-radiation-testing-s5.webp",
+    "/images/page-sections/solar-radiation-testing-s6.webp",
+    "/images/page-sections/solar-radiation-testing-s7.webp",
+    "/images/page-sections/solar-radiation-testing-s8.webp",
+    "/images/page-sections/solar-radiation-testing-s9.webp",
+    "/images/page-sections/solar-radiation-testing-s10.webp",
+    "/images/page-sections/solar-radiation-testing-s11.webp",
+    "/images/page-sections/solar-radiation-testing-s12.webp",
+    "/images/page-sections/solar-radiation-testing-s13.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "834 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "solar-radiation-testing",
+  "path": "/solar-radiation-testing",
+  "source": "https://www.itcindia.org/solar-radiation-testing/",
+  "ok": true,
+  "title": "Solar Radiation Testing as per MIL-STD-810H and IEC 60068",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Solar radiation testing in India as per MIL-STD-810H Method 505.7 & IEC 60068-2-5. Evaluate solar heat,sunlight exposure & material durability with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides solar radiation testing services for products, components and materials that may be exposed to direct sunlight during outdoor use, storage or transportation. The test uses controlled simulated solar radiation to assess the effects of solar heat and light on product performance, materials and surface finishes.",
+        "Solar radiation can raise the temperature of an enclosure well above the surrounding ambient temperature. Long-term exposure may also contribute to fading, cracking, warping, loss of mechanical strength, deterioration of coatings, seal damage and changes in electrical or electronic performance. Laboratory testing helps manufacturers identify these risks before equipment is released for field use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/solar-radiation-testing/497be4957c46.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is Solar Radiation Testing?",
+      "paragraphs": [
+        "Solar radiation testing exposes a specimen to defined solar-spectrum radiation under controlled environmental conditions. Depending on the applicable specification, the objective may be to evaluate thermal effects, photochemical or actinic effects, or both.",
+        "Products intended for outdoor or high-sunlight environments can be evaluated as part of a broader environmental qualification programme. ITC India also provides <a href=\"/environmental-testing-services\">environmental testing services</a> for temperature, humidity, vibration, shock, dust, rain and ingress protection."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Solar Radiation Testing as per MIL-STD-810H Method 505.7",
+      "paragraphs": [
+        "MIL-STD-810H Method 505.7 addresses Solar Radiation (Sunshine) for equipment that may experience direct solar exposure during its service life. Testing can be used to determine whether solar loading causes unacceptable temperature rise, functional degradation or deterioration of exposed materials.",
+        "Depending on the test plan and product requirement, evaluation may include operation during exposure, monitoring of critical temperatures, visual examination and functional checks before, during or after testing.",
+        "For defence and ruggedized products, solar radiation testing is often considered together with other environmental qualification tests. ITC India also supports <a href=\"/vibration-testing/mil-std-810h\">MIL-STD-810H vibration and shock testing</a> and <a href=\"/jss-55555\">JSS 55555 environmental testing</a> for relevant qualification programmes."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-5 Solar Radiation Testing",
+      "paragraphs": [
+        "IEC 60068-2-5 provides methods for evaluating equipment and components under simulated solar radiation at ground level. It is part of the broader <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 environmental testing</a> series and can be used to assess thermal effects and weathering-related effects where applicable.",
+        "Manufacturers working with electrical and electronic products can combine IEC 60068-2-5 with other IEC 60068 environmental tests when the product specification calls for multiple environmental stresses."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Problems Can a Solar Radiation Test Identify?",
+      "paragraphs": [
+        "A controlled solar radiation test can help reveal excessive surface or internal temperature rise, overheating of electronic components, deformation or softening of plastics, fading and discoloration, cracking or embrittlement, coating deterioration, adhesive degradation, seal and gasket damage, dimensional changes and reduced product performance.",
+        "Finding these issues during design validation can support improvements in thermal management, material selection, coatings, enclosure design and component protection."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products That May Require Solar Radiation Testing",
+      "paragraphs": [
+        "Solar radiation testing may be relevant for outdoor electrical and electronic equipment, defence systems, communication equipment, control panels, automotive and transport electronics, sensors, monitoring equipment, outdoor enclosures, industrial products and other equipment expected to operate or remain stored in high-sunlight environments.",
+        "Because sunlight exposure often occurs together with other environmental stresses, manufacturers may also need <a href=\"/vibration-testing\">vibration testing</a>, <a href=\"/ip-testing-laboratory-india\">IP testing</a> or <a href=\"/rain-test-services-india\">rain testing</a> depending on the intended installation and product specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for Solar Radiation Testing",
+      "paragraphs": [
+        "To plan the test, provide the product name and model, dimensions and weight, applicable standard and edition, required method or procedure, exposure duration or cycle, operating condition, power requirements, monitoring parameters and acceptance criteria.",
+        "Customer, defence, procurement or product specifications should also be shared when they define special solar-radiation conditions or pass/fail requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports manufacturers with coordinated environmental testing for electrical, electronic, industrial and defence-related products. Our technical team can review your specification and help identify the applicable solar radiation test method and related environmental tests required for the qualification programme.",
+        "For products exposed to several environmental stresses during their operating life, solar radiation testing can be coordinated with temperature, humidity, vibration, shock, rain, dust and ingress-protection testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request a Solar Radiation Testing Quote",
+      "paragraphs": [
+        "For solar radiation testing as per MIL-STD-810H Method 505.7, IEC 60068-2-5 or a customer-specific requirement, <a href=\"/contact-us/inquiry\">send ITC India your testing requirement</a> with the product details, applicable standard, test conditions and acceptance criteria. Our technical team can review the requirement and advise on the appropriate testing programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the purpose of solar radiation testing?",
+      "paragraphs": [
+        "Solar radiation testing evaluates how simulated sunlight and solar heating can affect a product’s temperature, materials, appearance, durability and functional performance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which standards are commonly used for solar radiation testing?",
+      "paragraphs": [
+        "Common references include MIL-STD-810H Method 505.7 and IEC 60068-2-5. The applicable method should be selected according to the product, customer, defence or procurement specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is solar radiation testing the same as UV testing?",
+      "paragraphs": [
+        "Not exactly. Solar radiation testing is intended to simulate a broader solar spectrum and associated heating effects, while UV testing typically concentrates on ultraviolet exposure and material degradation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can solar radiation testing be combined with other environmental tests?",
+      "paragraphs": [
+        "Yes. Depending on the qualification requirement, solar radiation testing may be part of a programme that also includes temperature, humidity, vibration, shock, dust, rain and ingress-protection testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/solar-radiation-testing/497be4957c46.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/solar-radiation-testing/497be4957c46.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "hero": "/images/page-heroes/customer-support.webp",
+  "heroPortrait": "/images/page-heroes/customer-support-portrait.webp",
+  "generatedIntro": "/images/page-sections/customer-support-s1.webp",
+  "generatedMid": "/images/page-sections/customer-support-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/customer-support-s1.webp",
+    "/images/page-sections/customer-support-s2.webp",
+    "/images/page-sections/customer-support-s3.webp",
+    "/images/page-sections/customer-support-s4.webp",
+    "/images/page-sections/customer-support-s5.webp",
+    "/images/page-sections/customer-support-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "0 / 1 | 10 | no meta, thin, few links | KEEP – add 2–3 lines of text + meta",
+  "slug": "customer-support",
+  "path": "/customer-support",
+  "source": "https://www.itcindia.org/customer-support/",
+  "ok": true,
+  "title": "Customer Support - Electrical Safety Testing Laboratory",
+  "h1": "Customer Support",
+  "description": "Other Testing Services",
+  "sections": [],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

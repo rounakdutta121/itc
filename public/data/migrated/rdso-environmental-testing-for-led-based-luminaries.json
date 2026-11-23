@@ -1,0 +1,317 @@
+{
+  "hero": "/images/page-heroes/rdso-environmental-testing-for-led-based-luminaries.webp",
+  "heroPortrait": "/images/page-heroes/rdso-environmental-testing-for-led-based-luminaries-portrait.webp",
+  "generatedIntro": "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s1.webp",
+  "generatedMid": "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s1.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s2.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s3.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s4.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s5.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s6.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s7.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s8.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s9.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s10.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s11.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s12.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s13.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s14.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s15.webp",
+    "/images/page-sections/rdso-environmental-testing-for-led-based-luminaries-s16.webp"
+  ],
+  "category": "photometry",
+  "action": "ADD",
+  "note": "998 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "rdso-environmental-testing-for-led-based-luminaries",
+  "path": "/rdso-environmental-testing-for-led-based-luminaries",
+  "source": "https://www.itcindia.org/rdso-environmental-testing-for-led-based-luminaries/",
+  "ok": true,
+  "title": "RDSO Environmental Testing for LED Luminaires",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "RDSO environmental testing in India for railway LED luminaires under TL 0091. Evaluate climatic, vibration,shock and enclosure performance with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides RDSO environmental testing for LED luminaires intended for use in Indian Railways passenger coaches and related rolling-stock applications. Railway lighting equipment operates in an environment where temperature variation, humidity, vibration, mechanical shock, dust and moisture can affect the performance of LED modules, drivers, wiring, connectors and enclosures.",
+        "Environmental qualification helps manufacturers identify weaknesses before luminaires enter railway service and supports evaluation against the applicable RDSO specification, drawing and procurement requirements.",
+        "For complete railway LED luminaire qualification, manufacturers can also review ITC India’s <a href=\"/vibration-testing/rdso-tl-0091\">RDSO TL 0091 testing services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/rdso-environmental-testing-for-led-based-luminaries/e00ccfd9627e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "RDSO TL 0091 for Railway LED Luminaires",
+      "paragraphs": [
+        "RDSO/PE/SPEC/TL/0091 covers energy-efficient LED based luminaire units used in passenger coaches. The current specification is RDSO/PE/SPEC/TL/0091-2026 (Rev. 2).",
+        "It applies to various passenger-coach lighting applications, including compartment and passenger-area lights, corridor and doorway luminaires, gangway lighting, lavatory lights, berth reading lights, night lights and indication luminaires, subject to the applicable railway drawing.",
+        "Because requirements can vary according to luminaire type and procurement specification, manufacturers should confirm the current specification revision, drawing, amendments and required test schedule before submitting samples."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Environmental Testing Is Important",
+      "paragraphs": [
+        "LED luminaires used on rolling stock must continue to perform despite repeated environmental and mechanical stresses.",
+        "Temperature exposure can affect LED junction temperature, electronic drivers, insulation, plastics and sealing materials. High humidity can influence electrical insulation and promote moisture-related deterioration. Continuous vibration can loosen fasteners, damage solder joints or create intermittent electrical connections.",
+        "Environmental testing provides controlled laboratory conditions in which these risks can be identified and evaluated before the product enters service.",
+        "ITC India also provides broader <a href=\"/environmental-testing-services\">environmental testing services</a> for electrical and electronic equipment requiring climatic and durability evaluation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Climatic Testing of LED Luminaires",
+      "paragraphs": [
+        "Depending on the applicable RDSO test programme, environmental evaluation may involve exposure to defined temperature and humidity conditions followed by functional, visual or electrical checks.",
+        "The purpose is to evaluate whether the complete luminaire—including the LED module, driver, diffuser, enclosure, seals and internal connections—can withstand environmental conditions without unacceptable deterioration.",
+        "After exposure, the luminaire may be inspected for physical damage, deformation, condensation, insulation problems, loss of light output or functional failure according to the specified acceptance criteria.",
+        "Where other environmental standards form part of the product qualification programme, ITC India also supports <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 environmental testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Vibration and Shock Testing",
+      "paragraphs": [
+        "Railway luminaires experience repeated vibration generated by vehicle motion, track irregularities and their mounting location. Mechanical shock can also occur during railway operation.",
+        "Vibration and shock testing helps identify failures such as loose screws, cracked PCB assemblies, broken solder joints, connector movement, enclosure damage and failure of mounting arrangements.",
+        "For rolling-stock products requiring dedicated railway mechanical qualification, ITC India provides <a href=\"/vibration-testing/iec-61373\">IEC 61373 vibration and shock testing</a>.",
+        "The luminaire should be tested using an appropriate fixture and mounting arrangement that represents the intended installation as closely as practical."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Ingress Protection for Railway LED Luminaires",
+      "paragraphs": [
+        "Environmental reliability can also depend on the ability of the luminaire enclosure to prevent dust or water from reaching sensitive electrical parts.",
+        "Where an RDSO specification, railway drawing or purchaser requirement defines an IP rating, enclosure protection can be evaluated separately using the applicable ingress-protection method.",
+        "ITC India provides <a href=\"/ip-testing-laboratory-india\">IP testing laboratory services</a> for electrical and electronic enclosures. Testing can help evaluate the effectiveness of gaskets, joints, cable entries, covers and other enclosure features."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Photometric Performance After Environmental Exposure",
+      "paragraphs": [
+        "Environmental testing should not be considered independently of lighting performance. A luminaire may remain electrically operational while experiencing changes in light output, colour or distribution.",
+        "Manufacturers can therefore combine environmental qualification with <a href=\"/rdso-photometry-testing-led-luminaries\">RDSO photometry testing for LED luminaires</a> where required.",
+        "Photometric measurements may include luminous flux, illuminance, luminous efficacy, CCT, CRI and light-distribution characteristics according to the applicable specification and drawing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical and EMC Evaluation",
+      "paragraphs": [
+        "LED drivers and associated electronics can also be affected by electrical disturbances encountered in railway applications.",
+        "Depending on the applicable RDSO qualification programme, manufacturers may requi| ITC Indiare additional electrical or electromagnetic-compatibility evaluation. ITC India provides <a href=\"/emc-emi-testing\">EMC/EMI testing services</a> for electrical and electronic products.",
+        "Manufacturers should establish the complete test matrix before testing so that environmental, mechanical, electrical and photometric evaluations use a consistent sample configuration."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for RDSO Environmental Testing",
+      "paragraphs": [
+        "To plan testing, provide the LED luminaire type, railway drawing number, rated voltage and wattage, applicable RDSO specification and revision, sample dimensions and weight, mounting details, required test clauses, sample quantity and acceptance criteria.",
+        "Any purchaser-specific specification or additional railway requirement should also be provided for technical review."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports manufacturers of railway lighting products with environmental, vibration, shock, ingress-protection, electrical and photometric testing capabilities.",
+        "A coordinated testing programme can reduce repeated sample preparation and help ensure that the luminaire configuration remains consistent across related qualification tests.",
+        "For reports requiring NABL accreditation, the manufacturer should confirm that the exact specification revision and required test clauses are covered within ITC India’s current accredited scope before testing begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request RDSO Environmental Testing",
+      "paragraphs": [
+        "For RDSO environmental testing of LED based railway luminaires, <a href=\"/contact-us/inquiry\">send your testing requirement to ITC India</a> with the product details, railway drawing, RDSO specification, required test clauses and acceptance criteria."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is RDSO environmental testing for LED luminaires?",
+      "paragraphs": [
+        "It evaluates how railway LED luminaires withstand defined climatic and mechanical environmental stresses before use in passenger coaches."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which RDSO specification applies to passenger-coach LED luminaires?",
+      "paragraphs": [
+        "The current specification is RDSO/PE/SPEC/TL/0091-2026 (Rev. 2) for energy-efficient LED based luminaire units for passenger coaches."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does railway LED luminaire testing include vibration and shock?",
+      "paragraphs": [
+        "Vibration and shock evaluation can form an important part of railway luminaire qualification according to the applicable RDSO test programme and product requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can IP testing be required for railway LED luminaires?",
+      "paragraphs": [
+        "Yes. Where an IP rating is specified by the relevant RDSO requirement, drawing or purchaser specification, dust and water ingress testing may be required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is photometry testing separate from environmental testing?",
+      "paragraphs": [
+        "Yes. Environmental testing evaluates resistance to environmental stresses, while photometry testing evaluates optical performance such as light output, illuminance, CCT, CRI and distribution."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/rdso-environmental-testing-for-led-based-luminaries/e00ccfd9627e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/rdso-environmental-testing-for-led-based-luminaries/e00ccfd9627e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

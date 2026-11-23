@@ -1,0 +1,258 @@
+{
+  "hero": "/images/page-heroes/rohs-testing.webp",
+  "heroPortrait": "/images/page-heroes/rohs-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/rohs-testing-s1.webp",
+  "generatedMid": "/images/page-sections/rohs-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/rohs-testing-s1.webp",
+    "/images/page-sections/rohs-testing-s2.webp",
+    "/images/page-sections/rohs-testing-s3.webp",
+    "/images/page-sections/rohs-testing-s4.webp",
+    "/images/page-sections/rohs-testing-s5.webp",
+    "/images/page-sections/rohs-testing-s6.webp",
+    "/images/page-sections/rohs-testing-s7.webp"
+  ],
+  "category": "chemical",
+  "action": "EXPAND",
+  "note": "1 / 15 | 481 | 4 img no alt, few links | EXPAND – P12",
+  "slug": "rohs-testing",
+  "path": "/rohs-testing",
+  "source": "https://www.itcindia.org/rohs-testing/",
+  "ok": true,
+  "title": "RoHS Testing Services - RoHS Certification In India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "RoHS Compliance Testing: ITC India Electrical Safety Testing Laboratory. performs RoHS testing and Certification in India on raw materials and products sold to the EU.",
+  "sections": [
+    {
+      "heading": "What is the RoHS standard?",
+      "paragraphs": [
+        "RoHS is a Directive issued by the European Union. The New Directive of RoHS was published in July 2011 and is popularly known as RoHS2. The new Directive is published as official European legislation 2011/65/EU and will replace previous legislation.",
+        "From 22nd July 2014, the substance restrictions will gradually be extended to new product categories. The provisions of RoHS 2 will also apply for these types of EEE5 from the dates mentioned below:",
+        "The six hazardous and restricted substances in the RoHS2 directive are outlined in Annex II (page L174/100) with maximum concentration values tolerated by weight to homogeneous materials."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Hazardous substance",
+            "By weight in all homogeneous materials"
+          ],
+          "rows": [
+            [
+              "Lead",
+              "0.1%"
+            ],
+            [
+              "Mercury",
+              "0.1%"
+            ],
+            [
+              "Cadmium",
+              "0.01%"
+            ],
+            [
+              "Hexavalent Chromium",
+              "0.1%"
+            ],
+            [
+              "Polybrominated biphenyls",
+              "0.1%"
+            ],
+            [
+              "Polybrominated diphenyl ethers",
+              "0.1%"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/rohs-testing/93d9710d8276.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/rohs-testing/7a258d59f744.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What is RoHS Compliance?",
+      "paragraphs": [
+        "RoHS or the directive 2011/65/EC restricts the use of hazardous substances in electrical & electronic products.A s per the directive all the electrical & electronic products which are placed in EU market must be RoHS complaint i.e they either should not contain this restricted material or the quantity present must be under acceptable limits. The substances banned under RoHS are lead (Pb), mercury (Hg), cadmium (Cd), hexavalent chromium (CrVI), polybrominated biphenyls (PBB), polybrominated diphenyl ethers (PBDE), and four different phthalates (DEHP, BBP, BBP, DIBP)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why does exporter need RoHS certificate?",
+      "paragraphs": [
+        "Directive 2011/65/EC imposes a mandatory requirement that any person that sells electrical or electronic products, sub-assemblies or components directly to RoHS countries, or sells to resellers, distributors or integrators that in turn sell products to these countries, is bound to pass RoHS compliance. Their product will not be allowed in EU market if they utilize any of the restricted materials.",
+        "The RoHS certification issue by Eurotech certifies and confirms that the evaluation of the product has been done as per the directive 2011/65/EU and that the product is RoHS compliance. Exporter and manufacturer can use this certificate in EU whenever asked for RoHS compliance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How is the testing of RoHS done in your laboratory?",
+      "paragraphs": [
+        "Testing is carried out as per harmonized standards in our laboratory.",
+        "EN 50581:2012 – This standard specifies the Technical documentation that should be compiled by a manufacturer of electrical and electronic product.",
+        "IEC/TR 62476 Edition 1.0 gives detailed guidance for evaluation of products with respect to substances.",
+        "IEC/PAS 62596:2009 gives a guideline for sampling.",
+        "EN 62321: 2009 Electrotechnical products – Determination of levels of six regulated substances (lead, mercury, cadmium, Hexavalent chromium, Polybrominated biphenyls, Polybrominated diphenyl ethers).",
+        "EN 62474:2012 Material declaration for products of and for the Electrotechnical Industry."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Are solar panels and wind turbines within the scope of RoHS?",
+      "paragraphs": [
+        "Solar panels are excluded from RoHS."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does packaging used for a product need to comply with RoHS regulations?",
+      "paragraphs": [
+        "No packaging used for a product need not comply with RoHS regulations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Are LEDs within the scope of RoHS?",
+      "paragraphs": [
+        "Yes, LED and all lightings are very much covered by RoHS 2."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/rohs-testing/93d9710d8276.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/rohs-testing/7a258d59f744.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/rohs-testing/93d9710d8276.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/rohs-testing/7a258d59f744.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

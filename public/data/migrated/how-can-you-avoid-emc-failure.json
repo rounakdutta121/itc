@@ -1,0 +1,58 @@
+{
+  "hero": "/images/page-heroes/how-can-you-avoid-emc-failure.webp",
+  "heroPortrait": "/images/page-heroes/how-can-you-avoid-emc-failure-portrait.webp",
+  "generatedIntro": "/images/page-sections/how-can-you-avoid-emc-failure-s1.webp",
+  "generatedMid": "/images/page-sections/how-can-you-avoid-emc-failure-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/how-can-you-avoid-emc-failure-s1.webp",
+    "/images/page-sections/how-can-you-avoid-emc-failure-s2.webp",
+    "/images/page-sections/how-can-you-avoid-emc-failure-s3.webp",
+    "/images/page-sections/how-can-you-avoid-emc-failure-s4.webp",
+    "/images/page-sections/how-can-you-avoid-emc-failure-s5.webp",
+    "/images/page-sections/how-can-you-avoid-emc-failure-s6.webp"
+  ],
+  "category": "emc",
+  "action": "LOW",
+  "note": "340 | – | LOW: link to /emc-emi-testing/",
+  "slug": "how-can-you-avoid-emc-failure",
+  "path": "/how-can-you-avoid-emc-failure",
+  "source": "https://www.itcindia.org/how-can-you-avoid-emc-failure/",
+  "ok": true,
+  "title": "How can you avoid EMC Failure?",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "EMC Failure, When Product reaches the final stage of EMC testing and fails, this is a too frightening situation. - Call Us. 09316473033",
+  "sections": [
+    {
+      "heading": "Avoid EMC Failure",
+      "paragraphs": [
+        "When Product reaches the final stage of <a href=\"/emc-emi-testing\">EMC testing</a> and fails, this is a too frightening situation. To avoid such situation, compliance testing should be introduced in the projects from day one. Examining emissions from the product during each major development stages is the ultimate method to elude costly retesting and high failure rates.",
+        "If Flaws are detected in the early stage then these can be resolved sooner during the development stage and we can eliminate it easily. From design to finished product we must treat it like baking of cake, we check the batter at every stage so that we can have the best taste of the cake. So, from designing part to electronics analysis of the product, our examining of the product will help to detect the defects that can be resolved in an early stage. We can add EMI shields or EMS foam can be added to avoid any leakage or gaps in enclosures. Setting pre-compliance as a milestone a project can be healthy and nutritious."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC pre-compliance testing helps you to control general failure that occur while testing.",
+      "paragraphs": [
+        "In this electronics world, we all are too much dependent on such gadgets and devices. EMC testing is becoming mandatory to maintain quality. Europe, US, China, Korea, Australia, Newzealand made EMC testing mandatory to improve product performance, to meet the regulatory requirement. ITC India Pvt Ltd is offering EMC testing and certification. With a team of Experts, your project will go smoothly. So, for any kind of EMC testing please feel free to contact us at info@itcindia.org URL <a href=\"/\">www.itcindia.org</a>"
+      ],
+      "bullets": [
+        "Minimize RF noise",
+        "Assuming power, ground, and static input /output signals are clean",
+        "Recognizing and monitoring ESD testing locations",
+        "Calculating ESD levels",
+        "Choosing and testing the appropriate power adapter",
+        "Optimizing functional equipment, such as LCDs",
+        "Inspecting auxiliary equipment for compliance, a step that is often overlooked",
+        "Selecting and cohering to the appropriate protection rating",
+        "Safeguard sensitive analog and RF circuitry"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

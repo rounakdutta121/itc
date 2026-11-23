@@ -1,0 +1,197 @@
+{
+  "hero": "/images/page-heroes/flexible-cord-testing-iec-60227-1.webp",
+  "heroPortrait": "/images/page-heroes/flexible-cord-testing-iec-60227-1-portrait.webp",
+  "generatedIntro": "/images/page-sections/flexible-cord-testing-iec-60227-1-s1.webp",
+  "generatedMid": "/images/page-sections/flexible-cord-testing-iec-60227-1-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/flexible-cord-testing-iec-60227-1-s1.webp",
+    "/images/page-sections/flexible-cord-testing-iec-60227-1-s2.webp",
+    "/images/page-sections/flexible-cord-testing-iec-60227-1-s3.webp",
+    "/images/page-sections/flexible-cord-testing-iec-60227-1-s4.webp",
+    "/images/page-sections/flexible-cord-testing-iec-60227-1-s5.webp",
+    "/images/page-sections/flexible-cord-testing-iec-60227-1-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "LOW",
+  "note": "302 | in both sitemaps | LOW: list once in sitemap",
+  "slug": "flexible-cord-testing-iec-60227-1",
+  "path": "/flexible-cord-testing-iec-60227-1",
+  "source": "https://www.itcindia.org/flexible-cord-testing-iec-60227-1/",
+  "ok": true,
+  "title": "PVC insulated cables testing IEC 60227-1 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Flexible Cord Testing IEC 60227-1 covers both PVC and rubber insulated cables which is an important part of many electrical products to ensure the safety and quality of these products.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "PVC insulated cables is applied in the standard IEC 60227. It includes requirements for construction, insulation, thermal resistance and other factors. Flexible cords must be tested to ensure they meet these requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Tests for PVC insulated cables",
+      "paragraphs": [
+        "During an IEC 60227 test on flexible cords there are several tests that are conducted on flexible cords.",
+        "These tests include insulation resistance testing, conductor resistance testing and dielectric strength testing.",
+        "The standard covers both PVC and rubber insulated cables and it includes specifications for construction, dimensions, electrical and thermal properties, mechanical strength, and flame retardancy."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/flexible-cord-testing-iec-60227-1/e5be898b65af.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "How to do the test?",
+      "paragraphs": [
+        "There are two ways to test the PVC insulated cables. The first is the bending test, and the second is the torsion test.",
+        "During the bending test, the cord is placed on a flat surface and a weight is placed on the cord.",
+        "Then the cord is bent at a 90-degree angle on the process the force required to bend the cord at this angle is recorded.",
+        "For the torsion test, the cord is wrapped around a cylindrical object and a weight is attached to one end of the cord and the other end is held stationary. The force required to twist the cord at this angle is recorded.",
+        "Both of these tests are performed at different temperatures to simulate different conditions that the cord may be used in.",
+        "The results of these tests are used to determine the flexibility and durability of the electrical cord."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/flexible-cord-testing-iec-60227-1/134c52cb18fd.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Key Takeaways:",
+      "paragraphs": [
+        "PVC insulated cables is an important part of many electrical products and systems. In order to ensure the safety and quality of these products, it is really essential that they are tested to the standards set forth in IEC 60227-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/flexible-cord-testing-iec-60227-1/e5be898b65af.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/flexible-cord-testing-iec-60227-1/134c52cb18fd.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/flexible-cord-testing-iec-60227-1/e5be898b65af.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/flexible-cord-testing-iec-60227-1/134c52cb18fd.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

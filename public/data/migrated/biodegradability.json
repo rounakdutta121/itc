@@ -1,0 +1,358 @@
+{
+  "hero": "/images/page-heroes/biodegradability.webp",
+  "heroPortrait": "/images/page-heroes/biodegradability-portrait.webp",
+  "generatedIntro": "/images/page-sections/biodegradability-s1.webp",
+  "generatedMid": "/images/page-sections/biodegradability-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/biodegradability-s1.webp",
+    "/images/page-sections/biodegradability-s2.webp",
+    "/images/page-sections/biodegradability-s3.webp",
+    "/images/page-sections/biodegradability-s4.webp",
+    "/images/page-sections/biodegradability-s5.webp",
+    "/images/page-sections/biodegradability-s6.webp",
+    "/images/page-sections/biodegradability-s7.webp"
+  ],
+  "category": "chemical",
+  "action": "EXPAND",
+  "note": "0 / 3 | 1132 | 4 img no alt | EXPAND – Biodegradability hub (Content tab)",
+  "slug": "biodegradability",
+  "path": "/biodegradability",
+  "source": "https://www.itcindia.org/biodegradability/",
+  "ok": true,
+  "title": "Biodegradability - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 14855 ultimate aerobic biodegradation testing  is the international standard for ultimate biodegradation testing.",
+  "sections": [
+    {
+      "heading": "Ensure Sustainability with ITC India’s Biodegradability Testing Services",
+      "paragraphs": [
+        "In a marketplace where sustainability is no longer just an option but a demand, businesses must prioritize eco-friendliness to stay competitive. At ITC(Institute of Testing and Certification), we help businesses meet these demands by offering a comprehensive suite of biodegradability testing services. By partnering with us, you ensure that your products are not only sustainable but also compliant with stringent international standards. Whether you’re dealing with plastics, packaging, or paper products, our expert team leverages cutting-edge technology to deliver accurate, timely, and credible results."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/biodegradability/17cc88175d46.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Our Expertise:",
+      "paragraphs": [
+        "Our biodegradability testing services cover a wide range of materials, including but not limited to:",
+        "With years of experience, our highly trained professionals possess deep expertise in biodegradation testing methodologies. Using state-of-the-art equipment, we can manage various sample types and complex testing requirements. At ITC, we also pride ourselves on efficient testing processes designed to deliver cost-effective and timely results, enabling you to quickly make informed decisions about your product development and environmental compliance."
+      ],
+      "bullets": [
+        "Plastics (shopping bags, garbage bags, food packaging)",
+        "Paper products",
+        "Packaging materials",
+        "Contact materials for food and beverages"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Benefits of Biodegradability Testing with ITC India",
+      "paragraphs": [],
+      "bullets": [
+        "Gain a Competitive Edge: Show your customers and partners that your products are sustainable, differentiating them from competitors.",
+        "Increase Consumer Confidence: Prove your environmental responsibility and reassure your customers that your products are contributing to a better planet.",
+        "Comply with Global Regulations: Our tests ensure that your materials meet biodegradability regulations in different markets.",
+        "Optimize Product Development: Our results can help you refine your materials, ensuring they meet the highest biodegradation standards.",
+        "Boost Sales and Profit: Highlighting your product’s eco-friendliness can attract environmentally conscious consumers, expanding your customer base,increase sales and profitability by stepping into the growing demand for green solutions."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Internationally Recognized Standards We Follow:",
+      "paragraphs": [
+        "To provide accurate and reliable testing, we adhere to globally accepted standards, including:"
+      ],
+      "bullets": [
+        "ISO 14855: Evaluates the ultimate aerobic biodegradability of plastic materials under controlled composting conditions through the analysis of CO₂ emissions.",
+        "EN 13432: Establishes requirements for packaging recoverable through composting and biodegradation, testing its final acceptance as packaging.",
+        "OECD 301B: Focuses on ready biodegradability tests, determining the degradation of chemicals in aquatic environments.",
+        "OECD 302B: Assesses the inherent biodegradability of chemicals under less stringent conditions.",
+        "ASTM D6400: Specifies the labelling requirements for plastics designed for aerobic composting in industrial facilities.",
+        "ASTM D5338: Tests the aerobic biodegradation of plastic materialsunder controlled composting conditions, focusing on thermophilic temperatures.",
+        "ISO 17088: Outlines specifications for plastics that are compostable and subject to organic recycling.",
+        "ISO 17556: Determines the ultimate aerobic biodegradability of plastics in soil by measuring CO₂ evolution, ensuring compatibility with natural environments.",
+        "IS 17889: Provides standards for the biodegradability and compostability of materials, ensuring compliance with Indian market requirements."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Making the Right Testing Choice – A Detailed Decision Guide",
+      "paragraphs": [
+        "Choosing the right biodegradability test is crucial, as it depends on the material type, the environment where the material will degrade, and regulatory demands. We understand that navigating these complex decisions can be overwhelming, which is why we provide this comprehensive decision guide to help you select the most appropriate biodegradability testing standard."
+      ],
+      "bullets": [
+        "Packaging Materials & Plastics: If your material falls into this category, the right standards are EN 13432, ASTM D6400, ISO 17088, and ISO 14855. These are designed to ensure packaging and plastics degrade fully in composting environments, meeting both industrial and regulatory requirements.",
+        "Non-Plastic & Chemical Materials: For chemicals and non-plastic materials, OECD 301B is most appropriate. This standard evaluates the ready biodegradability of chemicals in water, analyzing their CO₂ evolution and oxygen consumption.",
+        "Industrial Composting Facility: For products meant for industrial composting, EN 13432, ASTM D6400, ISO 17088, ASTM D5338, and ISO 14855 are applicable. These standards ensure the material breaks down completely under controlled high-temperature composting conditions.",
+        "Natural Soil Environment: If your product is likely to degrade in soil, ISO 17556 (for plastics) and OECD 301B (for chemicals) are recommended to ensure biodegradability in a natural environment.",
+        "Aquatic Environment: For products designed to break down in water, OECD 301B is the best choice. It assesses biodegradability by measuring CO₂ output and oxygen demand over a 28-day period.",
+        "28-Day Short-Term Test: For quick results, OECD 301B offers a reliable test for chemicals in water, providing biodegradation results within 28 days.",
+        "180-Day Long-Term Test: For longer-term evaluation, EN 13432, ASTM D6400, ISO 17088, ISO 14855, and ASTM D5338 require testing over 180 days, ensuring complete degradation in industrial composting.",
+        "Heavy Metal and Ecotoxicity Testing: To ensure that your materials do not leave harmful residues in compost, tests like EN 13432, ISO 17088, and ISO 14855 are necessary.",
+        "Disintegration Testing: This ensures that materials physically break down in composting environments. EN 13432, ASTM D6400, and ISO 14855 provide protocols to confirm that no visible fragments remain after degradation."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/biodegradability/22a7d5e1a0ff.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Comparison of Biodegradability Standards",
+      "paragraphs": [
+        "To further assist you in making the best choice for your biodegradability testing, here’s our comparison tables summarising the key biodegradability standards:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Comparing Core Biodegradability Standards",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Feature",
+            "ASTM D5338",
+            "ISO 17556",
+            "ISO 14855"
+          ],
+          "rows": [
+            [
+              "Scope",
+              "Aerobic biodegradation of plastics under controlled composting conditions, incorporating thermophillic temperatures",
+              "Ultimate aerobic biodegradability of plastics in soil by measuring CO₂ evolution or oxygen demand",
+              "Ultimate aerobic biodegradability of plastics under controlled composting conditions by CO₂ measurement"
+            ],
+            [
+              "Test Environment",
+              "Composting facility with municipal waste inoculum",
+              "Soil environment with natural microbial population",
+              "Controlled composting environment with specified temperature and humidity"
+            ],
+            [
+              "Test Duration",
+              "45-90 days",
+              "6 Months to 2 years",
+              "Varies, typically 180 days"
+            ],
+            [
+              "Measured Parameters",
+              "CO₂ evolution",
+              "CO₂ evolution and oxygen demand",
+              "CO₂ evolution"
+            ],
+            [
+              "Standard Applications",
+              "All plastic materials, which are intended to be composted in facilities that achieve thermophilic temperatures",
+              "Natural/synthetic polymers, copolymers or mixtures of these. Water-soluble polymers",
+              "Bioplastics/ biopolymers"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Biodegradability and Compostability Standards",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Standard",
+            "Time Frame",
+            "Application",
+            "Biodegradation Requirement",
+            "Test Conditions",
+            "Additional Requirements"
+          ],
+          "rows": [
+            [
+              "EN 13432",
+              "90-180 days",
+              "Packaging materials (e.g. cellulose films, starch blends, polylactic acid and PBAT)",
+              "≥ 90% biodegradation",
+              "Industrial composting conditions (≥ 58°C)",
+              "Biodegradation, Disintegration, compost quality, heavy metals, ecotoxicity tests"
+            ],
+            [
+              "ASTM D6400",
+              "90-180 days",
+              "Plastics, paper products, textiles, foam",
+              "≥ 90% biodegradation",
+              "Industrial composting conditions (≥ 58°C)",
+              "Disintegration, compost quality, and no toxic residue, elemental analysis, phytotoxicity"
+            ],
+            [
+              "OECD 301B",
+              "28 days",
+              "Fuels, lubricants, oil, surfactants, personal care products, highly soluble, poorly soluble chemicals",
+              "≥ 60% biodegradation",
+              "Aquatic environment at 22 ± 2°C",
+              "Readily biodegradable in water, uses CO₂ evolution measurement"
+            ],
+            [
+              "ISO 17088",
+              "45-180 days",
+              "Compostable plastics",
+              "≥ 90% biodegradation",
+              "Industrial composting conditions (≥ 58°C)",
+              "Biodegradability, disintegration, and heavy metal content checks"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Your Next Step with ITC India:",
+      "paragraphs": [
+        "At ITC(Institute of Testing and Certification), we are committed to helping you showcase the eco-friendliness of your products through transparent, credible biodegradability testing. Our detailed decision guide ensures you select the correct tests for your materials, whether you’re aiming for compliance, product improvement, or customer confidence."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Contact Us for a Free Consultation",
+      "paragraphs": [
+        "We invite you to reach out to our experts for a personalised consultation. Let us guide you through the biodegradability testing process and ensure your products meet the highest standards of environmental responsibility. Together, we can make a difference.",
+        "Email: info@itcindia.org"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/biodegradability/17cc88175d46.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/biodegradability/22a7d5e1a0ff.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/biodegradability/17cc88175d46.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/biodegradability/22a7d5e1a0ff.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    },
+    {
+      "href": "/calibration-of-surge-generator",
+      "label": "Calibration of Surge Generators"
+    }
+  ]
+}

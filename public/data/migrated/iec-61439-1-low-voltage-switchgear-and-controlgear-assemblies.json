@@ -1,0 +1,181 @@
+{
+  "hero": "/images/page-heroes/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies.webp",
+  "heroPortrait": "/images/page-heroes/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s1.webp",
+    "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s2.webp",
+    "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s3.webp",
+    "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s4.webp",
+    "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s5.webp",
+    "/images/page-sections/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 9 | 406 | long title, no H2 | KEEP",
+  "slug": "iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies",
+  "path": "/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies",
+  "source": "https://www.itcindia.org/iec-61439-1-low-voltage-switchgear-and-controlgear-assemblies/",
+  "ok": true,
+  "title": "IEC 61439-1 Low-voltage switchgear and controlgear assemblies -Part 1: General rules",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61439-1 Low-voltage switchgear and controlgear assemblies -Part 1: General rules. Applicable standards BS EN 61439-1, IEC 61439-1, IS 8623-1",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IEC 61439-1 Low-voltage switchgear and controlgear assemblies –",
+        "Part 1: General rules",
+        "IEC 61439-1 Low-voltage switchgear and controlgear assemblies -Part 1 General rules",
+        "Applicable standards"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "BS EN 61439-1 IEC 61439-1 IS 8623-1 Scope",
+      "paragraphs": [
+        "These standards deploy the constructional requirements, technical requirements for low voltage switchgear and controlgear assemblies only when required by the relevant Assemblies standard as follows."
+      ],
+      "bullets": [
+        "ASSEMBLIES for which the rated voltage does not exceed 1 000 V in case of a.c. or1 500 V in case of d.c.;",
+        "Stationary or movable ASSEMBLIES with or without enclosure",
+        "ASSEMBLIES intended for use in connection with the generation, transmission, distribution and conversion of electric energy, and for the control of electric energy consuming equipment;",
+        "ASSEMBLIES designed for use under special service conditions, for example in ships, in rail vehicles, for equipment in explosive atmospheres, and for domestic applications (operated by unskilled persons), provided that the relevant specific requirements are complied with",
+        "ASSEMBLIES designed for electrical equipment of machines. Supplementary requirements for ASSEMBLIES forming part of a machine are covered by the IEC 60204series.",
+        "ASSEMBLIES whether they are designed, manufactured and verified on a one-off basis or fully standardised and manufactured in quantity."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "This standard does not apply to",
+      "paragraphs": [
+        "Sspecify an ASSEMBLY or used for a purpose of determining conformity. Individual devices and self-contained components, such as motor starters, fuse switches, electronic equipment, etc. which will comply with the relevant product standards. Other parts of 61439 are mentioned below:",
+        "List of Tests to be performed in the testing process:"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S.No",
+            "Standard",
+            "Title"
+          ],
+          "rows": [
+            [
+              "1",
+              "IEC 61439-1",
+              "General rules"
+            ],
+            [
+              "2",
+              "IEC 61439-2",
+              "Power switchgear and controlgear ASSEMBLIES (PSC-ASSEMBLIES)"
+            ],
+            [
+              "3",
+              "IEC 61439-3",
+              "Distribution boards (to supersede IEC 60439-3)"
+            ],
+            [
+              "4",
+              "IEC 61439-4",
+              "ASSEMBLIES for construction sites (to supersede IEC 60439-4)"
+            ],
+            [
+              "5",
+              "IEC 61439-5",
+              "ASSEMBLIES for power distribution (to supersede IEC 60439-5)"
+            ],
+            [
+              "6",
+              "IEC 61439-6",
+              "Busbar trunking systems (to supersede IEC 60439-2)."
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Clause",
+            "Name of the Test",
+            ""
+          ],
+          "rows": [
+            [
+              "8.1.2",
+              "Protection against corrosion",
+              ""
+            ],
+            [
+              "8.1.3",
+              "Thermal stability",
+              ""
+            ],
+            [
+              "8.1.4",
+              "Resistance to UV radiations",
+              ""
+            ],
+            [
+              "8.1.5",
+              "Resistance to insulating material to hear and fire",
+              ""
+            ],
+            [
+              "8.1.6",
+              "Mechanical Strength",
+              ""
+            ],
+            [
+              "8.1.7",
+              "Lifting Provision",
+              ""
+            ],
+            [
+              "8.2.1",
+              "Protection against mechanical Impact",
+              ""
+            ],
+            [
+              "8.2.2",
+              "Protection against contact with live parts, ingress of solid foreign bodies and liquids",
+              ""
+            ],
+            [
+              "8.2.3",
+              "Degree of protection of removable parts",
+              ""
+            ],
+            [
+              "8.3",
+              "Clearances and creepage distances",
+              ""
+            ],
+            [
+              "8.4",
+              "Protection against electric shock",
+              ""
+            ],
+            [
+              "8.4.3.4",
+              "Protection by total insulation",
+              ""
+            ],
+            [
+              "9.2",
+              "Temperature Rise test",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

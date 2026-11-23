@@ -1,0 +1,377 @@
+{
+  "hero": "/images/page-heroes/ip-testing-laboratory-india.webp",
+  "heroPortrait": "/images/page-heroes/ip-testing-laboratory-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip-testing-laboratory-india-s1.webp",
+  "generatedMid": "/images/page-sections/ip-testing-laboratory-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip-testing-laboratory-india-s1.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s2.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s3.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s4.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s5.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s6.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s7.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s8.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s9.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s10.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s11.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s12.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s13.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s14.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s15.webp",
+    "/images/page-sections/ip-testing-laboratory-india-s16.webp"
+  ],
+  "category": "ip",
+  "action": "EXPAND",
+  "note": "0 / 7 | 1536 | no H2, few links | EXPAND – IP hub, P6",
+  "slug": "ip-testing-laboratory-india",
+  "path": "/ip-testing-laboratory-india",
+  "source": "https://www.itcindia.org/ip-testing-laboratory-india/",
+  "ok": true,
+  "title": "IP Testing laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India NABL accredited Electrical Safety Testing lablaboratory can do IP 1X, IP 2X, IP 3X, IP 4X IP X3, IP X4, IP X5, IP X6, IP X7 & IP X8 Testing India",
+  "sections": [
+    {
+      "heading": "IP Testing As Per IEC 60529",
+      "paragraphs": [
+        "ITC can do Electrical Safety testing against IP Testing for following types of products/standards:",
+        "We have developed a special testing facility against Solid particle protection & Liquid ingress protection generally called as the IP testing. We have below test facility at present in our;"
+      ],
+      "bullets": [
+        "IP 1X, IP 2X, IP 3X, IP 4X for protection of machine against Penetration by solid foreign objects.",
+        "IP 5X for Dust Protection.",
+        "IP 6X for Dust Protection.",
+        "IP X3, IP X4, IP X5, IP X6, IP X7 & IP X8 for protection against ingress of water."
+      ],
+      "tables": [
+        {
+          "headers": [
+            "OVERVIEW OF COMMONLY SOUGHT IP CODES"
+          ],
+          "rows": [
+            [
+              "1X",
+              "protection against objects >50mm",
+              "X1",
+              "protection against vertically Dripping water"
+            ],
+            [
+              "2X",
+              "protection against objects >12.5mm",
+              "X2",
+              "dripping water at +-15° from vertical"
+            ],
+            [
+              "3X",
+              "protection against objects >2.5mm",
+              "X3",
+              "protection against spraying water"
+            ],
+            [
+              "4X",
+              "protection against objects >1mm",
+              "X4",
+              "protection aginst splashing water"
+            ],
+            [
+              "5X",
+              "Dust Protected ( limited ingress)",
+              "X5",
+              "protection aginst low pressure jetting water"
+            ],
+            [
+              "6X",
+              "Dust tight protection",
+              "X6",
+              "protection against high pressure jetting water"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "IP(Ingress Protection) Testing",
+      "paragraphs": [
+        "Ingress protection (IP) testing at ITC India NABL accredited Electrical Safety Testing laboratory can determine a products susceptibility to solid particle (including dust) ingress and liquid ingress (water)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "BS EN 60529",
+      "paragraphs": [
+        "The standard we most commonly use at ITC for ingress protection is BS EN 60529 and IEC 60529. Within this standard it outlines an international classification system to test the sealing effectiveness of enclosures of electrical equipment against the the equipment of solid particles and liquid."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "This classification system utilize the “IP” (“Ingress Protection”) normally followed by two digits:",
+      "paragraphs": [],
+      "bullets": [
+        "Ingress Protection of (IP) Ratings (Solid ingress)",
+        "Ingress Protection (IP) Ratings (Liquid ingress)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Purpose:",
+      "paragraphs": [
+        "The testing will access the protection of the equipment against ingress of solid bodies and/or liquids, varying over differing degrees of protection, depending upon the requirements you place on your product."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Protection against solid/dust entry:",
+      "paragraphs": [
+        "The test specified in the first digit of the Protection Index (IP1X, IP2X, IP3X, IP4X, IP5X, IP6X), meaning protection against solid particles and dust entry into the fixture according to the BS EN 60598-1 IEC 60598 – 1, IEC 60529."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1. IP1X",
+      "paragraphs": [
+        "Specification: The test for IP1X enclosures involves pressing a 50 mm diameter sphere with a force of 50 N against the opening of the enclosure. The product is approved if the sphere does not fully enter the enclosure and if there is a satisfactory distance from dangerous live parts and moving parts."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. IP2X",
+      "paragraphs": [
+        "Specification: IP 2X testing involves pressing a standardized 12 mm diameter test finger with a force of a 10 N, with a 12,5 mm sphere with a force of 30 N, against all openings of the enclosure. For acceptance, the sphere rod not fully enter the enclosure and there must be a satisfactory distance between the test finger and dangerous live parts and moving parts"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3. IP3X",
+      "paragraphs": [
+        "Specification: IP 3X testing involves pressing a standardized test probe, in the form of a 2,5 mm steel wire with a against all openings of the enclosure, with the force of 3 N. For acceptance the probe must not get in the enclosure."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4. IP4X",
+      "paragraphs": [
+        "Specification: IP 4X testing involves pressing a standardized test probe in the form of 1 mm steel wire against the all openings of the enclosure with a force of a 1N. For acceptance the probe must not enter in the enclosure"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "5. IP5X",
+      "paragraphs": [
+        "Specification: Ingress of dust is not Totally prevented, but it must not enter in sufficient quantity to interfere with the satisfactory operation of the equipment; complete protection against contact (dust proof). This test is conducted using circulated dust which may be enter in the product but should not significantly de-grade the operation of the equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "6. IP5X",
+      "paragraphs": [
+        "Specification: Items to be tested for IP 6 X enclosures are exposed to fine-grained circulating talcum powder in a dust chamber for 8 hours with the exposure time being determined by the testing conditions for the specific item. This testing is performed with a maximum pressure of 20 mbar inside the item under test, and with a maximum abstraction rate of 60 volumes/hour."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Protection Index Against Water entry:",
+      "paragraphs": [
+        "This test specify the second digit of the Protection Index ( IPXI, IPX2, IPX3, IPX4, IPX5, IPX6, IPX7, IPX8), meaning protection against water entry into the fixture according to the) BS EN 60598-1 IEC 60598 – 1, IEC 60529."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1. IPX1",
+      "paragraphs": [
+        "Specification: The enclosure is exposed to dripping water with a flow rate of 1 mm per min for 10 minutes. Acceptance for Class IP X1 requires no water to have penetrated into the item in such a quantity, or in such a position as to prevent satisfied operation of the item or to present a safety risk"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. IPX2",
+      "paragraphs": [
+        "Specification: The enclosure is exposed to dripping water during 4 positions for 2.5 minutes, with a flow rate of 3 mm/min. The enclosure is tested in four fixed positions of 15 degree from normal position Acceptance for the Class IP X2 requires no water to have penetrated into the item in such a quantity or in a position as to prevent the satisfactory operation of the item or to present a safety risk"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3. IPX3",
+      "paragraphs": [
+        "Specification: The enclosure is exposed to water spray from a oscillated tube with each spray jet give a flow rate of 0.07 l/min, for 10 minutes. Alternative, a standardized spray nozzle, producing a spray of 10 l/min may be used. If this spray nozzle is used, the exposed time is 1 min/m² with a minimum time of of five minutes Regardless to the type of test equipment, water spraying is limited to ± 60° from the Acceptance for Class IP X3 requires no water to have penetrate the item in a quantity, or in such a position as to prevent satisfactory operation of the item or to present a safety risk."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4. IPX4",
+      "paragraphs": [
+        "Specification: The enclosures exposed to water spray from an oscillated tube with each spray nozzle give a flow rate of 0.07 l/min, for 10 minutes Alternative, a standardized spray nozzle, producing a spray of 10 l/min may be used for the spray nozzle is used in the exposure time is 1 min/m², with a minimum time of five minute for water is splashed against the enclosure from all the directions. Acceptance for Class IP X4 requires no water to have penetrate into the item in such a quantity, or in such a positions to prevent satisfactory operation of the item or to present a safety risk."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "5. IPX5",
+      "paragraphs": [
+        "Specification: The enclosure is subjected to a jet of water from a nozzle 6,3 mm internal diameter at a distance of 2,5 to 3 m from the EUT under testing. The water flow rate 12,5 l/min is applied for time of 1 min/m² with a minimum test duration of 3 minutes. Acceptance for Class IP X5 requires no water to have penetrate into the item in such a quantity or in such a position as to prevent satisfactory operation of the item or to present a safety risk."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "6. IPX6",
+      "paragraphs": [
+        "Specification: The enclosure is subjected to a jet of water from a nozzle of 12,5 mm diameter at a distance of 2,5 to 3 m from the EUT under test. The water flow rate is 100 l/min applied for a time of 1 min/m², with a minimum of 3 minutes. Acceptance for Class IP X6 requires no water to have penetrate into the item in such a quantity or in such a position as to prevent satisfactory operation of the item or to present a safety risk."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "7. IPX7",
+      "paragraphs": [
+        "Specification: The test is made by complete immersion of the EUT in water in its service position.The enclosure is immersed to the depth of 1 meter with the duration time of 30 minutes. Acceptance for Class IP X7 requires no water to have penetrate into the item in such a quantity, or in such position to prevent satisfactory operation of the item or to present a safety risk"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "8. IPX8",
+      "paragraphs": [
+        "Specification: The test is made by complete immersing the EUT in water. Test conditions are subject to agreement between the company the and user. Acceptance for the Class IP X8 requires no water to have penetrate into the item in a quantity or in such a position to prevent satisfactory operation of the item or to present a safety risk.",
+        "If you have any query regarding IP Testing and Certification. You can drop your testing requirements with the product technical details We are waiting for your earliest reply.You can Call or Mail us for more information."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

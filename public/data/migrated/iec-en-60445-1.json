@@ -1,0 +1,66 @@
+{
+  "hero": "/images/page-heroes/iec-en-60445-1.webp",
+  "heroPortrait": "/images/page-heroes/iec-en-60445-1-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-en-60445-1-s1.webp",
+  "generatedMid": "/images/page-sections/iec-en-60445-1-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-en-60445-1-s1.webp",
+    "/images/page-sections/iec-en-60445-1-s2.webp",
+    "/images/page-sections/iec-en-60445-1-s3.webp",
+    "/images/page-sections/iec-en-60445-1-s4.webp",
+    "/images/page-sections/iec-en-60445-1-s5.webp",
+    "/images/page-sections/iec-en-60445-1-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "1 / 1 | 89 | thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+  "slug": "iec-en-60445-1",
+  "path": "/iec-en-60445-1",
+  "source": "https://www.itcindia.org/iec-en-60445-1/",
+  "ok": true,
+  "title": "IEC/ EN 60445-1",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC/ EN 60445-1 Basic and safety principles for man-machine interface, marking and identification- Identification of equipment terminals",
+  "sections": [
+    {
+      "heading": "IEC/ EN 60445-1",
+      "paragraphs": [
+        "Basic and safety principals for man-machine interface, marking and identification- Identification of equipment terminals, conductor terminations and conductors",
+        "Scope: This standard narrates the identification and marking of terminals of electrical equipment such as resistors, fuses, relays, contractors, transformers, rotating machine and assemblies. It provides the color alphanumeric notation to conductors for safe operation. These colors are applicable for cables and cores, busbars, electrical equipment and installation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-en-60445-1/ca38368eaf1a.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/iec-en-60445-1/7d61dc0e43f5.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-en-60445-1/ca38368eaf1a.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-en-60445-1/7d61dc0e43f5.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-en-60445-1/ca38368eaf1a.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-en-60445-1/7d61dc0e43f5.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

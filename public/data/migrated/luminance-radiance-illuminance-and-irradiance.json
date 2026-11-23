@@ -1,0 +1,58 @@
+{
+  "hero": "/images/page-heroes/luminance-radiance-illuminance-and-irradiance.webp",
+  "heroPortrait": "/images/page-heroes/luminance-radiance-illuminance-and-irradiance-portrait.webp",
+  "generatedIntro": "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s1.webp",
+  "generatedMid": "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s1.webp",
+    "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s2.webp",
+    "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s3.webp",
+    "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s4.webp",
+    "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s5.webp",
+    "/images/page-sections/luminance-radiance-illuminance-and-irradiance-s6.webp"
+  ],
+  "category": "photometry",
+  "action": "EXPAND",
+  "note": "0 / 2 | 113 | long title, thin, 2 img no alt | EXPAND – keep text, add 400+ words",
+  "slug": "luminance-radiance-illuminance-and-irradiance",
+  "path": "/luminance-radiance-illuminance-and-irradiance",
+  "source": "https://www.itcindia.org/luminance-radiance-illuminance-and-irradiance/",
+  "ok": true,
+  "title": "Difference Between Luminance, radiance , illuminance and irradiance",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Difference Between Luminance, radiance , illuminance and irradiance, ITC India is a leading testing hub for Light testing as per BIS / IEC standards.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "These terms are generally very confusing …. we have explained these terms in a tabular form as are easier to understand.Thank you for reading this post, don't forget to subscribe! ITC India is a leading testing hub for Light testing as per BIS / IEC standards. With highly accurate equipment, engineers and infrastructure made possible to get all the approvals. We have many types of spectroradiometer with different Optical probes to measure the above-said parameters. We have the facility to provide the test report with in 24 hours , So pick up your mobile and connect with us or write the enquiries on info@itcindia@itcindi.org URL: www.itcindia.org"
+          ],
+          "rows": []
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/luminance-radiance-illuminance-and-irradiance/3403fbb17c5f.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/luminance-radiance-illuminance-and-irradiance/3403fbb17c5f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/luminance-radiance-illuminance-and-irradiance/3403fbb17c5f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

@@ -1,0 +1,257 @@
+{
+  "hero": "/images/page-heroes/iec-61010-testing-lab.webp",
+  "heroPortrait": "/images/page-heroes/iec-61010-testing-lab-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61010-testing-lab-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61010-testing-lab-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61010-testing-lab-s1.webp",
+    "/images/page-sections/iec-61010-testing-lab-s2.webp",
+    "/images/page-sections/iec-61010-testing-lab-s3.webp",
+    "/images/page-sections/iec-61010-testing-lab-s4.webp",
+    "/images/page-sections/iec-61010-testing-lab-s5.webp",
+    "/images/page-sections/iec-61010-testing-lab-s6.webp",
+    "/images/page-sections/iec-61010-testing-lab-s7.webp",
+    "/images/page-sections/iec-61010-testing-lab-s8.webp",
+    "/images/page-sections/iec-61010-testing-lab-s9.webp",
+    "/images/page-sections/iec-61010-testing-lab-s10.webp",
+    "/images/page-sections/iec-61010-testing-lab-s11.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "0 / 4 | 788 | 2 img no alt | ADD – parts table + FAQ (Dev Plan); becomes Laboratory hub",
+  "slug": "iec-61010-testing-lab",
+  "path": "/iec-61010-testing-lab",
+  "source": "https://www.itcindia.org/iec-61010-testing-lab/",
+  "ok": true,
+  "title": "IEC 61010 Testing Lab in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61010 testing lab in India for electrical laboratory, measurement and control equipment. Safety testingsupport for IEC 61010-1 and key Part 2 standards.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IEC 61010 is an important family of international safety standards for electrical equipment used for measurement, control and laboratory applications. Manufacturers, importers, product developers and compliance teams use IEC 61010 testing to evaluate whether equipment is designed with suitable protection against electrical, mechanical, thermal and other foreseeable hazards.",
+        "ITC India provides IEC 61010 testing support for laboratory instruments, measuring equipment, control equipment and related electrical products. Testing can be planned according to the applicable product configuration, intended use and relevant part of the IEC 61010 series. For broader product safety requirements, manufacturers can also review ITC India’s <a href=\"/electrical-testing\">Electrical Testing Services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61010-testing-lab/368911c0220d.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does IEC 61010 Cover?",
+      "paragraphs": [
+        "The IEC 61010 series focuses on safety requirements for electrical equipment intended for professional, industrial, laboratory and similar environments. Depending on the equipment and applicable standard part, evaluation may include protection against electric shock, mechanical hazards, excessive temperatures, spread of fire, hazards from fluids, abnormal operation, insulation systems, markings and documentation, protective earthing and risk-related safety considerations.",
+        "The correct standard should be selected before testing begins. For many products, the general safety requirements are addressed through <a href=\"/iec-61010-1-testing\">IEC 61010-1 / EN 61010-1 testing</a>, while particular product categories may also require a dedicated Part 2 standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010 Standards for Laboratory Equipment",
+      "paragraphs": [
+        "ITC India’s IEC 61010 testing structure includes testing pathways for several important equipment categories:",
+        "These particular standards are used together with the relevant general requirements where applicable. Selecting the correct standard combination helps manufacturers avoid testing against an unsuitable product standard and can reduce unnecessary redesign or repeat evaluation."
+      ],
+      "bullets": [
+        "Equipment used for heating materials can be evaluated through <a href=\"/iec-61010-2-010-testing\">IEC 61010-2-010 testing</a>.",
+        "Laboratory refrigerating equipment can be evaluated through <a href=\"/iec-61010-2-011-testing\">IEC 61010-2-011 testing</a>.",
+        "Laboratory equipment used for mixing and stirring can be evaluated through <a href=\"/iec-61010-2-051-testing\">IEC 61010-2-051 testing</a>.",
+        "In vitro diagnostic medical equipment may require <a href=\"/iec-61010-2-101-testing-services\">IEC 61010-2-101 testing</a>, depending on the product and intended use."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Typical IEC 61010 Safety Evaluations",
+      "paragraphs": [
+        "An IEC 61010 testing program may include construction review and laboratory tests related to insulation, accessibility of hazardous live parts, protective bonding or earthing, dielectric strength, temperature rise, mechanical strength, stability, abnormal or single-fault conditions, resistance to heat and fire, mains components, markings, instructions and other product-specific safety requirements.",
+        "The exact test plan depends on the product category, rated voltage, power input, enclosure, insulation system, environmental conditions, accessories and intended operating mode. Manufacturers should therefore provide complete technical information before testing, including product specifications, circuit diagrams, component details, user instructions and information about intended use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010 Safety Testing and EMC Testing",
+      "paragraphs": [
+        "IEC 61010 primarily addresses product safety. Measurement, control and laboratory equipment may also need separate electromagnetic compatibility evaluation. Where applicable, manufacturers can use ITC India’s <a href=\"/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing\">IEC 61326 EMC testing services</a> to assess electromagnetic emissions and immunity requirements relevant to electrical measurement, control and laboratory equipment.",
+        "Considering both safety and EMC requirements early in product development can help identify design concerns before final production and support a more efficient compliance process."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why IEC 61010 Testing Matters",
+      "paragraphs": [
+        "Laboratory and measurement equipment can expose users to electrical energy, heat, moving parts, stored energy, fluids or other hazards during normal operation or foreseeable misuse. IEC 61010 testing helps verify that appropriate protective measures are incorporated into the design and that safety-related construction performs as intended.",
+        "A structured test program also provides manufacturers with technical evidence that can support market-access, customer, procurement or certification requirements where the IEC or EN 61010 series is specified.",
+        "For IEC 61010 testing requirements, product applicability or quotation support, submit your equipment details through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry page</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61010?",
+      "paragraphs": [
+        "IEC 61010 is a family of safety standards for electrical equipment used for measurement, control and laboratory purposes. IEC 61010-1 contains general safety requirements, while Part 2 standards address particular equipment categories."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which products may require IEC 61010 testing?",
+      "paragraphs": [
+        "Typical products include laboratory instruments, measurement devices, control equipment, heating equipment, laboratory refrigerators, mixers, stirrers and certain in vitro diagnostic equipment. Applicability depends on the product’s intended use and construction."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between IEC 61010 and IEC 60601?",
+      "paragraphs": [
+        "IEC 61010 generally covers measurement, control and laboratory equipment, while IEC 60601 applies to medical electrical equipment. Some diagnostic or laboratory products require careful classification, so the intended medical function and product scope should be reviewed before selecting the applicable standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61010 include EMC testing?",
+      "paragraphs": [
+        "IEC 61010 is primarily a safety standard. EMC requirements for many measurement, control and laboratory products are addressed separately, commonly through the IEC 61326 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What information is needed before IEC 61010 testing?",
+      "paragraphs": [
+        "Manufacturers should normally provide the product model, electrical ratings, intended use, circuit diagrams, critical component information, user manual, accessories and details of the markets or standard editions being targeted."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61010-testing-lab/368911c0220d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61010-testing-lab/368911c0220d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

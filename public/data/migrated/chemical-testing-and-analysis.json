@@ -1,0 +1,194 @@
+{
+  "hero": "/images/page-heroes/chemical-testing-and-analysis.webp",
+  "heroPortrait": "/images/page-heroes/chemical-testing-and-analysis-portrait.webp",
+  "generatedIntro": "/images/page-sections/chemical-testing-and-analysis-s1.webp",
+  "generatedMid": "/images/page-sections/chemical-testing-and-analysis-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/chemical-testing-and-analysis-s1.webp",
+    "/images/page-sections/chemical-testing-and-analysis-s2.webp",
+    "/images/page-sections/chemical-testing-and-analysis-s3.webp",
+    "/images/page-sections/chemical-testing-and-analysis-s4.webp",
+    "/images/page-sections/chemical-testing-and-analysis-s5.webp",
+    "/images/page-sections/chemical-testing-and-analysis-s6.webp"
+  ],
+  "category": "emc",
+  "action": "REWRITE",
+  "note": "14 / 7 | 469 | no meta, no H2, 6 img no alt, few links | REWRITE – P5 (full text in Content tab)",
+  "slug": "chemical-testing-and-analysis",
+  "path": "/chemical-testing-and-analysis",
+  "source": "https://www.itcindia.org/chemical-testing-and-analysis/",
+  "ok": true,
+  "title": "Chemical Testing and Analysis - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Exacting Standards, Trusted ResultsThank you for reading this post, don't forget to subscribe! Chemical testing and analysis are pivotal for ensuring adherence to regulatory standards and gaining insights into the quality and composition of chemical substances across diverse sectors. These activities are fundamental to product innovation, industrial operations, and manufacturing processes. Achieving dependable and precise…Read More+",
+  "sections": [
+    {
+      "heading": "Exacting Standards, Trusted Results",
+      "paragraphs": [
+        "Chemical testing and analysis are pivotal for ensuring adherence to regulatory standards and gaining insights into the quality and composition of chemical substances across diverse sectors. These activities are fundamental to product innovation, industrial operations, and manufacturing processes. Achieving dependable and precise results demands specialized industry acumen and mastery in employing the most pertinent methodologies, including quantitative analysis chemistry and inorganic qualitative analysis.",
+        "At ITC (INDIA), we employ cutting-edge analytical methods such as Inductively Coupled Plasma OES (ICP-OES) and Chromatography to tackle intricate issues and accurately ascertain the composition of substances. Our testing methods include Wet Chemical Analysis, Volumetric Analysis (acid-base titration), and Trace Metal Analysis, ensuring comprehensive chemical analysis. We adhere to globally recognized standards, including ISO 17025, Good Laboratory Practice (GLP), and Good Manufacturing Practice (cGMP), ensuring that our testing procedures are both thorough and reliable.",
+        "Our rigorous approach to method validation guarantees that our processes, including optical emission spectrometry and DOC analysis, are precise, dependable, and perfectly suited to their intended applications. We offer water quality testing to assess water potability, measuring TDS for drinkable water, COD (Chemical Oxygen Demand), BOD (Biological Oxygen Demand Test), dissolved oxygen, and alkalinity levels.",
+        "ITC (INDIA) brings expertise and a commitment to Total Quality Assurance to every project. Our testing services help ensure that products meet stringent quality standards and regulatory requirements. We analyze the composition and purity of chemicals, identify impurities, and assess the performance characteristics of products, including organic compound analysis and oil elemental analysis.",
+        "Our work includes the analysis of the following:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Agrochemical Sector",
+      "paragraphs": [],
+      "bullets": [
+        "ISO/TS 20917: Fertilizers, soil conditioners, and beneficial substances."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Consumer Products",
+      "paragraphs": [],
+      "bullets": [
+        "ISO 10540-3: Animal and Vegetable Fats and Oils—Determination of Phosphorus content.",
+        "ISO 24047: Plastics—Polyethylene (PE) and Polypropylene (PP) Thermoplastics."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Drinking Water",
+      "paragraphs": [],
+      "bullets": [
+        "IS 10500: Drinking water—Specification.",
+        "BS 1427: Guide to test methods for the analysis of waters.",
+        "IS 3025: Water and Wastewater—Methods of sampling and testing (physical and chemical)."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Building Materials",
+      "paragraphs": [],
+      "bullets": [
+        "IS 9103: Admixture.",
+        "IS 4032: Ordinary Portland Cement.",
+        "ASTM C494: Standard Specification for Chemical Admixtures for Concrete.",
+        "IS 17227: Pulverized Fuel Ash/Fly Ash."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Ceramics",
+      "paragraphs": [
+        "ITC (INDIA) provides an extensive array of tests and analyses, beyond those mentioned, with the ability to tailor testing solutions to meet your specific requirements.",
+        "Conclusion: ITC (INDIA)’s Chemical Testing and Analysis services are built on a foundation of specialized knowledge, advanced techniques, and a commitment to quality. By operating under recognized industry standards and tailoring our methods to meet the unique needs of each project, ITC (INDIA) provides its clients with the accurate and reliable results they need to succeed. We are dedicated to helping our clients achieve their goals and maintain the highest standards of quality and compliance."
+      ],
+      "bullets": [
+        "ISO 17161: Fine Ceramics—Ceramic composites.",
+        "ISO 14720-2: Testing of ceramic raw and basic materials—Part 2: ICP-OES analysis or ion chromatography after burning in an oxygen flow."
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

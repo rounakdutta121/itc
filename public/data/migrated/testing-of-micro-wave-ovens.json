@@ -1,0 +1,193 @@
+{
+  "hero": "/images/page-heroes/testing-of-micro-wave-ovens.webp",
+  "heroPortrait": "/images/page-heroes/testing-of-micro-wave-ovens-portrait.webp",
+  "generatedIntro": "/images/page-sections/testing-of-micro-wave-ovens-s1.webp",
+  "generatedMid": "/images/page-sections/testing-of-micro-wave-ovens-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/testing-of-micro-wave-ovens-s1.webp",
+    "/images/page-sections/testing-of-micro-wave-ovens-s2.webp",
+    "/images/page-sections/testing-of-micro-wave-ovens-s3.webp",
+    "/images/page-sections/testing-of-micro-wave-ovens-s4.webp",
+    "/images/page-sections/testing-of-micro-wave-ovens-s5.webp",
+    "/images/page-sections/testing-of-micro-wave-ovens-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "653 | long title, no H2 | LOW: add H2s, meta, FAQ",
+  "slug": "testing-of-micro-wave-ovens",
+  "path": "/testing-of-micro-wave-ovens",
+  "source": "https://www.itcindia.org/testing-of-micro-wave-ovens/",
+  "ok": true,
+  "title": "Testing of Microwave-Oven Testing: Kitchen and Home Appliances Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC INDIA Testing Lab: Microwave testing and oven testing and other home and kitchen appliances as per IEC 60335-2-25 & IS 302 part 2 sec 25.",
+  "sections": [
+    {
+      "heading": "Testing of Microwave Ovens as per IEC 60335-2-25 and IS 302 Part 2 Sec 25",
+      "paragraphs": [
+        "Microwave oven (commonly referred to as a microwave) is an electric oven that heats and cooks food by exposing it to electromagnetic radiation in the microwave frequency range. This induces polar molecules in the food to rotate and produce thermal energy in a process known as dielectric heating. Microwave ovens heat foods quickly and efficiently because excitation is fairly uniform in the outer 25–38 mm (1–1.5 inches) of a homogeneous, high water content food item."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Hazards in a Microwave Oven",
+      "paragraphs": [],
+      "bullets": [
+        "Temperature Hazard: Water and other homogeneous liquids can super-heat when heated in a microwave oven in a container with a smooth surface. That is, the liquid reaches a temperature slightly above its normal boiling point without bubbles of vapor forming inside the liquid. The boiling process can start explosively when the liquid is disturbed, such as when the user takes hold of the container to remove it from the oven or while adding solid ingredients such as powdered creamer or sugar. This can result in spontaneous boiling (nucleation) which may be violent enough to eject the boiling liquid from the container and cause severe scalding.",
+        "Metal Object:Any metal or conductive object placed into the microwave will act as an antenna to some degree, resulting in an electric current. This causes the object to act as a heating element. This effect varies with the object’s shape and composition, and is sometimes utilized for cooking.",
+        "Direct Microwave Exposure: Direct microwave exposure is not generally possible, as microwaves emitted by the source in a microwave oven are confined in the oven by the material out of which the oven is constructed. Furthermore, ovens are equipped with redundant safety interlocks, which remove power from the magnetron if the door is opened. This safety mechanism is required by United States federal regulations. Tests have shown confinement of the microwaves in commercially available ovens to be so nearly universal as to make routine testing unnecessary.",
+        "Chemical Exposure: Some magnetrons have ceramic insulators with beryllium oxide (beryllia) added. The beryllium in such oxides is a serious chemical hazard if crushed then inhaled or ingested. In addition, beryllia is listed as a confirmed human carcinogen by the IARC therefore, broken ceramic insulators or magnetrons should not be handled. This is a danger if the microwave oven becomes physically damaged, if the insulator cracks, or when the magnetron is opened and handled, yet not during normal use. The use of unmarked plastics for microwave cooking raises the issue of plasticizers leaching into the food, or the plastics chemically reacting to microwave energy, with by-products leaching into the food, suggesting that even plastic containers marked “microwavable” may still leach plastic by-products into the food",
+        "Uneven Heating: Microwave ovens are frequently used for reheating leftover food, and bacterial contamination may not be repressed if the safe temperature is not reached, resulting in food borne illness, as with all inadequate reheating methods. While microwaves can destroy bacteria as well as conventional ovens, they do not cook as evenly, leading to an increased risk that parts of the food will not reach recommended temperatures",
+        "Interference: Microwave ovens, although shielded for safety purposes, still emit low levels of microwave radiation. This is not harmful to humans, but can sometimes cause interference to Wi-Fi and Bluetooth and other devices that communicate on the 2.45 GHz wavebands; particularly at close range",
+        "Variations: Some microwaves have a “grill” feature that heats a plate or rack to high temperature to sear the outside of food. Some have dual microwave and convection oven functionality, leaving microwave-only appliances to be described as “solo” microwaves."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/testing-of-micro-wave-ovens/6a9f0fee10b2.jpg",
+          "alt": "Testing of Microwave oven per IEC 60335-2-25 and IS 302 part 2 sec 25"
+        }
+      ]
+    },
+    {
+      "heading": "Main Tests for Microwave Oven",
+      "paragraphs": [
+        "Main tests under Microwave Oven Testing are as follows:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Heating or Temperature Rise Test",
+      "paragraphs": [],
+      "bullets": [
+        "Leakage current and Electric Strength"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mechanical Strength",
+      "paragraphs": [],
+      "bullets": [
+        "Protection against access to live parts",
+        "Transient over-voltages."
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/testing-of-micro-wave-ovens/6a9f0fee10b2.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/testing-of-micro-wave-ovens/6a9f0fee10b2.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

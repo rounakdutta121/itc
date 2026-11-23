@@ -1,0 +1,288 @@
+{
+  "hero": "/images/page-heroes/iso-10218-1-industrial-robots.webp",
+  "heroPortrait": "/images/page-heroes/iso-10218-1-industrial-robots-portrait.webp",
+  "generatedIntro": "/images/page-sections/iso-10218-1-industrial-robots-s1.webp",
+  "generatedMid": "/images/page-sections/iso-10218-1-industrial-robots-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iso-10218-1-industrial-robots-s1.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s2.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s3.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s4.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s5.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s6.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s7.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s8.webp",
+    "/images/page-sections/iso-10218-1-industrial-robots-s9.webp"
+  ],
+  "category": "ip",
+  "action": "KEEP",
+  "note": "0 / 2 | 981 | – | KEEP",
+  "slug": "iso-10218-1-industrial-robots",
+  "path": "/iso-10218-1-industrial-robots",
+  "source": "https://www.itcindia.org/iso-10218-1-industrial-robots/",
+  "ok": true,
+  "title": "ISO 10218-1 INDUSTRIAL ROBOTS - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 10218-1 INDUSTRIAL ROBOTS standards provide guidance on the design, performance, safety and integration of industrial robots.",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "paragraphs": [
+        "The ISO 10218-1 INDUSTRIAL ROBOTS is an automatically controlled, reprogrammable, multipurpose programmable in three or more axes. The industrial robot is an automatically controlled, reprogrammable multipurpose programmable in three or more axes."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-10218-1-industrial-robots/1ee0c90635de.jpg",
+          "alt": "ISO 10218-1 INDUSTRIAL ROBOTS"
+        }
+      ]
+    },
+    {
+      "heading": "Scope",
+      "paragraphs": [
+        "This International Standard applies to industrial robots and robot systems intended to function in an industrial environment which includes the following: – robots that are used as stand-alone units; – robots that are integrated into systems; – robot cells or workstations consisting of one or more robots and their ancillary equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Normative references",
+      "paragraphs": [
+        "In order to ensure that industrial robots are designed and operated in a manner that is safe for both people and property, international standards have been developed.",
+        "ISO 10218-1 INDUSTRIAL ROBOTS standards provide guidance on the design, performance, safety and integration of industrial robots. The following normative references are used throughout this blog article: – ISO 10218-1:2011, Robots and robotic devices – Safety requirements for industrial robots – Part 1: Robots This standard provides requirements and guidelines for the design, manufacture, installation, programming, operation, maintenance and decommissioning of industrial robots. It applies to all types of robots regardless of their size or complexity. – ISO 10218-2:2011, Robots and robotic devices – Safety requirements for industrial robots – Part 2: Robot systems and integration This standard provides requirements and guidelines for the design, manufacture, installation, commissioning, operation and maintenance of robot systems. It applies to robot systems where one or more robot(s) are integrated with other machinery or equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Terms, definitions and abbreviated terms",
+      "paragraphs": [
+        "1. Terms, definitions and abbreviated terms Robot: A reprogrammable multifunctional designed to move material, parts, tools or specialized devices through variable programmed motions for the performance of a variety of tasks such as:-",
+        "–Manipulator: Any device that can be used to manipulate an object. –End effector: The device at the end of the manipulator that is used to interact with the workpiece or environment. –Work envelope: The maximum working space accessible to the robot, defined by its mechanical limits. –Payload: The maximum weight that can be handled by the robot, including the weight of the end effector and any tools or payloads attached to it. –Controller: The unit that houses the electronic circuitry responsible for controlling the motion of the robot."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Symbols and abbreviated terms",
+      "paragraphs": [
+        "There are many standard symbols and abbreviated terms used in industrial robotics. Below is a list of some of the most common ones:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "-ERP: Enterprise Resource Planning",
+      "paragraphs": [],
+      "bullets": [
+        "-FAI or FPQA : First Article Inspection or Final Product Quality Assurance -FHSS : Frequency Hopping Spread Spectrum",
+        "-Gantt Chart : A bar chart that shows planned versus actual progress over time"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "-ISO : International Organization for Standardization",
+      "paragraphs": [],
+      "bullets": [
+        "-JIG : Fixture used to constrain movement in manufacture"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Classification of industrial robots",
+      "paragraphs": [
+        "There are four different ISO 10218-1 standard classifications for industrial robots. The first two, collaborative and non-collaborative, robots are defined by their ability to work safely with humans in the same workspace. Collaborative robots are designed to operate while in physical contact with humans, while non-collaborative robots are not. The other two robot classifications, mobile and fixed, refer to the robot’s mounting position.",
+        "Mobile industrial robots are those that can move around freely, while fixed industrial robots are those that are mounted in a specific position."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-10218-1-industrial-robots/8d3cbcc6d104.jpg",
+          "alt": "black and yellow corded power tool"
+        }
+      ]
+    },
+    {
+      "heading": "Requirements for performance, safety and reliability",
+      "paragraphs": [
+        "In order for an industrial robot to perform its intended functions safely and reliably, it must meet certain requirements. These requirements are specified in ISO 10218-1, which is the international standard for industrial robots. The standard covers six main areas: design specifications, safety requirements, test methods, performance requirements, marking and labelling, and information for use. Design specifications: The standard defines the minimum requirements for the design of an industrial robot, including its mechanical structure, control system, power system, software and safety devices. Safety requirements: The standard sets out the safety requirements for the operation of an industrial robot, including risk assessment, hazard identification and risk mitigation. It also includes provisions for emergency stop, safeguarding and human-robot interaction."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-10218-1-industrial-robots/8ca64f2dcd6c.jpg",
+          "alt": "black and white industrial machine"
+        }
+      ]
+    },
+    {
+      "heading": "Test methods",
+      "paragraphs": [
+        "Test methods: The standard specifies the methods to be used for testing the safety and performance of an industrial robot. These tests include those for mechanical strength, electrical safety, functional safety and reliability. Performance requirements: The standard requires that an industrial robot be capable of performing its intended functions safely and reliably under specified conditions of use. It also sets out specific performance requirements for accuracy, repeatability and cycle time. Marking and labelling: The standard requires that an industrial robot be marked with certain information such as its manufacturer’s name or trademark, model designation and serial number.",
+        "It also specifies what label information must be affixed to the robot in order to identify its hazards.",
+        "There are various ways to test the performance of an industrial robot. One common method is to use a sensor to measure the position of the robot’s arm and compare it to the expected position. Other ways to test performance include measuring the speed and accuracy of the robot’s movements, as well as its ability to repeat tasks accurately."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-10218-1-industrial-robots/5df8d5ff9fa1.jpg",
+          "alt": "two red power tools inside room"
+        }
+      ]
+    },
+    {
+      "heading": "Additional information for the user",
+      "paragraphs": [
+        "When it comes to industrial robots, the ISO 10218-1 standard is very important. This standard defines the requirements for the design and integration of industrial robots. It covers aspects such as safety, performance, operation and control. The standard is important for both manufacturers and users of industrial robots. Manufacturers need to ensure that their products meet the requirements set out in the standard, while users need to be aware of the potential risks involved in using industrial robots."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/1ee0c90635de.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/8d3cbcc6d104.jpg",
+      "alt": "black and yellow corded power tool"
+    },
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/8ca64f2dcd6c.jpg",
+      "alt": "black and white industrial machine"
+    },
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/5df8d5ff9fa1.jpg",
+      "alt": "two red power tools inside room"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/1ee0c90635de.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/8d3cbcc6d104.jpg",
+      "alt": "black and yellow corded power tool"
+    },
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/8ca64f2dcd6c.jpg",
+      "alt": "black and white industrial machine"
+    },
+    {
+      "src": "/images/migrated/iso-10218-1-industrial-robots/5df8d5ff9fa1.jpg",
+      "alt": "two red power tools inside room"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

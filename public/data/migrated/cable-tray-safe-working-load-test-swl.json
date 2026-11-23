@@ -1,0 +1,63 @@
+{
+  "hero": "/images/page-heroes/cable-tray-safe-working-load-test-swl.webp",
+  "heroPortrait": "/images/page-heroes/cable-tray-safe-working-load-test-swl-portrait.webp",
+  "generatedIntro": "/images/page-sections/cable-tray-safe-working-load-test-swl-s1.webp",
+  "generatedMid": "/images/page-sections/cable-tray-safe-working-load-test-swl-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cable-tray-safe-working-load-test-swl-s1.webp",
+    "/images/page-sections/cable-tray-safe-working-load-test-swl-s2.webp",
+    "/images/page-sections/cable-tray-safe-working-load-test-swl-s3.webp",
+    "/images/page-sections/cable-tray-safe-working-load-test-swl-s4.webp",
+    "/images/page-sections/cable-tray-safe-working-load-test-swl-s5.webp",
+    "/images/page-sections/cable-tray-safe-working-load-test-swl-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 1 | 491 | – | KEEP – its image has 66 referring domains",
+  "slug": "cable-tray-safe-working-load-test-swl",
+  "path": "/cable-tray-safe-working-load-test-swl",
+  "source": "https://www.itcindia.org/cable-tray-safe-working-load-test-swl/",
+  "ok": true,
+  "title": "Cable tray Safe Working Load Test (SWL) - Electrical Safety",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Cable tray Safe Working Load Test (SWL) Cable tray/ Protective castings must be designed to the below said ambient temperatures",
+  "sections": [
+    {
+      "heading": "Cable tray/ Protective castings must be designed to the below said ambient temperatures",
+      "paragraphs": [
+        "Safe working load is one of the mechanical requirements assigned to meet by the cable tray/ protective castings. Another mechanical requirement is the Impact resistance Test. But in this article we are focusing on Safe Working Load. Testing must be performed at the above declared temperatures.",
+        "All the loads must be uniformly distributed (UDL) over the length and width of the sample. The loads have to be applied in a way that uniform distribution is ensured even in case of extreme deformation of the sample. For settlement of the samples, a pre load of 10 % of the test load unless otherwise specified, should be calibrated to zero.",
+        "Cable tray Safe Working Load Test (SWL)",
+        "The gradually increase the load longitudinally and transversely up to the test load continuously or in increments. These increments should not exceed about a quarter of the SWL.",
+        "After loading, the deflection should be taken at the points specified to give a practical mid-span deflection.",
+        "The samples should be left and the deflection measured every 5 min until the difference between two consecutive set of readings is less than 2 % with regard to the first set of 2 consecutive readings. The first set of readings calculated at this point is the set of deflection measured at the test load.",
+        "After this treatment, the test load samples, their joints and internal fixing devices, should show no damage or cracks visible to normal view or corrected vision without magnification.",
+        "After this, load is increased to 1.7 times the test load.",
+        "The samples should be left and the deflections measured every 5 min until the difference between two consecutive sets of readings is less than 2 % with regard to the first set of the two consecutive sets of readings. The samples should sustain the increased loading without collapsing. Buckling and deformation of the samples is permissible at this loading.",
+        "Tests should be carried out for the smallest and largest sizes of cable",
+        "Trays lengths or cable ladder lengths, having the same material, joint and",
+        "Topological shape."
+      ],
+      "bullets": [
+        "-25 ºC to 90 ºC for outdoor use",
+        "+5 ºC to 90 ºC for indoor use.",
+        "The maximum deflection should not exceed L/100 where L is the distance between the supports.",
+        "No mechanical defects or failure are observed when tested at 1.7 * SWL."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why ITC?",
+      "paragraphs": [
+        "ITC is a photometric calibration lab which owns a number of reference detectors which are traceable to International standard systems of units. We have a team of trained technical experts. We offer calibration services at affordable costs."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

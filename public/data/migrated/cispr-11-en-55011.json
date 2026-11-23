@@ -1,0 +1,111 @@
+{
+  "hero": "/images/page-heroes/cispr-11-en-55011.webp",
+  "heroPortrait": "/images/page-heroes/cispr-11-en-55011-portrait.webp",
+  "generatedIntro": "/images/page-sections/cispr-11-en-55011-s1.webp",
+  "generatedMid": "/images/page-sections/cispr-11-en-55011-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cispr-11-en-55011-s1.webp",
+    "/images/page-sections/cispr-11-en-55011-s2.webp",
+    "/images/page-sections/cispr-11-en-55011-s3.webp",
+    "/images/page-sections/cispr-11-en-55011-s4.webp",
+    "/images/page-sections/cispr-11-en-55011-s5.webp",
+    "/images/page-sections/cispr-11-en-55011-s6.webp"
+  ],
+  "category": "emc",
+  "action": "KEEP",
+  "note": "0 / 2 | 352 | – | KEEP",
+  "slug": "cispr-11-en-55011",
+  "path": "/cispr-11-en-55011",
+  "source": "https://www.itcindia.org/cispr-11-en-55011/",
+  "ok": true,
+  "title": "CISPR 11/ EN 55011 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "CISPR 11/ EN 55011 Industrial, scientific and medical (ISM) radio-frequency equipment – Electromagnetic disturbance characteristics – Limits and methods of measurement",
+  "sections": [
+    {
+      "heading": "Amendment 2",
+      "paragraphs": [
+        "Industrial, scientific and medical (ISM) radio-frequency equipment – Electromagnetic disturbance characteristics – Limits and methods of measurement",
+        "CISPR 11 is a broadly used international standard for electromagnetic compatibility within Europe for electromagnetic emissions or disturbances from Industrial, Scientific, and Medical, ISM, Equipment. CISPR 11 is conserved by CISPR: the International Special Committee on Radio Interference. It has grown from a simple document to a complex document involving a number of types of products",
+        "CISPR 11 applies to a very huge variety of equipment including everything from Wi-Fi systems, microwaves through to arc welders, all of which fall into the industrial, scientific and medical category which can use the ISM license-free bands like 2.4 GHz.",
+        "CISPR 11, EN 55011 is a standard covering radiated and conducted emissions. Most products will require an assessment of immunity standards, such as EN 61326-1: Electrical equipment for measurement, control and laboratory use; or EN 61000-6-2: Generic Standards Immunity for industrial environments.",
+        "It has grown from measuring products at a larger distance (100 meters and 30 meters) for Class A Equipment to measuring them at 3 meters. Class B equipment measurement distances have seen an equivalent degradation of “far-field” radiated emission measurements. This steady erosion of the “laws of physics” is worrisome and a trend to reverse this erosion is overdue in the engineering field of EMC and the EMC Standards arena."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "List of tests",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Emission Tests"
+          ],
+          "rows": [
+            [
+              "CISPR 11",
+              "Radiated emissions"
+            ],
+            [
+              "Conducted emissions input power"
+            ],
+            [
+              "IEC 61000-3-2",
+              "Harmonic current emissions"
+            ],
+            [
+              "IEC 61000-3-3",
+              "Voltage fluctuation & flicker"
+            ],
+            [
+              "Immunity Tests"
+            ],
+            [
+              "IEC 61000-4-2",
+              "Electrostatic discharge immunity test"
+            ],
+            [
+              "IEC 61000-4-3",
+              "Radiated, radio-frequency, electromagnetic field immunity test"
+            ],
+            [
+              "IEC 61000-4-4",
+              "Immunity to Electrical Fast Transient"
+            ],
+            [
+              "IEC 61000-4-5",
+              "Immunity to Surges"
+            ],
+            [
+              "IEC 61000-4-6",
+              "Immunity to Conducted Disturbances"
+            ],
+            [
+              "IEC 61000-4-8",
+              "Power frequency magnetic immunity test"
+            ],
+            [
+              "IEC 61000-4-9",
+              "Pulse magnetic field immunity test"
+            ],
+            [
+              "IEC 61000-4-11",
+              "Voltage dips"
+            ],
+            [
+              "IEC 61000-4-11",
+              "Voltage interruptions"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

@@ -9,3 +9,19 @@ tmp-drive/
 *.tmp
 public/docs/
 
+# Local / generated junk — not for the demo repo
+assets/
+scripts/audit-shots/
+scripts/__pycache__/
+scripts/_atex_live.html
+scripts/scrape-log*.txt
+scripts/tmp-*/
+tmp-*/
+tmp-*.html
+tmp-*-docx/
+HOME_PAGE*.txt
+home_page_feedback*.txt
+action-list.txt
+*.pyc
+__pycache__/
+

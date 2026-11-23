@@ -1,0 +1,81 @@
+{
+  "hero": "/images/page-heroes/high-frequency-surgical-equipment.webp",
+  "heroPortrait": "/images/page-heroes/high-frequency-surgical-equipment-portrait.webp",
+  "generatedIntro": "/images/page-sections/high-frequency-surgical-equipment-s1.webp",
+  "generatedMid": "/images/page-sections/high-frequency-surgical-equipment-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/high-frequency-surgical-equipment-s1.webp",
+    "/images/page-sections/high-frequency-surgical-equipment-s2.webp",
+    "/images/page-sections/high-frequency-surgical-equipment-s3.webp",
+    "/images/page-sections/high-frequency-surgical-equipment-s4.webp",
+    "/images/page-sections/high-frequency-surgical-equipment-s5.webp",
+    "/images/page-sections/high-frequency-surgical-equipment-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "LOW",
+  "note": "358 | 4 img no alt | LOW: link to /iec-60601-2-2-testing-services/",
+  "slug": "high-frequency-surgical-equipment",
+  "path": "/high-frequency-surgical-equipment",
+  "source": "https://www.itcindia.org/high-frequency-surgical-equipment/",
+  "ok": true,
+  "title": "What are High Frequency Surgical Equipment?",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "High Frequency Surgical Equipment, Often ‘Electrocautry” is used to describe Electrosurgery. But , it is not the correct meaning, Electrocautry refers to direct current (DC) (electrons flowing in one direction),",
+  "sections": [
+    {
+      "heading": "What are High Frequency Surgical Equipment?",
+      "paragraphs": [
+        "Often ‘Electrocautry” is used to describe Electrosurgery. But , it is not the correct meaning, Electrocautry refers to direct current (DC) (electrons flowing in one direction), whereas Electrosurgery uses alternating current (AC). During Electrocautry current does not enter pateint’s body. Only the heated wire comes into contact with tissue. In Electrosurgery, the patient’s is included in the circuit and current enters the patient’s body. High Frequency Surgical equipment uses High Frequency currents to function their work. Some HF Equipment are as shown below:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/high-frequency-surgical-equipment/fe17e374126b.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "These High Frequency surgical Equipment uses High Frequency to function:",
+      "paragraphs": [
+        "This is achieved by passing normal electrical current via the diathermy machine and converting it into a high frequency alternating current (HFAC). The HFAC produces heat within body tissues to coagulate bleeding vessels and cut through tissue.",
+        "Because these equipment comes into direct contact of patient, so theses equipment shall be tested for any hazard which could create a serious damage to patient. IEC 60601-2-22 is the particular standard for such High Frequency medical equipment. We provide the testing service of IEC 60601-2-22 particular standard with IEC 60601-1 general standard at very reasonably prices with all necessarily guide to prepare documentation of product as per standard.",
+        "ITC India can help you to get your product compliance with IEC 60601and guide you with product Designing, Marking &amp; Labeling and get assistance to prepare for necessary Documentation for CE, UL and CSA marking.Please Click to view Sample test report here. ITC India Pvt Ltd is a NABL approved Lab , For more information log on to <a href=\"/\">www.itcindia.org</a> , if any query mail at info@itcindia.org or call on +91 9316473033"
+      ],
+      "bullets": [
+        "Cut by using High Frequency",
+        "Coagulation in monopolar mode",
+        "Coagulation in Bipolar mode"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/high-frequency-surgical-equipment/436da09c1ddb.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/high-frequency-surgical-equipment/fe17e374126b.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/high-frequency-surgical-equipment/436da09c1ddb.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/high-frequency-surgical-equipment/fe17e374126b.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/high-frequency-surgical-equipment/436da09c1ddb.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

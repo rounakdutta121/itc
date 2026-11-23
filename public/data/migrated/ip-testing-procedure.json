@@ -1,0 +1,444 @@
+{
+  "hero": "/images/page-heroes/ip-testing-procedure.webp",
+  "heroPortrait": "/images/page-heroes/ip-testing-procedure-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip-testing-procedure-s1.webp",
+  "generatedMid": "/images/page-sections/ip-testing-procedure-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip-testing-procedure-s1.webp",
+    "/images/page-sections/ip-testing-procedure-s2.webp",
+    "/images/page-sections/ip-testing-procedure-s3.webp",
+    "/images/page-sections/ip-testing-procedure-s4.webp",
+    "/images/page-sections/ip-testing-procedure-s5.webp",
+    "/images/page-sections/ip-testing-procedure-s6.webp"
+  ],
+  "category": "ip",
+  "action": "ADD",
+  "note": "28 / 25 | 1236 | no H2 | ADD – IP rating chart + CTA, P6",
+  "slug": "ip-testing-procedure",
+  "path": "/ip-testing-procedure",
+  "source": "https://www.itcindia.org/ip-testing-procedure/",
+  "ok": true,
+  "title": "IP Testing Procedure",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IP Testing Procedure Ingress Protection (IP) Testing in accordance with IEC 60529, IP testing is generally done on enclosure which can be place indoor",
+  "sections": [
+    {
+      "heading": "IP Testing Procedure",
+      "paragraphs": [
+        "IP testing is generally done on enclosure which can be place indoor or outdoor to calculate the level of protection from water, dust or other solid objects. <a href=\"/\">ITC India pvt ltd</a> is capable to perform Ingress Protection testing in its own premises. ITC has the calibrated nozzles, immersion tanks and dust chamber as demanded by standards.",
+        "ITC had created full facilities to do water and dust testing. All the <a href=\"/ip/-testing-laboratory-india/-laboratory-india\">IP testing </a>is in its scope. All equipment are calibrated and are accurate to determine results. The Talcum powder used in Dust chamber is also as per IEC 60529 to test accurately.",
+        "We would like to discuss IP testing against water in details.",
+        "First of all, we will elaborate the IP against water. For IP X5 and IPX6, the EUT to be tested is placed on the proper stand with a maintained distance of 2.5 – 3 m between nozzles to enclosure as per standard requirement. Then comes the nozzles (12.5mm or 6.3mm), a nozzle as per requirement is being selected. Now we have to apply the pressure. A pressure of 12.5 l/min ±5 % is applied while using 6.3mm nozzle and the pressure of 100 l/min ± 5 % is applied while using 12.5mm nozzle for 3 mins duration. Then a visual inspection is done for the any water present inside the enclosure.",
+        "For IP X4, the EUT is placed on the stand. A oscillating tube rotates at an angle of 180° vertically sprays the water on EUT. The nozzles of oscillating tube spray water at 0.07 l/min ± 5 % per hole multiplied by number of holes i.e.10l/min ±5 %. The duration of the test is 10 min. after the test, engineer visually inspect for any water leaks by EUTs.",
+        "For IPX7, the EUT is fully immersed in water at level of 150 mm excluding the height of the sample. The test is performed for 30 mins.",
+        "For IPX8, the EUT is immersed in water 1 m above from the bottom of enclosure. The test is performed for 24 hr or as per manufacturer demand.",
+        "IP X1, IP X2 and IP X3 are also performed in the lab."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IP codes",
+      "paragraphs": [
+        "The degree of protection provided by an enclosure is indicated by IP code in following way:",
+        "Where a characteristic numeral is not required to be specified, it shall be replaced by the letter “X” (“XX” if both numerals are omitted.)",
+        "Additional letters and /or supplementary letters may be omitted without replacement.",
+        "Where more than one supplementary letter is used, the alphabetic sequence shall apply.",
+        "If an enclosure provides different degree of protection for different intended mounting arrangements, the relevant degree of protection shall be indicated by the manufacturer in the instructions related to the respective mounting arrangements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/ip-testing-procedure/f8aefea3e3df.jpg",
+          "alt": "IP Code"
+        }
+      ]
+    },
+    {
+      "heading": "IP codes and their meanings:",
+      "paragraphs": [
+        "We would like to represent it in a tabular form:"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "",
+            "Degree of Protection"
+          ],
+          "rows": [
+            [
+              "",
+              "Protected against",
+              "Definition"
+            ],
+            [
+              "IP 0X",
+              "Non –protected",
+              "—"
+            ],
+            [
+              "IP 1X",
+              "Access to hazardous parts with the back of a hand.",
+              "An access probe, sphere of 50 mm Ø, shall have adequate clearance from hazardous parts"
+            ],
+            [
+              "Solid foreign objects of 50 mm 2",
+              "An object probe, sphere of 50 mm Ø , shall not fully penetrate"
+            ],
+            [
+              "IP XXB",
+              "Access to hazardous parts with finger.",
+              "A jointed test finger of 12 mm Ø , 80 mm length, shall have adequate clearance from hazardous parts"
+            ],
+            [
+              "Solid foreign objects not required.",
+              "—"
+            ],
+            [
+              "IP 2X",
+              "Access to hazardous parts with finger",
+              "A jointed test finger of 12 mm Ø , 80 mm length, shall have adequate clearance from hazardous parts"
+            ],
+            [
+              "Solid foreign objects of 12.5 mm Ø .",
+              "An object probe, sphere of 12.5 mm Ø , shall not fully penetrate."
+            ],
+            [
+              "IP 3X",
+              "Access to hazardous parts with a tool.",
+              "An access probe of 2.5 mm Ø shall have adequate clearance."
+            ],
+            [
+              "Solid foreign objects of 2.5 mm Ø .",
+              "An object probe of 2.5 mm Ø shall not penetrate at all."
+            ],
+            [
+              "IP 3XD",
+              "Access to hazardous parts with a wire",
+              "An access probe of 1 mm Ø shall have adequate clearance."
+            ],
+            [
+              "Solid foreign objects of 2.5 mm Ø .",
+              "An object probe of 2.5 mm Ø shall not penetrate at all."
+            ],
+            [
+              "IP 4X",
+              "Access to hazardous parts with a wire.",
+              "An access probe of 1.0 mm Ø shall have adequate clearance."
+            ],
+            [
+              "Solid foreign objects of 1.0 mm Ø.",
+              "An object probe of 1.0 mm Ø shall not penetrate at all"
+            ],
+            [
+              "IP 5X",
+              "Access to hazardous parts with a wire.",
+              "An access probe of 1.0 mm Ø shall have adequate clearance."
+            ],
+            [
+              "Dust (protected).",
+              "Ingress of dust is not totally prevented, but dust shall not penetrate in a sufficient quantity to interfere with satisfactory operation of the apparatus or to impair safety."
+            ],
+            [
+              "IP 6X",
+              "Access to hazardous parts with a wire",
+              "An access probe of 1.0 mm Ø shall have adequate clearance."
+            ],
+            [
+              "Dust (tight).",
+              "No ingress of dust"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "",
+            "Degree of protection"
+          ],
+          "rows": [
+            [
+              "",
+              "Protected against",
+              "Definition"
+            ],
+            [
+              "IP X0",
+              "Non –protected",
+              "—"
+            ],
+            [
+              "IP X1",
+              "Vertically falling water drops",
+              "Vertically falling drops shall have no harmful effects"
+            ],
+            [
+              "IP X2",
+              "Vertically falling water drops when enclosure tilted up to 15º.",
+              "Vertically falling drops shall have no harmful effects when the enclosure is tilted at any angle up to 15º on either side of the vertical."
+            ],
+            [
+              "IP X3",
+              "Spraying Water",
+              "Water sprayed at an angle up to 60º on either side of the vertical shall have no harmful effects"
+            ],
+            [
+              "IP X4",
+              "Splashing Water",
+              "Water splashed against the enclosure from any direction shall have no harmful effects"
+            ],
+            [
+              "IP X5",
+              "Water jets",
+              "Water projected in jets against the enclosure from any direction shall have no harmful effects"
+            ],
+            [
+              "IP X6",
+              "Powerful water jets",
+              "Water projected in powerful jets against the enclosure from any direction shall have no harmful effects."
+            ],
+            [
+              "IP X7",
+              "The effects of temporary immersion in water.",
+              "Ingress of water in quantities causing harmful effects shall be prevented when the enclosure is immersed in 1m of water for 30 minutes."
+            ],
+            [
+              "IP X8",
+              "The effects of continuous immersion in water",
+              "Ingress of water in quantities causing harmful effects shall be prevented when the enclosure is continuously immersed in water under conditions which shall be agreed between manufacturer and user (>IPX7)."
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "First Characteristic Numeral",
+            "Test means(Objects probes and Dust chamber )",
+            "Test force"
+          ],
+          "rows": [
+            [
+              "0",
+              "No test required",
+              "—"
+            ],
+            [
+              "1",
+              "Rigid sphere without handle or guard( 50 mm dia)",
+              "50N ± 10%"
+            ],
+            [
+              "2",
+              "Rigid sphere without handle or guard( 12.5 mm dia)",
+              "30N ± 10%"
+            ],
+            [
+              "3",
+              "Rigid steel rod 2,5mm diameter with edges free from burrs",
+              "3N ± 10%"
+            ],
+            [
+              "4",
+              "Rigid steel wire 1mm diameter with edges free from burrs",
+              "1N ± 10%"
+            ],
+            [
+              "5",
+              "Dust chamber, with or without underpressure",
+              "—"
+            ],
+            [
+              "6",
+              "Dust chamber, with underpressure",
+              "—"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Second Characteristic Numeral",
+            "Test means",
+            "Water flow rate",
+            "Duration of test"
+          ],
+          "rows": [
+            [
+              "0",
+              "No test required",
+              "–",
+              "–"
+            ],
+            [
+              "1",
+              "Drip Box",
+              "1 mm/min",
+              "10 min"
+            ],
+            [
+              "2",
+              "Drip Box( Enclosure 15 ° tilted)",
+              "3 mm/min.",
+              "10 min"
+            ],
+            [
+              "3",
+              "Oscillating tube: distance max. 200mm / Spray nozzle; Spray ±60° from vert",
+              "10 l/min",
+              "1 min/m2 (≥ 5 min)"
+            ],
+            [
+              "4",
+              "As for 3; Spray ±180° from vert.",
+              "“",
+              "“"
+            ],
+            [
+              "5",
+              "Water jet hoze nozzle 6,3mm; distance 2,5 to 3m",
+              "12.5 l/min",
+              "1 min/m2 (≥ 3 min)"
+            ],
+            [
+              "6",
+              "Water jet hoze nozzle 12,5mm; distance 2,5 to 3m",
+              "100 l/min",
+              "–"
+            ],
+            [
+              "7",
+              "Immersion tank; water-level on enclosure 0,15m above top, 1m above bottom",
+              "–",
+              "30 min"
+            ],
+            [
+              "8",
+              "Immersion tank; water-level by agreement",
+              "–",
+              "By agreement"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/ip-testing-procedure/c439737c016b.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/ip-testing-procedure/f8aefea3e3df.jpg",
+      "alt": "IP Code"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/ip-testing-procedure/c439737c016b.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/ip-testing-procedure/f8aefea3e3df.jpg",
+      "alt": "IP Code"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

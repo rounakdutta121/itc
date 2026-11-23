@@ -1,0 +1,59 @@
+{
+  "hero": "/images/page-heroes/useful-lumens.webp",
+  "heroPortrait": "/images/page-heroes/useful-lumens-portrait.webp",
+  "generatedIntro": "/images/page-sections/useful-lumens-s1.webp",
+  "generatedMid": "/images/page-sections/useful-lumens-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/useful-lumens-s1.webp",
+    "/images/page-sections/useful-lumens-s2.webp",
+    "/images/page-sections/useful-lumens-s3.webp",
+    "/images/page-sections/useful-lumens-s4.webp",
+    "/images/page-sections/useful-lumens-s5.webp",
+    "/images/page-sections/useful-lumens-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "305 | – | LOW: add FAQ, links",
+  "slug": "useful-lumens",
+  "path": "/useful-lumens",
+  "source": "https://www.itcindia.org/useful-lumens/",
+  "ok": true,
+  "title": "Useful Lumens Directional Lamps verses Non directional Lamp",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Useful Lumens Directional Lamps verses Non directional Lamp. Always when outcome is more lumens. but what about useful lumens.",
+  "sections": [
+    {
+      "heading": "“Useful Lumens”Directional Lamps verses Non directional Lamp",
+      "paragraphs": [
+        "Always when outcome is more lumens .. but what about useful lumens. Generally for Directional lights like spotlight estimating just total lumen or peak candela is not enough to illustrate the light output of the lamp or fitting, so new metric has derived called useful lumens.",
+        "Before we discuss the USEFUL lumen , we must clarify the Directional and Non Directional lamps.",
+        "Directional lamp: is defined as one having at least 79% of its total light output in a cone of Pi steradians (120 degree). E.g. Reflectorised lamps – spot light.",
+        "Non Directional Lamps: is defined as one that is not directional per the previous definition.",
+        "Now for the directional lamps not the total light output matter but, where the light is shining is matters.",
+        "Till date we test the lamps for total flux using Integrating sphere, directional lamps for candela using a lux meter and luminaries for photometric data using a goniophotometer. With the introduction of the new useful lumens metric, we must now start to also measure the luminous intensity at each angle (in candelas) from a directional lamp over a 2pi steradian (180°) cone using a goniophotometer. We then integrate the angular intensity values over a 120° cone, first to prove that the desired 80% fractional flux is emiited within this cone and to yield the total number of lumens in that cone (the “useful lumens”).",
+        "We can not get the total lumen emitted over all angle in a Integrating sphere instead perform a measurements of luminous Intensity at each angle using a goniophotometer. To fully satisfy the new European requirements, we can measure useful lumens as well as color rendering, power factor and luminous efficacy."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/useful-lumens/677548339e87.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/useful-lumens/677548339e87.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/useful-lumens/677548339e87.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

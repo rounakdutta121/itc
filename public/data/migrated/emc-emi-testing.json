@@ -1,0 +1,429 @@
+{
+  "hero": "/images/page-heroes/emc-emi-testing.webp",
+  "heroPortrait": "/images/page-heroes/emc-emi-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/emc-emi-testing-s1.webp",
+  "generatedMid": "/images/page-sections/emc-emi-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/emc-emi-testing-s1.webp",
+    "/images/page-sections/emc-emi-testing-s2.webp",
+    "/images/page-sections/emc-emi-testing-s3.webp",
+    "/images/page-sections/emc-emi-testing-s4.webp",
+    "/images/page-sections/emc-emi-testing-s5.webp",
+    "/images/page-sections/emc-emi-testing-s6.webp",
+    "/images/page-sections/emc-emi-testing-s7.webp",
+    "/images/page-sections/emc-emi-testing-s8.webp"
+  ],
+  "category": "emc",
+  "action": "EXPAND",
+  "note": "2 / 81 | 1909 | 4 img no alt | EXPAND – P2",
+  "slug": "emc-emi-testing",
+  "path": "/emc-emi-testing",
+  "source": "https://www.itcindia.org/emc-emi-testing/",
+  "ok": true,
+  "title": "EMI/EMC Testing laboratory - EMC testing lab in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India provides EMI EMC testing on all electrical and electronic products. We provide both immunity and emission testing as per standards",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "EMI EMC testing is now a prerequisite testing for all product designers making new products.",
+        "We focus on the following industries product EMC/EMI testing:",
+        "We can do the following EMC testing on your product.",
+        "On a flight, during takeoff captain observe interference on Navigation System. They found a passenger was using a Laptop. Even, You are requested to switch off your mobile phones or change to Airplane mode while traveling by plane. Why?",
+        "This is because Cell phones, as well as other personal electronic devices such as laptops, tabs etc, emit signals from High-Frequency clock oscillators. The resulting Electromagnetic Interference (EMI) can affect aircraft navigation, communication and control systems. After electrical, electronics, and photometry, ITC India Pvt Ltd has spread its wings in EMC testing."
+      ],
+      "bullets": [
+        "Industrial electronics",
+        "Consumer electronics",
+        "Telecommunications",
+        "Medical"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Test",
+            "As per Applicable standard"
+          ],
+          "rows": [
+            [
+              "Electrostatic discharge immunity test(ESD test)",
+              "IEC/EN 61000-4-2"
+            ],
+            [
+              "Electrical fast transient/burst immunity test",
+              "IEC/EN 61000-4-4"
+            ],
+            [
+              "Surge immunity test",
+              "IEC/EN 61000-4-5"
+            ],
+            [
+              "Voltage dips, short interruptions and voltage variations immunity tests",
+              "IEC/EN 61000-4-11"
+            ],
+            [
+              "Limits for harmonic current emissions (equipment input current =16 A per phase)",
+              "IEC/EN 61000-3-2"
+            ],
+            [
+              "Radiated Susceptibility",
+              "IEC/EN 61000-4-3"
+            ],
+            [
+              "Limitation of voltage changes, voltage fluctuations, and flicker",
+              "IEC/EN 61000-3-3"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "What is EMC (Electro Magnetic Compatibility)?",
+      "paragraphs": [
+        "EMC: EMC is defined as the ability of electronic and communication equipment to be able to operate satisfactorily in the presence of interference and not be a source of interference to nearby equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/emc-emi-testing/1d9d068b3f88.webp",
+          "alt": "emc testing"
+        }
+      ]
+    },
+    {
+      "heading": "EMC = EME + EMI",
+      "paragraphs": [
+        "EME: Electromagnetic Emission (Interference), EMI: Electromagnetic Immunity."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/emc-emi-testing/b75c9a08ead9.webp",
+          "alt": "emission testing"
+        }
+      ]
+    },
+    {
+      "heading": "1. Equipment to equipment",
+      "paragraphs": [],
+      "bullets": [
+        "Loss of data in digital systems or in the transmission of data.",
+        "Interference to TV and radio reception.",
+        "Malfunction of Medical electronic equipment.",
+        "Malfunction of automotive microprocessor control system(braking) and navigation equipment.",
+        "Malfunction of critical process control functions(ex. Oil, chemicals, aircraft, railways)."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Equipment to human",
+      "paragraphs": [],
+      "bullets": [
+        "IEEE C95.1 Standard for safety levels with respect to human exposure to radio frequency electromagnetic fields. 3KHz to 300 GHz",
+        "ICNIRP Guidelines limiting exposure to time-varying electric, magnetic and EM Fields(up to 300GHz)."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Testing Routine",
+      "paragraphs": [
+        "The EMC testing routine depends on the nature of the device being tested, its intended application and the regulatory requirements for its use. Electromagnetic phenomena that is replicated through EMC testing includes:",
+        "A wide range of equipment is used to imitate the above conditions and test the ability of a device. A typical EMC testing lab may utilize surge generators, power amplifiers, spectrum analyzers and more such equipment."
+      ],
+      "bullets": [
+        "Electrostatic discharges associated with static electricity",
+        "Magnetic fields, like the ones radiating from electrical wires",
+        "Electromagnetic surges due to a lightning strike",
+        "Fast transients caused by electrical switches, relays and motors, fluorescent lamp ballasts",
+        "Conducted and radiated electromagnetic noise",
+        "Voltage drops due to a burnout or other power interruption"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electro Static Discharge",
+      "paragraphs": [],
+      "bullets": [
+        "Fast transient and burst",
+        "Surge",
+        "Voltage dips and drops"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "H- Fields",
+      "paragraphs": [
+        "EMC Testing is required to confirm that a particular product follows the required standards. It divides into:",
+        "Open-air test sites, or OATS, are the reference sites in most standards. They are especially useful for emissions testing of large equipment systems. However, RF testing is most performed indoors, in an exclusive EMC test chamber. Types of the chamber include anechoic, reverberation and the gigahertz transverse electromagnetic cell.",
+        "Emission Testing: Emissions are generally measured for radiated field strength and were appropriate for conducted emissions along with cables and wiring. Inductive (magnetic) and capacitive (electric) field strengths are near-field effects and are only important if the device under test is designed for a location close to other electrical equipment. For conducted emissions, typical transducers include the LISN (line impedance stabilization network) or AMN (artificial mains network) and the RF current clamp. For radiated emission measurement, antennas are used as transducers. Typical antennas specified include dipole, biconical, log-periodic, double-ridged guide and conical log-spiral designs. Radiated emissions must be measured in all directions around the DUT. Typically a spectrum analyzer is used to evaluate the emission levels of the DUT across a wide band of frequencies (frequency domain). Particular spectrum analyzers for EMC testing are available called EMI test receivers or analyzers. EMI receivers along with specified transducers can often be used for both conducted and radiated emissions. Pre-selector filters may also be used to reduce the effect of strong out-of-band signals on the front-end of the receiver. Some pulse emissions are more usefully characterized using an oscilloscope to capture the pulse waveform in the time domain.",
+        "Susceptibility Testing: Radiated field susceptibility testing generally involves a high-powered source of RF or EM energy and a radiating antenna to direct the energy at the device under test. Conducted voltage and current susceptibility testing generally require a high-powered signal generator, and a current clamp or another type of transformer to inject the test signal. Transient signals are used to test the immunity of the DUT against power line disturbances including surges, lightning strikes, and switching noise. In motor vehicles, similar tests are performed on battery and signal lines. Electrostatic discharge testing is typically performed with a piezo spark generator called an “ESD pistol”. Higher energy pulses, such as lightning or nuclear EMP simulations, can require a large current clamp or a large antenna which completely surrounds the DUT. Some antennas are so large that they are located outdoors, and care must be taken not to cause an EMP hazard to the surrounding environment."
+      ],
+      "bullets": [
+        "emissions testing",
+        "susceptibility testing."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Difference Between EMC and EMI",
+      "paragraphs": [
+        "The terms electromagnetic compatibility (EMC) and electromagnetic interference (EMI) being related in so many ways, are often assumed to be the same when referring to the regulatory testing of electronic consumer goods and components. However, both the terms, though confused to be the same, are different from each other.",
+        "EMI",
+        "EMI is an electromagnetic energy that affects the components and functioning of an electronic device. The interferences can be naturally occurring or can come from another electrical or electronic device.",
+        "EMC",
+        "EMC is a measure of the ability of a device to operate as expected in its shared operating environment while, at the same time, not being affected by and not affecting the functioning of other equipment present within the same environment.",
+        "Assessing the reaction of the device when exposed to electromagnetic energy is one part of this which is known as Immunity or Susceptibility Testing. Another component of this is Emission Testing which measures the amount of EMI generated by the internal electrical system of the device.",
+        "In short, EMI results from a magnetic or electric field acting on a device and causing it to malfunction. Since it is impossible for electronics to operate in isolation, they are generally engineered to function in the presence of some amount of EMI. On the other hand, EMC describes how well a device can function in its environment without creating any unwanted effects on the surrounding equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Avoid EMC Failure",
+      "paragraphs": [
+        "When Product reaches the final stage of EMC testing and fails, this is a too frightening situation. To avoid such situation, compliance testing should be introduced in the projects from day one. Examining emissions from the product during each major development stages is the ultimate method to elude costly retesting and high failure rates.",
+        "If flaws are detected in the early stage then these can be resolved sooner during the development stage and we can eliminate it easily. From design to finished product we must treat it like baking of cake, we check the batter at every stage so that we can have the best taste of the cake. So, from designing part to electronics analysis of the product, our examining of the product will help to detect the defects that can be resolved in an early stage. We can add EMI shields or EMS foam can be added to avoid any leakage or gaps in enclosures. Setting pre-compliance as a milestone a project can be healthy and nutritious."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Pre-Compliance Testing",
+      "paragraphs": [
+        "To improve your chances of succeeding in an EMC Test, pre-compliance testing is a great approach. It is true that most of the companies don’t do any pre-compliance testing before sending their products to a test lab and some even succeed in clearing the EMC Test in their first go. However, this does not reduce the importance of this step and the fact that, the chances of failing the test can induce additional cost and delays for the company, cannot be ignored.",
+        "A few things that one must consider while choosing a pre-compliance option are:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Expertise: What training you need to be well versed with the technology?",
+      "paragraphs": [],
+      "bullets": [
+        "Return on Investment: What kind of ROI you seek in terms of money and time you invest in a pre-compliance option?"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMI EMC Pre-Compliance Testing Options available for You:",
+      "paragraphs": [
+        "Generally there are 3 types of pre-compliance options which are available to you:"
+      ],
+      "bullets": [
+        "A lab"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/emc-emi-testing/8ed17f80d364.jpg",
+          "alt": "EMC pre-compliance testing"
+        }
+      ]
+    },
+    {
+      "heading": "Equipment Co-op",
+      "paragraphs": [
+        "Each of these have their own pros and cons.",
+        "One of the biggest reasons for pursuing pre-compliance testing is the fact that EMC problems are much easier and cheaper to fix if caught in the early stages of design cycle than the later stages. Some of the reasons for this are:",
+        "EMI EMC Pre-Compliance Testing helps you to control general failure that occur while testing:",
+        "In this electronics world, we all are too much dependent on such gadgets and devices. EMC testing is becoming mandatory to maintain quality. Europe, US, China, Korea, Australia, New Zealand made EMC testing mandatory to improve product performance, to meet the regulatory requirement. ITC India Pvt Ltd is offering EMC testing and certification. With a team of Experts, your project will go smoothly. So, for any kind of EMC testing please feel free to contact us."
+      ],
+      "bullets": [
+        "In-house pre-compliance testing is quite cheaper to do than full compliance testing done by an accredited EMC Test Lab. If you are successful in catching any potential problems before heading to a test lab, you can save a lot of time and money at the lab.",
+        "Let’s take a situation where you have assumed that your product will pass the EMC Test. You give a green light on the production run and then you subsequently fail the test. You have just dug up an expensive hole for yourself. Sometimes it is possible to re-work on the existing product for EMC fixes but this is generally labor intensive and costly in terms of EMC suppression products.",
+        "Relating to the above point, it is generally cheaper to do an EMC fix on a circuit board than adding a remedial fix after finalizing the design. One such example can be fixing power supply noise on a Printed Circuit Board (PCB) rather than buying an expensive low noise power supply brick or adapter.",
+        "Any issues you find can be resolved in a PCB or product revision that you were going to do anyway. Any fixes or changes can be then rolled into the final production.",
+        "Minimize RF noise",
+        "Assuming power, ground, and static input /output signals are clean",
+        "Recognizing and monitoring ESD testing locations",
+        "Calculating ESD levels",
+        "Choosing and testing the appropriate power adapter",
+        "Optimizing functional equipment, such as LCDs",
+        "Inspecting auxiliary equipment for compliance, a step that is often overlooked",
+        "Selecting and cohering to the appropriate protection rating",
+        "Safeguard sensitive analog and RF circuitry"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC EMI testing standard :CISPR 16",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/emc-emi-testing/4d903a8f8cac.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "EMI EMC standard for testing: IEC 61000",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/emc-emi-testing/0c7a1a34d911.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/emc-emi-testing/1d9d068b3f88.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/b75c9a08ead9.webp",
+      "alt": "emission testing"
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/8ed17f80d364.jpg",
+      "alt": "EMC pre-compliance testing"
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/4d903a8f8cac.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/0c7a1a34d911.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/emc-emi-testing/1d9d068b3f88.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/b75c9a08ead9.webp",
+      "alt": "emission testing"
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/8ed17f80d364.jpg",
+      "alt": "EMC pre-compliance testing"
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/4d903a8f8cac.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/emc-emi-testing/0c7a1a34d911.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

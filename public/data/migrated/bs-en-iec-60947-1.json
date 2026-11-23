@@ -1,0 +1,172 @@
+{
+  "hero": "/images/page-heroes/bs-en-iec-60947-1.webp",
+  "heroPortrait": "/images/page-heroes/bs-en-iec-60947-1-portrait.webp",
+  "generatedIntro": "/images/page-sections/bs-en-iec-60947-1-s1.webp",
+  "generatedMid": "/images/page-sections/bs-en-iec-60947-1-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/bs-en-iec-60947-1-s1.webp",
+    "/images/page-sections/bs-en-iec-60947-1-s2.webp",
+    "/images/page-sections/bs-en-iec-60947-1-s3.webp",
+    "/images/page-sections/bs-en-iec-60947-1-s4.webp",
+    "/images/page-sections/bs-en-iec-60947-1-s5.webp",
+    "/images/page-sections/bs-en-iec-60947-1-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 2 | 351 | 2 img no alt | KEEP",
+  "slug": "bs-en-iec-60947-1",
+  "path": "/bs-en-iec-60947-1",
+  "source": "https://www.itcindia.org/bs-en-iec-60947-1/",
+  "ok": true,
+  "title": "BS EN / IEC 60947-1 General Rules Low-voltage switchgear",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India pvt ltd is a leading company in the field of testing electrical, electronics and luminaries Meticulous equipments and skillful engineers are hired",
+  "sections": [
+    {
+      "heading": "BS EN / IEC 60947-1 General Rules Low-voltage switchgear and control gear",
+      "paragraphs": [
+        "ITC India pvt ltd is a leading company in the field of testing electrical, electronics and luminaries. Meticulous equipments and skillful engineers are hired for testing your products. As a NABL accredited laboratory, you can have your product tested with a valid report as per mentioned standard. So ,ring us at 9316473033 or write at info@itcindia.org , b.vig@itcindia.org & care@itcindia.org .",
+        "IEC 60947-1 is the standard which lays the rules applicable to low voltage switchgear and controlgear. The purpose of this standard is to coordinate the rules and regulations in order to obtain uniformity of requirements and tests. The product standard forming the series of IEC standard covering low voltage switchgear and control gear are:",
+        "This standard concerns, when required by the relevant product standard, to switchgear and controlgear herein after referred to as “equipment” and intended to be connected to circuits, the rated voltage of which does not exceed 1000 V a.c. or 1500 V d.c.",
+        "It does not relate to low-voltage switchgear and controlgear assemblies which are dealt with in IEC 60439.",
+        "List of test performed for this standard are :"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S.No",
+            "Standrad",
+            "title"
+          ],
+          "rows": [
+            [
+              "1",
+              "IEC 60947-1",
+              "Low voltage switchgear and controlgear"
+            ],
+            [
+              "",
+              "IEC 60947-2",
+              "Circuit Breaker"
+            ],
+            [
+              "2",
+              "IEC 60947-3",
+              "Switches, disconnectors, switch-disconnectors and fuse-combination units"
+            ],
+            [
+              "3",
+              "IEC 60947-4",
+              "Contactors and motor starter"
+            ],
+            [
+              "4",
+              "IEC 60947-5",
+              "Control circuit devices and switching elements"
+            ],
+            [
+              "6",
+              "IEC 60947-6",
+              "Multiple function equipment"
+            ],
+            [
+              "8",
+              "IEC 60947-7",
+              "Ancillary equipment"
+            ],
+            [
+              "9",
+              "IEC 60947-8",
+              "Control units for build in thermal protection (PTC ) for rotating electric machine."
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Type tests :"
+          ],
+          "rows": [
+            [
+              "1.",
+              "Constructional Requirements"
+            ],
+            [
+              "2",
+              "Temperature rise test"
+            ],
+            [
+              "3",
+              "Dielectric properties"
+            ],
+            [
+              "4",
+              "Making and breaking capacities"
+            ],
+            [
+              "5",
+              "Short circuit making and breaking capacities"
+            ],
+            [
+              "6",
+              "Operating limits"
+            ],
+            [
+              "7",
+              "Operating performance"
+            ],
+            [
+              "8",
+              "Degree of protection of enclosed equipment"
+            ],
+            [
+              "9",
+              "Test for EMC"
+            ],
+            [
+              "Routine Tests"
+            ],
+            [
+              "1",
+              "Functional tests"
+            ],
+            [
+              "2",
+              "Dielectric tests"
+            ],
+            [
+              "Sampling tests"
+            ],
+            [
+              "1",
+              "Functional tests"
+            ],
+            [
+              "2",
+              "Dielectric tests"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/bs-en-iec-60947-1/61580763f8a8.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/bs-en-iec-60947-1/61580763f8a8.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/bs-en-iec-60947-1/61580763f8a8.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

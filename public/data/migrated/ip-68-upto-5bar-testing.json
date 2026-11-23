@@ -1,0 +1,263 @@
+{
+  "hero": "/images/page-heroes/ip-68-upto-5bar-testing.webp",
+  "heroPortrait": "/images/page-heroes/ip-68-upto-5bar-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip-68-upto-5bar-testing-s1.webp",
+  "generatedMid": "/images/page-sections/ip-68-upto-5bar-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip-68-upto-5bar-testing-s1.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s2.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s3.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s4.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s5.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s6.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s7.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s8.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s9.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s10.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s11.webp",
+    "/images/page-sections/ip-68-upto-5bar-testing-s12.webp"
+  ],
+  "category": "ip",
+  "action": "ADD",
+  "note": "836 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "ip-68-upto-5bar-testing",
+  "path": "/ip-68-upto-5bar-testing",
+  "source": "https://www.itcindia.org/ip-68-upto-5bar-testing/",
+  "ok": true,
+  "title": "IP68 Testing Up to 5 Bar | IEC 60529 Lab",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IP68 testing up to 5 bar for dust-tight and IPX8 water immersion protection under IEC 60529, with enclosure testing and compliance support from ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IP68 testing evaluates whether an enclosure provides the required protection against dust and prolonged water immersion. ITC India provides IP68 ingress protection testing for electrical, electronic and industrial products, including specified IPX8 pressure conditions up to 5 bar where required by the applicable product standard, customer specification or agreed test programme.",
+        "IP ratings are defined in IEC 60529, the international standard for degrees of protection provided by enclosures. For an overview of dust and water protection ratings, visit our <a href=\"/ip-testing-laboratory-india\">IP Testing Laboratory in India</a> page."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/ip-68-upto-5bar-testing/a432f33c1aa3.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does an IP68 Rating Mean?",
+      "paragraphs": [
+        "The IP code uses two characteristic numerals. In IP68, the first digit “6” indicates the dust-tight level of protection. The second digit “8” relates to protection against water and covers continuous or prolonged immersion under conditions specified for the equipment.",
+        "IP68 testing therefore normally combines IP6X dust ingress testing and IPX8 water immersion testing. This differs from IP67, where the water test is based on IPX7 temporary immersion. Manufacturers needing a lower immersion classification can review our <a href=\"/ip-67-waterproof-testing\">IP67 waterproof testing</a> service, while products intended mainly for powerful water-jet exposure may require <a href=\"/ip-66-ingress-protection-testing\">IP66 ingress protection testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Does “IP68 Up to 5 Bar” Mean?",
+      "paragraphs": [
+        "A 5 bar condition is a pressure-based immersion requirement that may be specified for equipment used in demanding underwater or high-pressure environments. IP68 itself does not automatically require testing at 5 bar.",
+        "For IPX8, the test pressure or immersion depth and duration must be established from the applicable product standard, manufacturer specification, purchaser requirement or agreed technical criteria. When a 5 bar condition is specified, the enclosure is exposed to that pressure for the defined duration and then examined against the applicable acceptance criteria.",
+        "For a broader explanation of water and dust ingress methods, see our <a href=\"/ip-testing-procedure\">IP Testing Procedure under IEC 60529</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How IP68 Testing Is Performed",
+      "paragraphs": [
+        "The test programme depends on the product, enclosure design and required IP classification. During the IP6X assessment, the enclosure is evaluated for resistance to dust ingress according to the relevant IEC 60529 conditions. Potential entry paths such as joints, seals, covers, cable entries, glands and enclosure interfaces are considered.",
+        "For the IPX8 assessment, the specimen is immersed or exposed to the specified hydrostatic pressure for the required period. Where testing up to 5 bar is required, suitable pressure equipment is used to apply the specified condition. After exposure, the product is inspected for water ingress and assessed against the acceptance requirements for the equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products That May Require IP68 Testing",
+      "paragraphs": [
+        "IP68 testing can be relevant to electrical and electronic enclosures, outdoor lighting, industrial sensors, surveillance cameras, communication equipment, control units, cable-connected devices, automotive components, pumps, submerged equipment and other products expected to operate in wet, dusty or underwater environments.",
+        "The required rating should be selected according to the real environmental exposure of the product rather than simply choosing the highest IP number. ITC India also provides a wider range of <a href=\"/ip-testing-laboratory-india\">IEC 60529 IP testing services</a> for other ingress classifications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why IP68 Testing Is Important",
+      "paragraphs": [
+        "Water or dust entering an enclosure can contribute to corrosion, insulation deterioration, short circuits, component failure and reduced product reliability. IP68 testing helps manufacturers evaluate enclosure performance before production release, customer approval, certification or market launch.",
+        "Testing can also identify weaknesses in seals, gaskets, cable glands, joints and interfaces so engineers can improve the design before field failures occur. Where a product must also withstand corrosive environments, <a href=\"/salt-testing\">salt spray testing</a> is a separate environmental test and should be specified independently when required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required Before Testing",
+      "paragraphs": [
+        "For an accurate quotation and test programme, provide the product name and model, enclosure dimensions, required IP rating, applicable standard, requested pressure or immersion depth, test duration, operating condition during testing where relevant, and available drawings or specifications.",
+        "If the requirement states “IP68 up to 5 bar,” provide the source of that pressure requirement so the correct condition can be confirmed. Submit the details through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry</a> page."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IP68 always mean 5 bar?",
+      "paragraphs": [
+        "No. IP68 combines IP6X dust protection with IPX8 water protection. The IPX8 pressure, depth and duration depend on the applicable specification. Five bar is a specific test condition, not a universal IP68 requirement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between IP67 and IP68?",
+      "paragraphs": [
+        "IP67 uses IPX7 temporary immersion, while IP68 uses IPX8 conditions for continuous or prolonged immersion as specified for the equipment or application."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India perform dust and water testing for IP68?",
+      "paragraphs": [
+        "IP68 evaluation generally requires the relevant IP6X dust and IPX8 water tests. The final test programme should be confirmed from the applicable standard and product requirement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is salt spray testing included in IP68 testing?",
+      "paragraphs": [
+        "No. IP68 concerns protection against dust and water ingress. Salt spray or corrosion testing is a separate environmental test."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How do I request IP68 testing up to 5 bar?",
+      "paragraphs": [
+        "Send ITC India the product specification, required IP rating, pressure or immersion condition, duration and applicable standard. The laboratory can then review the requirement and define the appropriate test programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/ip-68-upto-5bar-testing/a432f33c1aa3.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/ip-68-upto-5bar-testing/a432f33c1aa3.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

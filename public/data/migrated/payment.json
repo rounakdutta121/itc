@@ -1,0 +1,61 @@
+{
+  "path": "/payment",
+  "slug": "payment",
+  "action": "KEEP",
+  "ok": true,
+  "title": "Payment | ITC India",
+  "h1": "Payment",
+  "description": "Thank you for reading this post, don't forget to subscribe!",
+  "sections": [],
+  "images": [],
+  "hero": "/images/page-heroes/payment.webp",
+  "source": "https://www.itcindia.org/payment/",
+  "note": "0 | empty | NOINDEX (keep live)",
+  "category": "electrical",
+  "heroPortrait": "/images/page-heroes/payment-portrait.webp",
+  "scrapedImages": [],
+  "generatedIntro": "/images/page-sections/payment-s1.webp",
+  "generatedMid": "/images/page-sections/payment-s2.webp",
+  "relatedLinks": [
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/all-about-masks",
+      "label": "All About Masks"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-rodent-test-for-cables",
+      "label": "Anti Rodent Test for Cables"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    }
+  ],
+  "generatedSections": [
+    "/images/page-sections/payment-s1.webp",
+    "/images/page-sections/payment-s2.webp",
+    "/images/page-sections/payment-s3.webp",
+    "/images/page-sections/payment-s4.webp",
+    "/images/page-sections/payment-s5.webp",
+    "/images/page-sections/payment-s6.webp"
+  ]
+}

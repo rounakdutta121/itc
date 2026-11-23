@@ -1,0 +1,334 @@
+{
+  "hero": "/images/page-heroes/iec-60335-2-12-warming-plate-testing-india.webp",
+  "heroPortrait": "/images/page-heroes/iec-60335-2-12-warming-plate-testing-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s1.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s2.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s3.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s4.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s5.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s6.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s7.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s8.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s9.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s10.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s11.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s12.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s13.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s14.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s15.webp",
+    "/images/page-sections/iec-60335-2-12-warming-plate-testing-india-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1027 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-60335-2-12-warming-plate-testing-india",
+  "path": "/iec-60335-2-12-warming-plate-testing-india",
+  "source": "https://www.itcindia.org/iec-60335-2-12-warming-plate-testing-india/",
+  "ok": true,
+  "title": "Safety Testing IEC 60335-2-12 / IS 302-2-12 for warming plates",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Safety testing as per IEC 60335-2-12 and IS 302-2-12 for warming plates and similar appliances at ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides IEC 60335-2-12 testing for electric warming plates, warming trays and similar appliances intended to keep food or vessels warm. The current IEC 60335-2-12:2024, Edition 6.0 specifies particular safety requirements for these appliances and is used together with the applicable requirements of IEC 60335-1.",
+        "The standard covers household and similar warming appliances with rated voltages up to 250 V, including applicable DC-supplied and battery-operated products. Safety testing helps manufacturers identify electrical, thermal, mechanical and fire-related hazards before products are introduced into the market.",
+        "ITC India also provides broader <a href=\"/household\">household equipment testing</a> for domestic and similar electrical appliances."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60335-2-12-warming-plate-testing-india/405a4fa237fe.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60335-2-12?",
+      "paragraphs": [
+        "IEC 60335-2-12 is the product-specific safety standard for electric warming plates, warming trays and similar appliances designed to keep food or vessels warm.",
+        "The 2024 edition applies to household and similar-use appliances, including products that may also be used by laypersons in environments such as shops, light industry and farms when their use remains comparable with household use.",
+        "The standard should be applied together with the relevant general safety requirements of IEC 60335-1. Manufacturers can review ITC India’s <a href=\"/iec-60335-1-safety-testing-india\">IEC 60335-1 safety testing services</a> when planning complete appliance compliance testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Safety Testing",
+      "paragraphs": [
+        "Electrical safety is a central part of warming-plate evaluation because users can come into direct contact with the appliance while it is connected to a power source.",
+        "Depending on the construction and applicable clauses, testing can include assessment of protection against access to live parts, power input and current, leakage current, electric strength, insulation, earthing arrangements, internal wiring and supply connections.",
+        "ITC India’s <a href=\"/electrical-testing\">electrical testing services</a> support safety evaluation of household and other electrical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Heating and Temperature-Rise Testing",
+      "paragraphs": [
+        "A warming plate is intentionally designed to generate heat, but temperatures must remain within safe limits for the appliance’s materials, insulation, electrical components and accessible surfaces.",
+        "Heating tests evaluate the appliance under defined operating conditions while temperatures are monitored at relevant locations. Excessive temperature can damage insulation, deform plastics, reduce component life or create burn and fire hazards.",
+        "The evaluation also helps determine whether thermostats, thermal controls and other temperature-limiting devices operate as intended."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Leakage Current and Electric Strength",
+      "paragraphs": [
+        "Insulation performance must remain adequate during normal use and after relevant conditioning.",
+        "Leakage-current measurements help assess whether current accessible to the user remains within permitted limits. Electric-strength testing evaluates the ability of insulation systems to withstand the required test voltage without electrical breakdown.",
+        "These tests are particularly important for appliances combining heating elements, metallic surfaces, electrical connections and temperature-control components."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Moisture Resistance",
+      "paragraphs": [
+        "Warming plates and trays may be used in kitchens or food-service-like household environments where moisture, spills and cleaning can occur.",
+        "Moisture-resistance evaluation helps determine whether foreseeable exposure adversely affects electrical insulation or creates an electric-shock hazard. After the required moisture conditioning, appropriate electrical safety checks can be performed to verify continued protection."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Abnormal Operation Testing",
+      "paragraphs": [
+        "Safe operation must also be considered when foreseeable abnormal conditions occur.",
+        "Depending on the appliance design, abnormal-operation testing can evaluate conditions involving temperature-control faults, restricted heat dissipation or other foreseeable misuse specified by the standard.",
+        "The objective is to confirm that an abnormal condition does not result in fire, dangerous temperatures, accessible hazardous live parts or other unacceptable risks.",
+        "Protective devices such as thermal cut-outs should perform their intended safety function where incorporated in the appliance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Stability and Mechanical Strength",
+      "paragraphs": [
+        "Warming plates may carry hot dishes, vessels or serving containers. Their construction therefore needs adequate mechanical strength and stability during normal use.",
+        "Testing can assess resistance to mechanical stresses and help identify hazards associated with tipping, damaged enclosures, exposed electrical parts or weakened components.",
+        "Handles, feet, covers, controls and other accessible parts should remain secure under applicable test conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Construction, Components and Internal Wiring",
+      "paragraphs": [
+        "Compliance also depends on the design of the complete appliance rather than only the heating element.",
+        "Evaluation may address component suitability, electrical connections, wiring routes, terminals, protective earthing, creepage distances, clearances and insulation arrangements. Materials exposed to elevated temperatures may also require evaluation for resistance to heat and fire.",
+        "Correct markings and user instructions are important so that installation, operation, cleaning and foreseeable limitations are communicated clearly."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products Covered by IEC 60335-2-12",
+      "paragraphs": [
+        "Products within the scope can include electric warming plates, warming trays and similar appliances intended primarily to maintain the temperature of food or vessels.",
+        "The standard is not intended to cover every professional or commercial food-heating appliance. Products designed exclusively for professional catering, industrial purposes or other specialized applications may fall under different standards.",
+        "Manufacturers of other electrically operated kitchen appliances can also review ITC India’s <a href=\"/electrical-kitchen-machine-testing\">IEC 60335-2-14 electrical kitchen machine testing</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for Testing",
+      "paragraphs": [
+        "For an accurate testing quotation, provide the product model, rated voltage and power, supply type, appliance class, heating-element details, temperature-control system, construction drawings, circuit diagrams, critical components, user manual and applicable standard edition.",
+        "If certification or a customer specification requires additional tests, those requirements should also be provided before the test programme is finalized."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports manufacturers with electrical and household appliance safety testing covering electrical, thermal and mechanical hazards. Reviewing the appliance construction before testing helps identify the required sample configuration, documentation and safety tests."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request IEC 60335-2-12 Testing",
+      "paragraphs": [
+        "For IEC 60335-2-12:2024 warming plate safety testing, <a href=\"/contact-us/inquiry\">send your testing requirement to ITC India</a> with the product specifications, electrical ratings, drawings and required compliance standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60335-2-12?",
+      "paragraphs": [
+        "IEC 60335-2-12 is the international safety standard containing particular requirements for electric warming plates, warming trays and similar appliances intended to keep food or vessels warm."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the latest edition of IEC 60335-2-12?",
+      "paragraphs": [
+        "The current edition is IEC 60335-2-12:2024, Edition 6.0, published in August 2024."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60335-1 also required?",
+      "paragraphs": [
+        "Yes. IEC 60335-2-12 contains product-specific requirements and is used together with the applicable general safety requirements of IEC 60335-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests are important for warming plates?",
+      "paragraphs": [
+        "Typical safety evaluations include heating, leakage current, electric strength, moisture resistance, abnormal operation, mechanical strength, construction, wiring and resistance to heat and fire."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60335-2-12 cover commercial catering equipment?",
+      "paragraphs": [
+        "Not all commercial equipment is covered. Appliances intended exclusively for professional commercial catering or industrial applications may require different product-specific standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60335-2-12-warming-plate-testing-india/405a4fa237fe.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60335-2-12-warming-plate-testing-india/405a4fa237fe.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

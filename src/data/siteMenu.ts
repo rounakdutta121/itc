@@ -37,7 +37,7 @@ export const siteNav: NavItem[] = [
     "children": [
       {
         "label": "Electrical",
-        "href": "https://www.itcindia.org/electrical-testing/",
+        "href": "/electrical-testing",
         "children": [
           {
             "label": "Household Appliances",
@@ -45,11 +45,11 @@ export const siteNav: NavItem[] = [
             "children": [
               {
                 "label": "IEC 60335-1 Safety Testing for Household Appliances in India",
-                "href": "https://www.itcindia.org/iec-60335-1-safety-testing-india/"
+                "href": "/iec-60335-1-safety-testing-india"
               },
               {
                 "label": "IEC 60335-2-3 Electric Iron Safety Testing in India",
-                "href": "https://www.itcindia.org/iec-60335-2-3-safety-testing-india/"
+                "href": "/iec-60335-2-3-safety-testing-india"
               },
               {
                 "label": "IEC 60335-2-3/IS 302-2-3 ELECTRIC IRON TESTING",
@@ -57,11 +57,11 @@ export const siteNav: NavItem[] = [
               },
               {
                 "label": "IEC 60335-2-5 the safety of electric dishwashers for household",
-                "href": "https://www.itcindia.org/iec-60335-2-5-the-safety-of-electric-dishwashers-for-household/"
+                "href": "/iec-60335-2-5-the-safety-of-electric-dishwashers-for-household"
               },
               {
                 "label": "IEC 60335-2-7 Washing Machine Safety Testing in India",
-                "href": "https://www.itcindia.org/washing-machine-safety-testing/"
+                "href": "/washing-machine-safety-testing"
               },
               {
                 "label": "IEC 60335-2-7 DOMESTIC WASHING MACHINE TESTING",
@@ -69,23 +69,23 @@ export const siteNav: NavItem[] = [
               },
               {
                 "label": "IEC 60335-2-8 Electric Shaver Safety Testing in India",
-                "href": "https://www.itcindia.org/electric-shaver-safety-testing/"
+                "href": "/electric-shaver-safety-testing"
               },
               {
                 "label": "IEC 60335-2-9 Electrical Cooking Appliances Testing",
-                "href": "https://www.itcindia.org/iec-60335-2-9-electrical-cooking-appliances-testing/"
+                "href": "/iec-60335-2-9-electrical-cooking-appliances-testing"
               },
               {
                 "label": "IEC 60335-2-12 Safety Testing for Electric Warming Plates",
-                "href": "https://www.itcindia.org/iec-60335-2-12-warming-plate-testing-india/"
+                "href": "/iec-60335-2-12-warming-plate-testing-india"
               },
               {
                 "label": "IEC 60335-2-14 Electrical Kitchen Machine Safety Testing",
-                "href": "https://www.itcindia.org/electrical-kitchen-machine-testing/"
+                "href": "/electrical-kitchen-machine-testing"
               },
               {
                 "label": "IEC 60335-2-23 Hair Care Appliance Testing India | ITC India",
-                "href": "https://www.itcindia.org/iec-60335-2-23-testing/"
+                "href": "/iec-60335-2-23-testing"
               },
               {
                 "label": "IEC 60335-2-24 Requirements for Refrigerators, Freezers & Ice Makers",
@@ -93,95 +93,95 @@ export const siteNav: NavItem[] = [
               },
               {
                 "label": "IEC 60335-2-24 Testing for Refrigerators in India | ITC India",
-                "href": "https://www.itcindia.org/iec-60335-2-24-safety-testing-india/"
+                "href": "/iec-60335-2-24-safety-testing-india"
               },
               {
                 "label": "IS 7872 Testing-Deep Freezers",
-                "href": "https://www.itcindia.org/is-7872-testing-deep-freezers/"
+                "href": "/is-7872-testing-deep-freezers"
               },
               {
                 "label": "IEC 60335-11 Particular requirements for tumble dryers",
-                "href": "https://www.itcindia.org/iec-60335-11-particular-requirements-for-tumble-dryers/"
+                "href": "/iec-60335-11-particular-requirements-for-tumble-dryers"
               },
               {
                 "label": "SAFETY STANDARD AS PER IEC 60335-8",
-                "href": "https://www.itcindia.org/safety-standard-as-per-iec-60335-8/"
+                "href": "/safety-standard-as-per-iec-60335-8"
               },
               {
                 "label": "IEC 60335-2-76 SAFETY OF ELECTRIC FENCE ENERGIZERS TESTING",
-                "href": "https://www.itcindia.org/iec-60335-2-76-safety-of-electric-fence-energizers-testing/"
+                "href": "/iec-60335-2-76-safety-of-electric-fence-energizers-testing"
               },
               {
                 "label": "IEC 60335-2-89 COMMERCIAL REFRIGERATING APPLIANCES AND ICE-MAKERS TESTING",
-                "href": "https://www.itcindia.org/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing/"
+                "href": "/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing"
               }
             ]
           },
           {
             "label": "AC DC Rectifier testing",
-            "href": "https://www.itcindia.org/ac-dc-rectifier-testing/"
+            "href": "/ac-dc-rectifier-testing"
           },
           {
             "label": "ATEX Testing",
-            "href": "https://www.itcindia.org/atex-testing-certification/"
+            "href": "/atex-testing-certification"
           },
           {
             "label": "Cable Gland Testing",
-            "href": "https://www.itcindia.org/cable-gland-testing/",
+            "href": "/cable-gland-testing",
             "children": [
               {
                 "label": "Resistance to salt and sulfur dioxide-laden atmospheres as per BS EN 50262.",
-                "href": "https://www.itcindia.org/resistance-to-salt-and-sulfur-dioxide-laden-atmospheres-as-per-bs-en-50262/"
+                "href": "/resistance-to-salt-and-sulfur-dioxide-laden-atmospheres-as-per-bs-en-50262"
               },
               {
                 "label": "IEC 62444 For cable Gland testing",
-                "href": "https://www.itcindia.org/iec-62444-for-cable-gland-testing/"
+                "href": "/iec-62444-for-cable-gland-testing"
               }
             ]
           },
           {
             "label": "Cable Tray Testing",
-            "href": "https://www.itcindia.org/cable-tray-testing-laboratory/"
+            "href": "/cable-tray-testing-laboratory"
           },
           {
             "label": "Flexible Conduit Testing IEC 61386-23",
-            "href": "https://www.itcindia.org/conduit-testing-iec-61386-23/"
+            "href": "/conduit-testing-iec-61386-23"
           },
           {
             "label": "ASTM D999 – Vibration testing of shipping containers",
-            "href": "https://www.itcindia.org/astm-d999-vibration-testing-of-shipping-containers/"
+            "href": "/astm-d999-vibration-testing-of-shipping-containers"
           },
           {
             "label": "Earthing Enhancing Testing According to IEC 62561-7:2018",
-            "href": "https://www.itcindia.org/earthing-enhancing-testing-according-to-iec-62561-72018/"
+            "href": "/earthing-enhancing-testing-according-to-iec-62561-72018"
           },
           {
             "label": "Motor torque and speed testing",
-            "href": "https://www.itcindia.org/motor-torque-and-speed-testing/"
+            "href": "/motor-torque-and-speed-testing"
           },
           {
             "label": "Endurance Test as per IEC 60947-1",
-            "href": "https://www.itcindia.org/endurance-test-as-per-iec-60947-1/"
+            "href": "/endurance-test-as-per-iec-60947-1"
           },
           {
             "label": "PIR(passive infrared sensor) Testing",
-            "href": "https://www.itcindia.org/pirpassive-infrared-sensor-testing/"
+            "href": "/pirpassive-infrared-sensor-testing"
           },
           {
             "label": "High voltage & short circuit test facility for Mcc and fuse",
-            "href": "https://www.itcindia.org/high-voltage-short-circuit-test-facility-for-mcc-and-fuse/"
+            "href": "/high-voltage-short-circuit-test-facility-for-mcc-and-fuse"
           },
           {
             "label": "IEC 62208 testing empty enclosures for low-voltage switchgear and controlgear assemblies",
-            "href": "https://www.itcindia.org/iec-62208-testing-empty-enclosures-for-low-voltage-switchgear-and-controlgear-assemblies/"
+            "href": "/iec-62208-testing-empty-enclosures-for-low-voltage-switchgear-and-controlgear-assemblies"
           },
           {
             "label": "GRP Electrical Enclosure testing",
-            "href": "https://www.itcindia.org/grp-electrical-enclosure-testing/"
+            "href": "/grp-electrical-enclosure-testing"
           },
           {
             "label": "Infrared Heater testing",
-            "href": "https://www.itcindia.org/infrared-heater-testing/"
+            "href": "/infrared-heater-testing"
           },
           {
             "label": "G-Mark Certification",
@@ -189,33 +189,33 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "Machinery Equipment Testing",
-            "href": "https://www.itcindia.org/machinery-equipment-testing-2/"
+            "href": "/machinery-equipment-testing-2"
           },
           {
             "label": "Battery Testing",
-            "href": "https://www.itcindia.org/battery-testing/",
+            "href": "/battery-testing",
             "children": [
               {
                 "label": "Sodium ion cell/battery testing",
-                "href": "https://www.itcindia.org/sodium-ion-cell-battery-testing/"
+                "href": "/sodium-ion-cell-battery-testing"
               },
               {
                 "label": "UN 38.3 lithium-ion batteries transpotation testing",
-                "href": "https://www.itcindia.org/un-38-3-lithium-ion-batteries-transpotation-testing/"
+                "href": "/un-38-3-lithium-ion-batteries-transpotation-testing"
               }
             ]
           },
           {
             "label": "Photovoltatc Modules Testing",
-            "href": "https://www.itcindia.org/photovoltatc-pv-modules-testing/"
+            "href": "/photovoltatc-pv-modules-testing"
           },
           {
             "label": "Testing for Lighting products",
-            "href": "https://www.itcindia.org/electrical-safety-testing-for-lighting-products/"
+            "href": "/electrical-safety-testing-for-lighting-products"
           },
           {
             "label": "Solar Fence Energizer Testing",
-            "href": "https://www.itcindia.org/solar-fence-energizer-testing/"
+            "href": "/solar-fence-energizer-testing"
           },
           {
             "label": "Fire Resistance Testing",
@@ -223,7 +223,7 @@ export const siteNav: NavItem[] = [
             "children": [
               {
                 "label": "Flame Testing on Cable: IEC 60332-1-2 & IEC 60332-1-1",
-                "href": "https://www.itcindia.org/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/"
+                "href": "/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1"
               },
               {
                 "label": "Flammability Test on Conveyor Belt EN ISO 340",
@@ -239,85 +239,85 @@ export const siteNav: NavItem[] = [
         "children": [
           {
             "label": "IEC 60601-1 Testing for Medical Electrical Equipment",
-            "href": "https://www.itcindia.org/iec-60601-1-testing/"
+            "href": "/iec-60601-1-testing"
           },
           {
             "label": "IEC 60601 Testing",
-            "href": "https://www.itcindia.org/iec-60601-testing/"
+            "href": "/iec-60601-testing"
           },
           {
             "label": "Infrared Optometer Calibration TESTING",
-            "href": "https://www.itcindia.org/infrared-optometer-calibration-testing/"
+            "href": "/infrared-optometer-calibration-testing"
           },
           {
             "label": "IEC 60601-2-19:2020 Medical electrical equipment Particular requirements for the basic safety and essential performance of infant incubators",
-            "href": "https://www.itcindia.org/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators/"
+            "href": "/iec-60601-2-192020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-incubators"
           },
           {
             "label": "IEC 60601-2-21:2020 Medical electrical equipment Particular requirements for the basic safety and essential performance of infant radiant warmers",
-            "href": "https://www.itcindia.org/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers/"
+            "href": "/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers"
           },
           {
             "label": "IEC 60601-2-27 Particular requirements for the basic safety and essential performance of electro cardiographic monitoring",
-            "href": "https://www.itcindia.org/iec-60601-2-27-testing/"
+            "href": "/iec-60601-2-27-testing"
           },
           {
             "label": "ISO 80601-2-61:2017 Particular requirements for basic safety and essential performance of pulse oximeter equipments",
-            "href": "https://www.itcindia.org/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments/"
+            "href": "/iso-80601-2-612017-particular-requirements-for-basic-safety-and-essential-performance-of-pulse-oximeter-equipments"
           },
           {
             "label": "Blood Pressure Monitor Testing",
-            "href": "https://www.itcindia.org/blood-pressure-monitor-testing/"
+            "href": "/blood-pressure-monitor-testing"
           },
           {
             "label": "Endoscopic Equipment Testing",
-            "href": "https://www.itcindia.org/endoscopic-equipment-testing/"
+            "href": "/endoscopic-equipment-testing"
           },
           {
             "label": "Ear Probe for Audiometry",
-            "href": "https://www.itcindia.org/ear-probe-for-audiometry/"
+            "href": "/ear-probe-for-audiometry"
           },
           {
             "label": "IEC 80601-2-12 Certification for Critical Care Ventilators",
-            "href": "https://www.itcindia.org/iec-80601-2-12-certification-for-critical-care-ventilators/"
+            "href": "/iec-80601-2-12-certification-for-critical-care-ventilators"
           },
           {
             "label": "IEC 60601-2-10 Testing Lab for TENS & EMS | ITC India",
-            "href": "https://www.itcindia.org/iec-60601-2-10/"
+            "href": "/iec-60601-2-10"
           },
           {
             "label": "IEC 80601-2-49 Testing for Multifunction Patient Monitoring Equipment",
-            "href": "https://www.itcindia.org/iec-80601-2-49-testing/"
+            "href": "/iec-80601-2-49-testing"
           },
           {
             "label": "ISO 80601-2-74 Respiratory Humidifier Testing | ITC India",
-            "href": "https://www.itcindia.org/iec-80601-2-74/"
+            "href": "/iec-80601-2-74"
           },
           {
             "label": "IEC 60601-2-2 Testing Services for High-Frequency Surgical Equipment Manufacturers",
-            "href": "https://www.itcindia.org/iec-60601-2-2-testing-services/"
+            "href": "/iec-60601-2-2-testing-services"
           },
           {
             "label": "IEC 60601-2-20 Testing Lab | Infant Transport Incubators",
-            "href": "https://www.itcindia.org/iec-60601-2-20-testing/"
+            "href": "/iec-60601-2-20-testing"
           },
           {
             "label": "IEC 60601-2-5 Testing for Ultrasonic Physiotherapy Equipment",
-            "href": "https://www.itcindia.org/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants/"
+            "href": "/iec-60601-2-5-compliance-guide-for-manufacturers-and-regulatory-consultants"
           }
         ]
       },
       {
         "label": "Electronic",
-        "href": "https://www.itcindia.org/electronic-testing/",
+        "href": "/electronic-testing",
         "children": [
           {
             "label": "IEC 62471 Photobiological safety of lamps and lamp systems",
-            "href": "https://www.itcindia.org/iec-62471-photobiological-safety-of-lamps-and-lamp-systems/"
+            "href": "/iec-62471-photobiological-safety-of-lamps-and-lamp-systems"
           },
           {
             "label": "EMC/EMI Testing",
-            "href": "https://www.itcindia.org/emc-emi-testing/"
+            "href": "/emc-emi-testing"
           },
           {
             "label": "Household Equipment Testing",
@@ -329,7 +329,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "EN 62304:2006+A1/2015",
-            "href": "https://www.itcindia.org/en-62304-2006-a1-2015/"
+            "href": "/en-62304-2006-a1-2015"
           },
           {
             "label": "Road Vertical & Variable Message Traffic signs",
@@ -337,35 +337,35 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "IT Testing",
-            "href": "https://www.itcindia.org/it-equipments-testing/"
+            "href": "/it-equipments-testing"
           },
           {
             "label": "Power Supply Equipment Testing",
-            "href": "https://www.itcindia.org/power-supply-equipment-testing/"
+            "href": "/power-supply-equipment-testing"
           },
           {
             "label": "UPS Testing",
-            "href": "https://www.itcindia.org/ups-testing/"
+            "href": "/ups-testing"
           },
           {
             "label": "Electronic Push Button Telephone Testing",
-            "href": "https://www.itcindia.org/electronic-push-button-telephone-testing/"
+            "href": "/electronic-push-button-telephone-testing"
           },
           {
             "label": "Non – Destructive Testing (NDT)",
-            "href": "https://www.itcindia.org/non-destructive-testing-ndt/"
+            "href": "/non-destructive-testing-ndt"
           },
           {
             "label": "Power Inverter Testing",
-            "href": "https://www.itcindia.org/power-inverter-testing/"
+            "href": "/power-inverter-testing"
           },
           {
             "label": "Antenna and Convertor Testing",
-            "href": "https://www.itcindia.org/antenna-and-convertor-testing/"
+            "href": "/antenna-and-convertor-testing"
           },
           {
             "label": "Laptop and Monitor Testing",
-            "href": "https://www.itcindia.org/laptop-and-monitor-testing/"
+            "href": "/laptop-and-monitor-testing"
           },
           {
             "label": "Audio Video & IT Equipment",
@@ -373,79 +373,79 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "IEC 62368-1:2023 Testing",
-            "href": "https://www.itcindia.org/iec-62368-1-2023-testing/"
+            "href": "/iec-62368-1-2023-testing"
           },
           {
             "label": "ISO 10218 Safety Testing for Industrial Robots & Robot Cells",
-            "href": "https://www.itcindia.org/iso-10218-robotics-safety-testing/"
+            "href": "/iso-10218-robotics-safety-testing"
           }
         ]
       },
       {
         "label": "EMC",
-        "href": "https://www.itcindia.org/emc-emi-testing/",
+        "href": "/emc-emi-testing",
         "children": [
           {
             "label": "EMC/EMI Testing as per CISPR 11:2019",
-            "href": "https://www.itcindia.org/industrial-scientific-medical-equipment-emc-emi-testing-as-per-cispr-112019/"
+            "href": "/industrial-scientific-medical-equipment-emc-emi-testing-as-per-cispr-112019"
           },
           {
             "label": "EMC/EMI Testing as per IEC 61547:2020 & CISPR 15:2018",
-            "href": "https://www.itcindia.org/lighting-equipment-emc-emi-testing-as-per-iec-615472020-cispr-152018/"
+            "href": "/lighting-equipment-emc-emi-testing-as-per-iec-615472020-cispr-152018"
           },
           {
             "label": "IEC 60601-1-2 EMC Testing for Medical Electrical Equipment",
-            "href": "https://www.itcindia.org/iec-60601-1-2-emc-testing/"
+            "href": "/iec-60601-1-2-emc-testing"
           },
           {
             "label": "IEC 61000-6-1 EMC Immunity Testing in India",
-            "href": "https://www.itcindia.org/iec-61000-6-1-emc-testing/"
+            "href": "/iec-61000-6-1-emc-testing"
           },
           {
             "label": "IEC 61000-6-3 EMC Emissions Testing for Residential Equipment",
-            "href": "https://www.itcindia.org/iec-61000-6-3-emc-testing/"
+            "href": "/iec-61000-6-3-emc-testing"
           },
           {
             "label": "EN 301 489-1 EMC Testing for Radio Equipment | ITC India",
-            "href": "https://www.itcindia.org/en-301-489-1-testing/"
+            "href": "/en-301-489-1-testing"
           },
           {
             "label": "EN 301 489-19 V2.2.1 Testing – EMC for GNSS Receivers",
-            "href": "https://www.itcindia.org/en-301-489-19-testing/"
+            "href": "/en-301-489-19-testing"
           },
           {
             "label": "EN 301 489-52 EMC Testing for Cellular & 5G User Equipment",
-            "href": "https://www.itcindia.org/en-301-489-52-v1-2-1-testing/"
+            "href": "/en-301-489-52-v1-2-1-testing"
           }
         ]
       },
       {
         "label": "Photometry",
-        "href": "https://www.itcindia.org/photometry-testing/",
+        "href": "/photometry-testing",
         "children": [
           {
             "label": "Luminaries/LED Product Testing",
-            "href": "https://www.itcindia.org/luminaries-led-product-testing/"
+            "href": "/luminaries-led-product-testing"
           },
           {
             "label": "LM-79 Testing Lab in India",
-            "href": "https://www.itcindia.org/lm-79-testing/"
+            "href": "/lm-79-testing"
           },
           {
             "label": "LM 80 Testing",
-            "href": "https://www.itcindia.org/lm-80-testing/"
+            "href": "/lm-80-testing"
           },
           {
             "label": "Optical And Electrical Measurements of Solid-State Lighting",
-            "href": "https://www.itcindia.org/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/"
+            "href": "/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79"
           },
           {
             "label": "Comparative Evaluation between LM-79-19 and LM-79-08",
-            "href": "https://www.itcindia.org/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/"
+            "href": "/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08"
           },
           {
             "label": "RDSO Photometry Testing for Railway LED Luminaires",
-            "href": "https://www.itcindia.org/rdso-photometry-testing-led-luminaries/"
+            "href": "/rdso-photometry-testing-led-luminaries"
           }
         ]
       },
@@ -455,89 +455,89 @@ export const siteNav: NavItem[] = [
         "children": [
           {
             "label": "CALIBRATION OF TEMPERATURE SENSOR",
-            "href": "https://www.itcindia.org/calibration-of-temperature-sensor/"
+            "href": "/calibration-of-temperature-sensor"
           },
           {
             "label": "Particle Counter Calibration",
-            "href": "https://www.itcindia.org/particle-counter-calibration/"
+            "href": "/particle-counter-calibration"
           },
           {
             "label": "CALIBRATION OF PROFILE PROJECTORS",
-            "href": "https://www.itcindia.org/calibration-of-profile-projectors/"
+            "href": "/calibration-of-profile-projectors"
           },
           {
             "label": "CALIBRATION OF HUMIDITY SENSOR",
-            "href": "https://www.itcindia.org/calibration-of-humidity-sensor/"
+            "href": "/calibration-of-humidity-sensor"
           },
           {
             "label": "calibration of humidity chamber",
-            "href": "https://www.itcindia.org/calibration-of-humidity-chamber/"
+            "href": "/calibration-of-humidity-chamber"
           },
           {
             "label": "calibration of volumetric glassware",
-            "href": "https://www.itcindia.org/calibration-of-volumetric-glassware/"
+            "href": "/calibration-of-volumetric-glassware"
           },
           {
             "label": "CALIBRATION OF PRESSURE GAUGE",
-            "href": "https://www.itcindia.org/calibration-of-pressure-gauge/"
+            "href": "/calibration-of-pressure-gauge"
           },
           {
             "label": "SMP 10 calibration pyranometer",
-            "href": "https://www.itcindia.org/smp-10-calibration-pyranometer/"
+            "href": "/smp-10-calibration-pyranometer"
           },
           {
             "label": "Energy meter Calibration testing – NABL",
-            "href": "https://www.itcindia.org/energy-meter-calibration-testing-nabl/"
+            "href": "/energy-meter-calibration-testing-nabl"
           },
           {
             "label": "CM4 calibration as per ISO 9060",
-            "href": "https://www.itcindia.org/cm4-calibration-as-per-iso-9060/"
+            "href": "/cm4-calibration-as-per-iso-9060"
           },
           {
             "label": "Calibration for Impulse Measuring System",
-            "href": "https://www.itcindia.org/calibration-for-impulse-measuring-system/"
+            "href": "/calibration-for-impulse-measuring-system"
           },
           {
             "label": "Calibration of Pyranometer",
-            "href": "https://www.itcindia.org/calibration-of-pyranometer/"
+            "href": "/calibration-of-pyranometer"
           },
           {
             "label": "Calibration of Surge Generators",
-            "href": "https://www.itcindia.org/calibration-of-surge-generator/"
+            "href": "/calibration-of-surge-generator"
           },
           {
             "label": "Calibration of Electrical Fast Transients",
-            "href": "https://www.itcindia.org/calibration-of-electrical-fast-transients/"
+            "href": "/calibration-of-electrical-fast-transients"
           },
           {
             "label": "Calibration of Voltage Dips and Short Interruption",
-            "href": "https://www.itcindia.org/calibration-of-voltage-dips-and-short-interruption/"
+            "href": "/calibration-of-voltage-dips-and-short-interruption"
           }
         ]
       },
       {
         "label": "Environmental/IP",
-        "href": "https://www.itcindia.org/environmental-testing-services/",
+        "href": "/environmental-testing-services",
         "children": [
           {
             "label": "Biodegradability",
-            "href": "https://www.itcindia.org/biodegradability/"
+            "href": "/biodegradability"
           },
           {
             "label": "ROHS 3 Testing – NABL Report",
-            "href": "https://www.itcindia.org/rohs-3-testing-nabl-report/"
+            "href": "/rohs-3-testing-nabl-report"
           },
           {
             "label": "HAST Test (Highly Accelerated Stress Test)",
-            "href": "https://www.itcindia.org/hast-test-highly-accelerated-stress-test/"
+            "href": "/hast-test-highly-accelerated-stress-test"
           },
           {
             "label": "Biodegradable Standard",
-            "href": "https://www.itcindia.org/biodegradable-standard/"
+            "href": "/biodegradable-standard"
           },
           {
             "label": "ISO 5412:2022 compostable plastic shopping bags Testing",
-            "href": "https://www.itcindia.org/iso-54122022-compostable-plastic-shopping-bags-testing/"
+            "href": "/iso-54122022-compostable-plastic-shopping-bags-testing"
           },
           {
             "label": "Vibration Testing Lab",
@@ -545,67 +545,67 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "IEC 60068- Environmental Conditioning",
-            "href": "https://www.itcindia.org/iec-60068-environmental-conditioning/"
+            "href": "/iec-60068-environmental-conditioning"
           },
           {
             "label": "UL 50E Testing Services for Electrical Enclosures | ITC India",
-            "href": "https://www.itcindia.org/ul-50e-testing/"
+            "href": "/ul-50e-testing"
           },
           {
             "label": "Solar Radiation Testing as per MIL-STD-810H and IEC 60068",
-            "href": "https://www.itcindia.org/solar-radiation-testing/"
+            "href": "/solar-radiation-testing"
           },
           {
             "label": "IP Testing",
-            "href": "https://www.itcindia.org/ip-testing-laboratory-india/",
+            "href": "/ip-testing-laboratory-india",
             "children": [
               {
                 "label": "IP 66-Ingress protection Testing",
-                "href": "https://www.itcindia.org/ip-66-ingress-protection-testing/"
+                "href": "/ip-66-ingress-protection-testing"
               },
               {
                 "label": "IP68 Testing Up to 5 Bar | IEC 60529 Lab | ITC India",
-                "href": "https://www.itcindia.org/ip-68-upto-5bar-testing/"
+                "href": "/ip-68-upto-5bar-testing"
               },
               {
                 "label": "IP41 Protection Rating – Testing Guide",
-                "href": "https://www.itcindia.org/ip41-protection-rating/"
+                "href": "/ip41-protection-rating"
               },
               {
                 "label": "IP42 Protection Rating & IEC 60529 Testing | ITC India",
-                "href": "https://www.itcindia.org/ip42-protection-rating-testing/"
+                "href": "/ip42-protection-rating-testing"
               },
               {
                 "label": "IP55 Rating Testing Lab in India | IEC 60529 | ITC India",
-                "href": "https://www.itcindia.org/ip55-protection-rating-testing/"
+                "href": "/ip55-protection-rating-testing"
               },
               {
                 "label": "IP69K Testing Lab in India | ISO 20653 | ITC India",
-                "href": "https://www.itcindia.org/ip69k-protection-rating-testing/"
+                "href": "/ip69k-protection-rating-testing"
               },
               {
                 "label": "Rain Test Services in India | Water Ingress Lab | ITC India",
-                "href": "https://www.itcindia.org/rain-test-services-india/"
+                "href": "/rain-test-services-india"
               },
               {
                 "label": "IP56 Testing Lab in India | IEC 60529 | ITC India",
-                "href": "https://www.itcindia.org/ip56-protection-rating-testing/"
+                "href": "/ip56-protection-rating-testing"
               },
               {
                 "label": "IEC 60034-5 – Electrical Machines Safety & Protection Standard",
-                "href": "https://www.itcindia.org/iec-60034-5-electrical-machines/"
+                "href": "/iec-60034-5-electrical-machines"
               },
               {
                 "label": "Submerged Motor IP Testing",
-                "href": "https://www.itcindia.org/submerged-motor-ip-testing/"
+                "href": "/submerged-motor-ip-testing"
               },
               {
                 "label": "Camera IP Testing",
-                "href": "https://www.itcindia.org/camera-ip-testing/"
+                "href": "/camera-ip-testing"
               },
               {
                 "label": "IP 67 waterproof testing",
-                "href": "https://www.itcindia.org/ip-67-waterproof-testing/"
+                "href": "/ip-67-waterproof-testing"
               }
             ]
           },
@@ -627,15 +627,15 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "JSS 0256-01 Environmental Testing for Missile Systems",
-            "href": "https://www.itcindia.org/jss-0256-01-testing/"
+            "href": "/jss-0256-01-testing"
           },
           {
             "label": "ISO 20653 IP Testing for Automotive Electrical Equipment",
-            "href": "https://www.itcindia.org/iso-20653-ip-testing/"
+            "href": "/iso-20653-ip-testing"
           },
           {
             "label": "IEC 60571 Testing Services for Railway Electronic Equipment in India",
-            "href": "https://www.itcindia.org/iec-60571-testing-services-india/"
+            "href": "/iec-60571-testing-services-india"
           },
           {
             "label": "RDSO TL 0091 Testing for Railway LED Luminaires in India",
@@ -643,7 +643,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "RDSO Environmental Testing for Railway LED Luminaires",
-            "href": "https://www.itcindia.org/rdso-environmental-testing-for-led-based-luminaries/"
+            "href": "/rdso-environmental-testing-for-led-based-luminaries"
           },
           {
             "label": "MIL-STD-810H Vibration & Shock Testing Laboratory in India",
@@ -659,43 +659,43 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "Recyclability Test",
-            "href": "https://www.itcindia.org/recyclability-test/"
+            "href": "/recyclability-test"
           },
           {
             "label": "RoHS Testing",
-            "href": "https://www.itcindia.org/rohs-testing/"
+            "href": "/rohs-testing"
           }
         ]
       },
       {
         "label": "Laboratory",
-        "href": "https://www.itcindia.org/chemical-testing-and-analysis/",
+        "href": "/chemical-testing-and-analysis",
         "children": [
           {
             "label": "IEC 61010-1 Safety Testing for Laboratory & Measuring Equipment",
-            "href": "https://www.itcindia.org/iec-61010-1-testing/"
+            "href": "/iec-61010-1-testing"
           },
           {
             "label": "IEC 61010-2-010 Testing Laboratory in India | ITC India",
-            "href": "https://www.itcindia.org/iec-61010-2-010-testing/"
+            "href": "/iec-61010-2-010-testing"
           },
           {
             "label": "IEC 61010-2-011 Testing for Laboratory Refrigerating Equipment",
-            "href": "https://www.itcindia.org/iec-61010-2-011-testing/"
+            "href": "/iec-61010-2-011-testing"
           },
           {
             "label": "IEC 61010-2-051 Testing for Laboratory Mixing & Stirring Equipment",
-            "href": "https://www.itcindia.org/iec-61010-2-051-testing/"
+            "href": "/iec-61010-2-051-testing"
           },
           {
             "label": "IEC 61010-2-101 Testing for In Vitro Diagnostic (IVD) Equipment",
-            "href": "https://www.itcindia.org/iec-61010-2-101-testing-services/"
+            "href": "/iec-61010-2-101-testing-services"
           }
         ]
       },
       {
         "label": "Mechanical/Chemical",
-        "href": "https://www.itcindia.org/mechanical-testing/",
+        "href": "/mechanical-testing",
         "children": [
           {
             "label": "PPE",
@@ -703,35 +703,35 @@ export const siteNav: NavItem[] = [
             "children": [
               {
                 "label": "N95 / EN 149 Face Mask Testing Lab",
-                "href": "https://www.itcindia.org/face-mask-testing-lab/"
+                "href": "/face-mask-testing-lab"
               }
             ]
           },
           {
             "label": "Crash Test as per IEC 61010-1",
-            "href": "https://www.itcindia.org/crash-test-as-per-iec-61010-1/"
+            "href": "/crash-test-as-per-iec-61010-1"
           },
           {
             "label": "Geometrical Accuracy Test as per IS 14877",
-            "href": "https://www.itcindia.org/geometrical-accuracy-test-as-per-is-14877/"
+            "href": "/geometrical-accuracy-test-as-per-is-14877"
           },
           {
             "label": "ISO 13482- SAFETY REQUIREMENT FOR PERSONAL CARE ROBOTS",
-            "href": "https://www.itcindia.org/iso-13482-safety-requirement-for-personal-care-robots/"
+            "href": "/iso-13482-safety-requirement-for-personal-care-robots"
           },
           {
             "label": "ISO 31101. Services provided by service robots – Safety management systems requirements",
-            "href": "https://www.itcindia.org/iso-31101-services-provided-by-service-robots-safety-management-systems-requirements/"
+            "href": "/iso-31101-services-provided-by-service-robots-safety-management-systems-requirements"
           },
           {
             "label": "ISO 10218-1 INDUSTRIAL ROBOTS",
-            "href": "https://www.itcindia.org/iso-10218-1-industrial-robots/"
+            "href": "/iso-10218-1-industrial-robots"
           }
         ]
       },
       {
         "label": "Packaging",
-        "href": "https://www.itcindia.org/packaging/",
+        "href": "/packaging",
         "children": [
           {
             "label": "ISTA 2A/ 2B/ 2C",
@@ -745,11 +745,11 @@ export const siteNav: NavItem[] = [
       },
       {
         "label": "Information Security",
-        "href": "https://www.itcindia.org/drone-information-security-testing/",
+        "href": "/drone-information-security-testing",
         "children": [
           {
             "label": "Drone Information Security Testing",
-            "href": "https://www.itcindia.org/drone-information-security-testing/"
+            "href": "/drone-information-security-testing"
           },
           {
             "label": "Information Security Division",
@@ -763,7 +763,7 @@ export const siteNav: NavItem[] = [
       },
       {
         "label": "Software",
-        "href": "https://www.itcindia.org/software-testing/",
+        "href": "/software-testing",
         "children": [
           {
             "label": "Bluetooth",
@@ -771,7 +771,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "IEC 62304 medical device software System Testing",
-            "href": "https://www.itcindia.org/iec-62304-medical-device-software-system-testing/"
+            "href": "/iec-62304-medical-device-software-system-testing"
           }
         ]
       }

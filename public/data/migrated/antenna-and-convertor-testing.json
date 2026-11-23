@@ -1,0 +1,186 @@
+{
+  "hero": "/images/page-heroes/antenna-and-convertor-testing.webp",
+  "heroPortrait": "/images/page-heroes/antenna-and-convertor-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/antenna-and-convertor-testing-s1.webp",
+  "generatedMid": "/images/page-sections/antenna-and-convertor-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/antenna-and-convertor-testing-s1.webp",
+    "/images/page-sections/antenna-and-convertor-testing-s2.webp",
+    "/images/page-sections/antenna-and-convertor-testing-s3.webp",
+    "/images/page-sections/antenna-and-convertor-testing-s4.webp",
+    "/images/page-sections/antenna-and-convertor-testing-s5.webp",
+    "/images/page-sections/antenna-and-convertor-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "386 | few links | KEEP",
+  "slug": "antenna-and-convertor-testing",
+  "path": "/antenna-and-convertor-testing",
+  "source": "https://www.itcindia.org/antenna-and-convertor-testing/",
+  "ok": true,
+  "title": "Antenna and Convertor Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Television antennas are manufactured in two different types: \"indoor\" antennas, and \"outdoor\" antennas. Main Tests: Power Interface, Heating..",
+  "sections": [
+    {
+      "heading": "ANALOG AND DIGITAL ANTENNA EQUIPMENTS AND CONVERTORS",
+      "paragraphs": [
+        "A television antenna (TV aerial) is an antenna specifically designed for use with a television receiver (TV) to receive over-the-air broadcast television signals from a television station. Television reception is dependent upon the antenna as well as the transmitter. Terrestrial television is broadcast on frequencies from about 47 to 250 MHz in the very high frequency (VHF) band, and 470 to 960 MHz in the ultra high frequency (UHF) band in different countries. Television antennas are manufactured in two different types: “indoor” antennas, to be located on top of or next to the television set, and “outdoor” antennas, mounted on a mast on top of the owner’s house. They can also be mounted in a loft or attic, where the dry conditions and increased elevation are advantageous for reception and antenna longevity. Outdoor antennas are more expensive and difficult to install, but are necessary for adequate reception in fringe areas far from television stations. The most common types of indoor antennas are the dipole and loop antennas, and for outdoor antennas the yagi and for UHF channels the multi-bay reflective array antenna.",
+        "Safety Standards for Antenna and Convertors (IEC 60950-1 and IS 13252 part 1)"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/antenna-and-convertor-testing/059a99bd3052.jpg",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/antenna-and-convertor-testing/2605f2733a1d.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Scope of Standard:",
+      "paragraphs": [
+        "Equipment, including electrical business equipment and associated equipment, with a RATED VOLTAGE not exceeding 600 V.",
+        "This standard is also applicable to such information technology equipment:",
+        "− designed for use as telecommunication terminal equipment and TELECOMMUNICATION NETWORK infrastructure equipment, regardless of the source of power;",
+        "− designed and intended to be connected directly to, or used as infrastructure equipment in, a CABLE DISTRIBUTION SYSTEM, regardless of the source of power;",
+        "− designed to use the AC MAINS SUPPLY as a communication transmission medium (see Clause 6, Note 4 and 7.1, Note 4).",
+        "This standard is also applicable to components and subassemblies intended for incorporation in information technology equipment. It is not expected that such components and subassemblies comply with every aspect of the standard, provided that the complete information technology equipment, incorporating such components and subassemblies, does comply."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Earth Provision",
+      "paragraphs": [],
+      "bullets": [
+        "Stability"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/antenna-and-convertor-testing/059a99bd3052.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/antenna-and-convertor-testing/2605f2733a1d.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/antenna-and-convertor-testing/059a99bd3052.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/antenna-and-convertor-testing/2605f2733a1d.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    },
+    {
+      "href": "/calibration-of-surge-generator",
+      "label": "Calibration of Surge Generators"
+    }
+  ]
+}

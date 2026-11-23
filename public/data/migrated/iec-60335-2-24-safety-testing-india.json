@@ -1,0 +1,284 @@
+{
+  "hero": "/images/page-heroes/iec-60335-2-24-safety-testing-india.webp",
+  "heroPortrait": "/images/page-heroes/iec-60335-2-24-safety-testing-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60335-2-24-safety-testing-india-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60335-2-24-safety-testing-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s1.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s2.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s3.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s4.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s5.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s6.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s7.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s8.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s9.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s10.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s11.webp",
+    "/images/page-sections/iec-60335-2-24-safety-testing-india-s12.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "897 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-60335-2-24-safety-testing-india",
+  "path": "/iec-60335-2-24-safety-testing-india",
+  "source": "https://www.itcindia.org/iec-60335-2-24-safety-testing-india/",
+  "ok": true,
+  "title": "IEC 60335-2-24 Testing for Refrigerators in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60335-2-24 testing in India for refrigerators, freezers and ice makers. Evaluate electrical, mechanical, thermal and fire safety with ITC India support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Refrigerators, freezers, ice makers and similar refrigerating appliances combine electrical systems, compressors, refrigerants, insulation and temperature-control components. Failure in any of these areas may create risks such as electric shock, overheating, fire, mechanical injury or unsafe operation. IEC 60335-2-24 establishes particular safety requirements for refrigerating appliances, ice-cream appliances and ice makers intended for household and similar applications.",
+        "ITC India provides IEC 60335-2-24 testing in India for manufacturers, importers and product developers that need to evaluate refrigerating appliances against applicable safety requirements. Testing under this particular standard is used together with the general requirements of IEC 60335-1. Manufacturers can therefore also review ITC India’s <a href=\"/iec-60335-1-safety-testing-india\">IEC 60335-1 safety testing services</a> and broader <a href=\"/household\">IEC 60335 household appliance testing</a> capabilities when planning a complete compliance program."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60335-2-24-safety-testing-india/0aff1f951410.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does IEC 60335-2-24 Cover?",
+      "paragraphs": [
+        "IEC 60335-2-24 addresses safety hazards associated specifically with refrigerating appliances and related products. Depending on product design and intended use, its scope can include household refrigerators, refrigerator-freezer combinations, food freezers, ice makers, household ice-cream appliances, certain mobile refrigerating appliances and refrigerating appliances used in applications similar to normal household use.",
+        "The standard contains refrigeration-specific requirements in addition to the general electrical, thermal and mechanical safety provisions of IEC 60335-1.",
+        "Manufacturers should identify the correct particular standard before testing. Commercial refrigerating equipment does not automatically fall under IEC 60335-2-24. Depending on the product and intended application, <a href=\"/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing\">IEC 60335-2-89 commercial refrigeration testing</a> may instead be applicable."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Refrigerating Products That Can Be Evaluated",
+      "paragraphs": [
+        "Typical products submitted for IEC 60335-2-24 safety evaluation can include domestic refrigerators, single-door and double-door refrigerators, refrigerator-freezer combinations, chest and upright freezers, household ice makers, ice-cream appliances and other refrigerating equipment falling within the scope of the standard.",
+        "Manufacturers working on a wider range of appliances can also explore ITC India’s <a href=\"/household\">Household Equipment Testing</a> and dedicated <a href=\"/refrigerator-testing\">Refrigerator Testing</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major IEC 60335-2-24 Safety Tests",
+      "paragraphs": [
+        "The exact testing program depends on appliance construction, electrical supply, refrigeration system, components and intended market. Typical safety evaluations include:",
+        "These evaluations help determine whether the appliance provides appropriate protection during normal use as well as relevant abnormal operating conditions. ITC India also provides broader <a href=\"/electrical-testing\">Electrical Testing services</a> where additional electrical safety evaluations are required."
+      ],
+      "bullets": [
+        "Marking and instructions",
+        "Protection against access to live parts",
+        "Power input and current",
+        "Heating and temperature-rise assessment",
+        "Leakage current and electric strength",
+        "Transient overvoltage requirements",
+        "Moisture resistance",
+        "Abnormal operation and foreseeable misuse",
+        "Stability and mechanical hazards",
+        "Mechanical strength",
+        "Construction and internal wiring",
+        "Components and supply connections",
+        "External flexible cords and terminals",
+        "Protective earthing",
+        "Screws and electrical connections",
+        "Clearances, creepage distances and solid insulation",
+        "Resistance to heat and fire",
+        "Resistance to rusting"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60335-1 and IEC 60335-2-24: Why Both Matter",
+      "paragraphs": [
+        "IEC 60335-1 contains general safety requirements for household and similar electrical appliances. IEC 60335-2-24 supplements and modifies those requirements specifically for refrigerating appliances, ice-cream appliances and ice makers.",
+        "A refrigerator should therefore not be evaluated against Part 2-24 in isolation. Applicable requirements from the general standard and the product-specific standard must be considered together.",
+        "For products intended for the Indian market, the applicable Indian Standard and regulatory requirements should also be confirmed for the particular product. BIS references IS 302 (Part 2/Sec 24) for refrigerators, food freezers and ice makers. Depending on the product category and regulatory route, manufacturers of deep freezers may also find ITC India’s <a href=\"/is-7872-testing-deep-freezers\">IS 7872 deep freezer testing</a> information relevant."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India for IEC 60335-2-24 Testing?",
+      "paragraphs": [
+        "ITC India supports manufacturers with product safety evaluation, interpretation of relevant test requirements and identification of non-conformities that may require corrective action before certification or market submission.",
+        "Testing during product development can help identify concerns involving electrical insulation, wiring, protective earthing, temperature rise, component selection, mechanical construction and resistance to heat or fire before they become expensive late-stage design changes.",
+        "For an accurate testing proposal, manufacturers should provide available information such as the product model, rated voltage and frequency, electrical rating, refrigerant details, compressor information, circuit diagram, critical component list, product labels, construction drawings, user manual and intended destination market.",
+        "For IEC 60335-2-24 refrigerator, freezer or ice maker safety testing in India, submit your technical details through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60335-2-24?",
+      "paragraphs": [
+        "IEC 60335-2-24 is the particular safety standard covering refrigerating appliances, ice-cream appliances and ice makers intended for household and similar applications. It is applied together with IEC 60335-1 general safety requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which products require IEC 60335-2-24 testing?",
+      "paragraphs": [
+        "Depending on design and intended use, it can apply to household refrigerators, refrigerator-freezer combinations, food freezers, certain ice makers, household ice-cream appliances and other refrigerating appliances within the standard’s defined scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60335-2-24 cover commercial refrigerators?",
+      "paragraphs": [
+        "Not all commercial refrigeration products fall under IEC 60335-2-24. Commercial refrigerating appliances and commercial ice makers may fall under IEC 60335-2-89, depending on their construction and intended application."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What documents are needed for refrigerator safety testing?",
+      "paragraphs": [
+        "Useful documentation includes product specifications, circuit diagrams, component lists, compressor and refrigerant information, product labels, instruction manuals, electrical ratings and construction drawings."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which edition of IEC 60335-2-24 should manufacturers use?",
+      "paragraphs": [
+        "The required edition can depend on the destination country, certification scheme and applicable regulatory requirements. Manufacturers should confirm the required edition before starting formal testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India help determine the applicable refrigerator safety standard?",
+      "paragraphs": [
+        "Yes. Product type, intended use, destination market, electrical rating and refrigeration configuration can be reviewed first to identify the IEC, Indian or other applicable testing requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60335-2-24-safety-testing-india/0aff1f951410.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60335-2-24-safety-testing-india/0aff1f951410.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

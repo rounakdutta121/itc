@@ -1,0 +1,186 @@
+{
+  "hero": "/images/page-heroes/iec-en-60073.webp",
+  "heroPortrait": "/images/page-heroes/iec-en-60073-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-en-60073-s1.webp",
+  "generatedMid": "/images/page-sections/iec-en-60073-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-en-60073-s1.webp",
+    "/images/page-sections/iec-en-60073-s2.webp",
+    "/images/page-sections/iec-en-60073-s3.webp",
+    "/images/page-sections/iec-en-60073-s4.webp",
+    "/images/page-sections/iec-en-60073-s5.webp",
+    "/images/page-sections/iec-en-60073-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "314 | no H2 | LOW: expand – GSC: \"iec 60073\" 217 impressions at pos 4.4",
+  "slug": "iec-en-60073",
+  "path": "/iec-en-60073",
+  "source": "https://www.itcindia.org/iec-en-60073/",
+  "ok": true,
+  "title": "IEC/ EN 60073 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC/ EN 60073 lays out general rules for allocating particular meaning to visual acoustic and tactile indications so that safety of person can be enhanced.",
+  "sections": [
+    {
+      "heading": "IEC/ EN 60073",
+      "paragraphs": [
+        "IEC 60073 lays out general rules for allocating particular meaning to visual acoustic and tactile indications so that safety of person/property can be enhanced. Apart from it, proper monitoring, control and maintenance of the equipment can be encouraged."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-en-60073/5715417cdb43.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "This standard is applied to",
+      "paragraphs": [
+        "Meaning of color, shape & acoustic – general principal",
+        "There are 3 indication modes",
+        "For any details please mail at info@itcindia.org",
+        "How can you reach us call 9316473033"
+      ],
+      "bullets": [
+        "Single indicator light",
+        "Push buttons",
+        "Mechanical indicators",
+        "LED’s or video display screens",
+        "Safety of person, property is evolved and also where codes are used to facilitate the proper monitoring and controlling of equipment",
+        "Where particular kind of coding is to be assigned by technical committee for a special function.",
+        "Alerting",
+        "Indication",
+        "Confirmation"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Color",
+            "Shape",
+            "Acoustic",
+            "Meaning"
+          ],
+          "rows": [
+            [
+              "Safety of person/ Environment",
+              "Condition of Process",
+              "State of equipment"
+            ],
+            [
+              "Red",
+              "",
+              "-Sweeping sound -Bursts of sounds",
+              "Danger",
+              "Emergency",
+              "Faulty"
+            ],
+            [
+              "Yellow",
+              "",
+              "Pattern of segments with constant level",
+              "Warning/caution",
+              "Abnormal",
+              "Abnormal"
+            ],
+            [
+              "Green",
+              "",
+              "Continuous sound with constant level",
+              "Safe",
+              "Normal",
+              "Normal"
+            ],
+            [
+              "Blue",
+              "",
+              "Alternate sound pitch",
+              "Mandatory Significance"
+            ],
+            [
+              "White/grey/Black",
+              "",
+              "Other sounds",
+              "No specific meaning assigned"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Acuator type",
+            "Identified by colour",
+            "exception"
+          ],
+          "rows": [
+            [
+              "Non illuminating acuators",
+              "",
+              ""
+            ],
+            [
+              "Emergency /normal (stop/off)",
+              "Red",
+              "Exceptions are allowed when red color is not available."
+            ],
+            [
+              "STOP/OFF",
+              "White, grey black",
+              "Red can be used but green is not permitted"
+            ],
+            [
+              "START/ON",
+              "White, grey, black",
+              "Green can be used but red is not permitted"
+            ],
+            [
+              "RESET",
+              "Blue, white black ,grey",
+              ""
+            ],
+            [
+              "Use of black and white specific meaning",
+              "White, black",
+              "White –start/on Black- stop/off"
+            ],
+            [
+              "Illuminating Acuators",
+              "",
+              ""
+            ],
+            [
+              "Type a",
+              "Have the same colour wheather or not they are lit",
+              "For indication"
+            ],
+            [
+              "Type b",
+              "Have a single colour when lit that is different from the colour when not lit and both colour have meaning",
+              "For confirmation"
+            ],
+            [
+              "Type c",
+              "Have more than one possible colour of lightning",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-en-60073/5715417cdb43.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-en-60073/5715417cdb43.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

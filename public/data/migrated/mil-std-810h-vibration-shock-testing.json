@@ -1,0 +1,315 @@
+{
+  "hero": "/images/page-heroes/mil-std-810h-vibration-shock-testing.webp",
+  "heroPortrait": "/images/page-heroes/mil-std-810h-vibration-shock-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/mil-std-810h-vibration-shock-testing-s1.webp",
+  "generatedMid": "/images/page-sections/mil-std-810h-vibration-shock-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s1.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s2.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s3.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s4.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s5.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s6.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s7.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s8.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s9.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s10.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s11.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s12.webp",
+    "/images/page-sections/mil-std-810h-vibration-shock-testing-s13.webp"
+  ],
+  "category": "mechanical",
+  "action": "ADD",
+  "note": "848 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "mil-std-810h-vibration-shock-testing",
+  "path": "/mil-std-810h-vibration-shock-testing",
+  "source": "https://www.itcindia.org/mil-std-810h-vibration-shock-testing/",
+  "ok": true,
+  "title": "MIL-STD-810H Vibration & Shock Testing India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "MIL-STD-810H vibration and shock testing in India for defence and rugged equipment. Test Methods 514.8 and 516.8 with ITC India compliance testing support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Equipment intended for defence, aerospace, transportation and other demanding applications may experience continuous vibration, repeated mechanical shocks, handling impacts and transportation stresses throughout its service life. These stresses can damage structures, loosen connections, cause component fatigue or lead to functional failures.",
+        "ITC India provides MIL-STD-810H vibration and shock testing in India for manufacturers and product developers requiring laboratory evaluation of rugged and mission-critical equipment. Testing can help demonstrate whether equipment can continue to function and maintain structural integrity under environmental conditions representative of transportation, handling, installation and operational use.",
+        "MIL-STD-810H is an environmental engineering standard rather than a single fixed test specification. Test methods, procedures, severities and durations should be tailored according to the equipment’s actual life-cycle environment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/mil-std-810h-vibration-shock-testing/f71fa8cbcee6.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "MIL-STD-810H Method 514.8 – Vibration Testing",
+      "paragraphs": [
+        "MIL-STD-810H Method 514.8 provides guidance for defining vibration environments that equipment may encounter during its life cycle and for conducting appropriate laboratory vibration tests.",
+        "Vibration exposure can originate from ground vehicles, aircraft, ships, transportation systems, machinery or operational platforms. Depending on the application, equipment may experience random, sinusoidal or combined vibration environments."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Testing can help identify",
+      "paragraphs": [
+        "Test levels should be based on the intended platform, mounting arrangement, equipment configuration and expected service environment.",
+        "Manufacturers requiring general mechanical vibration evaluation can also review ITC India’s <a href=\"/vibration-testing\">Vibration Testing Laboratory</a> and <a href=\"/iec-60068-2-6-vibration-testing\">IEC 60068-2-6 sine vibration testing</a> services."
+      ],
+      "bullets": [
+        "Structural fatigue and cracking",
+        "Loose electrical or mechanical connections",
+        "Fastener and mounting failures",
+        "Wire and cable damage",
+        "Component displacement",
+        "Intermittent electrical operation",
+        "Resonance-related weaknesses",
+        "Degradation in functional performance"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "MIL-STD-810H Method 516.8 – Shock Testing",
+      "paragraphs": [
+        "MIL-STD-810H Method 516.8 evaluates whether materiel can physically and functionally withstand mechanical shocks likely to occur during handling, transportation and service.",
+        "Depending on the equipment and contractual requirements, shock evaluation may be used to assess functional shock, transportation shock, fragility, transit drop or other relevant mechanical shock environments."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Shock testing can expose weaknesses such as",
+      "paragraphs": [
+        "The applicable procedure should be selected according to the equipment’s actual service life rather than applying an arbitrary shock level."
+      ],
+      "bullets": [
+        "Broken structural components",
+        "Damaged mounting systems",
+        "Cracked circuit boards",
+        "Connector separation",
+        "Fastener failure",
+        "Displaced internal components",
+        "Loss of functional performance",
+        "Permanent mechanical deformation"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Test Tailoring Is Important",
+      "paragraphs": [
+        "A central principle of MIL-STD-810H is environmental tailoring. There is no single vibration spectrum or shock pulse that applies to every military product.",
+        "A vehicle-mounted electronic controller, aircraft component, portable communication device and packaged transport item may experience very different environments.",
+        "Before testing, manufacturers should establish the expected transportation modes, operating platform, mounting conditions, service duration, equipment configuration and applicable procurement requirements. These factors help define realistic test levels, frequencies, durations, axes and procedures.",
+        "ITC India also provides broader <a href=\"/environmental-testing-services\">Environmental Testing Laboratory</a> services when vibration and shock testing form part of a larger environmental qualification programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "MIL-STD-810H and Other Environmental Tests",
+      "paragraphs": [
+        "Vibration and shock are only two of the environmental stresses addressed within MIL-STD-810H. Depending on equipment use, qualification programmes may also involve temperature, humidity, rain, dust, altitude, corrosion or solar exposure.",
+        "Outdoor or defence products requiring simulated sunlight exposure can use ITC India’s <a href=\"/solar-radiation-testing-laboratory-in-india\">MIL-STD-810H Solar Radiation Testing</a> services.",
+        "Products requiring ingress protection evaluation may also need <a href=\"/ip-testing-laboratory-india\">IP dust and water ingress testing</a>.",
+        "For Indian defence procurement programmes, environmental requirements may additionally reference JSS specifications. Manufacturers can review ITC India’s <a href=\"/jss-55555\">JSS 55555 Environmental Testing</a> services when the applicable procurement specification requires JSS qualification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products Suitable for MIL-STD-810H Testing",
+      "paragraphs": [
+        "MIL-STD-810H vibration and shock evaluation can be relevant to defence electronics, communication equipment, rugged computers, vehicle-mounted systems, control units, power supplies, sensors, navigation equipment, surveillance systems, aerospace equipment and other products designed for severe environments.",
+        "Applicability should always be determined from contractual and environmental requirements rather than from the product category alone."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required Before Testing",
+      "paragraphs": [
+        "Manufacturers should provide the applicable standard revision, required methods and procedures, equipment dimensions and weight, mounting arrangement, intended platform, operating modes, test axes and specified test levels.",
+        "Where requirements are not already defined, available life-cycle and environmental information should be reviewed before establishing the test programme.",
+        "For MIL-STD-810H vibration and shock testing in India, submit your equipment specifications and qualification requirements through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is MIL-STD-810H?",
+      "paragraphs": [
+        "MIL-STD-810H is a U.S. Department of Defense environmental engineering and laboratory test-method standard used to evaluate equipment against environmental stresses expected throughout its service life."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which MIL-STD-810H method covers vibration?",
+      "paragraphs": [
+        "Method 514.8 covers vibration and provides guidance for defining vibration environments and conducting tailored laboratory vibration tests."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which MIL-STD-810H method covers shock?",
+      "paragraphs": [
+        "Method 516.8 addresses mechanical shock environments associated with handling, transportation and operational service."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is there one standard vibration level for MIL-STD-810H?",
+      "paragraphs": [
+        "No. MIL-STD-810H emphasizes tailoring. Vibration profiles, durations and procedures should reflect the equipment’s intended platform and environmental life cycle."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current MIL-STD-810H revision?",
+      "paragraphs": [
+        "The current published version is MIL-STD-810H with Change 1 dated May 18, 2022. Contractual requirements should always be checked before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India perform MIL-STD-810H vibration and shock testing?",
+      "paragraphs": [
+        "ITC India supports vibration, shock and related environmental testing for applicable equipment. The exact programme is established from the required methods, equipment configuration, intended environment and customer specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/mil-std-810h-vibration-shock-testing/f71fa8cbcee6.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/mil-std-810h-vibration-shock-testing/f71fa8cbcee6.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

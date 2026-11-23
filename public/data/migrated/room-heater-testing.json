@@ -1,0 +1,327 @@
+{
+  "hero": "/images/page-heroes/room-heater-testing.webp",
+  "heroPortrait": "/images/page-heroes/room-heater-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/room-heater-testing-s1.webp",
+  "generatedMid": "/images/page-sections/room-heater-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/room-heater-testing-s1.webp",
+    "/images/page-sections/room-heater-testing-s2.webp",
+    "/images/page-sections/room-heater-testing-s3.webp",
+    "/images/page-sections/room-heater-testing-s4.webp",
+    "/images/page-sections/room-heater-testing-s5.webp",
+    "/images/page-sections/room-heater-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "382 | no H2 | LOW: add H2s, FAQ, links",
+  "slug": "room-heater-testing",
+  "path": "/room-heater-testing",
+  "source": "https://www.itcindia.org/room-heater-testing/",
+  "ok": true,
+  "title": "Room Heater Testing Laboratory ITC India Pvt. Ltd.",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITCIndia Can do Room Heater Testing as per IEC 60335-2-30, IS 302-2-30, ASTM E1509 Standards in India, Mumbai, Ahmedabad, Delhi, Pune, Chennai, bangalore",
+  "sections": [
+    {
+      "heading": "Essential Tests:",
+      "paragraphs": [],
+      "bullets": [
+        "Protection against access to live parts",
+        "Power input and output at operating temperature",
+        "Heating",
+        "Temperature rise",
+        "Leakage current and electric strength",
+        "Transient overvoltage",
+        "Moisture resistance",
+        "Overload protection",
+        "Stability and mechanical hazards",
+        "Mechanical strength",
+        "Provision for earthing",
+        "Insulation resistance",
+        "Creepage and air clearance"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Table A",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Cl. 10.1",
+            "TABLE: Power input deviation",
+            "",
+            "P"
+          ],
+          "rows": [
+            [
+              "Input deviation of/at:",
+              "P rated (W)",
+              "P measured (W)",
+              "Allowed Deviation",
+              "Remark"
+            ],
+            [
+              "230V, 50Hz",
+              "2000W",
+              "1930W",
+              "+5% & -10%",
+              "Within limit"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Table B",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Cl. 11.8",
+            "TABLE: Heating",
+            "P"
+          ],
+          "rows": [
+            [
+              "",
+              "Test voltages (V) :",
+              "At 1.15 * 2000W = 2300 W",
+              "–"
+            ],
+            [
+              "",
+              "Ambient (°C) :",
+              "25°C",
+              "–"
+            ],
+            [
+              "Thermocouple locations",
+              "Temp. Measured (oC)",
+              "Max. Rise Temp. (oC)",
+              "Max Limit (oC)"
+            ],
+            [
+              "a) Internal Wiring",
+              "72",
+              "47",
+              "50"
+            ],
+            [
+              "b) External Wiring",
+              "64.1",
+              "39.1",
+              "50"
+            ],
+            [
+              "c) Handle",
+              "54.5",
+              "29.5",
+              "60"
+            ],
+            [
+              "d) Switch",
+              "49",
+              "24",
+              "30"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Table C",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Clause. No.",
+            "Test Conducted",
+            "Test Conditions",
+            "Test requirement",
+            "Results"
+          ],
+          "rows": [
+            [
+              "Cl. 13.2",
+              "Leakage Current Test",
+              "Motor operated appliance: 1.06 times of rated voltage: Between : Each pole of the supply source and the accessible metal part",
+              "Shall not exceed 0.75mA",
+              "Pass Imea:24µA"
+            ],
+            [
+              "Cl. 13.3",
+              "High Voltage Test",
+              "Test voltage: : 1000 V Test Duration: 1 min. Test Part: Between live part and screw on the body.",
+              "Shall withstand without breakdown",
+              "Pass No flashover or break down occur"
+            ],
+            [
+              "Cl. 14",
+              "Impulse Test (Transient over voltages)",
+              "Transient Overvoltage: 2920V The impulse test voltage is applied three times for each polarity with intervals of at least 1s.",
+              "There shall be no flashover.",
+              "Pass, No flash over occur."
+            ],
+            [
+              "Cl. 27.5",
+              "Earth Contact Resistance Test",
+              "Test Current: 25A Test Part: Between protective earth terminals and accessible metal Part",
+              "Calculated Earth Contact Resistance from current & drop in voltage shall not exceed 0.1 Ω)",
+              "Pass Rmea:-22.6mΩ"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Table D",
+      "paragraphs": [
+        "For your better understanding, we are going to show you the Room Heater Test report of latest LED in the following:",
+        "<a href=\"/wp-content/uploads/2016/12/Room-Heater-Test-report-60335-2-30.pdf\">Room Heater Test report</a>."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Cl. 29: Clearances, creepage distances and solid insulation"
+          ],
+          "rows": [
+            [
+              "",
+              "Minimum distance (mm)",
+              "Measured distance (mm)",
+              "Verdict"
+            ],
+            [
+              "Clearances"
+            ],
+            [
+              "– Basic insulation (at Rated Impulse Voltage 2500)",
+              "1.5mm",
+              ">1.5mm",
+              "P"
+            ],
+            [
+              "Creepage distances"
+            ],
+            [
+              "– Basic Insulation (at Working voltage 250V for pollution Degree 3, Material Group IIIa/IIIb)",
+              "4mm",
+              ">4mm",
+              "P"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

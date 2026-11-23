@@ -1,0 +1,248 @@
+{
+  "hero": "/images/page-heroes/lm-80-testing.webp",
+  "heroPortrait": "/images/page-heroes/lm-80-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/lm-80-testing-s1.webp",
+  "generatedMid": "/images/page-sections/lm-80-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/lm-80-testing-s1.webp",
+    "/images/page-sections/lm-80-testing-s2.webp",
+    "/images/page-sections/lm-80-testing-s3.webp",
+    "/images/page-sections/lm-80-testing-s4.webp",
+    "/images/page-sections/lm-80-testing-s5.webp",
+    "/images/page-sections/lm-80-testing-s6.webp",
+    "/images/page-sections/lm-80-testing-s7.webp",
+    "/images/page-sections/lm-80-testing-s8.webp"
+  ],
+  "category": "photometry",
+  "action": "KEEP",
+  "note": "0 / 3 | 482 | no H2, few links | KEEP",
+  "slug": "lm-80-testing",
+  "path": "/lm-80-testing",
+  "source": "https://www.itcindia.org/lm-80-testing/",
+  "ok": true,
+  "title": "LM 80 Testing | LM-80 Test Report | LM-80 Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "The recognized laboratory is authorized to do the LM 80 testing, as reports issued by such laboratories are valid. ITC india pvt located in panchkula is",
+  "sections": [
+    {
+      "heading": "Who can perform LM 80 Testing?",
+      "paragraphs": [
+        "The recognized laboratory is authorized to do the LM 80 testing, as reports issued by such laboratories are valid. ITC india pvt located in panchkula is a authorized laboratory, who has the facility for LM 80. Competent engineer with well equipped lab is here to provide you the best service. Just visit us at <a href=\"/\">www.itcindia.org</a> for more details and have a look at the scope too"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is LM 80?",
+      "paragraphs": [
+        "This is an approved method, which covers the measurement of Lumen maintenance of inorganic LED based package, arrays and module. Lumen maintenance is a characteristic measured under controlled conditions. Performance in a particular application may be different. This method does not provide guidance or make any recommendation regarding predictive estimations or extrapolation for Lumen maintenance beyond the limits of the lumen maintenance determined from actual measurements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What does LM 80 covers?",
+      "paragraphs": [
+        "It is a method to measure the Lumen depreciation of Solid state light source, array and module."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What LM 80 does not cover?",
+      "paragraphs": [],
+      "bullets": [
+        "Does not cover the measurement of luminaries.",
+        "Does not define method for estimation of lumen life."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is difference between LM 79 and LM 80 ?",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S.no",
+            "LM 79",
+            "LM 80"
+          ],
+          "rows": [
+            [
+              "1",
+              "LM-79 is an approved method for taking electrical and photometric measurements of complete SSL products.",
+              "Lm 80 is the approved method for measuring the lumen maintenance of LED packages, arrays, and modules at various temperature."
+            ],
+            [
+              "2",
+              "It does not state the sampling size.",
+              "Sampling method and sampling size used shall be mentioned in report."
+            ],
+            [
+              "3",
+              "LM 79 is a testing procedure on Efficacy of LED’s",
+              "LM-80 is a testing procedure on the lifespan of LEDs."
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "What are the end user benefits of LM 80?",
+      "paragraphs": [
+        "The manufacturer will be able to understand"
+      ],
+      "bullets": [
+        "How the LED’s light output degrades with different surrounding.",
+        "The useful lifespan of the component in which the LED is used.",
+        "There is a shift of color point under different surroundings."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the measurement method of LM 80?",
+      "paragraphs": [],
+      "bullets": [
+        "Case Temperature and testing interval Measured at 3 different temperature 55°c , 85°c and manufacturer selects the 3rd",
+        "6000 hours (preferably 10000 hours) with interval measurements."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What information is provided in the LM 80 report?",
+      "paragraphs": [],
+      "bullets": [
+        "Number of LED light sources tested",
+        "Description of LED light source",
+        "Description of auxiliary equipment"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Operating Cycle",
+      "paragraphs": [],
+      "bullets": [
+        "Ambient conditions including Airflow, temperature and relative Humidity",
+        "Case temperature ( test point temperature)",
+        "Drive current of LED light source during lifetime test.",
+        "Initial luminous flux and forward voltage at photometric measurement current.",
+        "Lumen maintenance data for each individual LED light source along with median value, standard deviation, minimum and maximum lumen maintenance value for the entire LED light source.",
+        "Observation of LED light source failure including the failures conditions and time of failure.",
+        "LED light source monitoring interval",
+        "Photometric measurement Uncertainty",
+        "Chromaticity shift reported over the measurement time."
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

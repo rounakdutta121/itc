@@ -1,0 +1,289 @@
+{
+  "hero": "/images/page-heroes/ul-50e-testing.webp",
+  "heroPortrait": "/images/page-heroes/ul-50e-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/ul-50e-testing-s1.webp",
+  "generatedMid": "/images/page-sections/ul-50e-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ul-50e-testing-s1.webp",
+    "/images/page-sections/ul-50e-testing-s2.webp",
+    "/images/page-sections/ul-50e-testing-s3.webp",
+    "/images/page-sections/ul-50e-testing-s4.webp",
+    "/images/page-sections/ul-50e-testing-s5.webp",
+    "/images/page-sections/ul-50e-testing-s6.webp",
+    "/images/page-sections/ul-50e-testing-s7.webp",
+    "/images/page-sections/ul-50e-testing-s8.webp",
+    "/images/page-sections/ul-50e-testing-s9.webp",
+    "/images/page-sections/ul-50e-testing-s10.webp",
+    "/images/page-sections/ul-50e-testing-s11.webp",
+    "/images/page-sections/ul-50e-testing-s12.webp",
+    "/images/page-sections/ul-50e-testing-s13.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "891 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "ul-50e-testing",
+  "path": "/ul-50e-testing",
+  "source": "https://www.itcindia.org/ul-50e-testing/",
+  "ok": true,
+  "title": "UL 50E Testing Services for Electrical Enclosures",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "UL 50E testing in India for electrical enclosures and cabinets. Evaluate rain, dust, water ingress, corrosion, icing and enclosure Type protection with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Electrical enclosures protect equipment against environmental conditions that can affect safety, reliability and service life. UL 50E establishes environmental construction and performance requirements for enclosures used with electrical equipment in non-hazardous locations. Depending on the required enclosure Type, evaluation can address water, dust, corrosion, external icing, oil or coolant exposure and submersion.",
+        "ITC India provides UL 50E testing in India for manufacturers of electrical enclosures, cabinets, control panels and related equipment. Testing helps determine whether an enclosure provides the environmental protection required for its intended indoor or outdoor application.",
+        "UL 50E is intended to be used with UL 50 general enclosure requirements or the applicable end-product standard. Manufacturers requiring broader product evaluation can also review ITC India’s <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/ul-50e-testing/3e260f36e28f.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does UL 50E Cover?",
+      "paragraphs": [
+        "UL 50E applies to enclosures for electrical equipment intended for non-hazardous locations. It includes indoor enclosure Types 1, 2, 5, 12, 12K and 13, as well as indoor/outdoor Types 3, 3X, 3R, 3RX, 3S, 3SX, 4, 4X, 6 and 6P.",
+        "The correct Type is selected according to the environmental conditions the enclosure is expected to withstand. Some Types primarily address indoor falling dirt or dust, while outdoor Types may address rain, windblown dust, hose-directed water, corrosion, external ice formation or temporary/prolonged submersion.",
+        "Because required tests differ by Type, manufacturers should define the intended enclosure rating before formal laboratory testing begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major UL 50E Enclosure Tests",
+      "paragraphs": [
+        "The test programme depends on the requested Type rating, enclosure material, gasket construction, openings, doors and installation configuration. Typical UL 50E evaluations can include:",
+        "An enclosure does not automatically require every test above. The sequence and acceptance criteria depend on the claimed Type and applicable product requirements.",
+        "ITC India also provides dedicated <a href=\"/rain-test-services-india\">Rain Testing Services</a> and <a href=\"/salt-testing\">Salt Spray Testing</a> for manufacturers requiring water-ingress or corrosion-related evaluation."
+      ],
+      "bullets": [
+        "Drip and light-splashing water tests",
+        "Rain testing",
+        "Dust or atomized-water testing",
+        "Hose and hose-down testing",
+        "External icing evaluation",
+        "Indoor and outdoor corrosion testing",
+        "Temporary or prolonged submersion testing",
+        "Gasket and sealing-system evaluation",
+        "Rod-entry and accessibility evaluation",
+        "Oil or non-corrosive coolant exposure where applicable"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "UL 50E Type Ratings and IP Ratings",
+      "paragraphs": [
+        "UL 50E enclosure Type ratings and IEC 60529 IP codes both describe enclosure protection, but they are not identical classification systems and should not be treated as direct substitutes.",
+        "IEC 60529 classifies protection against access to hazardous parts, solid foreign objects and water using an IP code. UL 50E Type ratings can include additional considerations such as corrosion, gasket performance, icing and construction requirements depending on the Type.",
+        "Manufacturers developing products for multiple markets may therefore need both UL enclosure-Type testing and <a href=\"/ip-testing-laboratory-india\">IEC 60529 IP Testing</a> for dust and water ingress evaluation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "UL 50E and UL 50",
+      "paragraphs": [
+        "UL 50E addresses additional environmental construction and performance requirements. General and non-environmental enclosure requirements are addressed by UL 50 or by the applicable end-use equipment standard.",
+        "Passing a rain, dust or corrosion test alone does not necessarily demonstrate complete compliance with all enclosure requirements. The final test plan should consider the claimed Type rating, end-use product standard and target market.",
+        "For manufacturers of empty enclosures for low-voltage switchgear and controlgear targeting IEC markets, ITC India also provides <a href=\"/iec-62208-testing-empty-enclosures-for-low-voltage-switchgear-and-controlgear-assemblies\">IEC 62208 empty enclosure testing</a>. IEC 62208 and UL 50E are separate standards, so the required route should be selected according to the product and destination market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing an Enclosure for Testing",
+      "paragraphs": [
+        "Door joints, hinges, fasteners, cable entries, ventilation openings, windows and gasket systems can all influence enclosure performance. Manufacturers should review sealing continuity, drainage, coating systems, corrosion-resistant materials and the intended mounting arrangement before submitting samples.",
+        "Useful documentation includes the requested UL 50E Type, enclosure drawings, dimensions, material specifications, coating details, gasket information, mounting configuration and details of doors, openings and accessories. Samples should represent production construction as closely as possible.",
+        "Where broader temperature, humidity or climatic evaluation is required, manufacturers can also review ITC India’s <a href=\"/environmental-testing-services\">Environmental Testing Laboratory</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "UL 50E Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with environmental and enclosure testing based on the applicable standard and requested Type. Early testing can help identify weaknesses involving seals, joints, gaskets, coatings and openings before certification or production.",
+        "For UL 50E electrical enclosure testing in India, submit the required Type rating, product drawings and technical details through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is UL 50E?",
+      "paragraphs": [
+        "UL 50E covers environmental construction and performance requirements for electrical equipment enclosures used in non-hazardous locations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which enclosure Types are covered by UL 50E?",
+      "paragraphs": [
+        "It covers indoor Types 1, 2, 5, 12, 12K and 13 and indoor/outdoor Types 3, 3X, 3R, 3RX, 3S, 3SX, 4, 4X, 6 and 6P."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is UL 50E the same as an IP rating?",
+      "paragraphs": [
+        "No. UL enclosure Type ratings and IEC 60529 IP codes use different requirements and test methods and are not automatically equivalent."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does UL 50E include corrosion testing?",
+      "paragraphs": [
+        "Corrosion-related requirements apply to certain enclosure Types and materials. The exact evaluation depends on the claimed Type and construction."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between UL 50 and UL 50E?",
+      "paragraphs": [
+        "UL 50 addresses general and non-environmental enclosure requirements, while UL 50E addresses additional environmental construction and performance requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test water and dust ingress for enclosures?",
+      "paragraphs": [
+        "ITC India provides enclosure, rain, dust, IP and environmental testing. The exact programme should be confirmed from the required UL Type, IP code or product standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/ul-50e-testing/3e260f36e28f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/ul-50e-testing/3e260f36e28f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "hero": "/images/page-heroes/sodium-ion-cell-battery-testing.webp",
+  "heroPortrait": "/images/page-heroes/sodium-ion-cell-battery-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/sodium-ion-cell-battery-testing-s1.webp",
+  "generatedMid": "/images/page-sections/sodium-ion-cell-battery-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/sodium-ion-cell-battery-testing-s1.webp",
+    "/images/page-sections/sodium-ion-cell-battery-testing-s2.webp",
+    "/images/page-sections/sodium-ion-cell-battery-testing-s3.webp",
+    "/images/page-sections/sodium-ion-cell-battery-testing-s4.webp",
+    "/images/page-sections/sodium-ion-cell-battery-testing-s5.webp",
+    "/images/page-sections/sodium-ion-cell-battery-testing-s6.webp"
+  ],
+  "category": "battery",
+  "action": "KEEP",
+  "note": "537 | 6 img no alt | KEEP",
+  "slug": "sodium-ion-cell-battery-testing",
+  "path": "/sodium-ion-cell-battery-testing",
+  "source": "https://www.itcindia.org/sodium-ion-cell-battery-testing/",
+  "ok": true,
+  "title": "Sodium ion cell/battery testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Sodium ion cell/battery testing is an incredibly important process that ensures the safety and reliability of sodium-ion batteries.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The sodium ion cell! This innovative technology is quickly gaining popularity as it offers longer-lasting, more efficient, and eco-friendly energy options. But how do these cells perform in real-world testing scenarios? In this blog post, we’ll delve into the exciting world of Sodium ion cell/battery testing and explore what makes them stand out from traditional lithium-ion batteries."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is a sodium ion cell/battery?",
+      "paragraphs": [
+        "An electrolyte made of sodium ions is used by a sodium ion cell or battery to store and release electricity.",
+        "This type of battery has many advantages over traditional lead-acid batteries, including a longer life span, higher energy density, and lower cost.",
+        "However, sodium ion batteries are not without their challenges; for example, they can be more difficult to recycle than lead-acid batteries."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/sodium-ion-cell-battery-testing/cc86ff1cdb41.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "How are sodium ion cell/batteries tested?",
+      "paragraphs": [
+        "Typically, researchers test sodium ion cell/batteries using three methods: charge/discharge, open-circuit voltage, and impedance. Charge/discharge testing determines the battery’s capacity and energy density. The battery is first charged to 100% capacity and then discharged at a constant current until it reaches 0%.",
+        "To calculate the battery’s efficiency, one divides the discharge time by the charge time. Open-circuit voltage testing measures the resting voltage of the battery when it is not being used.",
+        "One can use open-circuit voltage testing to estimate the health of the battery and its potential capacity. One can use impedance testing to measure the resistance of the battery’s electrodes and identify any degradation in the electrodes or issues with electrolyte balance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are the benefits of sodium ion cell/batteries?",
+      "paragraphs": [
+        "Sodium ion batteries are a type of rechargeable battery that uses sodium ions to store energy. These batteries have several advantages over other types of batteries, including: 1. Higher energy density – Sodium ion batteries can store more energy than lead-acid or nickel-cadmium batteries, making them ideal for use in electric vehicles and other applications where high energy density is required. 2. Lower cost – Sodium ion batteries are less expensive to produce than lithium-ion batteries, making them a more affordable option for consumers. 3. Safer – Sodium ion batteries are less likely to catch fire or explode than lithium-ion batteries, making them a safer option for use in devices and appliances. 4. Environmentally friendly – Sodium ion batteries can be recycled, and their production does not generate hazardous waste like some other types of batteries."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/sodium-ion-cell-battery-testing/519983492b9d.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Are there any disadvantages to sodium ion cell/batteries?",
+      "paragraphs": [
+        "Sodium ion cell/battery testing have a number of advantages over other types of batteries, but there are also some disadvantages that should be considered. One disadvantage is that sodium ion batteries tend to be more expensive than other types of batteries.",
+        "Another disadvantage is that they can be more difficult to find in stores. Finally, some people may prefer the look and feel of other types of batteries."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/sodium-ion-cell-battery-testing/b9d0326a3a6b.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "Sodium ion cell/battery testing is an incredibly important process that ensures the safety and reliability of sodium-ion batteries. While there are many tests available, it is important to select ones that accurately measure the performance of your battery.",
+        "By selecting appropriate tests and conducting them regularly, you can ensure that your battery will be reliable and safe for use in a variety of applications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/sodium-ion-cell-battery-testing/519983492b9d.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/sodium-ion-cell-battery-testing/cc86ff1cdb41.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/sodium-ion-cell-battery-testing/b9d0326a3a6b.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/sodium-ion-cell-battery-testing/519983492b9d.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/sodium-ion-cell-battery-testing/cc86ff1cdb41.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/sodium-ion-cell-battery-testing/b9d0326a3a6b.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

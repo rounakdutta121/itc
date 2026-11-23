@@ -1,0 +1,137 @@
+{
+  "hero": "/images/page-heroes/cispr-15.webp",
+  "heroPortrait": "/images/page-heroes/cispr-15-portrait.webp",
+  "generatedIntro": "/images/page-sections/cispr-15-s1.webp",
+  "generatedMid": "/images/page-sections/cispr-15-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cispr-15-s1.webp",
+    "/images/page-sections/cispr-15-s2.webp",
+    "/images/page-sections/cispr-15-s3.webp",
+    "/images/page-sections/cispr-15-s4.webp",
+    "/images/page-sections/cispr-15-s5.webp",
+    "/images/page-sections/cispr-15-s6.webp"
+  ],
+  "category": "emc",
+  "action": "CTR",
+  "note": "3 / 1 | 871 | no H2 | CTR FIX – 70 impr. at pos 6.6, 0 clicks",
+  "slug": "cispr-15",
+  "path": "/cispr-15",
+  "source": "https://www.itcindia.org/cispr-15/",
+  "ok": true,
+  "title": "CISPR 15 - EMC Testing laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "CISPR 15 LIMITS AND METHODS OF MEASUREMENT OF RADIO DISTURBANCE CHARACTERISTICS OF ELECTRICAL LIGHTING AND SIMILAR EQUIPMENT",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cispr-15/bf1c4763cd75.png",
+          "alt": "CISPR 15"
+        }
+      ]
+    },
+    {
+      "heading": "CISPR 15",
+      "paragraphs": [
+        "LIMITS AND METHODS OF MEASUREMENT OF RADIO DISTURBANCE CHARACTERISTICS OF ELECTRICAL LIGHTING AND SIMILAR EQUIPMENT",
+        "Reference standards for Immunity test in CISPR 15"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S. N",
+            "Tests",
+            "Standard",
+            "Title"
+          ],
+          "rows": [
+            [
+              "1",
+              "Electrostatic Disruption This test simulates electrostatic events and evaluates the ability of the EUT to tolerate such events. Testing is performed in accordance with IEC/EN 61000-4-2. All accessible enclosure surfaces and ports are evaluated unless specified as a static-sensitive surface.",
+              "IEC 61000-4-2: 2008 ESD Immunity",
+              "Electromagnetic Compatibility—Testing and measurement techniques – Electrostatic discharge immunity test"
+            ],
+            [
+              "2",
+              "Electromagnetic Susceptibility The Electromagnetic Susceptibility test exposes the equipment under test to a calibrated uniform field of radiated electromagnetic energy. The EUT is continuously monitored while exposed to the required frequency range and field strength. The test chamber, radiating antennas, and calibrated fields meet the requirements of referenced standards",
+              "IEC 61000-4-3: 1996 Radio Frequency Immunity",
+              "Electromagnetic Compatibility—Testing and measurement techniques – Radiated radiofrequency electromagnetic field immunity test"
+            ],
+            [
+              "3",
+              "Electrical Fast Transient This test injects a transient/burst interference onto the Mains input power supply and signal I/O lines. The EUT and peripherals are placed on a non-conductive support platform, 10cm above the test ground plane. The EUT is monitored for disturbances during the required exposure time of positive and negative bursts",
+              "IEC 61000-4-4: 1995-01 Electrical Fast Transient Immunity",
+              "Electromagnetic Compatibility—Testing and measurement techniques – Electrical fast transient/burst immunity"
+            ],
+            [
+              "4",
+              "Lighting Surge This test simulates a lightning event by inducing transients onto the AC/DC power supply lines in common and differential mode. Testing is performed in accordance with IEC/EN 61000-4-5. The product-specific standard determines the minimum requirement for the exposure to surge transient levels",
+              "IEC 61000-4-5: 1995-02 Surge Immunity",
+              "Electromagnetic Compatibility—Testing and measurement techniques – Surge immunity test"
+            ],
+            [
+              "5",
+              "Conducted RF Immunity This test injects a disturbance directly onto AC/DC power. Testing is performed in accordance with IEC/EN 61000-4-6. The product-specific standard sets the level, duration, and the frequency range to apply.",
+              "IEC 61000-4-6: 1996-04 RF Common Mode Immunity",
+              "Electromagnetic Compatibility—Testing and measurement techniques – Immunity to conducted disturbances, induced by radio-frequency fields"
+            ],
+            [
+              "6",
+              "Power Disturbance This test subjects the EUT to power network faults and “brownouts”. Testing is performed in accordance with IEC/EN 61000-4-11. The EUT is powered up to a nominal voltage, and then software controlled voltage dips and interruptions are introduced",
+              "IEC61000-4-11: 1994-06 Voltage Dips and Short Interruptions",
+              "Electromagnetic Compatibility—Testing and measurement techniques – Voltage dips, short interruptions and voltage variations immunity tests"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Device Performance Criteria for Immunity Tests",
+      "paragraphs": [],
+      "bullets": [
+        "Criterion A – The equipment shall continue to operate as intended without operator intervention. No degradation of performance or loss of function is allowed below a performance level specified by the manufacturer when the equipment is used as intended. The performance level may be replaced by a permissible loss of performance. If the minimum performance level or the permissible performance loss is not specified by the manufacturer, then either of these may be derived from the product description and documentation, and by what the user may reasonably expect from the equipment if used as intended.",
+        "Criterion B – During the test, the degradation of performance is allowed. However, no change in the operating state or stored data is allowed to persist after the test. After the test, the equipment shall continue to operate as intended without operator intervention. The performance level may be replaced by a permissible loss of performance. If the manufacturer does not specify the minimum performance level (or the permissible performance loss), then either of these may be derived from the product description and documentation, or by what the user may reasonably expect from the equipment if used as intended.",
+        "Criterion C – Loss of function is allowed, provided the function is self-recoverable or can be restored by the operation of the controls by the user in accordance with the manufacturer’s instructions. Functions, and/or information stored in non-volatile memory, or protected by a battery backup, shall not be lost. For each test method, the test standard specifies the appropriate criterion to be met."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "CONDUCTED EMISSION",
+      "paragraphs": [
+        "This test measures the levels emanating from the EUT into the AC Mains, evaluating the potential for the EUT to cause radio frequency interference to other electronic devices. The EUT is configured based upon the requirements of the applicable test standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "RADIATED EMISSION",
+      "paragraphs": [
+        "This test measures the levels emanating from the EUT, thus evaluating the potential for the EUT to cause radio frequency interference to other electronic devices. Measurement methods is used in accordance with the test standard(s) referenced. The antenna is positioned at several heights while the EUT is rotated 360°. At each antenna height, the receiver scans and records the maximum peak emissions. From the recorded scans, a list of discrete frequencies is developed for that antenna polarity. The antenna is then rotated in polarity and the scan repeated. For each discrete frequency, the turntable is rotated to the determined worst angle and the receive antenna is varied in height from one to four meters for the final maximum emissions. For EUT’s with auto-ranging power supplies, a pre-scan evaluation may be performed to determine “worst-case” radiated emissions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/cispr-15/bf1c4763cd75.png",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/cispr-15/bf1c4763cd75.png",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

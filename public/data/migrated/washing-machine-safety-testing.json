@@ -1,0 +1,353 @@
+{
+  "hero": "/images/page-heroes/washing-machine-safety-testing.webp",
+  "heroPortrait": "/images/page-heroes/washing-machine-safety-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/washing-machine-safety-testing-s1.webp",
+  "generatedMid": "/images/page-sections/washing-machine-safety-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/washing-machine-safety-testing-s1.webp",
+    "/images/page-sections/washing-machine-safety-testing-s2.webp",
+    "/images/page-sections/washing-machine-safety-testing-s3.webp",
+    "/images/page-sections/washing-machine-safety-testing-s4.webp",
+    "/images/page-sections/washing-machine-safety-testing-s5.webp",
+    "/images/page-sections/washing-machine-safety-testing-s6.webp",
+    "/images/page-sections/washing-machine-safety-testing-s7.webp",
+    "/images/page-sections/washing-machine-safety-testing-s8.webp",
+    "/images/page-sections/washing-machine-safety-testing-s9.webp",
+    "/images/page-sections/washing-machine-safety-testing-s10.webp",
+    "/images/page-sections/washing-machine-safety-testing-s11.webp",
+    "/images/page-sections/washing-machine-safety-testing-s12.webp",
+    "/images/page-sections/washing-machine-safety-testing-s13.webp",
+    "/images/page-sections/washing-machine-safety-testing-s14.webp",
+    "/images/page-sections/washing-machine-safety-testing-s15.webp",
+    "/images/page-sections/washing-machine-safety-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1115 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "washing-machine-safety-testing",
+  "path": "/washing-machine-safety-testing",
+  "source": "https://www.itcindia.org/washing-machine-safety-testing/",
+  "ok": true,
+  "title": "IEC 60335-2-7 Washing Machine Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60335-2-7:2024 washing machine safety testing in India for electrical safety, heating, leakage current,moisture, abnormal operation and mechanical hazards.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides washing machine safety testing as per IEC 60335-2-7 for manufacturers and suppliers of electric washing machines intended for household and similar use. The current IEC 60335-2-7:2024, Edition 9.0 specifies particular safety requirements for washing machines and is applied together with the relevant requirements of IEC 60335-1.",
+        "The standard addresses electrical, thermal, mechanical, moisture and fire-related hazards that may occur during normal use or reasonably foreseeable abnormal conditions. Testing helps manufacturers identify design weaknesses before certification, regulatory submission or product launch.",
+        "ITC India also provides broader <a href=\"/household\">household equipment testing</a> for domestic electrical appliances covered by the IEC 60335 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/washing-machine-safety-testing/5edf3cd8c819.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60335-2-7?",
+      "paragraphs": [
+        "IEC 60335-2-7 is the international product-safety standard containing particular requirements for electric washing machines intended for washing clothes and textiles.",
+        "The 2024 edition covers appliances with rated voltages up to 250 V for single-phase products and up to 480 V for other appliances, including applicable DC-supplied and battery-operated designs.",
+        "IEC 60335-2-7 is used together with the general requirements of IEC 60335-1. Manufacturers planning complete appliance safety evaluation can therefore also review ITC India’s <a href=\"/iec-60335-1-safety-testing-india\">IEC 60335-1 safety testing services</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Safety Testing",
+      "paragraphs": [
+        "A washing machine combines water, electrical power, motors, heaters, pumps, electronic controls and moving mechanical parts. Proper electrical safety evaluation is therefore essential.",
+        "Depending on the product construction and applicable clauses, testing may include protection against access to live parts, power input and current, leakage current, electric strength, insulation, protective earthing, supply connections, internal wiring, terminals, creepage distances and clearances.",
+        "ITC India provides <a href=\"/electrical-testing\">electrical testing services</a> for household, commercial and other electrical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Heating and Temperature-Rise Testing",
+      "paragraphs": [
+        "Washing machines may contain motors, heating elements, pumps, power electronics and control components that generate heat during operation.",
+        "Heating tests assess temperatures at critical parts while the appliance operates under specified conditions. Excessive temperature can damage insulation, reduce component life, deform plastics or create fire and burn hazards.",
+        "Temperature measurements may be taken at windings, wiring, terminals, accessible surfaces and other relevant components according to the applicable test requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Leakage Current and Electric Strength",
+      "paragraphs": [
+        "Because washing machines operate with water, maintaining adequate insulation is particularly important.",
+        "Leakage-current testing evaluates whether current that could become accessible to the user remains within permitted limits. Electric-strength testing verifies that the insulation system withstands the specified test voltage without breakdown.",
+        "These evaluations are performed under the conditions defined by the applicable IEC 60335 requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Moisture Resistance and Water-Related Safety",
+      "paragraphs": [
+        "Washing machines are routinely exposed to water during filling, washing, rinsing and draining. Foreseeable spills or leakage can also occur.",
+        "Moisture-resistance evaluation helps determine whether water can reach electrical insulation or live components in a way that creates an unacceptable hazard.",
+        "After the applicable moisture or spillage conditioning, electrical safety measurements can be repeated to verify that protection against electric shock remains effective."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Abnormal Operation Testing",
+      "paragraphs": [
+        "A washing machine must remain acceptably safe even when foreseeable abnormal operating conditions occur.",
+        "Depending on the appliance design, testing may evaluate conditions involving restricted motor operation, control faults, abnormal heating, component failures or other situations specified by the standard.",
+        "The purpose is to confirm that the appliance does not create dangerous temperatures, fire, electric shock or other unacceptable hazards when a foreseeable fault occurs."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mechanical Hazards, Door and Lid Safety",
+      "paragraphs": [
+        "Washing machines contain rotating drums, agitators or impellers that can create mechanical hazards, particularly during spin cycles.",
+        "Safety evaluation considers access to moving parts, construction of doors and lids, protective interlocks and the appliance’s response when a washing or spin cycle is interrupted.",
+        "The 2024 edition also includes updated requirements relevant to restarting spin cycles for certain washing-machine designs. Remote-operation functions must also be considered where the appliance can be controlled through connected or smart features."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Stability and Mechanical Strength",
+      "paragraphs": [
+        "The appliance should remain stable during intended use and should withstand mechanical stresses without creating a hazard.",
+        "Testing may evaluate cabinet strength, controls, doors, lids, handles and other accessible parts. Construction should prevent components from becoming loose or exposing hazardous electrical or moving parts during foreseeable operation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Resistance to Heat and Fire",
+      "paragraphs": [
+        "Materials used near electrical connections, motors, heaters and control components may be exposed to elevated temperatures or fault conditions.",
+        "IEC 60335 safety evaluation therefore includes requirements intended to reduce risks associated with heat, ignition and propagation of fire. Material suitability and construction around heat-producing parts should be considered during product design."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Testing for Electronic Washing Machines",
+      "paragraphs": [
+        "Modern washing machines increasingly use electronic controllers, variable-speed motor drives, displays, sensors, wireless functions and programmable controls.",
+        "Electromagnetic compatibility is normally evaluated separately from IEC 60335-2-7 safety testing where required by the target market. ITC India provides <a href=\"/emc-emi-testing\">EMC/EMI testing services</a> for electrical and electronic products requiring emissions and immunity evaluation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products Covered",
+      "paragraphs": [
+        "IEC 60335-2-7 applies to household and similar electric washing machines intended for washing clothes and textiles. This can include automatic washing machines, agitator-type machines, impeller machines and other designs falling within the standard’s scope.",
+        "Washing machines intended exclusively for industrial use are outside its scope. Commercial and communal-use washing machines may also be subject to different requirements, including IEC 60335-2-122 where applicable."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for Washing Machine Testing",
+      "paragraphs": [
+        "For test planning, manufacturers should provide the model number, rated voltage, frequency and power, appliance class, washing capacity, heater rating, motor details, control system information, construction drawings, circuit diagrams, critical component list and user instructions.",
+        "Smart or remotely controlled models should also include details of their electronic and remote-operation functions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports manufacturers with household appliance and electrical safety testing covering electrical, thermal, mechanical and construction-related requirements.",
+        "Reviewing the product documentation before testing helps establish the applicable standard edition, sample requirements, operating conditions and required test programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request Washing Machine Safety Testing",
+      "paragraphs": [
+        "For IEC 60335-2-7:2024 washing machine safety testing, <a href=\"/contact-us/inquiry\">send your testing requirement to ITC India</a> with the washing machine specifications, electrical ratings, technical drawings and required compliance standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What standard applies to washing machine safety testing?",
+      "paragraphs": [
+        "IEC 60335-2-7 specifies particular safety requirements for household and similar electric washing machines and is applied together with IEC 60335-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the latest edition of IEC 60335-2-7?",
+      "paragraphs": [
+        "The current international edition is IEC 60335-2-7:2024, Edition 9.0."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests are performed on washing machines?",
+      "paragraphs": [
+        "Depending on the design, testing can include protection against electric shock, heating, leakage current, electric strength, moisture resistance, abnormal operation, mechanical hazards, stability, construction and resistance to heat and fire."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60335-2-7 cover smart washing machines?",
+      "paragraphs": [
+        "Yes, applicable safety requirements also consider washing machines incorporating electronic controls and remote-operation functions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60335-2-7 cover commercial laundry machines?",
+      "paragraphs": [
+        "Not all commercial machines are covered. Commercial and communal-use washing machines may fall under IEC 60335-2-122 or another applicable standard depending on the intended use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/washing-machine-safety-testing/5edf3cd8c819.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/washing-machine-safety-testing/5edf3cd8c819.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

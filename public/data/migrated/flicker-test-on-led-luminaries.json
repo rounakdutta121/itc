@@ -1,0 +1,135 @@
+{
+  "hero": "/images/page-heroes/flicker-test-on-led-luminaries.webp",
+  "heroPortrait": "/images/page-heroes/flicker-test-on-led-luminaries-portrait.webp",
+  "generatedIntro": "/images/page-sections/flicker-test-on-led-luminaries-s1.webp",
+  "generatedMid": "/images/page-sections/flicker-test-on-led-luminaries-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/flicker-test-on-led-luminaries-s1.webp",
+    "/images/page-sections/flicker-test-on-led-luminaries-s2.webp",
+    "/images/page-sections/flicker-test-on-led-luminaries-s3.webp",
+    "/images/page-sections/flicker-test-on-led-luminaries-s4.webp",
+    "/images/page-sections/flicker-test-on-led-luminaries-s5.webp",
+    "/images/page-sections/flicker-test-on-led-luminaries-s6.webp"
+  ],
+  "category": "photometry",
+  "action": "EXPAND",
+  "note": "267 | thin | LOW: expand to 600+ words",
+  "slug": "flicker-test-on-led-luminaries",
+  "path": "/flicker-test-on-led-luminaries",
+  "source": "https://www.itcindia.org/flicker-test-on-led-luminaries/",
+  "ok": true,
+  "title": "Flicker Test on LED Luminaries - Lighting Testing Lab",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Flicker Test on LED Luminaries, Flicker is the perception of temporal changes in the light output( luminance Flicker or colour flicker of the light.",
+  "sections": [
+    {
+      "heading": "Flicker Test on LED Luminaries",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/flicker-test-on-led-luminaries/422df129ebee.webp",
+          "alt": "Flicker Test on LED Luminaries"
+        }
+      ]
+    },
+    {
+      "heading": "What is Flicker?",
+      "paragraphs": [],
+      "bullets": [
+        "Flicker is the perception of temporal changes in the light output( luminance Flicker or colour flicker( chromatic Flicker) of the light.",
+        "Part of a broader problem termed Temporal LIGHT Artifacts (TLA) Stroboscopic Effect that appears when an object with continuous motion is illuminated with a flickering light source",
+        "Phantom array occurs when we make a fast eye movement and the image of the fluctuating light source is transited across retina."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Measure FLICKER?",
+      "paragraphs": [],
+      "bullets": [
+        "Flicker Frequencies from few Hz to 70-100 Hz can be percieved by Humans and long exposure to light flicker causes headaches, migraines, increase eye strain and attention distraction.",
+        "Flicker impact workplace comfort and effectiveness while reducing visual task performance and productivity."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is measured?",
+      "paragraphs": [],
+      "bullets": [
+        "IESNA has defined two primary quantities used to characterize flicker Flicker Index"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Flicker Percentage",
+      "paragraphs": [
+        "Flicker quantification is accomplished with a combination of photo diodes, high speed analog circuits, and high sample rate analog to digital (A/D) converters."
+      ],
+      "bullets": [
+        "Fundamental Flicker frequency is also commonly captured"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "SIMPLE PERIODIC WAVEFORM PROPERTIES and FLICKER METRICS",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/flicker-test-on-led-luminaries/9764eaf209f4.webp",
+          "alt": "SIMPLE PERIODIC WAVEFORM PROPERTIES and FLICKER METRICS"
+        }
+      ]
+    },
+    {
+      "heading": "Instrument to measure Flicker metrics",
+      "paragraphs": [
+        "Instrument to measure Flicker metrics",
+        "ITC India Pvt Ltd is a NABL and BIS approved LAb for Luminaries. We have all kind of testing facility to test luminaries under one roof. We have the facility to generate report in 24 hrs time. We will be happy to serve you. For any information write at b.vig@itcindia.org or visit <a href=\"/\">www.itcindia.org</a>"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/flicker-test-on-led-luminaries/cfd899628cd6.webp",
+          "alt": "Instrument to measure Flicker metrics"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/flicker-test-on-led-luminaries/422df129ebee.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/flicker-test-on-led-luminaries/9764eaf209f4.webp",
+      "alt": "SIMPLE PERIODIC WAVEFORM PROPERTIES and FLICKER METRICS"
+    },
+    {
+      "src": "/images/migrated/flicker-test-on-led-luminaries/cfd899628cd6.webp",
+      "alt": "Instrument to measure Flicker metrics"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/flicker-test-on-led-luminaries/422df129ebee.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/flicker-test-on-led-luminaries/9764eaf209f4.webp",
+      "alt": "SIMPLE PERIODIC WAVEFORM PROPERTIES and FLICKER METRICS"
+    },
+    {
+      "src": "/images/migrated/flicker-test-on-led-luminaries/cfd899628cd6.webp",
+      "alt": "Instrument to measure Flicker metrics"
+    }
+  ],
+  "relatedLinks": []
+}

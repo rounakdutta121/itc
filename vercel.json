@@ -1,5 +1,540 @@
 {
+  "redirects": [
+    {
+      "source": "/jss-55555-testing",
+      "destination": "/jss-55555",
+      "permanent": true
+    },
+    {
+      "source": "/salt-spray-testing",
+      "destination": "/salt-testing",
+      "permanent": true
+    },
+    {
+      "source": "/major-tests-facility-2",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/understanding-quality-of-masks",
+      "destination": "/face-mask-testing-lab",
+      "permanent": true
+    },
+    {
+      "source": "/electro-medical-equipments-testing",
+      "destination": "/iec-60601-testing",
+      "permanent": true
+    },
+    {
+      "source": "/emc-testing-for-electronic-and-electrical-products",
+      "destination": "/emc-emi-testing",
+      "permanent": true
+    },
+    {
+      "source": "/atex-certification",
+      "destination": "/atex-testing-certification",
+      "permanent": true
+    },
+    {
+      "source": "/rohs-testing-and-certification",
+      "destination": "/rohs-testing",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-g-mark-certification",
+      "destination": "/g-mark-certification/,",
+      "permanent": true
+    },
+    {
+      "source": "/g-mark-and-ce-mark-certification",
+      "destination": "/g-mark-certification/,",
+      "permanent": true
+    },
+    {
+      "source": "/lm-79-testing-laboratory",
+      "destination": "/lm-79-testing",
+      "permanent": true
+    },
+    {
+      "source": "/nerve-and-muscle-stimulator-testing-as-per-iec-60601-2-10",
+      "destination": "/iec-60601-2-10",
+      "permanent": true
+    },
+    {
+      "source": "/lm-79-testing-laboratory-in-india",
+      "destination": "/lm-79-testing/:",
+      "permanent": true
+    },
+    {
+      "source": "/is-iec-60529-1-degrees-of-protection",
+      "destination": "/ip-testing-procedure/,",
+      "permanent": true
+    },
+    {
+      "source": "/consumer-household-and-commercial-appliance-equipment-testing",
+      "destination": "/household",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-2-7-domestic-washing-machine-testing",
+      "destination": "/washing-machine-safety-testing",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-ip",
+      "destination": "/ip-testing-procedure/,",
+      "permanent": true
+    },
+    {
+      "source": "/variable-message-signs-vms",
+      "destination": "/en-12966-testing",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-iec-60601-1",
+      "destination": "/iec-60601-1",
+      "permanent": true
+    },
+    {
+      "source": "/ce-marking-of-face-mask",
+      "destination": "/face-mask-testing-lab",
+      "permanent": true
+    },
+    {
+      "source": "/free-testing-for-ventilators-as-per-iso-80601-2-12-iec-60601-1",
+      "destination": "/iec-80601-2-12-certification-for-critical-care-ventilators",
+      "permanent": true
+    },
+    {
+      "source": "/testing-services-core-areas-2",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/vertical-road-signs-and-variable-message-signs-testing",
+      "destination": "/en-12966-testing",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-12-electric-warming-plates-testing",
+      "destination": "/iec-60335-2-12-warming-plate-testing-india",
+      "permanent": true
+    },
+    {
+      "source": "/6420-2",
+      "destination": "/biodegradability",
+      "permanent": true
+    },
+    {
+      "source": "/jss-5855-11-testing-2",
+      "destination": "/jss-5855-11-testing",
+      "permanent": true
+    },
+    {
+      "source": "/emc-testing",
+      "destination": "/emc-emi-testing",
+      "permanent": true
+    },
+    {
+      "source": "/biodegradability-testing",
+      "destination": "/biodegradability",
+      "permanent": true
+    },
+    {
+      "source": "/uv-light-bulbs-testing",
+      "destination": "/testing-of-uv-light-bulbs",
+      "permanent": true
+    },
+    {
+      "source": "/calibration-of-eletrical-fast-transients",
+      "destination": "/calibration-of-electrical-fast-transients",
+      "permanent": true
+    },
+    {
+      "source": "/thermopile-pyranometer-calibration",
+      "destination": "/calibration-of-pyranometer/,",
+      "permanent": true
+    },
+    {
+      "source": "/recalibrate-pyranometer",
+      "destination": "/calibration-of-pyranometer/,",
+      "permanent": true
+    },
+    {
+      "source": "/calibration-of-pyranometer-in-nabl-scope",
+      "destination": "/calibration-of-pyranometer/,",
+      "permanent": true
+    },
+    {
+      "source": "/why-iec-60601",
+      "destination": "/iec-60601-1/,",
+      "permanent": true
+    },
+    {
+      "source": "/en-60204-1-safety-of-machinery",
+      "destination": "/iec-60204-1-testing",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60204-1-safety-of-machinery-electrical-equipment-of-machines-lab",
+      "destination": "/iec-60204-1-testing",
+      "permanent": true
+    },
+    {
+      "source": "/household-equipment-testing",
+      "destination": "/household",
+      "permanent": true
+    },
+    {
+      "source": "/home-solutions-for-product-development-service-enhancement-under-iec-60335-standards",
+      "destination": "/household",
+      "permanent": true
+    },
+    {
+      "source": "/ingress-protection-ip-testing",
+      "destination": "/ip-testing-laboratory-india",
+      "permanent": true
+    },
+    {
+      "source": "/medical-bed-testing",
+      "destination": "/iec-60601-2-52-the-safety-standard-for-medical-beds",
+      "permanent": true
+    },
+    {
+      "source": "/mixer-grinder-testing",
+      "destination": "/electrical-kitchen-machine-testing",
+      "permanent": true
+    },
+    {
+      "source": "/testing-of-electric-food-mixers-grinders-is-4250",
+      "destination": "/electrical-kitchen-machine-testing",
+      "permanent": true
+    },
+    {
+      "source": "/mixing-and-stirring-laboratory-equipment-testing-as-per-standard-iec-61010-2-051",
+      "destination": "/iec-61010-2-051-testing",
+      "permanent": true
+    },
+    {
+      "source": "/patient-monitor-testing-is-13450-part-2-sec-49-iec-80601-2-49-iso-80601-2-49",
+      "destination": "/iec-80601-2-49-testing",
+      "permanent": true
+    },
+    {
+      "source": "/ventilators-testing-lab-iso-80601-2-12",
+      "destination": "/iec-80601-2-12-certification-for-critical-care-ventilators",
+      "permanent": true
+    },
+    {
+      "source": "/testing-of-commercial-refrigerators-freezers-60035-2-24",
+      "destination": "/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing",
+      "permanent": true
+    },
+    {
+      "source": "/safety-of-laser-products-bs-en-60825-1iec-60825-42022rlv",
+      "destination": "/laser-testing-iec-60825-1",
+      "permanent": true
+    },
+    {
+      "source": "/recycling-testing",
+      "destination": "/recyclability-test",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-2-3-is-302-2-3-electric-iron-testing",
+      "destination": "/iec-60335-2-3-safety-testing-india",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-2-24",
+      "destination": "/iec-60335-2-24-safety-testing-india",
+      "permanent": true
+    },
+    {
+      "source": "/drone-information-security-testing-complete-client-guide-itc",
+      "destination": "/drone-information-security-testing/,",
+      "permanent": true
+    },
+    {
+      "source": "/chemical-testing-services",
+      "destination": "/chemical-testing-and-analysis/,",
+      "permanent": true
+    },
+    {
+      "source": "/photobiological-safety-of-lamps-and-lamp-systems",
+      "destination": "/iec-62471-photobiological-safety-of-lamps-and-lamp-systems/,",
+      "permanent": true
+    },
+    {
+      "source": "/jss-55555-testing/",
+      "destination": "/jss-55555",
+      "permanent": true
+    },
+    {
+      "source": "/salt-spray-testing/",
+      "destination": "/salt-testing",
+      "permanent": true
+    },
+    {
+      "source": "/major-tests-facility-2/",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/understanding-quality-of-masks/",
+      "destination": "/face-mask-testing-lab",
+      "permanent": true
+    },
+    {
+      "source": "/electro-medical-equipments-testing/",
+      "destination": "/iec-60601-testing",
+      "permanent": true
+    },
+    {
+      "source": "/emc-testing-for-electronic-and-electrical-products/",
+      "destination": "/emc-emi-testing",
+      "permanent": true
+    },
+    {
+      "source": "/atex-certification/",
+      "destination": "/atex-testing-certification",
+      "permanent": true
+    },
+    {
+      "source": "/rohs-testing-and-certification/",
+      "destination": "/rohs-testing",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-g-mark-certification/",
+      "destination": "/g-mark-certification/,",
+      "permanent": true
+    },
+    {
+      "source": "/g-mark-and-ce-mark-certification/",
+      "destination": "/g-mark-certification/,",
+      "permanent": true
+    },
+    {
+      "source": "/lm-79-testing-laboratory/",
+      "destination": "/lm-79-testing",
+      "permanent": true
+    },
+    {
+      "source": "/nerve-and-muscle-stimulator-testing-as-per-iec-60601-2-10/",
+      "destination": "/iec-60601-2-10",
+      "permanent": true
+    },
+    {
+      "source": "/lm-79-testing-laboratory-in-india/",
+      "destination": "/lm-79-testing/:",
+      "permanent": true
+    },
+    {
+      "source": "/is-iec-60529-1-degrees-of-protection/",
+      "destination": "/ip-testing-procedure/,",
+      "permanent": true
+    },
+    {
+      "source": "/consumer-household-and-commercial-appliance-equipment-testing/",
+      "destination": "/household",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-2-7-domestic-washing-machine-testing/",
+      "destination": "/washing-machine-safety-testing",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-ip/",
+      "destination": "/ip-testing-procedure/,",
+      "permanent": true
+    },
+    {
+      "source": "/variable-message-signs-vms/",
+      "destination": "/en-12966-testing",
+      "permanent": true
+    },
+    {
+      "source": "/what-is-iec-60601-1/",
+      "destination": "/iec-60601-1",
+      "permanent": true
+    },
+    {
+      "source": "/ce-marking-of-face-mask/",
+      "destination": "/face-mask-testing-lab",
+      "permanent": true
+    },
+    {
+      "source": "/free-testing-for-ventilators-as-per-iso-80601-2-12-iec-60601-1/",
+      "destination": "/iec-80601-2-12-certification-for-critical-care-ventilators",
+      "permanent": true
+    },
+    {
+      "source": "/testing-services-core-areas-2/",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/vertical-road-signs-and-variable-message-signs-testing/",
+      "destination": "/en-12966-testing",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-12-electric-warming-plates-testing/",
+      "destination": "/iec-60335-2-12-warming-plate-testing-india",
+      "permanent": true
+    },
+    {
+      "source": "/6420-2/",
+      "destination": "/biodegradability",
+      "permanent": true
+    },
+    {
+      "source": "/jss-5855-11-testing-2/",
+      "destination": "/jss-5855-11-testing",
+      "permanent": true
+    },
+    {
+      "source": "/emc-testing/",
+      "destination": "/emc-emi-testing",
+      "permanent": true
+    },
+    {
+      "source": "/biodegradability-testing/",
+      "destination": "/biodegradability",
+      "permanent": true
+    },
+    {
+      "source": "/uv-light-bulbs-testing/",
+      "destination": "/testing-of-uv-light-bulbs",
+      "permanent": true
+    },
+    {
+      "source": "/calibration-of-eletrical-fast-transients/",
+      "destination": "/calibration-of-electrical-fast-transients",
+      "permanent": true
+    },
+    {
+      "source": "/thermopile-pyranometer-calibration/",
+      "destination": "/calibration-of-pyranometer/,",
+      "permanent": true
+    },
+    {
+      "source": "/recalibrate-pyranometer/",
+      "destination": "/calibration-of-pyranometer/,",
+      "permanent": true
+    },
+    {
+      "source": "/calibration-of-pyranometer-in-nabl-scope/",
+      "destination": "/calibration-of-pyranometer/,",
+      "permanent": true
+    },
+    {
+      "source": "/why-iec-60601/",
+      "destination": "/iec-60601-1/,",
+      "permanent": true
+    },
+    {
+      "source": "/en-60204-1-safety-of-machinery/",
+      "destination": "/iec-60204-1-testing",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60204-1-safety-of-machinery-electrical-equipment-of-machines-lab/",
+      "destination": "/iec-60204-1-testing",
+      "permanent": true
+    },
+    {
+      "source": "/household-equipment-testing/",
+      "destination": "/household",
+      "permanent": true
+    },
+    {
+      "source": "/home-solutions-for-product-development-service-enhancement-under-iec-60335-standards/",
+      "destination": "/household",
+      "permanent": true
+    },
+    {
+      "source": "/ingress-protection-ip-testing/",
+      "destination": "/ip-testing-laboratory-india",
+      "permanent": true
+    },
+    {
+      "source": "/medical-bed-testing/",
+      "destination": "/iec-60601-2-52-the-safety-standard-for-medical-beds",
+      "permanent": true
+    },
+    {
+      "source": "/mixer-grinder-testing/",
+      "destination": "/electrical-kitchen-machine-testing",
+      "permanent": true
+    },
+    {
+      "source": "/testing-of-electric-food-mixers-grinders-is-4250/",
+      "destination": "/electrical-kitchen-machine-testing",
+      "permanent": true
+    },
+    {
+      "source": "/mixing-and-stirring-laboratory-equipment-testing-as-per-standard-iec-61010-2-051/",
+      "destination": "/iec-61010-2-051-testing",
+      "permanent": true
+    },
+    {
+      "source": "/patient-monitor-testing-is-13450-part-2-sec-49-iec-80601-2-49-iso-80601-2-49/",
+      "destination": "/iec-80601-2-49-testing",
+      "permanent": true
+    },
+    {
+      "source": "/ventilators-testing-lab-iso-80601-2-12/",
+      "destination": "/iec-80601-2-12-certification-for-critical-care-ventilators",
+      "permanent": true
+    },
+    {
+      "source": "/testing-of-commercial-refrigerators-freezers-60035-2-24/",
+      "destination": "/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing",
+      "permanent": true
+    },
+    {
+      "source": "/safety-of-laser-products-bs-en-60825-1iec-60825-42022rlv/",
+      "destination": "/laser-testing-iec-60825-1",
+      "permanent": true
+    },
+    {
+      "source": "/recycling-testing/",
+      "destination": "/recyclability-test",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-2-3-is-302-2-3-electric-iron-testing/",
+      "destination": "/iec-60335-2-3-safety-testing-india",
+      "permanent": true
+    },
+    {
+      "source": "/iec-60335-2-24/",
+      "destination": "/iec-60335-2-24-safety-testing-india",
+      "permanent": true
+    },
+    {
+      "source": "/drone-information-security-testing-complete-client-guide-itc/",
+      "destination": "/drone-information-security-testing/,",
+      "permanent": true
+    },
+    {
+      "source": "/chemical-testing-services/",
+      "destination": "/chemical-testing-and-analysis/,",
+      "permanent": true
+    },
+    {
+      "source": "/photobiological-safety-of-lamps-and-lamp-systems/",
+      "destination": "/iec-62471-photobiological-safety-of-lamps-and-lamp-systems/,",
+      "permanent": true
+    }
+  ],
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
 }

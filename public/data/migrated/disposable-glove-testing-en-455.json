@@ -1,0 +1,220 @@
+{
+  "hero": "/images/page-heroes/disposable-glove-testing-en-455.webp",
+  "heroPortrait": "/images/page-heroes/disposable-glove-testing-en-455-portrait.webp",
+  "generatedIntro": "/images/page-sections/disposable-glove-testing-en-455-s1.webp",
+  "generatedMid": "/images/page-sections/disposable-glove-testing-en-455-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/disposable-glove-testing-en-455-s1.webp",
+    "/images/page-sections/disposable-glove-testing-en-455-s2.webp",
+    "/images/page-sections/disposable-glove-testing-en-455-s3.webp",
+    "/images/page-sections/disposable-glove-testing-en-455-s4.webp",
+    "/images/page-sections/disposable-glove-testing-en-455-s5.webp",
+    "/images/page-sections/disposable-glove-testing-en-455-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "CTR",
+  "note": "0 / 3 | 357 | few links | CTR FIX – 118 impr. at pos 8, 0 clicks",
+  "slug": "disposable-glove-testing-en-455",
+  "path": "/disposable-glove-testing-en-455",
+  "source": "https://www.itcindia.org/disposable-glove-testing-en-455/",
+  "ok": true,
+  "title": "Disposable Glove Testing - EN 455 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Gloves are used against any microorganisms and harmful chemical exposure used as a protection. Disposable Glove Testing - EN 455 covers all types of gloves.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Disposable Glove Testing – EN 455 is used against any microorganisms and it is also used as a protection against any harmful chemical exposure.",
+        "Disposable Glove also known as latex gloves, exam gloves, nitrile gloves and surgical gloves."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is Disposable Glove Testing – EN 455?",
+      "paragraphs": [
+        "The Disposable Glove Testing – EN 455 specifies the requirements and test methods for the physical properties of medical disposable gloves. To ensure an sufficient level of protection from contamination of both the patient and the user. The disposable glove must have a minimum dimension of 240 mm.",
+        "Disposable gloves are tested to make sure they have a high level of resistance from penetration. It should be strong enough to resist sharp objects, chemicals, bacteria, viruses, fungi, etc. As well as being comfortable enough so they do not obstruct with normal hand function.",
+        "EN 455-2 specifies the flexibility test requirements of single-use disposable gloves. The glove flexibility strength and stretchability are important parameters of a glove’s quality and performance. Different glove materials have a different durability force at which they will break to ensure an acceptable performance."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Type",
+            "Force at Break"
+          ],
+          "rows": [
+            [
+              "Surgical Gloves",
+              "9 N"
+            ],
+            [
+              "Examination Gloves",
+              "6 N"
+            ],
+            [
+              "Thermoplastic Gloves",
+              "3.6 N"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Requirements needed for Disposable gloves Testing- EN 455",
+      "paragraphs": [
+        "This Disposable Glove Testing – EN 455 covers all types of disposable gloves. whether it is sterile and non-sterile and in all types of material, including latex, vinyl, and nitrile.",
+        "As a glove has to pass EN 455 testing it has to pass thorough a set of tasks. which is just as tough as any other standard. It should be tested when people’s lives are at risk. It is to save your time from chase through endless rules and regulations. There are some requirements such as:-"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The standard specifies requirements for",
+      "paragraphs": [
+        "Also standard EN 374 testing covers protective gloves against dangerous chemicals and microorganisms."
+      ],
+      "bullets": [
+        "Liquid tightness",
+        "Physical properties",
+        "Biocompatibility",
+        "Shelf-life"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/disposable-glove-testing-en-455/55d5095f8c80.webp",
+          "alt": "Disposable Glove Testing - EN 455"
+        }
+      ]
+    },
+    {
+      "heading": "The standard specifies requirements for",
+      "paragraphs": [
+        "In addition, basic requirements are set for various specifications such as dimensions, marking, storage, touch, flexibility, etc."
+      ],
+      "bullets": [
+        "Performance",
+        "Resistance to permeation",
+        "Resistance to permeation by chemicals"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/disposable-glove-testing-en-455/55d5095f8c80.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/disposable-glove-testing-en-455/55d5095f8c80.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

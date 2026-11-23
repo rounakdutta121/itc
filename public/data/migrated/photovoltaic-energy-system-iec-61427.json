@@ -1,0 +1,188 @@
+{
+  "hero": "/images/page-heroes/photovoltaic-energy-system-iec-61427.webp",
+  "heroPortrait": "/images/page-heroes/photovoltaic-energy-system-iec-61427-portrait.webp",
+  "generatedIntro": "/images/page-sections/photovoltaic-energy-system-iec-61427-s1.webp",
+  "generatedMid": "/images/page-sections/photovoltaic-energy-system-iec-61427-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/photovoltaic-energy-system-iec-61427-s1.webp",
+    "/images/page-sections/photovoltaic-energy-system-iec-61427-s2.webp",
+    "/images/page-sections/photovoltaic-energy-system-iec-61427-s3.webp",
+    "/images/page-sections/photovoltaic-energy-system-iec-61427-s4.webp",
+    "/images/page-sections/photovoltaic-energy-system-iec-61427-s5.webp",
+    "/images/page-sections/photovoltaic-energy-system-iec-61427-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "81 | thin | EXPAND – linked from home product families",
+  "slug": "photovoltaic-energy-system-iec-61427",
+  "path": "/photovoltaic-energy-system-iec-61427",
+  "source": "https://www.itcindia.org/photovoltaic-energy-system-iec-61427/",
+  "ok": true,
+  "title": "Photovoltaic Energy System IEC 61427 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "The International Electrotechnical Commission (IEC) 61427 is a standard for photovoltaic (PV) energy systems. PV testing in lab is used to ensure the safety and quality of PV systems. Thank you for reading this post, don't forget to subscribe! The standard defines the requirements for PV system testing, including: the type of equipment used, the…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "The International Electrotechnical Commission (IEC) 61427 is a standard for photovoltaic (PV) energy systems. PV testing in lab is used to ensure the safety and quality of PV systems."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/photovoltaic-energy-system-iec-61427/99b26d513e4a.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "The standard defines the requirements for PV system testing, including:",
+      "paragraphs": [
+        "This testing in testing lab defines the requirements for the design, installation and operation of photovoltaic energy systems."
+      ],
+      "bullets": [
+        "the type of equipment used,",
+        "the test procedures,",
+        "the acceptable limits for PV system performance."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/photovoltaic-energy-system-iec-61427/671e1920dd02.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/photovoltaic-energy-system-iec-61427/bcbe0838e302.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/photovoltaic-energy-system-iec-61427/99b26d513e4a.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/photovoltaic-energy-system-iec-61427/671e1920dd02.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/photovoltaic-energy-system-iec-61427/bcbe0838e302.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/photovoltaic-energy-system-iec-61427/99b26d513e4a.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/photovoltaic-energy-system-iec-61427/671e1920dd02.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/photovoltaic-energy-system-iec-61427/bcbe0838e302.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

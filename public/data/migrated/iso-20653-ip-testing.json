@@ -1,0 +1,363 @@
+{
+  "hero": "/images/page-heroes/iso-20653-ip-testing.webp",
+  "heroPortrait": "/images/page-heroes/iso-20653-ip-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iso-20653-ip-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iso-20653-ip-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iso-20653-ip-testing-s1.webp",
+    "/images/page-sections/iso-20653-ip-testing-s2.webp",
+    "/images/page-sections/iso-20653-ip-testing-s3.webp",
+    "/images/page-sections/iso-20653-ip-testing-s4.webp",
+    "/images/page-sections/iso-20653-ip-testing-s5.webp",
+    "/images/page-sections/iso-20653-ip-testing-s6.webp",
+    "/images/page-sections/iso-20653-ip-testing-s7.webp",
+    "/images/page-sections/iso-20653-ip-testing-s8.webp",
+    "/images/page-sections/iso-20653-ip-testing-s9.webp",
+    "/images/page-sections/iso-20653-ip-testing-s10.webp",
+    "/images/page-sections/iso-20653-ip-testing-s11.webp",
+    "/images/page-sections/iso-20653-ip-testing-s12.webp",
+    "/images/page-sections/iso-20653-ip-testing-s13.webp",
+    "/images/page-sections/iso-20653-ip-testing-s14.webp",
+    "/images/page-sections/iso-20653-ip-testing-s15.webp",
+    "/images/page-sections/iso-20653-ip-testing-s16.webp"
+  ],
+  "category": "ip",
+  "action": "ADD",
+  "note": "1062 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iso-20653-ip-testing",
+  "path": "/iso-20653-ip-testing",
+  "source": "https://www.itcindia.org/iso-20653-ip-testing/",
+  "ok": true,
+  "title": "ISO 20653 IP Testing Lab for Automotive",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 20653:2023 IP testing in India for automotive electrical enclosures. Evaluate IP5K, IP6K, IPX9K, dust, water and access protection with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Electrical and electronic components installed in road vehicles can be exposed to dust, dirt, rain, splashing water, pressure washing and other environmental conditions throughout their service life. Enclosures must therefore provide an appropriate level of protection for sensitive electrical parts.",
+        "ITC India provides ISO 20653 IP testing for automotive electrical and electronic equipment, helping manufacturers evaluate enclosure protection against foreign objects, dust, water ingress and access to hazardous parts.",
+        "The current published standard is ISO 20653:2023, Edition 3, titled Road vehicles — Degrees of protection (IP code) — Protection of electrical equipment against foreign objects, water and access.",
+        "Manufacturers requiring broader ingress-protection capabilities can also review ITC India’s <a href=\"/ip-testing-laboratory-india\">IP Testing Laboratory in India</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-20653-ip-testing/005ea43ef3ae.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is ISO 20653?",
+      "paragraphs": [
+        "ISO 20653 defines degrees of protection provided by enclosures of electrical equipment used in road vehicles."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The standard addresses three principal areas",
+      "paragraphs": [
+        "The standard also establishes test methods used to determine whether an enclosure satisfies the claimed degree of protection.",
+        "Unlike general IEC 60529 IP classifications, ISO 20653 contains K-designated protection levels developed specifically for road-vehicle applications."
+      ],
+      "bullets": [
+        "Protection of equipment against foreign objects, including dust",
+        "Protection of persons against access to hazardous parts",
+        "Protection of equipment against harmful effects caused by water ingress"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products That May Require ISO 20653 Testing",
+      "paragraphs": [
+        "ISO 20653 testing may be relevant to many automotive electrical and electronic products, including:",
+        "The required IP rating should be determined from the product specification, installation location, vehicle manufacturer requirements and expected environmental exposure."
+      ],
+      "bullets": [
+        "Electronic control units",
+        "Automotive sensors",
+        "Lighting assemblies",
+        "Electrical connectors",
+        "Battery-related electrical enclosures",
+        "Vehicle control modules",
+        "Cameras and electronic monitoring equipment",
+        "Switches and control panels",
+        "Electric vehicle electronic components",
+        "Exterior electrical assemblies"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ISO 20653 IP Ratings",
+      "paragraphs": [
+        "ISO 20653 uses an IP classification structure similar to IEC 60529 but introduces additional automotive-specific requirements.",
+        "Common classifications manufacturers may encounter include IP5KX and IP6KX for protection against foreign objects and dust, along with water-protection categories such as IPX4K, IPX6K and IPX9K.",
+        "A complete product requirement may combine solid-object and water protection classifications depending on the installation environment.",
+        "For example, components installed under a vehicle, near wheel areas or in other exposed locations may require stronger protection than electronics installed inside the passenger compartment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IPX9K High-Pressure Water Testing",
+      "paragraphs": [
+        "One of the important areas associated with ISO 20653 is IPX9K testing, which evaluates resistance to high-pressure and high-temperature water exposure under conditions defined by the standard.",
+        "This requirement can be particularly relevant to vehicle components that may be exposed to intensive cleaning or harsh road conditions.",
+        "The 2023 edition of ISO 20653 introduced technical revisions relating to the IPX9K test procedure and test setup.",
+        "For products requiring high-pressure water ingress evaluation, manufacturers can also review ITC India’s <a href=\"/ip69k-protection-rating-testing\">IP69K Protection Rating Testing</a> capabilities.",
+        "The exact applicable code and test method should always be confirmed from the governing product or OEM specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ISO 20653 vs IEC 60529",
+      "paragraphs": [
+        "ISO 20653 and IEC 60529 both use IP codes to classify protection provided by enclosures, but they should not automatically be treated as interchangeable standards.",
+        "IEC 60529 provides the widely used general ingress-protection classification for electrical enclosures.",
+        "ISO 20653, however, is specifically intended for electrical equipment used in road vehicles and includes K-designated requirements that address automotive applications.",
+        "Manufacturers working with general electrical products can review ITC India’s detailed <a href=\"/ip-testing-procedure\">IP Testing Procedure under IEC 60529</a> for an explanation of dust, water and enclosure test methods.",
+        "Where an automotive customer or technical specification explicitly requires ISO 20653, the product should be tested against the required ISO 20653 classification rather than assuming an IEC 60529 rating is sufficient."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Dust and Foreign-Object Protection Testing",
+      "paragraphs": [
+        "Automotive components installed in exposed areas may encounter dust and other foreign objects during normal vehicle operation.",
+        "Depending on the specified degree of protection, testing can assess whether the enclosure prevents unacceptable ingress and whether internal electrical components remain adequately protected.",
+        "Enclosure joints, seals, cable entries, connectors, ventilation points, fasteners and assembly methods can all influence test performance.",
+        "Manufacturers should therefore submit samples in the representative production configuration."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Water Ingress Testing",
+      "paragraphs": [
+        "Water exposure can occur through rain, road spray, vehicle washing and other environmental conditions.",
+        "ISO 20653 includes several water-protection levels designed to evaluate enclosure performance under defined exposure conditions.",
+        "Before testing, manufacturers should specify the required IP code, intended mounting position, operating condition and any accessories or connectors that form part of the complete enclosure."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Environmental Testing for Automotive Components",
+      "paragraphs": [
+        "Ingress protection is often only one part of an automotive environmental validation program.",
+        "Depending on product requirements, electrical and electronic components may also need evaluation for temperature, humidity, vibration, shock or other environmental stresses.",
+        "Manufacturers planning broader qualification programs can review ITC India’s <a href=\"/environmental-testing-services\">Environmental Testing Laboratory services</a> alongside ISO 20653 ingress-protection testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Before submitting a product, manufacturers should provide",
+      "paragraphs": [
+        "Providing these details helps establish the correct test configuration before laboratory evaluation begins."
+      ],
+      "bullets": [
+        "Required ISO 20653 IP classification",
+        "Product dimensions and enclosure details",
+        "Intended vehicle installation location",
+        "Mounting orientation",
+        "Electrical operating condition",
+        "Connector and cable configuration",
+        "Drawings or technical specifications",
+        "Customer or OEM test requirements",
+        "Applicable acceptance criteria"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ISO 20653 Testing Support from ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers of automotive electrical and electronic equipment with ingress-protection and environmental testing.",
+        "Testing can be planned according to the required ISO 20653 classification, enclosure configuration and relevant customer specification.",
+        "To discuss ISO 20653, IP5K, IP6K, IPX9K or related automotive ingress-protection requirements, submit your product details through the <a href=\"/contact-us/inquiry\">ITC India Testing &amp; Certification Inquiry</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is ISO 20653?",
+      "paragraphs": [
+        "ISO 20653 specifies ingress-protection classifications and test requirements for enclosures of electrical equipment used in road vehicles."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current version of ISO 20653?",
+      "paragraphs": [
+        "The current published edition is ISO 20653:2023, Edition 3. ISO 20653:2013 has been withdrawn."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What does the K mean in ISO 20653 IP ratings?",
+      "paragraphs": [
+        "The K identifies special protection requirements used for road-vehicle applications. These K-designated requirements distinguish ISO 20653 from the general IEC 60529 IP system."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IPX9K testing?",
+      "paragraphs": [
+        "IPX9K evaluates enclosure resistance to high-pressure, high-temperature water exposure under conditions specified by ISO 20653."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is ISO 20653 the same as IEC 60529?",
+      "paragraphs": [
+        "No. The standards are related, but ISO 20653 is specifically intended for road vehicles and includes automotive-specific K classifications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What products can be tested to ISO 20653?",
+      "paragraphs": [
+        "Typical products include automotive sensors, ECUs, connectors, lighting equipment, cameras, control modules, EV components and other vehicle-mounted electrical or electronic enclosures."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iso-20653-ip-testing/005ea43ef3ae.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iso-20653-ip-testing/005ea43ef3ae.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

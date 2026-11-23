@@ -1,0 +1,164 @@
+{
+  "hero": "/images/page-heroes/corrosion-testing.webp",
+  "heroPortrait": "/images/page-heroes/corrosion-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/corrosion-testing-s1.webp",
+  "generatedMid": "/images/page-sections/corrosion-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/corrosion-testing-s1.webp",
+    "/images/page-sections/corrosion-testing-s2.webp",
+    "/images/page-sections/corrosion-testing-s3.webp",
+    "/images/page-sections/corrosion-testing-s4.webp",
+    "/images/page-sections/corrosion-testing-s5.webp",
+    "/images/page-sections/corrosion-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "152 | no meta, thin | LOW: expand; link to salt spray pages",
+  "slug": "corrosion-testing",
+  "path": "/corrosion-testing",
+  "source": "https://www.itcindia.org/corrosion-testing/",
+  "ok": true,
+  "title": "Corrosion Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Salt Spray Testing Salt Spray Test Method is widely used method to determine and evaluate the strength of corrosion resistance of metals and coated surface. This test has gained worldwide popularity due to low cost and quick results. The Test is conducted as its name indicate with salt. A Standardize Test Chamber is used to…Read More+",
+  "sections": [
+    {
+      "heading": "Salt Spray Testing",
+      "paragraphs": [
+        "Salt Spray Test Method is widely used method to determine and evaluate the strength of corrosion resistance of metals and coated surface. This test has gained worldwide popularity due to low cost and quick results. The Test is conducted as its name indicate with salt. A Standardize Test Chamber is used to produce the corrosion environment with the help of temperature and humidity. 5% of Nacl is Used to Produce this corrosive environment as per standard.",
+        "Typical coatings that can be evaluated with this method are:"
+      ],
+      "bullets": [
+        "Phosphated (pre-treated) surfaces (with subsequent paint/primer/lacquer/rust preventive)",
+        "Zinc and zinc-alloy plating Electroplated chromium, nickel, copper, tin",
+        "Organic coatings, such as rust preventives"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/corrosion-testing/2ac86bc9e420.jpg",
+          "alt": "Corrosion testing"
+        }
+      ]
+    },
+    {
+      "heading": "ASTM G85",
+      "paragraphs": [
+        "The ITC India Pvt. Ltd. has been assessed by NABL and meets the requirement of ISO 17025:2017."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/corrosion-testing/2ac86bc9e420.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/corrosion-testing/2ac86bc9e420.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "hero": "/images/page-heroes/rdso-photometry-testing-led-luminaries.webp",
+  "heroPortrait": "/images/page-heroes/rdso-photometry-testing-led-luminaries-portrait.webp",
+  "generatedIntro": "/images/page-sections/rdso-photometry-testing-led-luminaries-s1.webp",
+  "generatedMid": "/images/page-sections/rdso-photometry-testing-led-luminaries-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s1.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s2.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s3.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s4.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s5.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s6.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s7.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s8.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s9.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s10.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s11.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s12.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s13.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s14.webp",
+    "/images/page-sections/rdso-photometry-testing-led-luminaries-s15.webp"
+  ],
+  "category": "photometry",
+  "action": "ADD",
+  "note": "968 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "rdso-photometry-testing-led-luminaries",
+  "path": "/rdso-photometry-testing-led-luminaries",
+  "source": "https://www.itcindia.org/rdso-photometry-testing-led-luminaries/",
+  "ok": true,
+  "title": "RDSO Photometry Testing for LED Luminaires",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "RDSO photometry testing in India for railway LED luminaires. Test luminous flux, efficacy, lux, CCT, CRI and light distribution with ITC India support.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides RDSO photometry testing for LED luminaires intended for use in Indian Railways passenger coaches and related railway applications. Photometric testing evaluates whether a luminaire produces the required quantity, quality and distribution of visible light while operating under defined electrical conditions.",
+        "Railway LED luminaires are used in passenger compartments, corridors, doorways, gangways, lavatories, reading-light locations and indication applications. Their performance cannot be evaluated only by checking rated wattage. Measurements such as luminous flux, illumination, colour characteristics and light distribution are important for confirming that the lighting system performs as required for its intended location.",
+        "Manufacturers requiring complete RDSO qualification can also review ITC India’s <a href=\"/vibration-testing/rdso-tl-0091\">RDSO TL 0091 testing services</a> for railway LED luminaires."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/rdso-photometry-testing-led-luminaries/e6e6518ad04f.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is RDSO Photometry Testing?",
+      "paragraphs": [
+        "Photometry is the measurement of visible light as perceived by the human eye. In railway applications, photometric testing helps establish whether an LED luminaire provides adequate and consistent illumination for passengers and railway staff.",
+        "Depending on the applicable RDSO specification, luminaire type, drawing and test schedule, measurements may include luminous flux, luminous efficacy, illuminance, luminous intensity distribution, correlated colour temperature, colour rendering index and chromaticity.",
+        "ITC India provides broader <a href=\"/what-is-photometry-testing\">photometry testing services</a> using laboratory equipment designed for optical and photometric measurements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Photometric Parameters Evaluated",
+      "paragraphs": [
+        "A railway LED luminaire may require evaluation of several optical characteristics.",
+        "Luminous flux: measured in lumens, it represents the total amount of visible light produced by the luminaire.",
+        "Luminous efficacy: expressed in lumens per watt, it indicates how effectively electrical power is converted into visible light.",
+        "Illuminance: measured in lux, it indicates the amount of light reaching a defined surface or working plane. Illumination measurements are particularly important where passenger-area, reading or corridor lighting requirements are specified.",
+        "Luminous intensity distribution: shows how light is distributed at different angles. This helps determine whether the luminaire directs light appropriately for its intended railway installation.",
+        "Correlated Colour Temperature (CCT): describes the visual appearance of the light and is normally expressed in Kelvin.",
+        "Colour Rendering Index (CRI): indicates how accurately the light source renders colours compared with a reference source.",
+        "Chromaticity coordinates and other colour characteristics may also be measured where required by the applicable specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Integrating Sphere Testing",
+      "paragraphs": [
+        "An integrating sphere can be used to measure the total luminous flux of LED luminaires and other light sources under controlled conditions. The system collects light emitted in different directions, allowing total light output and related parameters to be determined.",
+        "ITC India also provides <a href=\"/lm-79-testing\">LM-79 testing for LED lighting products</a>, including measurements such as luminous flux, efficacy, CCT, CRI and colour coordinates.",
+        "Although RDSO testing and LM-79 testing serve different compliance purposes, the underlying photometric measurement principles can be relevant when characterising LED luminaire performance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Goniophotometer Testing and Light Distribution",
+      "paragraphs": [
+        "A goniophotometer measures luminous intensity at different angles around the luminaire. The resulting data helps engineers understand the light-distribution pattern produced by the fitting.",
+        "For railway lighting, distribution is important because excessive concentration of light can create glare, while poor distribution may result in dark areas or insufficient illumination.",
+        "Light-distribution measurements can therefore support the evaluation of passenger-area, corridor, doorway and reading-light luminaires according to the applicable RDSO requirement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "RDSO TL 0091 and Railway LED Luminaires",
+      "paragraphs": [
+        "RDSO/PE/SPEC/TL/0091 covers energy-efficient LED based luminaire units for passenger coaches. Current railway procurement documents reference the 2026 revision for several types of coach lighting.",
+        "The applicable test requirements depend on the luminaire type, drawing, wattage and procurement specification. Manufacturers should therefore confirm the current RDSO specification, revision, drawing and acceptance criteria before finalising the test programme.",
+        "Photometry is only one part of railway LED luminaire qualification. ITC India also provides <a href=\"/rdso-environmental-testing-for-led-based-luminaries\">RDSO environmental testing for LED luminaires</a> where climatic and environmental evaluation is required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Related Electrical and Environmental Testing",
+      "paragraphs": [
+        "Railway LED products may require more than optical evaluation. Drivers, wiring, enclosures and mounting systems may need electrical, environmental, mechanical and EMC testing depending on the applicable specification.",
+        "ITC India provides <a href=\"/led-driver-and-lamp-control-gear-testing\">LED driver and lamp control gear testing</a> as well as <a href=\"/luminaries-led-product-testing\">luminaire and LED product testing</a>.",
+        "For mechanical railway qualification, manufacturers can also use ITC India’s <a href=\"/vibration-testing/iec-61373\">IEC 61373 vibration testing</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for RDSO Photometry Testing",
+      "paragraphs": [
+        "To plan testing, manufacturers should provide the LED luminaire type, rated wattage, operating voltage, RDSO specification and revision, applicable drawing, required photometric parameters, operating conditions, sample quantity and defined acceptance criteria.",
+        "Providing the exact railway drawing and purchase specification helps ensure that the correct measurements and test conditions are selected."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India supports photometric, electrical and environmental evaluation of lighting products. Its photometry facilities include integrating-sphere and goniophotometric measurement capabilities for evaluating LED lighting performance.",
+        "Combining related tests within a coordinated programme can help manufacturers prepare railway luminaires for technical evaluation and procurement requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request RDSO Photometry Testing",
+      "paragraphs": [
+        "For RDSO photometry testing of LED railway luminaires, <a href=\"/contact-us/inquiry\">send your testing requirement to ITC India</a> with the luminaire model, RDSO specification, drawing, electrical rating and required test parameters."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is RDSO photometry testing?",
+      "paragraphs": [
+        "RDSO photometry testing evaluates the optical performance of LED luminaires used in railway applications according to the applicable RDSO specification and drawing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What photometric parameters can be measured?",
+      "paragraphs": [
+        "Depending on the requirement, testing may include luminous flux, luminous efficacy, illuminance, luminous intensity distribution, CCT, CRI and chromaticity."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the difference between lumen and lux?",
+      "paragraphs": [
+        "Lumens measure the total visible light produced by a source, while lux measures the amount of light falling on a defined surface area."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why is CRI important for railway LED lighting?",
+      "paragraphs": [
+        "CRI indicates how accurately colours appear under a light source. It helps assess the visual quality of LED lighting where colour perception is relevant."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is photometry the only testing required for RDSO LED luminaires?",
+      "paragraphs": [
+        "No. Depending on the applicable RDSO specification, additional electrical, environmental, vibration, shock, EMC, enclosure-protection and endurance tests may also be required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/rdso-photometry-testing-led-luminaries/e6e6518ad04f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/rdso-photometry-testing-led-luminaries/e6e6518ad04f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

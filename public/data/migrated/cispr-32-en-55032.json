@@ -1,0 +1,131 @@
+{
+  "hero": "/images/page-heroes/cispr-32-en-55032.webp",
+  "heroPortrait": "/images/page-heroes/cispr-32-en-55032-portrait.webp",
+  "generatedIntro": "/images/page-sections/cispr-32-en-55032-s1.webp",
+  "generatedMid": "/images/page-sections/cispr-32-en-55032-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cispr-32-en-55032-s1.webp",
+    "/images/page-sections/cispr-32-en-55032-s2.webp",
+    "/images/page-sections/cispr-32-en-55032-s3.webp",
+    "/images/page-sections/cispr-32-en-55032-s4.webp",
+    "/images/page-sections/cispr-32-en-55032-s5.webp",
+    "/images/page-sections/cispr-32-en-55032-s6.webp"
+  ],
+  "category": "emc",
+  "action": "EXPAND",
+  "note": "0 / 1 | 237 | thin, 8 img no alt | EXPAND – keep text, add 400+ words",
+  "slug": "cispr-32-en-55032",
+  "path": "/cispr-32-en-55032",
+  "source": "https://www.itcindia.org/cispr-32-en-55032/",
+  "ok": true,
+  "title": "CISPR 32/ EN 55032 Multimedia Equipment Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "CISPR 32 is a discrete standard formed for Multimedia Equipment having a rated AC or DC supply voltage not exceeding 600 V, but equipment within the scope of CISPR 22 or CISPR 13 is also within the scope of this publication.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cispr-32-en-55032/2a64615f5f18.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "CISPR 32/ EN 55032",
+      "paragraphs": [
+        "CISPR 32 is a discrete standard formed for Multimedia Equipment having a rated AC or DC supply voltage not exceeding 600 V, but equipment within the scope of CISPR 22 or CISPR 13 is also within the scope of this publication. It incorporates a range of functions which include those in ITE (Information technology), broadcasting, audio, and video equipment. It also includes entertainment lighting control equipment.",
+        "In this contemporary world, ITE performs many different functions, features, and capability which were assessed by different compliance standards but now CISPR 32 is a single standard which addresses the case where all different features are integrated instead of having separate compliance standards. This standard is adopted by the European Union."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Two classes of End-User Terminal Equipment Under Test EUT (Class A and Class B) are considered.",
+      "paragraphs": [],
+      "bullets": [
+        "To establish requirements which provide an adequate level of protection of the radio spectrum allowing radio services to operate as intended in the frequency range 9 kHz to 400 GHz;",
+        "To specify procedures to ensure the reproducibility of measurement and the repeatability of results."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Test set up",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cispr-32-en-55032/49d4630fca89.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Radiated Emissions below 1 GHz",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cispr-32-en-55032/6e53d51d63cf.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Radiated Emissions above 1 GHz",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cispr-32-en-55032/74dbe3e47e3a.png",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/cispr-32-en-55032/2a64615f5f18.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/cispr-32-en-55032/49d4630fca89.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/cispr-32-en-55032/6e53d51d63cf.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/cispr-32-en-55032/74dbe3e47e3a.png",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/cispr-32-en-55032/2a64615f5f18.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/cispr-32-en-55032/49d4630fca89.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/cispr-32-en-55032/6e53d51d63cf.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/cispr-32-en-55032/74dbe3e47e3a.png",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

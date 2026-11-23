@@ -1,0 +1,38 @@
+{
+  "hero": "/images/page-heroes/thank-you.webp",
+  "heroPortrait": "/images/page-heroes/thank-you-portrait.webp",
+  "generatedIntro": "/images/page-sections/thank-you-s1.webp",
+  "generatedMid": "/images/page-sections/thank-you-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/thank-you-s1.webp",
+    "/images/page-sections/thank-you-s2.webp",
+    "/images/page-sections/thank-you-s3.webp",
+    "/images/page-sections/thank-you-s4.webp",
+    "/images/page-sections/thank-you-s5.webp",
+    "/images/page-sections/thank-you-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "60 | thin | NOINDEX (keep live)",
+  "slug": "thank-you",
+  "path": "/thank-you",
+  "source": "https://www.itcindia.org/thank-you/",
+  "ok": true,
+  "title": "Thank You - Electrical Safety Testing Laboratory",
+  "h1": "Thank You",
+  "description": "Institute Of Testing & Certification India Pvt. Ltd You have successfully subscribed to the newsletter. You’ll receive a confirmation email in few minutes. Please follow the link in it to confirm your subscription. If the email takes more than 15 minutes to appear in your mailbox, please check your spam folder.Thank you for reading this…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "You have successfully subscribed to the newsletter. You’ll receive a confirmation email in few minutes. Please follow the link in it to confirm your subscription. If the email takes more than 15 minutes to appear in your mailbox, please check your spam folder."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

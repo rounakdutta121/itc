@@ -1,4 +1,11 @@
-import { BrowserRouter, Navigate, Route, Routes, useParams } from 'react-router-dom'
+import {
+  BrowserRouter,
+  Navigate,
+  Route,
+  Routes,
+  useLocation,
+  useParams,
+} from 'react-router-dom'
 import { SiteLayout } from './components/SiteLayout'
 import { HomePage } from './pages/HomePage'
 import { VibrationTestingPage } from './pages/VibrationTestingPage'
@@ -9,11 +16,21 @@ import { SaltStandardPage } from './pages/SaltStandardPage'
 import { Jss55555Page } from './pages/Jss55555Page'
 import { AboutPage } from './pages/AboutPage'
 import { PlaceholderPage } from './pages/PlaceholderPage'
+import { MigratedPage } from './pages/MigratedPage'
+import { GonePage } from './pages/GonePage'
 import { getVibrationStandardDetail } from './data/vibration'
 import { getSaltStandardDetail } from './data/salt'
+import {
+  migratedDeletes,
+  migratedPaths,
+  migratedRedirects,
+} from './data/migratedIndex'
 import './styles/global.css'
 import './styles/factory-patterns.css'
 import './styles/responsive.css'
+
+const migratedPathSet = new Set<string>(migratedPaths as readonly string[])
+const deleteSet = new Set<string>(migratedDeletes as readonly string[])
 
 function VibrationStandardRoute() {
   const { standard } = useParams()
@@ -29,6 +46,14 @@ function SaltStandardRoute() {
     return <SaltStandardPage />
   }
   return <PlaceholderPage title="Salt fog standard" />
+}
+
+function MigratedCatchAll() {
+  const { pathname } = useLocation()
+  const path = pathname.replace(/\/$/, '') || '/'
+  if (deleteSet.has(path)) return <GonePage />
+  if (migratedPathSet.has(path)) return <MigratedPage />
+  return <PlaceholderPage />
 }
 
 export default function App() {
@@ -58,19 +83,25 @@ export default function App() {
           />
           <Route path="jss-55555" element={<Jss55555Page />} />
           <Route path="about-us" element={<AboutPage />} />
-          <Route
-            path="about-us/:slug"
-            element={<PlaceholderPage title="About Us" />}
-          />
-          <Route path="products" element={<PlaceholderPage title="Products" />} />
-          <Route path="services" element={<PlaceholderPage title="Testing Services" />} />
-          <Route path="contact-us" element={<PlaceholderPage title="Contact Us" />} />
-          <Route
-            path="contact-us/:slug"
-            element={<PlaceholderPage title="Contact Us" />}
-          />
-          <Route path="careers" element={<PlaceholderPage title="Career in ITC" />} />
-          <Route path="*" element={<Navigate to="/" replace />} />
+
+          {migratedRedirects.map((r) => (
+            <Route
+              key={`redir-${r.from}`}
+              path={r.from.replace(/^\//, '')}
+              element={<Navigate to={r.to} replace />}
+            />
+          ))}
+
+          {migratedDeletes.map((d) => (
+            <Route
+              key={`gone-${d}`}
+              path={d.replace(/^\//, '')}
+              element={<GonePage />}
+            />
+          ))}
+
+          {/* Explicit migrated leaf + nested paths via splat */}
+          <Route path="*" element={<MigratedCatchAll />} />
         </Route>
       </Routes>
     </BrowserRouter>

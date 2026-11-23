@@ -1,0 +1,318 @@
+{
+  "hero": "/images/page-heroes/ip69k-protection-rating-testing.webp",
+  "heroPortrait": "/images/page-heroes/ip69k-protection-rating-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip69k-protection-rating-testing-s1.webp",
+  "generatedMid": "/images/page-sections/ip69k-protection-rating-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip69k-protection-rating-testing-s1.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s2.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s3.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s4.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s5.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s6.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s7.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s8.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s9.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s10.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s11.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s12.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s13.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s14.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s15.webp",
+    "/images/page-sections/ip69k-protection-rating-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "977 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "ip69k-protection-rating-testing",
+  "path": "/ip69k-protection-rating-testing",
+  "source": "https://www.itcindia.org/ip69k-protection-rating-testing/",
+  "ok": true,
+  "title": "IP69K Testing Lab in India | ISO 20653",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IP69K testing for dust-tight protection and high-pressure, high-temperature water jets. ISO 20653 ingress protection testing support from ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IP69K testing evaluates whether an enclosure can withstand demanding exposure to dust and high-pressure, high-temperature water jets. This type of ingress protection testing is particularly relevant for equipment that may undergo intensive wash-down or cleaning in harsh service environments.",
+        "ITC India provides ingress protection testing support for manufacturers of electrical, electronic, automotive and industrial products requiring assessment against specified IP protection requirements.",
+        "The term IP69K is widely used to describe a very high level of enclosure protection against dust and powerful hot-water jets. For road-vehicle electrical equipment, the relevant K-classification requirements are covered by ISO 20653. Manufacturers working with automotive applications can review ITC India’s dedicated <a href=\"/iso-20653-ip-testing\">ISO 20653 IP testing services</a>.",
+        "For general ingress protection classifications, visit the <a href=\"/ip-testing-laboratory-india\">IP Testing Laboratory in India</a> page."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/ip69k-protection-rating-testing/746b1d723005.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does an IP69K Rating Mean?",
+      "paragraphs": [
+        "An IP69K-type classification is intended for equipment requiring a high level of resistance to solid-particle ingress and severe water-jet exposure.",
+        "The first characteristic numeral 6 represents a dust-tight level of enclosure protection. This means the enclosure is evaluated to prevent dust ingress under the applicable test conditions.",
+        "The water-protection portion relates to resistance against close-range, high-pressure and high-temperature water jets. This is significantly more demanding than ordinary dripping, splashing or conventional water-jet tests.",
+        "For road vehicles, manufacturers should carefully distinguish between commonly used terminology such as IP69K and the K-coded classifications defined by ISO 20653, including IPX9K and combinations such as IP6K9K where applicable."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How Is IP69K Testing Performed?",
+      "paragraphs": [
+        "The exact test programme depends on the applicable standard, product type, required classification and intended use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Dust Protection Testing",
+      "paragraphs": [
+        "Where dust-tight protection is required, the enclosure is evaluated under the applicable solid-particle test conditions. Seals, covers, joints, cable glands, connectors and ventilation points can all influence the final performance.",
+        "Dust testing is especially important for products containing sensitive electronics, electrical contacts or mechanical components that could be affected by contaminant ingress."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "High-Pressure and High-Temperature Water-Jet Testing",
+      "paragraphs": [
+        "The water test subjects the enclosure to powerful heated water jets directed at the product under controlled test conditions.",
+        "Depending on the applicable standard, the specimen is exposed from specified directions and positions using defined nozzle distance, water temperature, flow, pressure and exposure requirements.",
+        "The purpose is to determine whether water penetrates the enclosure in a quantity that causes unacceptable effects or compromises the required protection.",
+        "Because test conditions vary between standards and applications, manufacturers should provide the exact required standard rather than requesting only a generic “IP69K test.”"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IP69K vs IP66, IP67 and IP68",
+      "paragraphs": [
+        "IP ratings should not be treated simply as a single ladder where every higher number automatically replaces all lower classifications.",
+        "For example, <a href=\"/ip-66-ingress-protection-testing\">IP66 testing</a> evaluates dust-tight protection and powerful water jets under its applicable test conditions.",
+        "<a href=\"/ip-67-waterproof-testing\">IP67 waterproof testing</a> adds a temporary immersion requirement rather than a high-temperature wash-down test.",
+        "Similarly, <a href=\"/ip-68-upto-5bar-testing\">IP68 testing up to specified pressure conditions</a> relates to prolonged or continuous immersion requirements defined for the product.",
+        "IP69K/IPX9K testing, by contrast, focuses on resistance to severe high-pressure and high-temperature water-jet exposure.",
+        "A product may therefore require more than one IP classification when its intended environment includes both immersion and intensive wash-down."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products That May Require IP69K Testing",
+      "paragraphs": [
+        "High-pressure wash-down protection can be relevant to equipment operating in demanding automotive, transportation, industrial and outdoor environments.",
+        "Typical applications may include automotive sensors, vehicle-mounted electronics, connectors, lighting systems, cameras, control units, electrical enclosures, industrial instrumentation, machinery components and other equipment subjected to aggressive cleaning or severe environmental exposure.",
+        "For less severe water-jet requirements, manufacturers can also review <a href=\"/ip55-protection-rating-testing\">IP55 protection rating testing</a> and <a href=\"/ip56-protection-rating-testing\">IP56 protection rating testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Is IP69K Testing Important?",
+      "paragraphs": [
+        "Equipment used in harsh environments may be exposed to dust, mud, water, cleaning equipment and temperature changes throughout its service life.",
+        "If an enclosure does not provide adequate protection, water or contaminants can reach electrical connections and internal components, potentially contributing to corrosion, insulation deterioration, short circuits, malfunction or premature failure.",
+        "IP69K testing helps manufacturers assess enclosure design under controlled laboratory conditions before production approval or deployment.",
+        "Testing can also help identify weaknesses in seals, gaskets, joints, cable entries, connectors and enclosure interfaces so corrective design changes can be made before field use."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required Before IP69K Testing",
+      "paragraphs": [
+        "To define the correct test programme, provide ITC India with the product name and model, enclosure dimensions, applicable standard, required IP classification, mounting orientation and relevant technical drawings.",
+        "For automotive products, specify whether testing is required according to ISO 20653 and provide the exact IP code stated in the product or customer specification.",
+        "Details about connectors, cable glands, covers, seals and operating conditions should also be supplied where relevant.",
+        "Submit your product specifications through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry</a> page for review."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IP69K testing?",
+      "paragraphs": [
+        "IP69K testing is commonly used to describe testing of enclosures for dust protection and resistance to severe high-pressure, high-temperature water jets."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP69K the same as IP68?",
+      "paragraphs": [
+        "No. IP68 principally relates to immersion protection under specified conditions, while IP69K-type testing evaluates resistance to high-pressure and high-temperature water jets."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP69K waterproof?",
+      "paragraphs": [
+        "IP69K indicates a very high level of protection against specified water-jet exposure, but manufacturers should avoid using “waterproof” without defining the actual test condition and intended application."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which standard covers IP69K or IPX9K testing?",
+      "paragraphs": [
+        "For road-vehicle electrical equipment, ISO 20653 defines K-coded ingress protection requirements, including IPX9K. The applicable product or customer specification should always be confirmed before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What does the 6 mean in IP69K?",
+      "paragraphs": [
+        "The first characteristic numeral 6 represents a dust-tight level of protection."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What products commonly need high-pressure water-jet testing?",
+      "paragraphs": [
+        "Automotive electronics, sensors, connectors, cameras, vehicle lighting, industrial control equipment and enclosures exposed to intensive wash-down may require this type of testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How do I request IP69K testing from ITC India?",
+      "paragraphs": [
+        "Send the required IP classification, applicable standard, product dimensions, mounting details and technical documentation to ITC India so the correct test conditions can be reviewed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/ip69k-protection-rating-testing/746b1d723005.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/ip69k-protection-rating-testing/746b1d723005.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

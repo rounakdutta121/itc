@@ -1,0 +1,442 @@
+{
+  "hero": "/images/page-heroes/en-301-489-19-testing.webp",
+  "heroPortrait": "/images/page-heroes/en-301-489-19-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/en-301-489-19-testing-s1.webp",
+  "generatedMid": "/images/page-sections/en-301-489-19-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/en-301-489-19-testing-s1.webp",
+    "/images/page-sections/en-301-489-19-testing-s2.webp",
+    "/images/page-sections/en-301-489-19-testing-s3.webp",
+    "/images/page-sections/en-301-489-19-testing-s4.webp",
+    "/images/page-sections/en-301-489-19-testing-s5.webp",
+    "/images/page-sections/en-301-489-19-testing-s6.webp",
+    "/images/page-sections/en-301-489-19-testing-s7.webp",
+    "/images/page-sections/en-301-489-19-testing-s8.webp",
+    "/images/page-sections/en-301-489-19-testing-s9.webp",
+    "/images/page-sections/en-301-489-19-testing-s10.webp",
+    "/images/page-sections/en-301-489-19-testing-s11.webp",
+    "/images/page-sections/en-301-489-19-testing-s12.webp",
+    "/images/page-sections/en-301-489-19-testing-s13.webp",
+    "/images/page-sections/en-301-489-19-testing-s14.webp",
+    "/images/page-sections/en-301-489-19-testing-s15.webp",
+    "/images/page-sections/en-301-489-19-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "601 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "en-301-489-19-testing",
+  "path": "/en-301-489-19-testing",
+  "source": "https://www.itcindia.org/en-301-489-19-testing/",
+  "ok": true,
+  "title": "EN 301 489-19 Testing for GNSS Devices",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "EN 301 489-19 V2.2.1 EMC testing services for GNSS receivers. Complete compliance support for CE marking under the Radio Equipment Directive.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "EN 301 489-19 V2.2.1 testing applies to Global Navigation Satellite System (GNSS) receivers operating under the Radio Equipment Directive (RED). This standard defines electromagnetic compatibility (EMC) requirements specifically for equipment such as GPS, Galileo, GLONASS, and BeiDou receivers.",
+        "At ITC India, we conduct EN 301 489-19 V2.2.1 testing to ensure your GNSS-enabled devices meet European compliance requirements before CE marking.",
+        "For general EMC framework requirements, this standard must be read together with 👉 EN 301 489-1 (EMC common requirements for radio equipment)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/en-301-489-19-testing/cc93528b3d02.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What is EN 301 489-19?",
+      "paragraphs": [
+        "EN 301 489-19 is a product-specific EMC standard developed by 👉 European Telecommunications Standards Institute (ETSI)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "It applies to",
+      "paragraphs": [],
+      "bullets": [
+        "Standalone GNSS receivers",
+        "Integrated GNSS modules",
+        "Navigation systems",
+        "Automotive GPS units",
+        "Tracking and telematics devices",
+        "Marine navigation equipment"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The standard ensures that GNSS equipment",
+      "paragraphs": [],
+      "bullets": [
+        "Does not generate excessive electromagnetic disturbances",
+        "Remains immune to external electromagnetic interference"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why EN 301 489-19 Testing is Important",
+      "paragraphs": [
+        "GNSS receivers operate with very weak satellite signals. Even small electromagnetic disturbances can affect positioning accuracy."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Therefore, compliance ensures",
+      "paragraphs": [],
+      "bullets": [
+        "Stable signal reception",
+        "Reliable navigation performance",
+        "Protection against interference",
+        "Market access in the European Union",
+        "Smooth CE certification under the Radio Equipment Directive"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Key Test Requirements Under EN 301 489-19 V2.2.1",
+      "paragraphs": [
+        "Testing is performed along with EN 301 489-1 requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Emission Tests",
+      "paragraphs": [],
+      "bullets": [
+        "Radiated emissions",
+        "Conducted emissions",
+        "Harmonic current emissions",
+        "Voltage fluctuations and flicker"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Immunity Tests",
+      "paragraphs": [
+        "For related residential immunity testing, you may also refer to: 👉 <a href=\"/iec-61000-6-1-emc-testing\">https://www.itcindia.org/iec-61000-6-1-emc-testing/</a>",
+        "For emission testing in residential environments: 👉 https://www.itcindia.org/iec-61000-6-3-emc-testing/",
+        "IEC 60601-1-2 (if medical GNSS device) <a href=\"/iec-60601-1-2-emc-testing\">https://www.itcindia.org/iec-60601-1-2-emc-testing/</a>"
+      ],
+      "bullets": [
+        "Electrostatic discharge (ESD)",
+        "Radiated RF immunity",
+        "Conducted RF immunity",
+        "Electrical fast transients (EFT)",
+        "Surge immunity",
+        "Voltage dips and interruptions"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-19 vs EN 301 489-1 – Comparison Table",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Parameter",
+            "EN 301 489-1",
+            "EN 301 489-19"
+          ],
+          "rows": [
+            [
+              "Type",
+              "Generic EMC Standard",
+              "Product-Specific EMC Standard"
+            ],
+            [
+              "Applies To",
+              "All radio equipment",
+              "GNSS receivers only"
+            ],
+            [
+              "Scope",
+              "Common EMC requirements",
+              "GNSS-specific performance criteria"
+            ],
+            [
+              "Used Alone?",
+              "No",
+              "Must be read with EN 301 489-1"
+            ],
+            [
+              "Under RED?",
+              "Yes",
+              "Yes"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "EN 301 489-19 vs IEC 61000-6-1 – Quick Difference",
+      "paragraphs": [
+        "This comparison helps manufacturers understand which pathway applies to their product."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Feature",
+            "EN 301 489-19",
+            "IEC 61000-6-1"
+          ],
+          "rows": [
+            [
+              "Region",
+              "Europe",
+              "International"
+            ],
+            [
+              "Directive",
+              "Radio Equipment Directive",
+              "EMC Directive"
+            ],
+            [
+              "Device Type",
+              "GNSS radio receivers",
+              "Residential/Commercial equipment"
+            ],
+            [
+              "Radio Testing Included",
+              "Yes",
+              "No"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Our EN 301 489-19 Testing Process",
+      "paragraphs": [
+        "At ITC India, we follow a structured and transparent process:",
+        "We ensure minimal test delays and clear communication throughout the project."
+      ],
+      "bullets": [
+        "Product evaluation and document review",
+        "Test plan preparation",
+        "Pre-compliance assessment (optional but recommended)",
+        "Full EMC testing",
+        "Technical file documentation support",
+        "Final test report for CE marking"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Makes ITC India Different?",
+      "paragraphs": [
+        "Most labs only perform testing. We go beyond testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Unique Support We Provide:",
+      "paragraphs": [
+        "✔ Pre-compliance design guidance ✔ Risk assessment for GNSS sensitivity ✔ Performance monitoring during immunity testing ✔ RED documentation guidance ✔ Faster turnaround time ✔ Clear fail-analysis support",
+        "Many laboratories do not evaluate GNSS positioning performance during EMC immunity stress. We monitor performance degradation and help identify root causes.",
+        "This reduces retesting time and certification delays."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Applications of EN 301 489-19 Testing",
+      "paragraphs": [],
+      "bullets": [
+        "Automotive navigation systems",
+        "Fleet tracking devices",
+        "Drone navigation modules",
+        "Marine GPS equipment",
+        "Industrial positioning systems",
+        "Telecom synchronization equipment"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "External Reference",
+      "paragraphs": [
+        "For official standard details, refer to: European Telecommunications Standards Institute (ETSI) https://www.etsi.org"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1. Is EN 301 489-19 mandatory for CE marking?",
+      "paragraphs": [
+        "Yes. GNSS radio receivers placed in the EU market must comply with this standard under the Radio Equipment Directive."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Is EN 301 489-1 also required?",
+      "paragraphs": [
+        "Yes. EN 301 489-19 must be read together with EN 301 489-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3. Does this testing include radio performance testing?",
+      "paragraphs": [
+        "No. EMC testing evaluates electromagnetic compatibility. Separate radio performance standards may apply."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4. How long does testing take?",
+      "paragraphs": [
+        "Typically 5–7 working days depending on product complexity."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "5. Can integrated GNSS modules be tested?",
+      "paragraphs": [
+        "Yes. Both standalone and integrated modules can be tested."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/en-301-489-19-testing/cc93528b3d02.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/en-301-489-19-testing/cc93528b3d02.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

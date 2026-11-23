@@ -1,0 +1,163 @@
+{
+  "hero": "/images/page-heroes/iec-60896-22-stationary-lead-acid-batteries-part-22.webp",
+  "heroPortrait": "/images/page-heroes/iec-60896-22-stationary-lead-acid-batteries-part-22-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s1.webp",
+    "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s2.webp",
+    "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s3.webp",
+    "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s4.webp",
+    "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s5.webp",
+    "/images/page-sections/iec-60896-22-stationary-lead-acid-batteries-part-22-s6.webp"
+  ],
+  "category": "battery",
+  "action": "LOW",
+  "note": "417 | 2 H1s | LOW: one H1; link to /battery-testing/",
+  "slug": "iec-60896-22-stationary-lead-acid-batteries-part-22",
+  "path": "/iec-60896-22-stationary-lead-acid-batteries-part-22",
+  "source": "https://www.itcindia.org/iec-60896-22-stationary-lead-acid-batteries-part-22/",
+  "ok": true,
+  "title": "IEC 60896-22 Stationary lead-acid batteries - Part 22",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60896-22 Stationary lead-acid batteries - Part 22, ITC India Pvt Ltd is India’s leading inspection, verification, testing and certification company.I",
+  "sections": [
+    {
+      "heading": "Valve regulated types – Requirements",
+      "paragraphs": [
+        "ITC India Pvt Ltd is India’s leading inspection, verification, testing and certification company.ITC is known world wide benchmark for quality and integrity. We believe in providing our customers best services and better guidance. ITC have an ability to turn client needs into comprehensive solutions with consistent service delivery. Please visit us at www.itcindia.org",
+        "Scope : This part of IEC 60896 bear to all stationary lead-acid cells and monobloc batteries of the valve regulated type for float charge applications, (i.e. permanently connected to a load and to a d.c. power supply), in a static location. These batteries are not generally intended to be moved from place to place and incorporated into stationary equipment or installed in battery rooms for use in telecom, UPS or similar applications.",
+        "Objective: The objective of this part of IEC 60896 is to guide the specifier in the understanding of the purpose of each test contained within IEC 60896-21 and provide instructions on a suitable requirement that will result in the battery meeting the needs of a particular industry application and operational condition. This standard is used in conjunction with the common test methods described in IEC 60896-21 and is associated with all types and construction of valve regulated stationary lead-acid cells and monoblocs used in standby power applications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "This standard does not applies to",
+      "paragraphs": [],
+      "bullets": [
+        "Lead acid cells & batteries used for vehicle engine starting applications",
+        "solar photovoltaic applications",
+        "general purpose applications (IEC 61056 series)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Functional test as per clause 6:",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Clause 6",
+            ""
+          ],
+          "rows": [
+            [
+              "SAFE OPERATION CHARACTERSTICS",
+              ""
+            ],
+            [
+              "6.1",
+              "Gas Emission"
+            ],
+            [
+              "6.2",
+              "High current tolerance"
+            ],
+            [
+              "6.3",
+              "Short Circuit Current and d.c Internal resistance"
+            ],
+            [
+              "6.4",
+              "Protection against internal ignition from external spark shocks"
+            ],
+            [
+              "6.5",
+              "Protection against ground short propensity"
+            ],
+            [
+              "6.6",
+              "Content and durability of required marking"
+            ],
+            [
+              "6.7",
+              "Material identification"
+            ],
+            [
+              "6.8",
+              "Valve operation"
+            ],
+            [
+              "6.9",
+              "Flammability rating of material"
+            ],
+            [
+              "6.10",
+              "Intercell connector performance"
+            ],
+            [
+              "PRODUCT PERFORMANCE IN SERVICE",
+              ""
+            ],
+            [
+              "6.11",
+              "Charge retention during storage"
+            ],
+            [
+              "6.12",
+              "Discharge capacity"
+            ],
+            [
+              "6.13",
+              "Float service with daily discharge"
+            ],
+            [
+              "6.14",
+              "Recharge behavior"
+            ],
+            [
+              "PRODUCT DURABILITY IN SERVICE",
+              ""
+            ],
+            [
+              "6.15",
+              "Service life at an operation temp of 40 °C"
+            ],
+            [
+              "6.16",
+              "Impact of a stress temperature of 55°C or 60 °C"
+            ],
+            [
+              "6.17",
+              "Abusive over discharge"
+            ],
+            [
+              "6.18",
+              "Thermal runaway sensitivity"
+            ],
+            [
+              "6.19",
+              "Low temperature sensitivity"
+            ],
+            [
+              "6.20",
+              "Dimensional stability at elevated internal pressure and temperature"
+            ],
+            [
+              "6.21",
+              "Stability against mechanical abuse of units during installation"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

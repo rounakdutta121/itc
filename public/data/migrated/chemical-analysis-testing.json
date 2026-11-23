@@ -1,0 +1,241 @@
+{
+  "hero": "/images/page-heroes/chemical-analysis-testing.webp",
+  "heroPortrait": "/images/page-heroes/chemical-analysis-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/chemical-analysis-testing-s1.webp",
+  "generatedMid": "/images/page-sections/chemical-analysis-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/chemical-analysis-testing-s1.webp",
+    "/images/page-sections/chemical-analysis-testing-s2.webp",
+    "/images/page-sections/chemical-analysis-testing-s3.webp",
+    "/images/page-sections/chemical-analysis-testing-s4.webp",
+    "/images/page-sections/chemical-analysis-testing-s5.webp",
+    "/images/page-sections/chemical-analysis-testing-s6.webp"
+  ],
+  "category": "emc",
+  "action": "ADD",
+  "note": "9 / 7 | 691 | – | KEEP – add link to /chemical-testing-and-analysis/",
+  "slug": "chemical-analysis-testing",
+  "path": "/chemical-analysis-testing",
+  "source": "https://www.itcindia.org/chemical-analysis-testing/",
+  "ok": true,
+  "title": "Chemical analysis testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Chemical analysis testing has become increasingly important in our modern world. Not only is it used to identify unknown compounds as well as to monitor the safety of products and processes.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Chemical analysis testing has become increasingly important in our modern world. Chemists use it not only to identify unknown compounds but also to measure the quality of both raw and finished materials and to monitor the safety of products and processes.",
+        "In this blog post, we will explore what chemical analysis testing is, why it is so vital for businesses, and how it can be used to obtain desired results. We will also look at some of the popular methods and techniques used in modern chemical analysis and how they can be employed for various research applications."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/chemical-analysis-testing/e1360ede57b2.webp",
+          "alt": "Chemical analysis testing"
+        }
+      ]
+    },
+    {
+      "heading": "What is chemical analysis testing?",
+      "paragraphs": [
+        "It refers to the process of analyzing a sample to determine its chemical composition.",
+        "A variety of methods, including spectroscopy, chromatography, and mass spectrometry, can do this."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The different types of chemical analysis tests",
+      "paragraphs": [
+        "Chemists can perform many different types of chemical analysis tests on a sample.",
+        "Probably, chemists use titration as the most common type of test to determine the concentration of a solution. Other common tests include spectroscopy, chromatography, and calorimetry."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/chemical-analysis-testing/ab87de540a76.webp",
+          "alt": "Chemical analysis testing"
+        }
+      ]
+    },
+    {
+      "heading": "Pros and cons of chemical analysis testing",
+      "paragraphs": [
+        "There are both pros and cons to chemical analysis testing. On the plus side, chemical analysis can provide accurate information about a substance’s composition. This can be extremely helpful in quality control and research settings.",
+        "Additionally, modern analytical techniques are often very sensitive and can detect trace levels of contaminants or impurities. On the downside, chemical analysis can be expensive and time-consuming, especially if multiple tests need to be run.",
+        "Furthermore, environmental factors such as humidity or temperature can affect the results, and some substances can pose difficulties during analysis."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How to choose the right chemical analysis test for you",
+      "paragraphs": [
+        "There are a few things to consider when choosing the right chemical analysis testing for you. The first is the type of sample you have. Is it a liquid, solid, or gas? The second is the type of analysis you need. Are you looking for trace elements, major constituents, or both? And finally, what is your budget? If someone has a liquid sample, their best option is likely to be inductively coupled plasma-mass spectrometry (ICP-MS). This type of test can give you very precise results for both trace and major elements. It is also relatively quick and inexpensive. If you have a solid sample, your best option will probably be x-ray fluorescence (XRF). This type of test is less precise than ICP-MS but it can still give you good results for both trace and major elements. It is also relatively quick and inexpensive. If you have a gas sample, your best option will likely be gas chromatography/mass spectrometry (GC/MS). This type of test can give you very precise results for both trace and major constituents. However, it is more expensive and time consuming than ICP-MS or XRF."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/chemical-analysis-testing/8008f68b8577.jpg",
+          "alt": "Chemical analysis testing"
+        }
+      ]
+    },
+    {
+      "heading": "Chemical analysis recipes",
+      "paragraphs": [
+        "It’s recipes are used to determine the composition of a substance.",
+        "The most common type of chemical analysis testing is titration, which is used to determine the concentration of a given substance in a sample.",
+        "Titration involves adding a known volume of a solution (titrant) to a sample until the desired reaction occurs. Scientists refer to the point at which the reaction occurs as the endpoint. Other common types of chemical analyses include spectroscopy, chromatography, and calorimetry. Scientists use spectroscopy to identify the presence and concentration of specific atoms or molecules in a sample.",
+        "Chromatography is used to separate different components in a sample so that they can be analyzed individually.",
+        "Chemists use calorimetry to measure the heat released or absorbed during a chemical reaction."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "Chemical analysis testing is important for many industries, including the food and beverage industry. It ensures that products are safe and of a high quality before they reach consumers.",
+        "By using these tests, companies can save money by avoiding costly recalls due to issues with their products. Chemical analysis testing is also essential for medical research and developing new treatments for diseases.",
+        "Overall, it plays an important role in maintaining consumer safety standards as well as furthering scientific progress."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/chemical-analysis-testing/8008f68b8577.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/chemical-analysis-testing/e1360ede57b2.webp",
+      "alt": "Chemical analysis testing"
+    },
+    {
+      "src": "/images/migrated/chemical-analysis-testing/ab87de540a76.webp",
+      "alt": "Chemical analysis testing"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/chemical-analysis-testing/8008f68b8577.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/chemical-analysis-testing/e1360ede57b2.webp",
+      "alt": "Chemical analysis testing"
+    },
+    {
+      "src": "/images/migrated/chemical-analysis-testing/ab87de540a76.webp",
+      "alt": "Chemical analysis testing"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

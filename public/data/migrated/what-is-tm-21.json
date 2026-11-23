@@ -1,0 +1,163 @@
+{
+  "hero": "/images/page-heroes/what-is-tm-21.webp",
+  "heroPortrait": "/images/page-heroes/what-is-tm-21-portrait.webp",
+  "generatedIntro": "/images/page-sections/what-is-tm-21-s1.webp",
+  "generatedMid": "/images/page-sections/what-is-tm-21-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/what-is-tm-21-s1.webp",
+    "/images/page-sections/what-is-tm-21-s2.webp",
+    "/images/page-sections/what-is-tm-21-s3.webp",
+    "/images/page-sections/what-is-tm-21-s4.webp",
+    "/images/page-sections/what-is-tm-21-s5.webp",
+    "/images/page-sections/what-is-tm-21-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 1 | 435 | 8 img no alt | KEEP",
+  "slug": "what-is-tm-21",
+  "path": "/what-is-tm-21",
+  "source": "https://www.itcindia.org/what-is-tm-21/",
+  "ok": true,
+  "title": "What is TM 21? How it is different from LM 80 and LM 79?",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "In this topic, we are going to discuss “What is TM 21”? “ How it is different from LM 80 and LM 79?” TM 21 uses the below data of LM 80 for calculation (Lumen maintenance)",
+  "sections": [
+    {
+      "heading": "In this topic, we are going to discuss “What is TM 21”? “ How it is different from LM 80 and LM 79?”",
+      "paragraphs": [
+        "LEDs, are alike other light sources, see their output decline over time. However, given the remarkably longer life of LEDs and the absence of visible signs indicating their decreasing performance, it can be more complex to accurately measure and communicate light output over time. To help address this issue, the Illuminating Engineering Society of North American (IESNA) and the Environmental Protection Agency (EPA) have put in place standards for reporting the useful lifetime of an LED package: LM-80 (Measuring Luminous Flux and Color Maintenance of LED Packages, Arrays and Modules) and TM-21(Projecting long term Lumen Maintenance of LED Light Sources).",
+        "TM-21 outlines a standard calculation method to predict future lumen depreciation using LM-80 data. This standards apply to lifetime projection of LED package, array or module alone."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "TM 21 uses the below data of LM 80 for calculation (Lumen maintenance)",
+      "paragraphs": [
+        "Lm 80 data"
+      ],
+      "bullets": [
+        "Sample size and calculation data",
+        "It is encourage to adopt short interval and long time data",
+        "Two calculations： At the same burning conditions",
+        "The temperature of the actual temperature testing point",
+        "The calculation from the same burning conditions data collection and pre-processing",
+        "calculation tool",
+        "results",
+        "same process at the different temperatures",
+        "The calculation from the actual temperature testing point – actual temperature is between two temperatures getting from the data for example let us have an Lm 80 data",
+        "Use all data LM 80 requires 6,000 hours with data at 1,000 hour increments",
+        "TM 21 applies all the test data at any increment",
+        "Normalize all data to 1 (100 %) at 0 hours",
+        "Average each point for all samples of the device for each test conditions Average is done for the simplicity of the application",
+        "Variance associated with multiple samples is not considered usable for projection."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/what-is-tm-21/528953c68347.png",
+          "alt": "Lm 80 data"
+        },
+        {
+          "src": "/images/migrated/what-is-tm-21/fda4ea482428.png",
+          "alt": "Sample Size"
+        }
+      ]
+    },
+    {
+      "heading": "Sample Size",
+      "paragraphs": [
+        "Step 3: Use latest data for curve fit",
+        "Step 4: Curve fit and projection",
+        "Adjust results (X- times rule)",
+        "ITC India Pvt Ltd is a NABL approved laboratory in Electrical, Electronics and photometry with a huge scope in all the fields. Please visit <a href=\"/\">www.itcindia.org</a> for scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/what-is-tm-21/08de67e9fa37.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/what-is-tm-21/6fd82a57fdc4.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/what-is-tm-21/e980bf685d15.png",
+          "alt": "Step 5: Adjust results (X- times rule)"
+        },
+        {
+          "src": "/images/migrated/what-is-tm-21/b38cbebea6e9.png",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/what-is-tm-21/c56a18733308.png",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/what-is-tm-21/528953c68347.png",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/fda4ea482428.png",
+      "alt": "Sample Size"
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/08de67e9fa37.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/6fd82a57fdc4.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/e980bf685d15.png",
+      "alt": "Step 5: Adjust results (X- times rule)"
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/b38cbebea6e9.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/c56a18733308.png",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/what-is-tm-21/528953c68347.png",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/fda4ea482428.png",
+      "alt": "Sample Size"
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/08de67e9fa37.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/6fd82a57fdc4.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/e980bf685d15.png",
+      "alt": "Step 5: Adjust results (X- times rule)"
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/b38cbebea6e9.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/what-is-tm-21/c56a18733308.png",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

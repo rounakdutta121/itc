@@ -1,0 +1,151 @@
+{
+  "hero": "/images/page-heroes/efficiency-test-method-iec-60034-2-1.webp",
+  "heroPortrait": "/images/page-heroes/efficiency-test-method-iec-60034-2-1-portrait.webp",
+  "generatedIntro": "/images/page-sections/efficiency-test-method-iec-60034-2-1-s1.webp",
+  "generatedMid": "/images/page-sections/efficiency-test-method-iec-60034-2-1-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/efficiency-test-method-iec-60034-2-1-s1.webp",
+    "/images/page-sections/efficiency-test-method-iec-60034-2-1-s2.webp",
+    "/images/page-sections/efficiency-test-method-iec-60034-2-1-s3.webp",
+    "/images/page-sections/efficiency-test-method-iec-60034-2-1-s4.webp",
+    "/images/page-sections/efficiency-test-method-iec-60034-2-1-s5.webp",
+    "/images/page-sections/efficiency-test-method-iec-60034-2-1-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "0 / 1 | 285 | thin | EXPAND – keep text, add 400+ words",
+  "slug": "efficiency-test-method-iec-60034-2-1",
+  "path": "/efficiency-test-method-iec-60034-2-1",
+  "source": "https://www.itcindia.org/efficiency-test-method-iec-60034-2-1/",
+  "ok": true,
+  "title": "Efficiency test method IEC 60034-2-1 / IS 15999 (Part 2/Sec 1)",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Efficiency test method  IEC 60034-2-1 / IS 15999 (Part 2/Sec 1) Rotating Electric Machine: IEC 60034 is introducing to establish methods of determining",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/efficiency-test-method-iec-60034-2-1/83e2d357a1ff.webp",
+          "alt": "Efficiency Test Method IEC 60034-2-1"
+        }
+      ]
+    },
+    {
+      "heading": "Applicable to:",
+      "paragraphs": [
+        "Rotating Electric Machine: IEC 60034 is introducing to establish methods of determining efficiencies from tests and also to specify methods of obtaining specific losses."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "C. Synchronous",
+      "paragraphs": [],
+      "bullets": [
+        "Induction Machine (All Size in scope IEC 60034)"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why high efficient Motors?",
+      "paragraphs": [],
+      "bullets": [
+        "Save energy",
+        "Reduce operation cost",
+        "Reduce harmful greenhouse gases"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Order of tests IEC 60034-2-1",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Step No.",
+            "Description"
+          ],
+          "rows": [
+            [
+              "1",
+              "First stator winding resistance measurement at ambient temperature"
+            ],
+            [
+              "2",
+              "Remove accessible drive end sealing elements (without dismantling the motor)"
+            ],
+            [
+              "3",
+              "Clause 6.4.4.1 Rated load temperature test"
+            ],
+            [
+              "4",
+              "Second stator winding resistance measurement (immediately after 6.4.4.1)"
+            ],
+            [
+              "5",
+              "Clause 6.4.4.2 and 6.4.5.3 Load curve test with torque measurement (immediately after 6.4.4.1)"
+            ],
+            [
+              "6",
+              "Third stator winding resistance measurement (immediately after 6.4.4.2 and 6.4.5.3)"
+            ],
+            [
+              "7",
+              "Clause 6.4.2 No load test (immediately after third stator winding resistance measurement)"
+            ],
+            [
+              "8",
+              "Fourth stator winding resistance measurement (immediately after 6.4.2)"
+            ],
+            [
+              "Determination of loss components must be performed in the following order"
+            ],
+            [
+              "9",
+              "Clause 8.2.2.3 Constant losses (8.2.2.3.1, 8.2.2.3.2 and 8.2.2.3.3) Constant losses to Clause 8.2.2.3.1 (Friction and windage losses: 8.2.2.3.2) (Iron losses: 8.2.2.3.3)"
+            ],
+            [
+              "10",
+              "Clause 8.2.2.4 Load losses (8.2.2.4.1.2 and 8.2.2.4.1.3) Load losses to Clause 8.2.2.4.1: (Stator and rotor winding losses s, including temp. correction) (8.2.2.4.1.2 and 8.2.2.4.1.3)"
+            ],
+            [
+              "11",
+              "Clause 8.2.2.5 Additional load losses (8.2.2.5.1 From a load test with torque measurement) Additional load losses to Clause 8.2.2.5.1 (Residual losses)"
+            ],
+            [
+              "12",
+              "Clause 8.2.2.2 Calculate total losses"
+            ],
+            [
+              "13",
+              "Clause 8.2.2.1 Calculate the efficiency"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/efficiency-test-method-iec-60034-2-1/83e2d357a1ff.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/efficiency-test-method-iec-60034-2-1/83e2d357a1ff.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

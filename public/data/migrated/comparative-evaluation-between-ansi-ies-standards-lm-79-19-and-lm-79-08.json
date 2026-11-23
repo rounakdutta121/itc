@@ -1,0 +1,209 @@
+{
+  "hero": "/images/page-heroes/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08.webp",
+  "heroPortrait": "/images/page-heroes/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-portrait.webp",
+  "generatedIntro": "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s1.webp",
+  "generatedMid": "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s1.webp",
+    "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s2.webp",
+    "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s3.webp",
+    "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s4.webp",
+    "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s5.webp",
+    "/images/page-sections/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08-s6.webp"
+  ],
+  "category": "photometry",
+  "action": "KEEP",
+  "note": "1028 | long title | KEEP – link to /lm-79-testing/",
+  "slug": "comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08",
+  "path": "/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08",
+  "source": "https://www.itcindia.org/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/",
+  "ok": true,
+  "title": "Comparative Evaluation between ANSI/IES Standards LM-79-19 and LM-79-08",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Below, we present the additions made by Standard LM-79-19. Unlike the LM-79-08, it emphasizes the accuracy...",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Regarding its structure, the document has changed significantly to match the structure of the approved IES Test Procedure Committee document. Below, we present the additions made by Standard LM-79-19."
+      ],
+      "bullets": [
+        "Unlike the LM-79-08, it emphasizes the accuracy of the measurements of all photometric parameters to be evaluated, incorporates and groups integrated LED lamps, integrated OLED lamps, non-integrated LED lamps operated with a controller designated by the Manufacturer identification number or by a defined ANSI reference circuit and LED light engines, all of which will be called SSL products or device under test (DUT).",
+        "It does not cover SSL products that require external heat sinks, nor does it cover components of SSL products, such as LED packages or LED arrays.",
+        "Add the definitions of Acceptance Interval (Interval of permissible measured quantity values), peak current crest factor (ratio of the absolute value of the maximum AC current divided by the RMS AC current) and Tolerance Interval allowed permissible values of a property.",
+        "Increase the tolerance range of ± 1.0 °C to ± 1.2 °C of the ambient temperature at which measurements are taken at 25 °C and the distance measured at a point of 1.0 m to no more than 1.5 m of the SSL product at the same height as the SSL product.",
+        "It adds in the goniometer air flow measurements that require movement of the device under test, a lower tolerance limit greater than 0.20 m/s in the instantaneous tangential velocity of any point in the DUT.",
+        "In Thermal Conditions for the assembly of SSL products add in support materials that have low thermal conductivity to polytetrafluoroethylene. It also points out that, although no specific requirements are established, in good laboratory practices they suggest that SSL products should not be subjected to excessive vibrations or shocks during stabilization, transport, assembly or testing. It also notes that, for goniometer measurements, scattered light must be suppressed in the test environment, through the appropriate use of low reflectance finishes on surfaces, shields and unfavorable areas",
+        "In addition the DC voltage regulation has been added in addition to the AC voltage regulation. Test circuit requirements are also added, to avoid the effects of voltage drops in cables or lampholders and requirements in the maximum resistance of the test circuit because a high resistance can alter the operation of SSL products. It is also noted that the capacitance of the test circuit, not including the power supply, must be less than 1.5 nanofarads (ɲF). Similarly, it is established that no reference circuit is necessary to test SSL products.",
+        "In relation to the Calibration of the electrical measuring instrument, it is established that all electrical measuring equipment must be calibrated and traceable to the International System of Units (SI) with values for the internal impedance of the voltage circuit, for accuracy of the alternating current meter, for the frequency range of the alternating",
+        "current analyzer, for total harmonic distortion measurements, DC voltage measurement and DC current measurement.",
+        "Regarding the Electrical Configurations, it is indicated that the DUT will operate at the nominal AC RMS voltage or nominal DC current according to the SSL product specification for normal use. In addition, parameters are established for a variety of existing configurations, especially in the field of influence of American standards.",
+        "In Preparation of Tests, it establishes guidelines for the identification and management of DUTs. It is warned that, while SSL products will be tested without adaptations, if they are intended to be a verification standard or a device for laboratory comparison, SSL products must work for at least 1,000 hours before being put into service. It is also established that measures will be taken prior to the operation and stabilization of the DUT so that it operates long enough to achieve photometric and electrical stabilization and temperature equilibrium. It also establishes guidelines for the operating position and orientation of DUTs and optical and electrical waveforms.",
+        "In Measurements of the total luminous flux and integrated optics, the concept of DUTs is also incorporated, avoiding the use of incandescent or fluorescent lamps. The use of the integrating sphere (4π or 2π) with types of detectors is repeated to make measurements: V (λ) corrected photometer head (sphere-photometer) and spectroradiometer (sphere-spectroradiometer) and expands with the use of photometers and spectroradiometers describing their characteristics with advantages and disadvantages in each case and development of self-absorption correction concepts to minimize uncertainty. In general, unlike the LM-79-08 Standard, the technical and mathematical concepts of the concepts are not developed and the practical and applicative aspect of the instruments and devices that integrate the corresponding measurement systems is emphasized.",
+        "In relation to Luminous Intensityor Angular Distribution Measurements, develops a simplified and practical way the procedures and characteristics of the devices and components such as photometers, spectroradiometers, test distances and alignment of the goniometer.",
+        "In the same way, in the section on Uniformity and Chromaticity Measurements it establishes that SSL products may have a chromaticity variation with the emission angle and indicates that a measurement method was provided in Standard LM-79-08 the integrated chromaticity and the spatial non-uniformity of the chromaticity when a goniospectroradiometer or a goniocolorimeter was not available; Thus, note that this method will not be used. It also defines the measurement characteristics for the angular resolution, the angular range, the angular uniformity of the color, the limits of the signals and the verifications.",
+        "Regarding Measurement of Uncertainty, understood as a quantitative measure of the quality of the measurement result, which allows the measurement results to be compared with other results, references, specifications or standards, it is stated that it is intended to limit the magnitude of the measurement uncertainty and that direct calculation of the measurement uncertainty is not required for an SSL product measurement given the tolerance intervals that have been provided throughout the Standard.",
+        "In Requirements reports, the concept of DUTs is incorporated and the pertinent data on the test conditions, the type of test equipment, the SSL products and the reference standards are simplified."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/a605dcba2f3f.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/a52392cbb25d.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "NABL Accredited Lab",
+      "paragraphs": [],
+      "bullets": [
+        "Attractive testing fees"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Expert Staff",
+      "paragraphs": [],
+      "bullets": [
+        "Timely completion of projects",
+        "Express testing facility available",
+        "Satisfied clients"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Accurate Equipments",
+      "paragraphs": [
+        "Website: <a href=\"/\">www.itcindia.org</a>",
+        "Email: info@itcindia.org, care@itcindia.org"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/a605dcba2f3f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/a52392cbb25d.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/a605dcba2f3f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/comparative-evaluation-between-ansi-ies-standards-lm-79-19-and-lm-79-08/a52392cbb25d.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

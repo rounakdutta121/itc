@@ -1,0 +1,412 @@
+{
+  "hero": "/images/page-heroes/face-mask-testing-lab.webp",
+  "heroPortrait": "/images/page-heroes/face-mask-testing-lab-portrait.webp",
+  "generatedIntro": "/images/page-sections/face-mask-testing-lab-s1.webp",
+  "generatedMid": "/images/page-sections/face-mask-testing-lab-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/face-mask-testing-lab-s1.webp",
+    "/images/page-sections/face-mask-testing-lab-s2.webp",
+    "/images/page-sections/face-mask-testing-lab-s3.webp",
+    "/images/page-sections/face-mask-testing-lab-s4.webp",
+    "/images/page-sections/face-mask-testing-lab-s5.webp",
+    "/images/page-sections/face-mask-testing-lab-s6.webp",
+    "/images/page-sections/face-mask-testing-lab-s7.webp",
+    "/images/page-sections/face-mask-testing-lab-s8.webp",
+    "/images/page-sections/face-mask-testing-lab-s9.webp",
+    "/images/page-sections/face-mask-testing-lab-s10.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "1 / 2 | 1176 | 20 img no alt | KEEP",
+  "slug": "face-mask-testing-lab",
+  "path": "/face-mask-testing-lab",
+  "source": "https://www.itcindia.org/face-mask-testing-lab/",
+  "ok": true,
+  "title": "N95 / EN 149 Face Mask Testing Lab - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC india is a laboratory providing face mask testing as per 14683:2019, ASTM F2100 and EN 149. It has complete testing facility for particle filtration testing and Bacterial filtration testing",
+  "sections": [
+    {
+      "heading": "How is Facemask testing done in a Lab?",
+      "paragraphs": [
+        "In the United States, respirator production is regulated by NIOSH. These devices take the place of N95 disposable respirators and are typically reserved for medical and professional personnel.",
+        "In Europe, respirators must be of the same mind following EN 149, which outlines the requirements for three types of particle-filtering respirators: FFP1, FFP2 and FFP3, with China and India also having respirator standards and study requirements in place.",
+        "Face mask are tested typically for <a href=\"/face-mask-testing-lab#bfetestinglab\">Bacterial Filter Efficiency</a>"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/face-mask-testing-lab/12b27f02e48e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Difference Between a Respirator and Face mask",
+      "paragraphs": [
+        "A respirator is a tight-fitting filtering slope-fragment.",
+        "The wearer’s nose and mouth will be at least covered by the edges of the respirator in a tight seal.",
+        "This gives pleasing breathability to use as the tendency part doesn’t fall out after the entryway to the mouth.",
+        "It is intended to obtain the entire near-facial fit and not examine the efficient filtration of airborne particles, dust particles, and infectious agents.",
+        "Particulate respirator is most commonly used for COVID-19 prevention as it intends to filter out airborne particles.",
+        "Similar to medical masks, respirators that are meant to prevent transmission of disease or topic to strict regulatory standards in oscillate countries by now best made commercially understandable."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/face-mask-testing-lab/1c356efa85a0.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/face-mask-testing-lab/e9e1f87ae648.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "ASTM 1862,",
+      "paragraphs": [],
+      "bullets": [
+        "CPSC-CS-191-53"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "NIOSH TEB-APR-STP-003",
+      "paragraphs": [],
+      "bullets": [
+        "NIOSH TEB-APR-STP-004 etc."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mask Varieties",
+      "paragraphs": [
+        "There are numerous alternatives to wearing a mask at some point during the corona-virus pandemic, including in the medical field.",
+        "These are the numerous kinds of masks and respirators, as described by the Centres for Disease Control and Prevention for Medical Systems.",
+        "Cloth: Cloth masks may be crafted from loads of fabric. Lots of other kinds of material masks are available.",
+        "Surgical or Procedure Masks: Disposable technique masks are broadly possible. They are, every now and then, known as surgical masks or clinical technique masks.",
+        "KN95 Respirators (and identical alternatives): A few respirators are supposed to be examined to fulfil global requirements. The most commonly acquired mask assemblies globally are the KN95 respirators."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/face-mask-testing-lab/e01cbb56cdeb.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/face-mask-testing-lab/611b8177a726.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/face-mask-testing-lab/2908d92a1416.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "The N95 respirator is one of the most distinguished respirators assigned by the NIOSH.",
+      "paragraphs": [
+        "Other identical alternatives: N99, N100, P95, P99, P100, R95, R99, and R100."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/face-mask-testing-lab/629f757b9287.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Other Masks",
+      "paragraphs": [
+        "A few masks are supposed to be examined to make sure they produce an impact at a constant level. There are numerous requirements which have been issued via the National Institute for Occupational Safety and Health and the masks are categorised primarily based on the acquisition they meet."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The Respiratory Certification Test",
+      "paragraphs": [
+        "The respiratory system is intended for submission to NIOSH, NaCl, DOP, and Valve Leak, to ensure that the respiratory system meets the minimum performance requirements.",
+        "And it may also require an inhalation/breath test.",
+        "These tests can be performed by the manufacturer or a third-party laboratory and must follow the NIOSH Standardized Test Procedure (STP) and use the appropriate equipment.",
+        "The Sodium Chloride (NaCl) Aerosol Challenge uses a widely accepted method for assessing the particle penetration and airflow resistance properties of various filter materials. Other materials such as B. Respiratory system filters, face masks, etc. are tested to determine filtration efficiency for marketing purposes.",
+        "The Dioctyl phthalate (DOP) test is used to evaluate the particle penetration and aeration resistance properties of various filter materials, including HEPA filters and NIOSH. Respiratory and filter media tests are performed according to 42 CFR Part 84 and NIOSH procedure numbers RC-APR-STP-0057, 0058, and 0059 prior to submitting for NIOSH certification for respiratory organs. More about <a href=\"/face-mask-testing-lab\">Quality of Face Mask</a>"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Bacterial Filtration Efficiency (BFE) and Particle Filtration Efficiency (PFE)",
+      "paragraphs": [
+        "Bacterial Filtration Efficiency and Particle Filtration Efficiency are likely the most critical checks to be performed on clinical fabric merchandise, which includes surgical masks, robes, or caps, in addition to on air filters."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/face-mask-testing-lab/bc1914bfbf2c.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Bacterial Filtration Efficiency (BFE) Testing Lab",
+      "paragraphs": [
+        "The BFE check is supposed to determine the resistance of the substances and additives of the above-defined clinical gadgets to micro-organism penetration.",
+        "Reported as percentage performance, the better the wide variety, the extra powerful the barrier.",
+        "ITC INDIA offers complete and approved BFE services, strictly following the relevant requirements as per EN 14683 for merchandise to be advertised in Europe & other Standards are ASTM F2100 and ASTM F2101 for the US and other countries."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Bacterial Filtration Efficiency (BFE) Testing Methods for Face Mask",
+      "paragraphs": [
+        "According to Annex B of EN 14683:2019, BFE is examined as follows:",
+        "1. A specimen of the masks fabric is clamped among a six-degree cascade impactor and an aerosol chamber."
+      ],
+      "bullets": [
+        "An aerosol of staphylococcus aureus is added into the aerosol chamber and drawn thru the masks fabric and the impactor beneathneath vacuum.",
+        "The bacterial filtration performance (BFE) of the masks is decided with the aid of using the wide variety of colony forming gadgets that by skip thru the clinical face masks fabric, which can be expressed as a percent of the wide variety of colony forming gadgets gift with inside the undertaking aerosol.",
+        "The BFE of the clinical face masks shall comply with the minimal fee given for the applicable form of masks.",
+        "In merchandise which includes mask, often such as or extra additives –generally with special composition-, every layer is examined separately. The lowest appearing layer is the only figuring out the BFE fee for the entire product comprehensively"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/face-mask-testing-lab/93de09b27387.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Face masks Particle Filtration Efficiency (PFE) Testing",
+      "paragraphs": [
+        "The Particle Filtration Efficiency (PFE) check evaluates the non-viable particle retention or filtration performance of clear out out media and different filtration gadgets at sub-micron levels. This check is done on face mask and all clear out out fabric that lets in for filtration at one cubic foot in step with minute (1 cfm) flow.",
+        "Particle Filtration Efficiency (PFE) is aimed to decide the up-or downstream performance of clear out out substances and gadgets to maintain sub-micron stage debris.",
+        "Also known as the Latex Particle Challenge, this check is done on substances permitting one cubic meter in step with minute (1 cfm) flow.",
+        "The check is done in line with ASTM F2100, for which it’s miles required, and it follows the primary ideas defined in ASTM F2299."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/face-mask-testing-lab/a7ff798a0b68.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "ASTM F2100 Face mask Testing method",
+      "paragraphs": [
+        "Filtration performance of the clear out media towards sub-micron debris entails the advent of a particle aerosol. Particles are then detected and counted with a sub-micron particle counter.",
+        "While the ASTM F2100 well known specifies a particle length of zero.1 µm, ITC INDIA have the functionality to check at zero.1 µm, zero.three µm, zero.five µm and 1.zero µm, three µm and five µm"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ASTM F2100",
+      "paragraphs": [
+        "ASTM F2299: Standard Test Method for Determining the Initial Efficiency of Materials Used in Medical Face Masks to Penetration by Particulates Using Latex Spheres"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/face-mask-testing-lab/12b27f02e48e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/1c356efa85a0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/e9e1f87ae648.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/e01cbb56cdeb.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/611b8177a726.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/2908d92a1416.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/629f757b9287.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/bc1914bfbf2c.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/93de09b27387.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/a7ff798a0b68.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/face-mask-testing-lab/12b27f02e48e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/1c356efa85a0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/e9e1f87ae648.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/e01cbb56cdeb.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/611b8177a726.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/2908d92a1416.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/629f757b9287.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/bc1914bfbf2c.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/93de09b27387.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/face-mask-testing-lab/a7ff798a0b68.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

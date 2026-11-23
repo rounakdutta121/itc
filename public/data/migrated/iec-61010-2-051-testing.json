@@ -1,0 +1,330 @@
+{
+  "hero": "/images/page-heroes/iec-61010-2-051-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-61010-2-051-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61010-2-051-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61010-2-051-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61010-2-051-testing-s1.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s2.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s3.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s4.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s5.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s6.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s7.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s8.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s9.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s10.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s11.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s12.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s13.webp",
+    "/images/page-sections/iec-61010-2-051-testing-s14.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "958 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-61010-2-051-testing",
+  "path": "/iec-61010-2-051-testing",
+  "source": "https://www.itcindia.org/iec-61010-2-051-testing/",
+  "ok": true,
+  "title": "IEC 61010-2-051 Testing Laboratory India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61010-2-051 testing in India for laboratory mixers, stirrers and related equipment. Evaluate electrical, mechanical and thermal safety with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Laboratory mixing and stirring equipment uses mechanical energy to mix, agitate or change the homogeneity of materials. Because these products combine motors, moving components, electrical circuits and sometimes heating functions, inadequate design can create electrical, mechanical, thermal or fire-related hazards.",
+        "ITC India provides IEC 61010-2-051 testing in India for manufacturers and developers of electrically operated laboratory mixing and stirring equipment. Testing helps evaluate product safety requirements before certification, export, commercial production or market entry.",
+        "IEC 61010-2-051 is a particular standard and is intended to be used together with the general safety requirements of IEC 61010-1. Manufacturers should therefore also review ITC India’s <a href=\"/iec-61010-1-testing\">IEC 61010-1 safety testing services</a> when planning a complete compliance programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61010-2-051-testing/8f804c907f78.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does IEC 61010-2-051 Cover?",
+      "paragraphs": [
+        "IEC 61010-2-051 applies to electrically operated laboratory equipment and accessories intended for mechanical mixing and stirring where mechanical energy influences the shape, size or homogeneity of materials.",
+        "Depending on design and intended use, relevant equipment can include:",
+        "Certain devices can also incorporate heating elements. The complete applicable standard set should therefore be established from the actual product functions rather than assuming that IEC 61010-2-051 is the only requirement.",
+        "Manufacturers working with multiple laboratory-equipment categories can review ITC India’s broader <a href=\"/iec-61010-testing-lab\">IEC 61010 Testing Laboratory services</a>."
+      ],
+      "bullets": [
+        "Laboratory mixers",
+        "Laboratory stirrers",
+        "Magnetic stirrers",
+        "Overhead stirrers",
+        "Laboratory shakers",
+        "Mixing platforms",
+        "Agitating equipment",
+        "Similar electrically operated laboratory mixing systems"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major IEC 61010-2-051 Safety Evaluations",
+      "paragraphs": [
+        "The exact testing programme depends on equipment construction, operating speed, motor type, accessories, electrical rating, materials being processed and intended environment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Typical safety evaluations may include",
+      "paragraphs": [
+        "These assessments help determine whether operators are adequately protected during normal operation and relevant fault conditions.",
+        "ITC India also provides broader <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a> where additional electrical-safety evaluation is required."
+      ],
+      "bullets": [
+        "Marking and safety documentation",
+        "Protection against electric shock",
+        "Accessible hazardous parts",
+        "Protective earthing and bonding",
+        "Dielectric strength",
+        "Creepage and clearance distances",
+        "Temperature-rise evaluation",
+        "Protection against excessive heat",
+        "Mechanical strength",
+        "Stability during operation",
+        "Moving-part and mechanical hazards",
+        "Protection against spread of fire",
+        "Abnormal and single-fault conditions",
+        "Motor and drive-system evaluation",
+        "Components and protective devices",
+        "Interlocks and safety controls",
+        "Protection against liquids",
+        "Risk assessment for hazardous materials",
+        "Evaluation of foreseeable misuse"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mechanical Hazards in Mixing and Stirring Equipment",
+      "paragraphs": [
+        "Rotating shafts, stirrer blades, clamps, mixing vessels and other moving components can create entanglement, impact or instability hazards.",
+        "Safety evaluation should therefore consider whether users can contact hazardous moving parts during normal use, whether vessels and accessories remain secure during operation and whether the equipment remains stable at intended operating speeds.",
+        "Protective covers, guards, interlocks and operating instructions may form part of the overall risk-control strategy depending on product design.",
+        "The standard also requires appropriate consideration where equipment is intended to operate with flammable, hazardous or toxic fluids. Manufacturers should clearly identify intended materials and foreseeable operating conditions when submitting equipment for testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Equipment Combining Mixing and Heating Functions",
+      "paragraphs": [
+        "Some laboratory mixers and stirrers also provide controlled heating. IEC 61010-2-051 itself recognizes that mixing and stirring equipment can contain heating elements.",
+        "Where heating materials is also a distinct equipment function, manufacturers should determine whether additional requirements under <a href=\"/iec-61010-2-010-testing\">IEC 61010-2-010 laboratory heating equipment testing</a> are applicable.",
+        "Similarly, products that combine mixing with refrigeration or temperature-controlled cooling may require assessment of the applicability of <a href=\"/iec-61010-2-011-testing\">IEC 61010-2-011 refrigerating equipment testing</a>.",
+        "Correct standard selection during product development can reduce repeated testing and late-stage design changes."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-051 and EMC Testing",
+      "paragraphs": [
+        "IEC 61010-2-051 primarily addresses product safety. Laboratory mixing equipment containing motors, electronic speed controllers, digital controls or communication circuits may also require electromagnetic compatibility evaluation.",
+        "The IEC 61326 series addresses EMC requirements for relevant electrical measurement, control and laboratory equipment.",
+        "Manufacturers can therefore combine product-safety testing with ITC India’s <a href=\"/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing\">IEC 61326 EMC testing services</a> when electromagnetic compatibility requirements apply."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Documents Required for Testing",
+      "paragraphs": [
+        "Providing technical documentation before laboratory testing helps establish the correct test scope. Useful information can include product specifications, rated voltage and frequency, motor ratings, maximum operating speed, circuit diagrams, component lists, mechanical drawings, insulation details, accessories, product labels and user instructions.",
+        "Manufacturers should also provide details of intended materials, mixing vessels, heating functions and any hazardous or flammable liquids for which the product is designed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-051 Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with safety evaluation of laboratory, measuring and control equipment against applicable IEC 61010 requirements. Early-stage testing can identify issues involving electrical insulation, rotating components, stability, excessive temperatures, protective earthing and abnormal-operation safeguards before final certification.",
+        "Manufacturers evaluating laboratory capabilities can also review ITC India’s <a href=\"/about-us/accreditations\">NABL accreditation and scope information</a>.",
+        "For IEC 61010-2-051 laboratory mixing and stirring equipment testing in India, submit your product specifications and technical documentation through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61010-2-051?",
+      "paragraphs": [
+        "IEC 61010-2-051 specifies particular safety requirements for electrically operated laboratory equipment and accessories used for mechanical mixing and stirring."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 61010-1 also required?",
+      "paragraphs": [
+        "Yes. IEC 61010-2-051 is intended to be applied together with IEC 61010-1, which contains the general safety requirements for measurement, control and laboratory electrical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which products can require IEC 61010-2-051 testing?",
+      "paragraphs": [
+        "Relevant products can include laboratory mixers, magnetic stirrers, overhead stirrers, shakers and similar mechanical mixing or stirring equipment within the standard’s scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can IEC 61010-2-051 equipment include heating elements?",
+      "paragraphs": [
+        "Yes. Mixing and stirring equipment within the standard can contain heating elements. Depending on the product’s functions, additional heating-equipment requirements may also need to be considered."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61010-2-051 cover EMC?",
+      "paragraphs": [
+        "No. IEC 61010-2-051 primarily addresses product safety. Applicable electromagnetic compatibility requirements may be evaluated separately under the IEC 61326 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test laboratory mixers and stirrers?",
+      "paragraphs": [
+        "ITC India supports safety testing of laboratory mixing and stirring equipment against applicable IEC 61010 requirements. The exact test programme depends on construction, intended use, operating conditions and applicable standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61010-2-051-testing/8f804c907f78.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61010-2-051-testing/8f804c907f78.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

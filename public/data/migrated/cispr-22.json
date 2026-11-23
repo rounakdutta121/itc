@@ -1,0 +1,193 @@
+{
+  "hero": "/images/page-heroes/cispr-22.webp",
+  "heroPortrait": "/images/page-heroes/cispr-22-portrait.webp",
+  "generatedIntro": "/images/page-sections/cispr-22-s1.webp",
+  "generatedMid": "/images/page-sections/cispr-22-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cispr-22-s1.webp",
+    "/images/page-sections/cispr-22-s2.webp",
+    "/images/page-sections/cispr-22-s3.webp",
+    "/images/page-sections/cispr-22-s4.webp",
+    "/images/page-sections/cispr-22-s5.webp",
+    "/images/page-sections/cispr-22-s6.webp"
+  ],
+  "category": "emc",
+  "action": "EXPAND",
+  "note": "0 / 3 | 268 | thin | EXPAND – add note that CISPR 32 replaced it; link /cispr-32-en-55032/",
+  "slug": "cispr-22",
+  "path": "/cispr-22",
+  "source": "https://www.itcindia.org/cispr-22/",
+  "ok": true,
+  "title": "CISPR 22 - EN 55022 EMC Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "CISPR 22 (An EMC standard for Information Technology (IT) Equipment) CISPR 22 for Radio Disturbance Characteristics-Limits and Methods of Measurement. Applicable for IT equipment with a rated supply voltage not exceeding 600 V.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/cispr-22/ae80cb4696aa.webp",
+          "alt": "CISPR 22"
+        }
+      ]
+    },
+    {
+      "heading": "CISPR 22",
+      "paragraphs": [
+        "CISPR 22 (An EMC standard for Information Technology (IT) Equipment)",
+        "CISPR 22 for Radio Disturbance Characteristics-Limits and Methods of Measurement. Applicable for IT equipment with a rated supply voltage not exceeding 600 V.",
+        "ITC India Pvt Ltd is a NABL approved lab in electronics, electrical and photometry. BIS approved for all lighting products and TEC approved for Electronics. We are performing EMI/EMC testing on electromedical, IT equipment, lighting, Laboratory, and household product. Testing is conducted in a shielding room.",
+        "CISPR 22 is accepted by most members of the European Community.",
+        "CISPR 22 discriminates between Class A and Class B equipment and it gives figures for conducted and radiated emissions for each class. In addition, CISPR 22 requires certification over the frequency range of 0.15 MHz to 30 MHz for conducted emissions. CISPR limits are provided in dBµV",
+        "A brief of CISPR22 Limits"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "CISPR 22 CLASS A CONDUCTED EMI LIMIT"
+          ],
+          "rows": [
+            [
+              "",
+              "Frequency of Emission(MHz)",
+              "Conducted Limit (DBMV)",
+              ""
+            ],
+            [
+              "",
+              "",
+              "Quasi Peak",
+              "Average"
+            ],
+            [
+              "",
+              "0.15 – 0.50",
+              "79",
+              "66"
+            ],
+            [
+              "",
+              "0.50-30.00",
+              "73",
+              "60"
+            ],
+            [
+              "CISPR 22 CLASS B CONDUCTED EMI LIMIT"
+            ],
+            [
+              "",
+              "Frequency of Emission(MHz)",
+              "Conducted Limit (DBMV)",
+              ""
+            ],
+            [
+              "",
+              "0.15-0.50",
+              "66 to 56",
+              "56 to 46"
+            ],
+            [
+              "",
+              "0.50-5.00",
+              "56",
+              "46"
+            ],
+            [
+              "",
+              "5.00- 30.00",
+              "60",
+              "50"
+            ],
+            [
+              "CISPR 22 CLASS A 10-METRE RADIATED EMI LIMIT"
+            ],
+            [
+              "",
+              "Frequency of Emission(MHz)",
+              "Field strength limit(DBMV/M)"
+            ],
+            [
+              "",
+              "30- 88",
+              "39"
+            ],
+            [
+              "",
+              "88-216",
+              "43.5"
+            ],
+            [
+              "",
+              "216-960",
+              "46.5"
+            ],
+            [
+              "",
+              "Above 960",
+              "49.5"
+            ],
+            [
+              "CISPR 22 CLASS B 3-METRE RADIATED EMI LIMIT"
+            ],
+            [
+              "",
+              "Frequency of Emission(MHz)",
+              "Field strength limit(DBMV/M)"
+            ],
+            [
+              "",
+              "31- 88",
+              "40"
+            ],
+            [
+              "",
+              "88-216",
+              "43.5"
+            ],
+            [
+              "",
+              "216-960",
+              "46.0"
+            ],
+            [
+              "",
+              "Above 960",
+              "54.0"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/cispr-22/138fd118212c.jpg",
+          "alt": "CISPR 22"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/cispr-22/ae80cb4696aa.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/cispr-22/138fd118212c.jpg",
+      "alt": "CISPR 22"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/cispr-22/ae80cb4696aa.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/cispr-22/138fd118212c.jpg",
+      "alt": "CISPR 22"
+    }
+  ],
+  "relatedLinks": []
+}

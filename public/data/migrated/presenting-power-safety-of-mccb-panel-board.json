@@ -1,0 +1,245 @@
+{
+  "hero": "/images/page-heroes/presenting-power-safety-of-mccb-panel-board.webp",
+  "heroPortrait": "/images/page-heroes/presenting-power-safety-of-mccb-panel-board-portrait.webp",
+  "generatedIntro": "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s1.webp",
+  "generatedMid": "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s1.webp",
+    "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s2.webp",
+    "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s3.webp",
+    "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s4.webp",
+    "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s5.webp",
+    "/images/page-sections/presenting-power-safety-of-mccb-panel-board-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 2 | 511 | – | KEEP",
+  "slug": "presenting-power-safety-of-mccb-panel-board",
+  "path": "/presenting-power-safety-of-mccb-panel-board",
+  "source": "https://www.itcindia.org/presenting-power-safety-of-mccb-panel-board/",
+  "ok": true,
+  "title": "Presenting Power Safety of MCCB Panel Board",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Presenting Power Safety of MCCB Panel Board, Objectives of MCCB Panel :-  MCCB panel boards have been designed for easy handling and quick, simple installation for the electrical contractor.",
+  "sections": [
+    {
+      "heading": "Presenting Power Safety of MCCB Panel Board",
+      "paragraphs": [
+        "Objectives of MCCB Panel :- MCCB panel boards have been designed for easy handling and quick, simple installation for the electrical contractor. Compact MCCB design ensures maximum cabling area within the enclosures. Removable top & bottom gland plates are provided for ease of installation and cabling. The removal of these also allows for fitting of additional items such as top and bottom extension boxes, plinths and metering panels."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/ab04951b2d49.webp",
+          "alt": "Objectives of MCCB Panel"
+        }
+      ]
+    },
+    {
+      "heading": "Objectives of MCCB Panel",
+      "paragraphs": [
+        "What is MCCB Panel board :- A distribution board (also known as panel board, breaker panel, or electric panel) is a component of an electricity supply system that divides an electrical power feed into subsidiary circuits, while providing a protective fuse or circuit breaker for each circuit in a common enclosure. Normally, a main switch, and in recent boards, one or more residual-current devices (RCD) or <a href=\"#Other_breakers\">residual current breakers with overcurrent protection</a> (RCBO), are also incorporated.",
+        "What Is Function of MCCB in electrical Circuit :-Molded Case Circuit Breaker (MCCB) is a circuit breaker and trip device assembled in a mould case. Also it can automatically cut off electric power in case of overload and short circuit. It is meant for higher rated current and is commonly used in Industrial applications.",
+        "What Is Function of MCCB in electrical Circuit"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/ef66a9d2aa4c.webp",
+          "alt": "What Is Function of MCCB in electrical Circuit"
+        }
+      ]
+    },
+    {
+      "heading": "Applicable Standard For MCCB Panel board :-",
+      "paragraphs": [
+        "IEC standard 61439-1 covers low voltage switch-gear and control gear assemblies-Distribution boards intended to be operated by ordinary persons (DBO). It is important to compliance your MCCB Panel board with this standard. ITC India Can Help You!(https://www.itcindia.org/) ITC India one of the best MCCB Panel Board Testing Service Provider in India. ITC India Can do MCCB Panel Board Testing as per IEC 61439-1",
+        "THE Term Safety MCCB used for prevent hazards during use . It also cover safety of operators and service persons. type of Hazards are as follows:",
+        "Applicable Standard For MCCB Panel board"
+      ],
+      "bullets": [
+        "Electric shock",
+        "Dielectric properties",
+        "Electric burn",
+        "Mechanicalhazard",
+        "Energy hazard",
+        "Environmental etc."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/308b0399c7a0.webp",
+          "alt": "Applicable Standard For MCCB Panel board"
+        }
+      ]
+    },
+    {
+      "heading": "General Tests as per IEC 61439-1 :-",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Clause",
+            "Measurement/testing"
+          ],
+          "rows": [
+            [
+              "l 10.2.2",
+              "Resistance to corrosion"
+            ],
+            [
+              "l 10.2.3.1",
+              "Thermal stability"
+            ],
+            [
+              "l 10.2.3.2",
+              "Resistance to abnormal heat and fire due to internal electric effects"
+            ],
+            [
+              "l 10.2.4",
+              "Resistance to ultra-violet (UV) radiation"
+            ],
+            [
+              "l 10.2.5",
+              "Lifting"
+            ],
+            [
+              "l 10.2.6",
+              "Mechanical Impact"
+            ],
+            [
+              "l 10.2.7",
+              "Marking"
+            ],
+            [
+              "l 10.3",
+              "Degree of protection of enclosures"
+            ],
+            [
+              "l 10.4",
+              "Clearances"
+            ],
+            [
+              "l 10.4",
+              "Creepage distances"
+            ],
+            [
+              "l 10.5.2",
+              "Effective earth continuity between the exposed conductive parts of the assembly and the protective circuit"
+            ],
+            [
+              "l 10.5.3",
+              "Short-circuit withstand strength of the protective circuit"
+            ],
+            [
+              "l 10.9.2",
+              "Power-frequency withstand voltage"
+            ],
+            [
+              "l 10.9.3",
+              "Impulse withstand voltage"
+            ],
+            [
+              "l 10.10",
+              "Verification of temperature rise"
+            ],
+            [
+              "l 10.11",
+              "Short-circuit withstand strength"
+            ],
+            [
+              "l 10.12",
+              "EMC – Immunity"
+            ],
+            [
+              "",
+              "Electrostatic discharge immunity test"
+            ],
+            [
+              "",
+              "Radiated radio-frequency electromagnetic field immunity test"
+            ],
+            [
+              "",
+              "Electrical fast transient/burst immunity test"
+            ],
+            [
+              "",
+              "Surge immunity test"
+            ],
+            [
+              "",
+              "Conducted radio-frequency immunity test"
+            ],
+            [
+              "",
+              "Immunity to power-frequency magnetic fields"
+            ],
+            [
+              "",
+              "Immunity to voltage dips and interruptions"
+            ],
+            [
+              "l 10.12",
+              "EMC – Emission"
+            ],
+            [
+              "",
+              "Radiated disturbances"
+            ],
+            [
+              "l 10.13",
+              "Mechanical operation"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/83ff7ddb6100.webp",
+          "alt": "Presenting Power Safety of MCCB Panel Board"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/ab04951b2d49.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/ef66a9d2aa4c.webp",
+      "alt": "What Is Function of MCCB in electrical Circuit"
+    },
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/308b0399c7a0.webp",
+      "alt": "Applicable Standard For MCCB Panel board"
+    },
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/83ff7ddb6100.webp",
+      "alt": "Presenting Power Safety of MCCB Panel Board"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/ab04951b2d49.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/ef66a9d2aa4c.webp",
+      "alt": "What Is Function of MCCB in electrical Circuit"
+    },
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/308b0399c7a0.webp",
+      "alt": "Applicable Standard For MCCB Panel board"
+    },
+    {
+      "src": "/images/migrated/presenting-power-safety-of-mccb-panel-board/83ff7ddb6100.webp",
+      "alt": "Presenting Power Safety of MCCB Panel Board"
+    }
+  ],
+  "relatedLinks": []
+}

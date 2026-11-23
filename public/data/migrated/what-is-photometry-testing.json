@@ -1,0 +1,245 @@
+{
+  "hero": "/images/page-heroes/what-is-photometry-testing.webp",
+  "heroPortrait": "/images/page-heroes/what-is-photometry-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/what-is-photometry-testing-s1.webp",
+  "generatedMid": "/images/page-sections/what-is-photometry-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/what-is-photometry-testing-s1.webp",
+    "/images/page-sections/what-is-photometry-testing-s2.webp",
+    "/images/page-sections/what-is-photometry-testing-s3.webp",
+    "/images/page-sections/what-is-photometry-testing-s4.webp",
+    "/images/page-sections/what-is-photometry-testing-s5.webp",
+    "/images/page-sections/what-is-photometry-testing-s6.webp"
+  ],
+  "category": "photometry",
+  "action": "ADD",
+  "note": "13 / 8 | 886 | no meta, no H2, few links | ADD – meta + links to LM-79/LM-80",
+  "slug": "what-is-photometry-testing",
+  "path": "/what-is-photometry-testing",
+  "source": "https://www.itcindia.org/what-is-photometry-testing/",
+  "ok": true,
+  "title": "What is Photometry Testing? - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "What is photometry testing? ITC India Pvt Ltd owns the scope of Accreditation to perform the following repetitive photometric measurements for light sources (electric lamps) and luminaries in the laboratory, which are used for the purpose of illumination involving either Spherephotometry or Goniophotometry.Thank you for reading this post, don't forget to subscribe! Lab has calibrated…Read More+",
+  "sections": [
+    {
+      "heading": "What is photometry testing?",
+      "paragraphs": [
+        "<a href=\"/\">ITC India Pvt Ltd</a> owns the scope of Accreditation to perform the following repetitive photometric measurements for light sources (electric lamps) and luminaries in the laboratory, which are used for the purpose of illumination involving either Spherephotometry or Goniophotometry.",
+        "Lab has calibrated Integrating sphere and Goniophotometry to perform photometric testing in its Laboratory.",
+        "First of all, one must know photometry before getting to know about photometry testing.",
+        "Photometry is modern science to measure the visible light in terms of its perceived brightness to human vision. The basic unit of photometry is lumen (lm). The inverse square law and cosine law are the two laws used in photometry. The inverse square law states that the intensity per unit area on the surface varies ins inversely proportional to the square of distance between the source and surface. Whereas the cosine law indicates the intensity of light on a surface of a fixed area varies with the incident angle. In fact, the intensity falls off as the cosine of the angle."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Here are some important photometry terms",
+      "paragraphs": [
+        "Luminous Flux: It is a measure of the total optical output of a visible light source. Luminous flux is expressed in lumens. The measurement requires all of a source’s power to be concentrated on a detector. This can be a problem with divergent sources like LEDs, and lamps. In these cases, integrating spheres are often used.",
+        "Illuminance: The illuminance of a surface is the amount of light incident upon the surface, divided by the area of the surface. It is measured in either foot candles (lumens per square foot) or lux (lumens per square meter).",
+        "Luminance Exitance: It is intrinsic property of light source. It is Luminous flux divided by source’s area.",
+        "Luminance intensity: It is measure of flux emitted into a solid angle.",
+        "Luminance energy: it is the measure of rate of flow of flux. Units Lm/ sec.",
+        "Luminance: luminance is a measure of the flux reflected by, or emitted from, a relatively flat and uniform surface.",
+        "Photometry testing: This is a approved method which describes the procedure to be followed and precautions to be observed in performing reproducible measurements of total Luminous flux, electrical power, luminous intensity distribution and chromaticity, of solid state lighting (SSL) products for illumination purposes, under standard conditions.",
+        "It covers LED based SSL products with control electronics and heat sinks incorporated , that is, those devices that require only AC mans power or a DC voltage power supply to operate. It also covers SSL products in a form of luminaries (fixtures incorporating light source) as well as integrated LED lamps.",
+        "Units of photometric measurements are Lumen and Candela2.",
+        "We provide standard photometric data files in IES (.ies) and EULUMDAT (.ldt) formats as per IES LM 79-08.",
+        "(Integrating sphere) Spherephotometry is used for the determination of total luminous flux output of light sources and measurement of light output ratio (LOR) of luminaries. Sphere photometry works on Ulbricht’s theory, according to which the luminous flux of the light source is related to the indirect illuminance on the internal surface of the integrating sphere by",
+        "φ =Eind *A* ( 1 – ρ )/ ρ",
+        "Where Eind – Indirect illuminance on the internal surface of the sphere",
+        "ρ – Reflectance of the internal surface of the sphere",
+        "A – Surface area of the sphere",
+        "The “k” = A* (1-ρ)/ ρ is called the “sphere factor” and theoretically can be determined from this relationship.",
+        "For Measurement of Luminous Flux By definition, Luminous Intensity is the luminous flux per solid angle in a specified direction of radiation. If I is the luminous intensity in Candela (cd), φ the luminous flux in Lumens (lm) and ω the solid angle in Steradians (sr), then I = φ/ ω.",
+        "In the zonal method, the light source is imagined to be at the center of a large sphere. The sphere is divided into horizontal zones whose upper and lower boundaries subtend angles θ2 and θ1 with the vertical axis at the center of the sphere. The zonal flux between the angle, θ1 and θ2 is given by Iθ * ZF Where Iθ – Average intensity within the zone and ZF – 2 *π* (Cos θ1 – Cos θ2) steradians In the 5 zonal method, the sphere is divided into 36 zones, while in the 10o zonal method, the sphere is divided into 18 zones. The sphere can further be divided into smaller and differential zones depending upon application.",
+        "For Measurement of Luminous Intensity Goniophotometry is used for the measurement of luminous intensity of luminaries in specific directions as well as determination of total luminous flux output of light sources. It is also used for the measurement of light output ratio (LOR) of luminaries. Luminous Intensity (I) is determined from the measured illuminance value and the calculated photometric distance, as per the following formula:",
+        "I = E * d2 / Cos θ",
+        "Where, E – illuminance on the acceptance area",
+        "d – Distance between luminaire and acceptance area",
+        "θ – angle of incidence in steradians, measured relative to the normal to the acceptance area Measurement of luminous intensity is generally done in any one of the three system of planes, viz. A-α, B-β and C-γ",
+        "If you’re Buyers Demanding for Photometry Testing– Contact Now!"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/what-is-photometry-testing/3348d2406005.jpg",
+          "alt": "Luminous Flux"
+        },
+        {
+          "src": "/images/migrated/what-is-photometry-testing/94606cd81296.jpg",
+          "alt": "Illuminance"
+        },
+        {
+          "src": "/images/migrated/what-is-photometry-testing/6ab49b8ca33a.jpg",
+          "alt": "Luminance Exitance"
+        },
+        {
+          "src": "/images/migrated/what-is-photometry-testing/ce8dddfbd264.jpg",
+          "alt": "Luminance intensity"
+        },
+        {
+          "src": "/images/migrated/what-is-photometry-testing/4eb1809b4a1f.jpg",
+          "alt": "Luminance energy"
+        },
+        {
+          "src": "/images/migrated/what-is-photometry-testing/c705f7440f2e.jpg",
+          "alt": "Luminance"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/what-is-photometry-testing/3348d2406005.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/94606cd81296.jpg",
+      "alt": "Illuminance"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/6ab49b8ca33a.jpg",
+      "alt": "Luminance Exitance"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/ce8dddfbd264.jpg",
+      "alt": "Luminance intensity"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/4eb1809b4a1f.jpg",
+      "alt": "Luminance energy"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/c705f7440f2e.jpg",
+      "alt": "Luminance"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/what-is-photometry-testing/3348d2406005.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/94606cd81296.jpg",
+      "alt": "Illuminance"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/6ab49b8ca33a.jpg",
+      "alt": "Luminance Exitance"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/ce8dddfbd264.jpg",
+      "alt": "Luminance intensity"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/4eb1809b4a1f.jpg",
+      "alt": "Luminance energy"
+    },
+    {
+      "src": "/images/migrated/what-is-photometry-testing/c705f7440f2e.jpg",
+      "alt": "Luminance"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

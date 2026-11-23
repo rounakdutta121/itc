@@ -1,0 +1,474 @@
+{
+  "hero": "/images/page-heroes/calibration-of-surge-generator.webp",
+  "heroPortrait": "/images/page-heroes/calibration-of-surge-generator-portrait.webp",
+  "generatedIntro": "/images/page-sections/calibration-of-surge-generator-s1.webp",
+  "generatedMid": "/images/page-sections/calibration-of-surge-generator-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/calibration-of-surge-generator-s1.webp",
+    "/images/page-sections/calibration-of-surge-generator-s2.webp",
+    "/images/page-sections/calibration-of-surge-generator-s3.webp",
+    "/images/page-sections/calibration-of-surge-generator-s4.webp",
+    "/images/page-sections/calibration-of-surge-generator-s5.webp",
+    "/images/page-sections/calibration-of-surge-generator-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "ADD",
+  "note": "713 | 18 img no alt | KEEP – add alt text",
+  "slug": "calibration-of-surge-generator",
+  "path": "/calibration-of-surge-generator",
+  "source": "https://www.itcindia.org/calibration-of-surge-generator/",
+  "ok": true,
+  "title": "Calibration of Surge Generators - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Surge Generator Calibration provides short & open circuit waveform data that is then compared with the requirements listed in IEC 61000-4-5.",
+  "sections": [
+    {
+      "heading": "Surge",
+      "paragraphs": [
+        "All electronic and electrical equipment are exposed to EMI such as ‘surge’. Surges are transient wave of current, voltage or power which rise rapidly followed by slower decline afterwards.",
+        "They are created by switching events and insulation faults in AC power distribution network, lighting and others. Surges are high voltages that contain significant amount of energy that can cause damages to the electrical and electronic devices."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Combination Wave Generators",
+      "paragraphs": [
+        "Combination Wave Generators are used to simulate and generate the switching and lighting transients so as to evaluate the performance of the equipment when subject to high energy disturbances on the power and interconnect lines."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/2a93c6933711.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "There are 2 specific types of CWG",
+      "paragraphs": [
+        "Surge Generator Calibration provides short circuit and open circuit waveform data that is then compared with the requirements listed in IEC 61000-4-5 i.e. the basic standard."
+      ],
+      "bullets": [
+        "10/700 ms (voltage surge) 5/320 ms (current surge): This is for testing of ports connected to symmetrical communication lines.",
+        "1.2/50 ms (voltage surge) 8/20 ms (current surge): This is for testing of all other cases, such as short distance signal connections and power lines."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/36367fe14b9b.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/250a13d84cbe.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "IEC 61000-4-5",
+      "paragraphs": [
+        "IEC 61000-4-5 is the standard for surge immunity testing for electronic and electrical equipment. It relates to the immunity requirements, range of test levels and test methods for equipment with regard to unidirectional surges caused due to over voltages from switching & lighting transients.",
+        "There are several test levels defined relating to different environments and installation conditions. These requirements are developed for and are applicable to electronic and electrical equipment.",
+        "The object of IEC 61000-4-5 is to establish a common reference for the purpose of evaluating the immunity of electronic and electrical equipment when subjected to surges."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "This standard defines a range of",
+      "paragraphs": [
+        "The purpose of the mentioned lab tests is to find the reaction of the EUT under specified operational conditions to surge voltages caused due to lighting effects and switching.",
+        "It does not intend to test the capability of the EUT’s insulation to withstand high-voltage stress."
+      ],
+      "bullets": [
+        "Test levels,",
+        "Test setup,",
+        "Test equipment and",
+        "Test procedures."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Features of 1.2/50 µs CWG",
+      "paragraphs": [
+        "Peak Open Circuit Voltage and Timing of 1.2/50 µs CWG",
+        "Peak Short Circuit Current and Timing of 1.2/50 µs CWG",
+        "Verification of 1.2/50 µs CWG (6.1.2 of 61000-4-5)"
+      ],
+      "bullets": [
+        "Short circuit output current: 0.25 kA to at least 2 kA; +/- 10%; surge current waveform (8/20 µs).",
+        "Open circuit output voltage: 0.5 kV to at least 4 kV; +/- 10%; surge voltage waveform (1.2/50 µs).",
+        "Floating output.",
+        "Phase shifting: 0° to 360°.",
+        "Effective output impedance of 2 ohm.",
+        "Repetition rate: At least 1/minute.",
+        "Polarity: Positive/negative.",
+        "A measuring system with sufficient voltage and bandwidth capability",
+        "Short circuit condition: Load ≤ 0.1 ohm.",
+        "Open circuit condition: Load ≥ 10 kohm."
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Test Voltage Setting kV",
+            "Voltage Surge Peak (±10% kV)",
+            "Front Time of Voltage Surge Peak (±30% µs)",
+            "Time to Half Value (±20% µs)"
+          ],
+          "rows": [
+            [
+              "0.5",
+              "0.5",
+              "1.2",
+              "50"
+            ],
+            [
+              "1.0",
+              "1.0",
+              "1.2",
+              "50"
+            ],
+            [
+              "2.0",
+              "2.0",
+              "1.2",
+              "50"
+            ],
+            [
+              "4.0",
+              "4.0",
+              "1.2",
+              "50"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Test Voltage Setting kV",
+            "Current Surge Peak (±10% kA)",
+            "Front Time of Current Surge Peak (±20% µs)",
+            "Time to Half Value (±20% µs)"
+          ],
+          "rows": [
+            [
+              "0.5",
+              "0.25",
+              "8",
+              "20"
+            ],
+            [
+              "1.0",
+              "0.5",
+              "8",
+              "20"
+            ],
+            [
+              "2.0",
+              "1.0",
+              "8",
+              "20"
+            ],
+            [
+              "4.0",
+              "2.0",
+              "8",
+              "20"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/993d5aaf3ec6.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/8dc31f25d6f0.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/3638f3d340a0.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Features of 10/700 µs CWG",
+      "paragraphs": [
+        "Peak Open Circuit Voltage and Timing of 10/700 µs CWG",
+        "Peak Short Circuit Current and Timing of 10/700 µs CWG"
+      ],
+      "bullets": [
+        "Short circuit output current: 12.5 A to at least 100 A; +/- 10.",
+        "Open circuit output voltage: 0.5 kV to at least 4 kV; +/- 10%; voltage surge waveform (10/700 µs).",
+        "Repetition rate: At least 1/minute.",
+        "Effective output impedance: 40 Ω +/- 10%.",
+        "Polarity: Positive/negative.",
+        "Floating output."
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Test Voltage Setting kV",
+            "Voltage Surge Peak (±10% kV)",
+            "Front Time of Voltage Surge Peak (±30% µs)",
+            "Time to Half Value (±20% µs)"
+          ],
+          "rows": [
+            [
+              "0.5",
+              "0.5",
+              "10",
+              "700"
+            ],
+            [
+              "1.0",
+              "1.0",
+              "10",
+              "700"
+            ],
+            [
+              "2.0",
+              "2.0",
+              "10",
+              "700"
+            ],
+            [
+              "4.0",
+              "4.0",
+              "10",
+              "700"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Test Voltage Setting kV",
+            "Current Surge Peak (±10%) A",
+            "Front Time of Current Surge Peak (±20%) µs",
+            "Time to Half Value (±20%) µs"
+          ],
+          "rows": [
+            [
+              "0.5",
+              "12.5",
+              "5",
+              "320"
+            ],
+            [
+              "1.0",
+              "25",
+              "5",
+              "320"
+            ],
+            [
+              "2.0",
+              "50",
+              "5",
+              "320"
+            ],
+            [
+              "4.0",
+              "100",
+              "5",
+              "320"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/6e9c36dbbe85.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/6a90df00c77c.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/calibration-of-surge-generator/0c0957c4d47d.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/2a93c6933711.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/36367fe14b9b.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/250a13d84cbe.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/993d5aaf3ec6.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/8dc31f25d6f0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/3638f3d340a0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/6e9c36dbbe85.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/6a90df00c77c.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/0c0957c4d47d.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/2a93c6933711.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/36367fe14b9b.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/250a13d84cbe.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/993d5aaf3ec6.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/8dc31f25d6f0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/3638f3d340a0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/6e9c36dbbe85.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/6a90df00c77c.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/calibration-of-surge-generator/0c0957c4d47d.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

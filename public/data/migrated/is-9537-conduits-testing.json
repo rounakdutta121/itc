@@ -1,0 +1,78 @@
+{
+  "hero": "/images/page-heroes/is-9537-conduits-testing.webp",
+  "heroPortrait": "/images/page-heroes/is-9537-conduits-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/is-9537-conduits-testing-s1.webp",
+  "generatedMid": "/images/page-sections/is-9537-conduits-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/is-9537-conduits-testing-s1.webp",
+    "/images/page-sections/is-9537-conduits-testing-s2.webp",
+    "/images/page-sections/is-9537-conduits-testing-s3.webp",
+    "/images/page-sections/is-9537-conduits-testing-s4.webp",
+    "/images/page-sections/is-9537-conduits-testing-s5.webp",
+    "/images/page-sections/is-9537-conduits-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "1 / 1 | 376 | no H2 | KEEP",
+  "slug": "is-9537-conduits-testing",
+  "path": "/is-9537-conduits-testing",
+  "source": "https://www.itcindia.org/is-9537-conduits-testing/",
+  "ok": true,
+  "title": "IS 9537 conduits testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India Pvt Ltd is performing IS 9537 conduits testing as per IS/ IEC standards. Manufacturer’s are most welcome to get their conduits tested.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India pvt ltd is performing Conduits Electrical safety testing as per IS/ IEC standards.Manufacturer’s are most welcome to get their conduits tested. This will a necessary requirement for business growth as product will sells fast in the market, if they are ISI marked. For more details write to info@itcindia.org or visit <a href=\"/\">www.itcindia.org</a>"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "IS standard",
+            "Equivalent IEC",
+            "For Product",
+            "List of tests as per IS standard",
+            "Equipment required as per IS standard"
+          ],
+          "rows": [
+            [
+              "9537 part 1",
+              "60614-1",
+              "Conduits for electrical installations",
+              "General requirement",
+              "General requirements"
+            ],
+            [
+              "9537 part 2",
+              "60614-2-1",
+              "Rigid steel conduits",
+              "1. Marking as per Cl. 6 2. Dimensions as per Cl. 7 3. Construction as per Cl. 8 4. Bending Test as per Cl. 9.2 5. Compression Test Cl. 9.3 6. External Influences Cl. 13",
+              "Gauges, measuring tape, vernier caliper, micrometer, bending device, bending aid, compression test apparatus, conditioning chamber"
+            ],
+            [
+              "9537 Part 3",
+              "60614-2-2",
+              "Rigid plain conduits of insulating materials",
+              "1. Marking as per Cl. 6.1 2. Durability of Marking as per Cl. 6.2 3. Dimensions as per Cl. 7.1 to Cl. 7.3 4. Uniformity of Wall Thickness as per Cl. 7.4 5. Construction as per Cl. 8 6. Bending Test as per Cl. 9.2 7. Resistance to Heat as per Cl. 10 8. Resistance to Burning as per Cl. 11",
+              "Gauges, measuring tape, vernier caliper, micrometer, bending device, bending aid, compression test apparatus, conditioning chamber, deep freezer, straps, ball pressure test apparatus, heating cabinet, Bunsen burner, high voltage breakdown test set, million mega ohm meter, stop watch, steel ball, impact test apparatus, straps"
+            ],
+            [
+              "9537 part 4",
+              "60614-2-4",
+              "Pliable self recovering conduits of insulating material",
+              "1. Marking as per Cl. 6.1 2. Durability of Marking as per Cl. 6.3 3. Dimensions as per Cl. 7.1 4. Uniformity of Wall Thickness as per Cl. 7.2 5. Construction as per Cl. 8 6. Bending Test as per Cl. 9.2 7. Resistance to Burning as per Cl. 11",
+              "Gauges, measuring tape, vernier caliper, micrometer, bending device, bending aid, compression test apparatus, conditioning chamber, deep freezer, straps, ball pressure test apparatus, heating cabinet, bunsen burner, high voltage breakdown test set, million mega ohm meter, stop watch, steel ball, impact test apparatus, straps"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

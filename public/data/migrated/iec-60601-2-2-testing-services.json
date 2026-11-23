@@ -1,0 +1,466 @@
+{
+  "hero": "/images/page-heroes/iec-60601-2-2-testing-services.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-2-2-testing-services-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-2-2-testing-services-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-2-2-testing-services-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-2-2-testing-services-s1.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s2.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s3.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s4.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s5.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s6.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s7.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s8.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s9.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s10.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s11.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s12.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s13.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s14.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s15.webp",
+    "/images/page-sections/iec-60601-2-2-testing-services-s16.webp"
+  ],
+  "category": "medical",
+  "action": "FIX_TITLE",
+  "note": "699 | stray \"%\", repeated text | FIX TITLE – \"IEC 60601-2-2 Testing for HF Surgical Equipment | ITC India\"",
+  "slug": "iec-60601-2-2-testing-services",
+  "path": "/iec-60601-2-2-testing-services",
+  "source": "https://www.itcindia.org/iec-60601-2-2-testing-services/",
+  "ok": true,
+  "title": "% IEC 60601-2-2 Testing Services for HF Surgical Equipment",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Accredited IEC 60601-2-2 testing services for high frequency surgical equipment. Ensure electrical safety and regulatory compliance with ITC India. Contact us today.",
+  "sections": [
+    {
+      "heading": "Achieve Global Compliance with Confidence",
+      "paragraphs": [
+        "Manufacturing high-frequency surgical equipment requires strict compliance with international safety standards. IEC 60601-2-2 defines the particular requirements for the basic safety and essential performance of electrosurgical devices.",
+        "Our IEC 60601-2-2 testing services are designed specifically for manufacturers seeking CE marking, FDA 510(k) clearance, and global certification. We provide structured compliance support to help you reduce risk, avoid costly redesigns, and accelerate time to market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-2-2-testing-services/7e5b3a721169.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "IEC 60601-1 vs IEC 60601-2-2 – Detailed Comparison",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Parameter",
+            "IEC 60601-1",
+            "IEC 60601-2-2"
+          ],
+          "rows": [
+            [
+              "Standard Type",
+              "General safety standard",
+              "Particular product-specific standard"
+            ],
+            [
+              "Scope",
+              "All medical electrical equipment",
+              "High-frequency surgical equipment only"
+            ],
+            [
+              "Primary Focus",
+              "Basic safety & essential performance",
+              "HF output safety, burn prevention, leakage control"
+            ],
+            [
+              "Leakage Current",
+              "General electrical leakage",
+              "High-frequency leakage current testing"
+            ],
+            [
+              "Accessory Testing",
+              "General accessory evaluation",
+              "Accessories tested as complete HF system"
+            ],
+            [
+              "Single Fault Condition",
+              "Required",
+              "Required with HF-specific conditions"
+            ],
+            [
+              "Applicable Devices",
+              "All medical electrical devices",
+              "Electrosurgical generators, RF ablation systems"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-2-2-testing-services/c6c34bb113f5.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What is IEC 60601-2-2?",
+      "paragraphs": [
+        "IEC 60601-2-2 is a particular standard under the IEC 60601-1 series. It specifies additional safety requirements for high-frequency surgical equipment such as electrosurgical generators and RF surgical systems."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "It is used alongside",
+      "paragraphs": [
+        "Compliance with this standard is essential for devices used in cutting, coagulation, and tissue ablation procedures."
+      ],
+      "bullets": [
+        "IEC 60601-1-2 for electromagnetic compatibility",
+        "ISO 14971 for risk management"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Pre-Compliance Design Review",
+      "paragraphs": [
+        "We evaluate your device during development to identify compliance gaps early. This reduces the likelihood of test failures and redesign cycles."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Our review includes",
+      "paragraphs": [],
+      "bullets": [
+        "Output stage architecture",
+        "PCB layout assessment",
+        "Grounding and insulation strategy",
+        "Risk management alignment",
+        "Return electrode monitoring system evaluation"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Output Power and Waveform Verification",
+      "paragraphs": [
+        "Accurate output performance is critical in electrosurgical systems. We verify:",
+        "This ensures safe tissue interaction and predictable device behavior."
+      ],
+      "bullets": [
+        "Declared output power accuracy",
+        "Stability across varying load conditions",
+        "Crest factor and waveform integrity",
+        "High-frequency leakage current limits"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "High-Frequency Leakage and Burn Risk Testing",
+      "paragraphs": [
+        "Electrosurgical devices carry inherent thermal risks. Our testing focuses on:",
+        "Proper validation prevents regulatory objections and market delays.",
+        "https://www.iec.ch"
+      ],
+      "bullets": [
+        "Patient leakage current evaluation",
+        "Alternate site burn risk assessment",
+        "Return electrode monitoring functionality",
+        "Performance under single fault conditions"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC and RF Emission Support",
+      "paragraphs": [
+        "High-frequency surgical equipment generates strong electromagnetic energy. We assist in meeting EMC requirements in accordance with IEC 60601-1-2."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Testing support includes",
+      "paragraphs": [
+        "This ensures compatibility with other critical equipment in operating rooms."
+      ],
+      "bullets": [
+        "Conducted emissions",
+        "Radiated emissions",
+        "Immunity to electrostatic discharge (ESD)",
+        "Surge and power disturbance resistance"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Essential Performance Definition and Documentation",
+      "paragraphs": [
+        "Regulators require clear identification of essential performance functions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "We support manufacturers by",
+      "paragraphs": [
+        "Strong documentation improves approval success rates."
+      ],
+      "bullets": [
+        "Defining critical safety functions",
+        "Aligning risk analysis with ISO 14971",
+        "Preparing technical documentation",
+        "Supporting justification for compliance"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Regulatory Support",
+      "paragraphs": [
+        "IEC 60601-2-2 testing supports global regulatory pathways including:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "CE Marking under EU MDR",
+      "paragraphs": [
+        "We ensure test documentation aligns with international regulatory expectations."
+      ],
+      "bullets": [
+        "US FDA 510(k) submission",
+        "CB Scheme certification",
+        "Health Canada licensing"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-2-2-testing-services/7501183129f7.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Why Manufacturers Partner With Us",
+      "paragraphs": [
+        "We understand the technical and regulatory challenges faced by electrosurgical device manufacturers and provide structured compliance solutions."
+      ],
+      "bullets": [
+        "Early-stage compliance strategy",
+        "Reduced redesign risk",
+        "Faster certification timelines",
+        "Complete technical documentation support",
+        "Expert guidance during laboratory testing"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Our Testing Approach",
+      "paragraphs": [
+        "Our goal is to streamline your IEC 60601-2-2 compliance journey from prototype to certification."
+      ],
+      "bullets": [
+        "Technical documentation review",
+        "Risk management verification",
+        "Pre-compliance evaluation",
+        "Accredited laboratory coordination",
+        "Final certification support"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60601-2-2 mandatory for electrosurgical devices?",
+      "paragraphs": [
+        "Yes. It is required in most global markets for high-frequency surgical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How long does IEC 60601-2-2 testing take?",
+      "paragraphs": [
+        "Testing typically requires 4 to 8 weeks depending on device complexity and documentation readiness."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can compliance be planned during development?",
+      "paragraphs": [
+        "Yes. Early integration of compliance requirements significantly reduces delays and testing failures."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Start Your IEC 60601-2-2 Compliance Process Today",
+      "paragraphs": [
+        "If you are manufacturing electrosurgical equipment and preparing for international certification, our IEC 60601-2-2 testing services provide the technical expertise and regulatory support you need.",
+        "Contact us today to discuss your project and accelerate your path to approval."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "We also support combined compliance with",
+      "paragraphs": [
+        "• IEC 60601-1 Electrical Safety Testing • Medical Device EMC Testing • Risk Management as per ISO 14971"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Need IEC 60601-2-2 testing for your medical device?",
+      "paragraphs": [
+        "Contact ITC India today: 🌐 <a href=\"/\">www.itcindia.org</a> 📧 info@itcindia.org 📞 +91-9316473033"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-2-2-testing-services/7e5b3a721169.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60601-2-2-testing-services/c6c34bb113f5.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-2-2-testing-services/7501183129f7.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-2-2-testing-services/7e5b3a721169.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60601-2-2-testing-services/c6c34bb113f5.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60601-2-2-testing-services/7501183129f7.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

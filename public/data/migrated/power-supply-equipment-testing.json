@@ -1,0 +1,283 @@
+{
+  "hero": "/images/page-heroes/power-supply-equipment-testing.webp",
+  "heroPortrait": "/images/page-heroes/power-supply-equipment-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/power-supply-equipment-testing-s1.webp",
+  "generatedMid": "/images/page-sections/power-supply-equipment-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/power-supply-equipment-testing-s1.webp",
+    "/images/page-sections/power-supply-equipment-testing-s2.webp",
+    "/images/page-sections/power-supply-equipment-testing-s3.webp",
+    "/images/page-sections/power-supply-equipment-testing-s4.webp",
+    "/images/page-sections/power-supply-equipment-testing-s5.webp",
+    "/images/page-sections/power-supply-equipment-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 2 | 507 | 8 img no alt, few links | KEEP",
+  "slug": "power-supply-equipment-testing",
+  "path": "/power-supply-equipment-testing",
+  "source": "https://www.itcindia.org/power-supply-equipment-testing/",
+  "ok": true,
+  "title": "Power Supply Equipment Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Power supply equipment testing like charger testing, adaptor testing etc. are done under IEC 60950 standard. Major tests conducted under this.",
+  "sections": [
+    {
+      "heading": "Scope of Standard:",
+      "paragraphs": [
+        "This standard is applicable to mains-powered or battery-powered information technology Equipment, including electrical business equipment and associated equipment, with a rated Voltage not exceeding 600 V."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Exclusions of this standard:",
+      "paragraphs": [],
+      "bullets": [
+        "Power supply systems which are not integral parts such as motor-generator sets, battery backup systems and distribution transform.",
+        "Building installation wiring.",
+        "Devices requiring no electric power."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Equipment under Test (EUT)",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Sr. No.",
+            "Power Supply",
+            "Images"
+          ],
+          "rows": [
+            [
+              "1",
+              "Charger",
+              ""
+            ],
+            [
+              "2",
+              "SMPS",
+              ""
+            ],
+            [
+              "3",
+              "Adapter",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/power-supply-equipment-testing/0177a8524969.jpg",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/power-supply-equipment-testing/f128267145b0.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/power-supply-equipment-testing/ed16587e484d.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Earth Provision",
+      "paragraphs": [],
+      "bullets": [
+        "Stability."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Protection Against Hazards",
+      "paragraphs": [],
+      "bullets": [
+        "Resistance to Fire.",
+        "Touch Current and Protective Conductor Current.",
+        "Electric Strength.",
+        "Protection of Overheating."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Test Requirement",
+      "paragraphs": [
+        "> Power Interface:- AC power distribution systems are classified as TN-C, TN-C-S, TN-S, TT or lT and in Input Current test the input current of the equipment shall not exceed the RATED CURRENT by more than 10% under normal load.",
+        "> Durability Test:- The marking shall be legible it shall not be possible marking plates easily and they shall show no curling.",
+        "> Protection From Electric:- This test is used to reduce Electric hazards to operator (User) and Service Person (Technical Person).",
+        "> Shock And Energy Hazards:- This test is used to reduce Electric Shock and Energy hazards to operator (User) and Service Person (Technical Person).",
+        "> Earth Provision:- Accessible conductive parts that might assume a hazardous voltage in the event of a single fault this test performed to check proper Earthing of the equipment.",
+        "> Stability:- A unit having a mass of 7 kg or more shall not fall over when tilted to an angle of 10″ from its normal upright position. Doors, drawers, etc., are closed during this test.",
+        "> Mechanical Strength:- Mechanical Strength test performed to find out the Mechanical Strength of EUT Some Tests are performed for Mechanical Strength of The EUT Like drop test, steady state force test etc.",
+        "> Protection Against Hazards:- This test performs for reduce hazards for OPERATOR, OPERATOR ACCESS AREAS, SERVICE PERSON.",
+        "> Resistance to Fire:- Some tests are performed in order of Resistance to Fire i.e. Glow wire, Needle flame test, CTIT (Comparative tracking index).",
+        "> Touch Current and Protective Conductor Current:- Measurements of current through networks simulating the impedance of the human body are referred to as measurements of touch current. Equipment shall be so designed and constructed that neither touch current nor protective conductor current is likely to create an electric shock hazard.",
+        "> Electric Strength:- Electric strength is a measure of the electrical strength . Dielectric strength is defined as the maximum voltage required to produce a dielectric breakdown/flashover through the material.",
+        "> Protection of Overheating:- This test performs on following:",
+        "All above under Normal Load, temperatures do not exceed safe values."
+      ],
+      "bullets": [
+        "components, parts, insulation and plastic materials from exceeding temperatures that may degrade electrical, mechanical, or other properties during normal use over the expected life of the equipment.",
+        "touchable parts from exceeding certain temperatures."
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Sample Marking",
+            ""
+          ],
+          "rows": []
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/power-supply-equipment-testing/34801ac14134.jpg",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/0177a8524969.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/f128267145b0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/ed16587e484d.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/34801ac14134.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/0177a8524969.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/f128267145b0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/ed16587e484d.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/power-supply-equipment-testing/34801ac14134.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

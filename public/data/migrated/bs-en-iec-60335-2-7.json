@@ -1,0 +1,316 @@
+{
+  "hero": "/images/page-heroes/bs-en-iec-60335-2-7.webp",
+  "heroPortrait": "/images/page-heroes/bs-en-iec-60335-2-7-portrait.webp",
+  "generatedIntro": "/images/page-sections/bs-en-iec-60335-2-7-s1.webp",
+  "generatedMid": "/images/page-sections/bs-en-iec-60335-2-7-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/bs-en-iec-60335-2-7-s1.webp",
+    "/images/page-sections/bs-en-iec-60335-2-7-s2.webp",
+    "/images/page-sections/bs-en-iec-60335-2-7-s3.webp",
+    "/images/page-sections/bs-en-iec-60335-2-7-s4.webp",
+    "/images/page-sections/bs-en-iec-60335-2-7-s5.webp",
+    "/images/page-sections/bs-en-iec-60335-2-7-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "LOW",
+  "note": "572 | long title | LOW: link to /washing-machine-safety-testing/",
+  "slug": "bs-en-iec-60335-2-7",
+  "path": "/bs-en-iec-60335-2-7",
+  "source": "https://www.itcindia.org/bs-en-iec-60335-2-7/",
+  "ok": true,
+  "title": "BS EN/ IEC 60335-2-7 Household and similar electrical appliances - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "BS EN/ IEC 60335-2-7 Household and similar electrical appliances - Safety - Part 2-7: Particular requirements for washing machines",
+  "sections": [
+    {
+      "heading": "BS EN/ IEC 60335-2-7",
+      "paragraphs": [
+        "Household and similar electrical appliances – Safety – Part 2-7: Particular requirements for washing machines",
+        "In this modern aeon, washing machines are necessity of every house. Affording a maid or servant for washing clothes is too much as compared to the cost that washing machine takes. After spending a tiring day at office and look to clean a bundle of clothes at home can be unmanageable. These machines offer the advantage of performance, productivity, simplicity, and less cost.",
+        "The above standard deal with safety of electric washing machines (household or similar use that are manufactured to wash clothes and textiles having rated voltage less than 250V for single phase and 480 V for other appliances.",
+        "This standard does not covers",
+        "This standard covers the common hazards introduced by washing machines that are experienced by all persons in and around home. Although, in general, it does not take account",
+        "List of tests for IEC 60335-1"
+      ],
+      "bullets": [
+        "Washing machines intended for industrial purposes",
+        "Appliances intended to be used in location where special conditions prevail.",
+        "Persons( including children) whose Physical sensory or mental capability: or",
+        "Lack of experience and knowledge prevent them from using the appliances without supervision or instructions",
+        "Children playing with the appliances"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "S.no",
+            "Clause No",
+            "Title of the test",
+            "Equipment used"
+          ],
+          "rows": [
+            [
+              "1",
+              "8",
+              "Protection against live parts.",
+              "3 Test Probe."
+            ],
+            [
+              "2",
+              "10",
+              "Power I/P & Current",
+              "Single Phase Variac."
+            ],
+            [
+              "3",
+              "11",
+              "Temperature Test",
+              "Temperature meter."
+            ],
+            [
+              "4",
+              "13.2",
+              "Leakage Current Test",
+              "Leakage Current Tester"
+            ],
+            [
+              "5",
+              "13.3",
+              "Electric Strength Test",
+              "Electrical Safety Analyzer."
+            ],
+            [
+              "6",
+              "14",
+              "Impulse Voltage Test",
+              "Impulse Generator"
+            ],
+            [
+              "7",
+              "15",
+              "IP Testing/ Electric Strength Test",
+              "14.2.4(a) IEC 60529"
+            ],
+            [
+              "8",
+              "16.2",
+              "Leakage Current Test",
+              "Leakage Current Tester"
+            ],
+            [
+              "9",
+              "16.3",
+              "Electric Strength Test",
+              "Electrical Safety Analyzer."
+            ],
+            [
+              "10",
+              "17",
+              "Transformer Overload Protection",
+              "Single Phase Variac, Temperature meter."
+            ],
+            [
+              "11",
+              "19",
+              "Abnormal Operation",
+              "Test Panel"
+            ],
+            [
+              "12",
+              "20.1",
+              "Stability test",
+              "Inclined Plane"
+            ],
+            [
+              "13",
+              "20.2",
+              "Mechanical test",
+              "Test Probe/Force Gauge"
+            ],
+            [
+              "14",
+              "21",
+              "Spring Hammer Impact Test",
+              "Spring Hammer"
+            ],
+            [
+              "15",
+              "22",
+              "Voltage Drop test/ Capacitor",
+              "CRO"
+            ],
+            [
+              "16",
+              "22.6",
+              "Syringe Test",
+              "Syringe, colored water"
+            ],
+            [
+              "17",
+              "22.11",
+              "Assembly test",
+              "N/A"
+            ],
+            [
+              "18",
+              "22.12",
+              "Axial pull test",
+              "Torque meter"
+            ],
+            [
+              "19",
+              "22.16",
+              "Cord guard flexing Test/ Electric Strength Test",
+              "Cord guard flexing Test Apparatus"
+            ],
+            [
+              "20",
+              "23.5",
+              "Electrical Stress test",
+              "Electrical Safety Analyzer."
+            ],
+            [
+              "21",
+              "25.2",
+              "High Voltage test",
+              "Electrical Safety Analyzer."
+            ],
+            [
+              "22",
+              "26",
+              "Chord pulling test",
+              "Force gauge"
+            ],
+            [
+              "23",
+              "26.1X",
+              "Terminal pull test",
+              "Force gauge(5N)"
+            ],
+            [
+              "24",
+              "27",
+              "Earthing test",
+              "Electrical Safety Analyzer."
+            ],
+            [
+              "25",
+              "28",
+              "Screws Test",
+              "Screw Driver, Torque meter"
+            ],
+            [
+              "26",
+              "29",
+              "Clearance and Creepage Distance",
+              "Vernier Calliper and Filler gauge"
+            ],
+            [
+              "27",
+              "30",
+              "Glow wire test",
+              "Glow wire test apparatus"
+            ],
+            [
+              "28",
+              "",
+              "Needle Flame test",
+              "Needle Flame Burner"
+            ],
+            [
+              "28",
+              "23.3",
+              "Flexing Test/ 100,000",
+              "Oscillating Mechanism"
+            ],
+            [
+              "30",
+              "",
+              "Electric Strength Test",
+              "Electrical Safety Analyzer."
+            ],
+            [
+              "31",
+              "22.3",
+              "Torque/ Thermal/ Pull Test",
+              "Torque meter, Oven, Force gauge"
+            ],
+            [
+              "32",
+              "21.102",
+              "Adequate Strength",
+              "Load 4 times, Torque meter"
+            ],
+            [
+              "33",
+              "19.11.4.1-4.7",
+              "flexing Test/ 100,000",
+              "IEC 61000-4-3-4.6/ 4.11/ 4.13"
+            ],
+            [
+              "34",
+              "15.2",
+              "Spillage Test/ Electric Strength",
+              "Electrical Safety Analyzer."
+            ],
+            [
+              "35",
+              "15.3",
+              "Humidity test/ Detachable Parts",
+              "Humidity Chamber"
+            ],
+            [
+              "36",
+              "31",
+              "Salt mist test",
+              "IEC 60068-2-52,"
+            ],
+            [
+              "37",
+              "25.15",
+              "Internal Wiring/ Pull Test",
+              "Torque meter/ Force Gauge"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/bs-en-iec-60335-2-7/0b5e26b28f00.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Why ITC India Pvt Ltd for testing Washing Machines?",
+      "paragraphs": [
+        "<a href=\"/\">www.itcindia.org</a> ,",
+        "info@itcindia.org , care@itcindia.org",
+        "9316473033"
+      ],
+      "bullets": [
+        "NABL acceridited Lab",
+        "Attractive testing fees",
+        "Coherent and expert staff",
+        "Timely completion of projects",
+        "Express testing facility available",
+        "Satisfied clients",
+        "Accurate equipments"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/bs-en-iec-60335-2-7/0b5e26b28f00.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/bs-en-iec-60335-2-7/0b5e26b28f00.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

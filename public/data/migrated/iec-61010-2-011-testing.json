@@ -1,0 +1,309 @@
+{
+  "hero": "/images/page-heroes/iec-61010-2-011-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-61010-2-011-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-61010-2-011-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-61010-2-011-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-61010-2-011-testing-s1.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s2.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s3.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s4.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s5.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s6.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s7.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s8.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s9.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s10.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s11.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s12.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s13.webp",
+    "/images/page-sections/iec-61010-2-011-testing-s14.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "942 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-61010-2-011-testing",
+  "path": "/iec-61010-2-011-testing",
+  "source": "https://www.itcindia.org/iec-61010-2-011-testing/",
+  "ok": true,
+  "title": "IEC 61010-2-011 Testing Laboratory in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 61010-2-011 testing in India for laboratory refrigerating equipment, refrigerators and freezers. Evaluate electrical, thermal and refrigeration safety.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Laboratory refrigerating equipment combines electrical systems, temperature controls, compressors and refrigerating circuits. Failure of these systems can create risks involving electric shock, excessive temperatures, mechanical hazards, refrigerant leakage, fire or unsafe operation.",
+        "ITC India provides IEC 61010-2-011 testing in India for manufacturers and developers of electrical measurement, control and laboratory equipment incorporating refrigerating systems. Testing helps determine whether the equipment satisfies applicable safety requirements before certification, export, product launch or regulatory submission.",
+        "IEC 61010-2-011 is a particular standard and is applied together with the general requirements of IEC 61010-1. Manufacturers should therefore also review ITC India’s <a href=\"/iec-61010-1-testing\">IEC 61010-1 safety testing services</a> when planning the complete compliance program."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-61010-2-011-testing/6291bba07957.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does IEC 61010-2-011 Cover?",
+      "paragraphs": [
+        "IEC 61010-2-011 specifies particular safety requirements for relevant electrical equipment and accessories when a refrigerating system forms an integral or separate part of the equipment and the equipment directly controls that refrigerating system.",
+        "Depending on construction and intended use, the standard can be relevant to laboratory refrigerators, laboratory freezers, refrigerated analytical equipment, refrigerated test equipment, temperature-controlled laboratory systems and other measurement or laboratory equipment incorporating refrigeration.",
+        "This standard should not automatically be applied to every refrigerator or freezer. Household refrigerating appliances may instead fall under <a href=\"/iec-60335-2-24-safety-testing-india\">IEC 60335-2-24 refrigerator safety testing</a>, while commercial refrigerating appliances may require <a href=\"/iec-60335-2-89-commercial-refrigerating-appliances-and-ice-makers-testing\">IEC 60335-2-89 testing</a>. Correct classification should therefore be established from the product’s intended use and construction before testing begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Major IEC 61010-2-011 Safety Evaluations",
+      "paragraphs": [
+        "The exact test program depends on equipment design, refrigerant type and charge, operating temperature, electrical rating, insulation system and control architecture. Typical safety evaluation can include:",
+        "These evaluations help determine whether risks remain adequately controlled during normal operation and relevant fault conditions. Broader electrical product-safety support is also available through ITC India’s <a href=\"/electrical-testing\">Electrical Equipment Testing Services</a>."
+      ],
+      "bullets": [
+        "Marking and safety documentation",
+        "Protection against electric shock",
+        "Accessibility of hazardous live parts",
+        "Protective bonding and earthing",
+        "Dielectric strength",
+        "Creepage and clearance distances",
+        "Temperature and thermal safety",
+        "Mechanical strength and stability",
+        "Protection against spread of fire",
+        "Abnormal and single-fault operation",
+        "Refrigerating-system construction",
+        "Pressure-related hazards",
+        "Refrigerant leakage considerations",
+        "Components and protective devices",
+        "Safety interlocks and controls",
+        "Protection against fluids",
+        "Evaluation of flammable refrigerants where applicable",
+        "Risk assessment for foreseeable hazards"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Refrigerant and Refrigeration-System Safety",
+      "paragraphs": [
+        "Refrigerating equipment introduces hazards that are not normally present in general laboratory instruments. Compressors, tubing, pressure-containing components and refrigerants therefore require careful evaluation in addition to normal electrical-safety testing.",
+        "IEC 61010-2-011 includes particular requirements relating to refrigeration systems and addresses equipment using flammable refrigerants within the limits specified by the standard. Equipment containing larger refrigerant charges or presenting additional hazards may require further requirements beyond the basic scope.",
+        "Manufacturers should provide complete information about the refrigerant type, refrigerant charge, compressor, pressure-control components and refrigeration circuit before formal testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Equipment with Heating and Refrigerating Functions",
+      "paragraphs": [
+        "Some laboratory systems can both cool and heat materials. In these cases, IEC 61010-2-011 may not be the only applicable particular standard.",
+        "Equipment in which heating materials is also a function may require evaluation against <a href=\"/iec-61010-2-010-testing\">IEC 61010-2-010 laboratory heating equipment testing</a> in addition to IEC 61010-2-011.",
+        "Similarly, laboratory equipment incorporating mixing or stirring functions may need the requirements covered by <a href=\"/iec-61010-2-051-testing\">IEC 61010-2-051 testing</a>.",
+        "ITC India’s broader <a href=\"/iec-61010-testing-lab\">IEC 61010 Testing Laboratory</a> page provides information for manufacturers working with multiple laboratory and measuring-equipment standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-011 and EMC Testing",
+      "paragraphs": [
+        "IEC 61010-2-011 primarily addresses product safety. Electrical measurement, control and laboratory equipment may separately require electromagnetic compatibility testing under the IEC 61326 series.",
+        "Refrigerating laboratory equipment can contain electronic temperature controllers, sensors, switching circuits, displays and communication interfaces that may generate or be affected by electromagnetic disturbances.",
+        "Manufacturers can therefore combine safety evaluation with ITC India’s <a href=\"/iec-61326-electromagnetic-compatibility-emc-for-electrical-equipment-testing\">IEC 61326 EMC testing services</a> when EMC requirements also apply."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Documents Required for IEC 61010-2-011 Testing",
+      "paragraphs": [
+        "Manufacturers should provide sufficient technical documentation to establish the correct test program. Useful information includes product specifications, rated voltage and frequency, circuit diagrams, critical component lists, insulation details, refrigeration-system drawings, compressor information, refrigerant type and charge, pressure-control information, temperature-control details, safety devices, product labels and user instructions.",
+        "Providing this information before testing can help identify applicable IEC 61010 Part 2 requirements and reduce unnecessary delays."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 61010-2-011 Testing with ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with safety evaluation of laboratory, measurement and control equipment against applicable IEC 61010 requirements. Early testing can identify potential problems involving electrical insulation, refrigeration components, temperature control, protective earthing, fire protection and abnormal-operation safeguards.",
+        "Manufacturers evaluating laboratory capabilities can also review ITC India’s <a href=\"/about-us/accreditations\">NABL accreditation and scope information</a>.",
+        "For IEC 61010-2-011 laboratory refrigerating equipment testing in India, submit product specifications and technical documents through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 61010-2-011?",
+      "paragraphs": [
+        "IEC 61010-2-011 specifies particular safety requirements for relevant electrical measurement, control and laboratory equipment incorporating refrigerating systems."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 61010-1 also required?",
+      "paragraphs": [
+        "Yes. IEC 61010-2-011 is used together with IEC 61010-1, which contains the general safety requirements for electrical measurement, control and laboratory equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What equipment can require IEC 61010-2-011 testing?",
+      "paragraphs": [
+        "The standard can apply to laboratory refrigerators, laboratory freezers, refrigerated analytical systems and other relevant laboratory or measurement equipment incorporating and controlling a refrigerating system."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 61010-2-011 cover household refrigerators?",
+      "paragraphs": [
+        "Normally, household refrigerating appliances are addressed through the IEC 60335 series. The correct standard depends on the product’s construction, intended use and market."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can heating and refrigeration standards apply to the same equipment?",
+      "paragraphs": [
+        "Yes. Equipment combining refrigeration with material-heating functions may require both IEC 61010-2-011 and IEC 61010-2-010 requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India test laboratory refrigerating equipment?",
+      "paragraphs": [
+        "ITC India supports safety testing of laboratory refrigerating equipment against applicable IEC 61010 requirements. The test scope is determined from product design, refrigeration system, intended use and applicable standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-61010-2-011-testing/6291bba07957.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-61010-2-011-testing/6291bba07957.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

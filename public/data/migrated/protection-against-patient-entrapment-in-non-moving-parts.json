@@ -1,0 +1,75 @@
+{
+  "hero": "/images/page-heroes/protection-against-patient-entrapment-in-non-moving-parts.webp",
+  "heroPortrait": "/images/page-heroes/protection-against-patient-entrapment-in-non-moving-parts-portrait.webp",
+  "generatedIntro": "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s1.webp",
+  "generatedMid": "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s1.webp",
+    "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s2.webp",
+    "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s3.webp",
+    "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s4.webp",
+    "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s5.webp",
+    "/images/page-sections/protection-against-patient-entrapment-in-non-moving-parts-s6.webp"
+  ],
+  "category": "medical",
+  "action": "ADD",
+  "note": "409 | no meta, no H2 | LOW: add meta, H2s",
+  "slug": "protection-against-patient-entrapment-in-non-moving-parts",
+  "path": "/protection-against-patient-entrapment-in-non-moving-parts",
+  "source": "https://www.itcindia.org/protection-against-patient-entrapment-in-non-moving-parts/",
+  "ok": true,
+  "title": "Medical Device Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Protection against patient entrapment in non moving partsThank you for reading this post, don't forget to subscribe! IEC 60601-2-52   Types of injuries caused due to entrapment in Medical beds … To save the patient from injuries that may be caused due entrapment in non moving parts of medical bed, international standards are being made.…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Protection against patient entrapment in non moving parts"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60601-2-52",
+      "paragraphs": [
+        "Types of injuries caused due to entrapment in Medical beds …",
+        "To save the patient from injuries that may be caused due entrapment in non moving parts of medical bed, international standards are being made. Testing is mandatory for all hospital medical beds both for children and adults as per IEC 60601-2-52 and BS EN 50637.",
+        "Compliance testing is done in ITC India Pvt Ltd as per IEC 60601 for all medical equipment. For any testing requirement please mail info@itcindia.org or visit <a href=\"/\">www.itcindia.org.</a>",
+        "The dimensions and weight of the cone TOOL and cylinder TOOL are derived from the following observations"
+      ],
+      "bullets": [
+        "Selection of SIDE RAILS Compliance is checked before and after application of the SIDE RAIL strength and latch reliability tests.",
+        "Selection of mattress: Compliance is checked with the MATTRESS SUPPORT PLATFORM in the flat position unless otherwise noted as indicated in Table 201.101. The test shall be performed with the SIDE RAIL in all raised and locked positions. Compliance is checked by the following tests and inspection of the RISK MANAGEMENT FILE.",
+        "Mass of head for ADULTS has to be considered both in the 60 and 40 diameter TOOLS in order to include persons with an atypical anatomy and older CHILDREN. A 4 year old, 95th percentile child’s head is 3.2 kg. Weight of TOOLS 3.3 kg has been chosen for safety reasons.",
+        "Area of Tool representing neck diameter (40 mm): The neck diameter of 5th percentile child 0 – 3 months is 46 mm. We have to consider compression of tissue. The 5th percentile 12 year old child’s diameter is 72 mm; the mean is 88 mm. But the 5th percentile 18 year old is only 61 mm.",
+        "Area of TOOL representing chest breadth (300 mm): The chest breadth of 12 years, 95th percentile: 265 mm; Maximum head diameter (chin to back of head) 12 years, 95th percentile: 256 mm;",
+        "Area of TOOL representing head breadth (60 mm):",
+        "Jaw breadth 0-3 months, 5th percentile 57 mm;",
+        "Face breadth, frontal (brow ridges) 2 years, 5th percentile 73 mm; 12 years old 79 mm.",
+        "For slipping out of bed feet first: Chest depth 0 – 3 months 5th percentile 80 mm, 3rd percentile girl 0-2 months from Netherlands 61 mm"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/protection-against-patient-entrapment-in-non-moving-parts/fbbde96cf447.webp",
+          "alt": "IEC 60601-2-52 testing"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/protection-against-patient-entrapment-in-non-moving-parts/fbbde96cf447.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/protection-against-patient-entrapment-in-non-moving-parts/fbbde96cf447.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

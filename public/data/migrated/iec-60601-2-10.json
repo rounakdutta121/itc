@@ -1,0 +1,306 @@
+{
+  "hero": "/images/page-heroes/iec-60601-2-10.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-2-10-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-2-10-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-2-10-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-2-10-s1.webp",
+    "/images/page-sections/iec-60601-2-10-s2.webp",
+    "/images/page-sections/iec-60601-2-10-s3.webp",
+    "/images/page-sections/iec-60601-2-10-s4.webp",
+    "/images/page-sections/iec-60601-2-10-s5.webp",
+    "/images/page-sections/iec-60601-2-10-s6.webp",
+    "/images/page-sections/iec-60601-2-10-s7.webp",
+    "/images/page-sections/iec-60601-2-10-s8.webp",
+    "/images/page-sections/iec-60601-2-10-s9.webp",
+    "/images/page-sections/iec-60601-2-10-s10.webp",
+    "/images/page-sections/iec-60601-2-10-s11.webp",
+    "/images/page-sections/iec-60601-2-10-s12.webp",
+    "/images/page-sections/iec-60601-2-10-s13.webp",
+    "/images/page-sections/iec-60601-2-10-s14.webp"
+  ],
+  "category": "medical",
+  "action": "ADD",
+  "note": "818 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-60601-2-10",
+  "path": "/iec-60601-2-10",
+  "source": "https://www.itcindia.org/iec-60601-2-10/",
+  "ok": true,
+  "title": "IEC 60601-2-10 Testing Lab for TENS & EMS",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60601-2-10 testing for TENS, EMS, nerve and muscle stimulators in India. Assess electrical safety, output, EMC and essential performance with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Nerve and muscle stimulators apply controlled electrical energy to the body for therapeutic or physical-medicine applications. Because electrical output is intentionally delivered through electrodes connected to the patient, manufacturers must evaluate electrical safety, output characteristics and essential performance before market entry.",
+        "ITC India provides IEC 60601-2-10 testing support for nerve and muscle stimulators, including transcutaneous electrical nerve stimulators (TENS) and electrical muscle stimulators (EMS). IEC 60601-2-10 is a particular standard within the wider <a href=\"/iec-60601-testing\">IEC 60601 medical electrical equipment testing</a> framework."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-2-10/238a14f05c15.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60601-2-10?",
+      "paragraphs": [
+        "IEC 60601-2-10 specifies particular requirements for the basic safety and essential performance of nerve and muscle stimulators used in physical medicine. The current consolidated publication is IEC 60601-2-10:2012 + AMD1:2016 + AMD2:2023, Edition 2.2.",
+        "The standard is applied together with the relevant general requirements of IEC 60601-1. Manufacturers should therefore consider IEC 60601-2-10 alongside <a href=\"/iec-60601-1-testing\">IEC 60601-1 testing for medical electrical equipment</a> rather than treating them as separate compliance routes."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Equipment Is Covered?",
+      "paragraphs": [
+        "The standard applies to nerve and muscle stimulators intended for physical-medicine applications. Typical products include TENS devices used for transcutaneous electrical nerve stimulation and EMS devices designed to stimulate muscles through applied electrical impulses.",
+        "Applicability depends on the intended medical purpose, product design, applied parts, output characteristics and operating modes. Before testing begins, the manufacturer should clearly define intended use, stimulation functions and accessories supplied with the equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Key IEC 60601-2-10 Testing Areas",
+      "paragraphs": [
+        "A test program is established according to the device configuration and applicable clauses. Evaluation may include:",
+        "Because the device intentionally applies electrical signals to the patient, output circuits and patient connections are especially important. Test planning should consider electrode configurations, selectable output settings, waveform characteristics and intended accessories."
+      ],
+      "bullets": [
+        "Protection against accessible live parts",
+        "Leakage current and patient auxiliary current",
+        "Dielectric strength and insulation",
+        "Separation of patient connections from mains-related circuits",
+        "Creepage distances and clearances",
+        "Output characteristics and protection against excessive output",
+        "Mechanical strength",
+        "Temperature rise of relevant parts",
+        "Marking, labelling and instructions for use",
+        "Safety under normal and relevant single-fault conditions"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60601-1 Electrical Safety Requirements",
+      "paragraphs": [
+        "IEC 60601-2-10 does not replace the general medical electrical equipment standard. IEC 60601-1 requirements remain relevant to the overall safety assessment.",
+        "General evaluation may include protection against electric shock, insulation systems, leakage currents, protective earthing where applicable, dielectric strength, mechanical hazards, excessive temperatures and documentation. Manufacturers seeking broader support can also review ITC India’s <a href=\"/electrical-safety-testing-for-medical-device\">electrical safety testing for medical devices</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Testing for Nerve and Muscle Stimulators",
+      "paragraphs": [
+        "Electrical stimulators contain electronic circuitry that can both generate and be affected by electromagnetic disturbances. Depending on the product and target market, electromagnetic compatibility should therefore be addressed as part of the compliance program.",
+        "ITC India provides <a href=\"/iec-60601-1-2-emc-testing\">IEC 60601-1-2 EMC testing for medical electrical equipment</a> to evaluate relevant emissions and immunity requirements.",
+        "Coordinating EMC testing with IEC 60601-1 and IEC 60601-2-10 can help identify design problems before final regulatory or certification submissions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Software and Usability Considerations",
+      "paragraphs": [
+        "Modern TENS and EMS products may use embedded software to control stimulation modes, timing, output levels or user settings. Where software contributes to safety, manufacturers may also need to consider <a href=\"/iec-62304-medical-device-software-system-testing\">IEC 62304 medical device software requirements</a>.",
+        "User-interface design is equally important when users select stimulation parameters. ITC India also supports <a href=\"/usability-testing-of-medical-devices-iec-62366\">IEC 62366 usability testing for medical devices</a> where usability engineering is relevant to the product."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing Your Stimulator for Testing",
+      "paragraphs": [
+        "Manufacturers should prepare the product and supporting technical documentation before laboratory evaluation. Useful information normally includes:",
+        "Complete documentation helps define the applicable test configuration and reduces avoidable delays during evaluation."
+      ],
+      "bullets": [
+        "Product specifications and intended use",
+        "Electrical ratings and circuit diagrams",
+        "Critical component information",
+        "Output waveform and stimulation specifications",
+        "Electrode and accessory details",
+        "Risk-management documentation",
+        "Software information, where applicable",
+        "User manual, labels and warnings"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60601-2-10 Testing Support from ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers and product-development teams with <a href=\"/iec-60601-testing\">electro-medical equipment testing</a> against relevant IEC safety and EMC requirements.",
+        "A coordinated approach can combine IEC 60601-2-10 particular requirements with IEC 60601-1 general safety requirements and IEC 60601-1-2 EMC evaluation.",
+        "To discuss testing for a TENS device, EMS device or other nerve and muscle stimulator, submit the product specifications through the <a href=\"/contact-us/inquiry\">ITC India testing and certification inquiry</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60601-2-10?",
+      "paragraphs": [
+        "IEC 60601-2-10 covers basic safety and essential performance requirements for nerve and muscle stimulators used in physical medicine."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60601-2-10 cover TENS and EMS devices?",
+      "paragraphs": [
+        "Yes. The standard includes transcutaneous electrical nerve stimulators (TENS) and electrical muscle stimulators (EMS) within its scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current version of IEC 60601-2-10?",
+      "paragraphs": [
+        "The current consolidated publication is IEC 60601-2-10:2012 + AMD1:2016 + AMD2:2023, Edition 2.2."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60601-1 also required?",
+      "paragraphs": [
+        "IEC 60601-2-10 is used together with applicable IEC 60601-1 general requirements, so both should be considered when establishing the test plan."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is EMC testing needed for electrical stimulators?",
+      "paragraphs": [
+        "Depending on applicable market and regulatory requirements, medical electrical stimulators may also require IEC 60601-1-2 testing for electromagnetic emissions and immunity."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-2-10/238a14f05c15.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-2-10/238a14f05c15.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

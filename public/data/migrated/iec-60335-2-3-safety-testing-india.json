@@ -1,0 +1,336 @@
+{
+  "hero": "/images/page-heroes/iec-60335-2-3-safety-testing-india.webp",
+  "heroPortrait": "/images/page-heroes/iec-60335-2-3-safety-testing-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60335-2-3-safety-testing-india-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60335-2-3-safety-testing-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s1.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s2.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s3.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s4.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s5.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s6.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s7.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s8.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s9.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s10.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s11.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s12.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s13.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s14.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s15.webp",
+    "/images/page-sections/iec-60335-2-3-safety-testing-india-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "CTR",
+  "note": "1086 | title typo \"IIEC\" | FIX TITLE – \"IEC 60335-2-3 Electric Iron Testing India | ITC India\"",
+  "slug": "iec-60335-2-3-safety-testing-india",
+  "path": "/iec-60335-2-3-safety-testing-india",
+  "source": "https://www.itcindia.org/iec-60335-2-3-safety-testing-india/",
+  "ok": true,
+  "title": "IIEC 60335-2-3 Electric Iron Testing India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60335-2-3 electric iron safety testing in India for heating, leakage current, moisture, abnormal operation, mechanical strength and electrical safety.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides IEC 60335-2-3 testing for electric irons intended for household and similar applications. The standard addresses safety requirements for dry irons, steam irons and applicable ironing systems, helping manufacturers evaluate electrical, thermal, mechanical and fire-related hazards before certification or market release.",
+        "The current IEC 60335-2-3 requirements are used together with the applicable general requirements of IEC 60335-1. ITC India also provides broader <a href=\"/household\">household equipment testing</a> for domestic electrical appliances covered by the IEC 60335 series."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60335-2-3-safety-testing-india/860fca8c1626.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60335-2-3?",
+      "paragraphs": [
+        "IEC 60335-2-3 specifies particular safety requirements for electric irons and related ironing appliances. Its scope includes household dry irons and steam irons, including applicable appliances using a separate water reservoir or boiler.",
+        "Testing is intended to evaluate common hazards that may occur during normal operation and reasonably foreseeable misuse. These include electric shock, excessive temperature, moisture-related hazards, mechanical failure, fire and deterioration of insulation.",
+        "IEC 60335-2-3 is applied together with the general appliance-safety requirements of IEC 60335-1. Manufacturers can review ITC India’s <a href=\"/iec-60335-1-safety-testing-india\">IEC 60335-1 safety testing services</a> when planning a complete compliance programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Safety Testing for Electric Irons",
+      "paragraphs": [
+        "Electric irons operate at high temperatures while being directly handled by the user, making electrical protection especially important.",
+        "Depending on the construction and applicable clauses, testing may include protection against access to live parts, power input and current, leakage current, electric strength, insulation, supply connections, internal wiring, terminals, protective earthing and creepage and clearance distances.",
+        "ITC India’s <a href=\"/electrical-testing\">electrical testing services</a> support electrical-safety evaluation of household and similar appliances."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Heating and Temperature-Rise Testing",
+      "paragraphs": [
+        "An electric iron is intentionally designed to generate substantial heat at its soleplate. However, temperatures at other parts of the appliance must remain within applicable safety limits.",
+        "Heating tests can evaluate the soleplate, handles, controls, internal wiring, insulation, terminals and other components while the appliance operates under specified conditions.",
+        "Excessive temperature can degrade insulation, damage plastic parts, affect electrical components or create burn and fire hazards. Thermostats, temperature controls and thermal protective devices therefore play an important role in maintaining safe operation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Leakage Current and Electric Strength",
+      "paragraphs": [
+        "The appliance insulation system must continue to provide adequate protection both during normal operation and after applicable conditioning.",
+        "Leakage-current testing measures current that could become accessible to the user. Electric-strength testing evaluates whether insulation can withstand a specified test voltage without flashover or breakdown.",
+        "ITC India’s <a href=\"/services\">major electrical safety test facilities</a> also support testing areas such as leakage current, dielectric strength, heating, mechanical strength and resistance to heat and fire."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Moisture Resistance for Steam Irons",
+      "paragraphs": [
+        "Steam irons introduce additional safety considerations because water is stored and heated within or near electrically energized parts.",
+        "Moisture-resistance testing helps determine whether water leakage, filling operations, condensation or foreseeable spillage can compromise electrical insulation.",
+        "Steam hoses, reservoirs, boilers, valves and associated connections should be evaluated according to the relevant product construction and applicable requirements.",
+        "Following moisture conditioning, electrical-safety checks may be performed to confirm that protection against electric shock remains effective."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Abnormal Operation and Overheating",
+      "paragraphs": [
+        "Electric irons must remain acceptably safe if foreseeable abnormal conditions occur.",
+        "Depending on the appliance design, testing can evaluate thermostat or control faults, abnormal heating conditions and other specified failure scenarios. The objective is to confirm that a fault does not result in fire, hazardous temperature, damaged insulation or accessible dangerous live parts.",
+        "Thermal cut-outs and other protective devices should operate as intended when they form part of the appliance safety system."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mechanical Strength and Stability",
+      "paragraphs": [
+        "Electric irons can experience repeated handling, placement on rests and accidental mechanical stresses during their useful life.",
+        "Mechanical evaluation helps determine whether the enclosure, handle, controls, soleplate, cord entry and other parts remain adequately secure. Applicable impact, drop or mechanical-strength tests can identify weaknesses that might expose electrical parts or create other hazards.",
+        "Cordless irons and irons supplied with stands or bases also require evaluation of their complete intended operating arrangement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Construction, Wiring and Components",
+      "paragraphs": [
+        "Compliance depends on the safety of the complete iron rather than the heating element alone.",
+        "Inspection and testing may cover switches, thermostats, temperature limiters, internal wiring, flexible cords, terminals, screws, electrical connections, insulation materials and other safety-critical components.",
+        "Materials exposed to elevated temperatures should have suitable resistance to heat and fire, and wiring should be positioned so that normal movement or heat does not damage insulation.",
+        "Correct product markings and instructions are also important for communicating rated values, filling instructions, safe operation and maintenance requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Dry Irons, Steam Irons and Ironing Systems",
+      "paragraphs": [
+        "IEC 60335-2-3 can apply to conventional dry irons, steam irons and applicable ironing systems within the scope of the standard.",
+        "Products incorporating boilers or separate water reservoirs require additional consideration of pressure, steam and water-related construction. The exact test programme should therefore be established from the product design, intended use and applicable edition of the standard.",
+        "For manufacturers working across several household-appliance categories, ITC India’s <a href=\"/household\">IEC 60335 household appliance testing services</a> provide an overview of related product-safety capabilities."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for Testing",
+      "paragraphs": [
+        "To prepare an accurate test programme, manufacturers should provide the model number, rated voltage and power, appliance class, dry or steam configuration, reservoir or boiler capacity, thermostat details, circuit diagrams, construction drawings, critical component list, supply-cord details and user instructions.",
+        "Any Indian, customer or certification-specific requirements should also be provided before testing begins."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India?",
+      "paragraphs": [
+        "ITC India’s household-appliance facilities support testing of electric irons against IEC 60335-2-3 and related electrical-safety requirements. Testing capabilities include heating, leakage current, electric strength, construction, internal wiring and other appliance-safety evaluations.",
+        "Reviewing technical documentation before testing helps identify the applicable standard edition, samples and product-specific test conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request IEC 60335-2-3 Testing",
+      "paragraphs": [
+        "For IEC 60335-2-3 electric iron safety testing, <a href=\"/contact-us/inquiry\">send your testing requirement to ITC India</a> with the appliance specifications, electrical ratings, construction details and required standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60335-2-3?",
+      "paragraphs": [
+        "IEC 60335-2-3 specifies particular safety requirements for electric irons and applicable related ironing appliances used for household and similar purposes."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current IEC 60335-2-3 edition?",
+      "paragraphs": [
+        "The current consolidated publication is IEC 60335-2-3:2022+A1:2025, Edition 7.1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which types of electric irons can be tested?",
+      "paragraphs": [
+        "The standard covers applicable dry irons, steam irons and certain ironing systems, including steam irons with separate water reservoirs or boilers within the stated scope."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests are performed on electric irons?",
+      "paragraphs": [
+        "Typical evaluations include heating, leakage current, electric strength, moisture resistance, abnormal operation, mechanical strength, construction, wiring, components and resistance to heat and fire."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60335-1 also required?",
+      "paragraphs": [
+        "Yes. IEC 60335-2-3 provides product-specific requirements and is used together with the applicable general requirements of IEC 60335-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60335-2-3-safety-testing-india/860fca8c1626.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60335-2-3-safety-testing-india/860fca8c1626.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

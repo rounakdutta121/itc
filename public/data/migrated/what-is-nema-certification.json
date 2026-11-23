@@ -1,0 +1,331 @@
+{
+  "hero": "/images/page-heroes/what-is-nema-certification.webp",
+  "heroPortrait": "/images/page-heroes/what-is-nema-certification-portrait.webp",
+  "generatedIntro": "/images/page-sections/what-is-nema-certification-s1.webp",
+  "generatedMid": "/images/page-sections/what-is-nema-certification-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/what-is-nema-certification-s1.webp",
+    "/images/page-sections/what-is-nema-certification-s2.webp",
+    "/images/page-sections/what-is-nema-certification-s3.webp",
+    "/images/page-sections/what-is-nema-certification-s4.webp",
+    "/images/page-sections/what-is-nema-certification-s5.webp",
+    "/images/page-sections/what-is-nema-certification-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "30 / 8 | 613 | – | ADD – NEMA vs IP table + CTA",
+  "slug": "what-is-nema-certification",
+  "path": "/what-is-nema-certification",
+  "source": "https://www.itcindia.org/what-is-nema-certification/",
+  "ok": true,
+  "title": "What is NEMA Certification?",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "NEMA Certification National Electrical Manufacturers Association, For various grades of Electrical Enclosures that are used in Industry in North America ,",
+  "sections": [
+    {
+      "heading": "NEMA (National Electrical Manufacturers Association) Certification",
+      "paragraphs": [
+        "For various grades of Electrical Enclosures that are used in Industry in North America , NEMA defines standard in which enclosure are rated to provide protection against environmentalism Hazards like dust, water, oil or coolant.",
+        "Note:"
+      ],
+      "bullets": [
+        "There is no standard sizes for NEMA Enclosures. The NEMA 250 standard provides construction, test requirement, but manufacturer design their own Enclosures.",
+        "NEMA do not manufacture or sell enclosures.",
+        "NEMA standards are optional. NEMA neither test products nor certify that the product comply NEMA standard. For example: a manufacturer can choose self certify that enclosure meets NEMA 250 standard or can go for third party verification.",
+        "Enclosures that meet the requirements for more than one type of rating can be identified by a combination of type numbers – the smaller number being given first. The designation may include a combination of indoor, outdoor, hazardous location, and non-hazardous location ratings if they apply to the enclosure in question."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Types of enclosures",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Enclosure Type",
+            "Description",
+            "Degree of protection From",
+            "Image"
+          ],
+          "rows": [
+            [
+              "Type 1",
+              "1. Indoor Use 2. General Purpose (Not Exposed To Unusual Conditions)",
+              "l Falling Dirt",
+              ""
+            ],
+            [
+              "Type 2",
+              "Indoor Use",
+              "l Falling Dirt l Dripping Non-Corrosive Liquid l Light Splashing of Non-Corrosive Liquid",
+              ""
+            ],
+            [
+              "Type 3",
+              "1. Indoor Use 2. Outdoor Use",
+              "l Falling Dirt, Rain, Sleet, and Snow l Windblown Dust Undamaged by the External Formation of Ice.",
+              ""
+            ],
+            [
+              "Type 3R",
+              "1. Indoor Use 2. Out door Use",
+              "l Falling Dirt, Rain, Sleet, and Snow Not Dustproof, Snowproof, or Sleetproof. Undamaged by the External Formation of Ice",
+              ""
+            ],
+            [
+              "Type 3S",
+              "1. Indoor Use 2. Out door Use",
+              "l Falling Dirt, Rain, Sleet, Snow, and Windblown Dust External Mechanism(s) remain Operable When Ice Laden",
+              ""
+            ],
+            [
+              "Type 4",
+              "1. Indoor Use 2. Out door Use",
+              "l Windblown Dust and Rain l Splashing Water l Hose Directed Water Undamaged by the External Formation of Ice",
+              ""
+            ],
+            [
+              "Type 4X",
+              "1. Indoor Use 2. Out door Use",
+              "l Windblown Dust and Rain l Splashing Water l Hose Directed Water l Damage from External Ice Formation l Corrosion Resistive",
+              ""
+            ],
+            [
+              "Type 5",
+              "Indoor Use",
+              "l Falling Dirt, Settling Airborne Dust, Lint, Fibers, and Flyings l Dripping and Light Splashing of Noncorrosive Liquids",
+              ""
+            ],
+            [
+              "Type 6",
+              "1. Indoor Use 2. Out door Use",
+              "l Falling Dirt l Hose Directed Water l Damage From External Ice Formation l Entry of Water During Occasional Temporary Submersion at a Limited Depth",
+              ""
+            ],
+            [
+              "Type 7",
+              "Indoor use in locations classified as Class I, Groups A, B, C, or D, as defined in the NEC®.",
+              "Protection against Hazardous Location atmospheres containing Gases and Vapors.",
+              "Type 7"
+            ],
+            [
+              "Type 8",
+              "Indoor or Outdoor use in locations classified as Class I, Groups A, B, C, or D, as defined in the NEC®.",
+              "l Protection against Hazardous Location atmospheres containing Gases and Vapors. l Arcing contacts, connections, … are immersed in oil in order to confine ignition source. l",
+              ""
+            ],
+            [
+              "Type 9",
+              "Indoor use in locations classified as Class II, Groups E, F, or G, as defined in the NEC®.",
+              "l Protection against Hazardous Location atmospheres containing Dust.",
+              "Type 9"
+            ],
+            [
+              "Type 10",
+              "Capable of meeting the requirements of the (MSHA) Mine Safety and Health Administration, 30 C.F.R., Part 18.",
+              "",
+              ""
+            ],
+            [
+              "Type 12",
+              "Indoor use",
+              "l Circulating Dust l Falling Dirt l Dripping Non corrosive Liquid l Circulating Lint, Fibers and Flyings (Nonhazardous and not considered Class III Type ignitable fibers or flyings)",
+              ""
+            ],
+            [
+              "Type 13",
+              "1. Indoor Use 2. Outdoor Use",
+              "l Dust l Spraying of Water, Oil, and Noncorrosive Coolant l Oil and Coolant Seepage",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/what-is-nema-certification/b148eae24649.webp",
+          "alt": "Type 1"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/1ca76ca8d512.webp",
+          "alt": "Type 2"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/c4792629b52a.webp",
+          "alt": "Type 3"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/949fb5720338.webp",
+          "alt": "Type 3R"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/7d190e3e5109.webp",
+          "alt": "Type 3S"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/ae49ea50bea2.webp",
+          "alt": "Type 4"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/bf27e9e1e266.webp",
+          "alt": "Type 4X"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/827d0df74fd9.webp",
+          "alt": "Type 5"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/437bf8ee98c6.webp",
+          "alt": "Type 6"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/6c7e0de58ee8.webp",
+          "alt": "Type 7"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/8bf109c51e54.webp",
+          "alt": "Type 9"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/37c4a867dcef.webp",
+          "alt": "Type 12"
+        },
+        {
+          "src": "/images/migrated/what-is-nema-certification/08e622a9b8eb.webp",
+          "alt": "Type 13"
+        }
+      ]
+    },
+    {
+      "heading": "Conversion of NEMA Types to IEC IP Designations",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/what-is-nema-certification/fe98b733e9a2.webp",
+          "alt": "Conversion of NEMA Types to IEC IP Designations"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/what-is-nema-certification/b148eae24649.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/1ca76ca8d512.webp",
+      "alt": "Type 2"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/c4792629b52a.webp",
+      "alt": "Type 3"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/949fb5720338.webp",
+      "alt": "Type 3R"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/7d190e3e5109.webp",
+      "alt": "Type 3S"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/ae49ea50bea2.webp",
+      "alt": "Type 4"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/bf27e9e1e266.webp",
+      "alt": "Type 4X"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/827d0df74fd9.webp",
+      "alt": "Type 5"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/437bf8ee98c6.webp",
+      "alt": "Type 6"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/6c7e0de58ee8.webp",
+      "alt": "Type 7"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/8bf109c51e54.webp",
+      "alt": "Type 9"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/37c4a867dcef.webp",
+      "alt": "Type 12"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/08e622a9b8eb.webp",
+      "alt": "Type 13"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/fe98b733e9a2.webp",
+      "alt": "Conversion of NEMA Types to IEC IP Designations"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/what-is-nema-certification/b148eae24649.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/1ca76ca8d512.webp",
+      "alt": "Type 2"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/c4792629b52a.webp",
+      "alt": "Type 3"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/949fb5720338.webp",
+      "alt": "Type 3R"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/7d190e3e5109.webp",
+      "alt": "Type 3S"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/ae49ea50bea2.webp",
+      "alt": "Type 4"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/bf27e9e1e266.webp",
+      "alt": "Type 4X"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/827d0df74fd9.webp",
+      "alt": "Type 5"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/437bf8ee98c6.webp",
+      "alt": "Type 6"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/6c7e0de58ee8.webp",
+      "alt": "Type 7"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/8bf109c51e54.webp",
+      "alt": "Type 9"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/37c4a867dcef.webp",
+      "alt": "Type 12"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/08e622a9b8eb.webp",
+      "alt": "Type 13"
+    },
+    {
+      "src": "/images/migrated/what-is-nema-certification/fe98b733e9a2.webp",
+      "alt": "Conversion of NEMA Types to IEC IP Designations"
+    }
+  ],
+  "relatedLinks": []
+}

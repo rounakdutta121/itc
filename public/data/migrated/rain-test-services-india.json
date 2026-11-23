@@ -1,0 +1,295 @@
+{
+  "hero": "/images/page-heroes/rain-test-services-india.webp",
+  "heroPortrait": "/images/page-heroes/rain-test-services-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/rain-test-services-india-s1.webp",
+  "generatedMid": "/images/page-sections/rain-test-services-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/rain-test-services-india-s1.webp",
+    "/images/page-sections/rain-test-services-india-s2.webp",
+    "/images/page-sections/rain-test-services-india-s3.webp",
+    "/images/page-sections/rain-test-services-india-s4.webp",
+    "/images/page-sections/rain-test-services-india-s5.webp",
+    "/images/page-sections/rain-test-services-india-s6.webp",
+    "/images/page-sections/rain-test-services-india-s7.webp",
+    "/images/page-sections/rain-test-services-india-s8.webp",
+    "/images/page-sections/rain-test-services-india-s9.webp",
+    "/images/page-sections/rain-test-services-india-s10.webp",
+    "/images/page-sections/rain-test-services-india-s11.webp",
+    "/images/page-sections/rain-test-services-india-s12.webp",
+    "/images/page-sections/rain-test-services-india-s13.webp",
+    "/images/page-sections/rain-test-services-india-s14.webp"
+  ],
+  "category": "ip",
+  "action": "ADD",
+  "note": "994 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "rain-test-services-india",
+  "path": "/rain-test-services-india",
+  "source": "https://www.itcindia.org/rain-test-services-india/",
+  "ok": true,
+  "title": "Rain Test Services in India | Water Ingress Lab",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Rain testing services in India for electrical, electronic and industrial products. Water ingress and environmental rain testing support from ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides rain testing services for electrical, electronic, industrial and defence-related products that may be exposed to rain, dripping water or water spray during storage, transportation or operation. Rain testing helps manufacturers evaluate whether enclosures, covers, seals, joints and other protective features can prevent harmful water ingress under defined environmental conditions.",
+        "The required rain test depends on the product specification, intended operating environment and applicable standard. Tests may be specified under environmental standards such as IEC 60068-2-18, defence-related requirements such as MIL-STD-810H Method 506.6, or product-specific water-ingress requirements.",
+        "For products requiring a defined IP classification rather than environmental rain simulation, ITC India also provides testing through its <a href=\"/ip-testing-laboratory-india\">IP Testing Laboratory in India</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/rain-test-services-india/771cd4c3d952.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is Rain Testing?",
+      "paragraphs": [
+        "Rain testing is an environmental test used to assess how a product or enclosure performs when exposed to controlled water conditions that represent rain, spray or dripping water.",
+        "The objective is not simply to make the specimen wet. A properly specified test evaluates whether water can penetrate through seals, covers, ventilation openings, cable entries, joints or other potential ingress paths and whether such exposure causes unacceptable effects.",
+        "Depending on the applicable requirement, the product may be tested while operating, switched off or in a specified installation configuration.",
+        "Rain testing can form part of a broader <a href=\"/environmental-testing-services\">environmental testing programme</a> where equipment must also withstand temperature, humidity, vibration, shock, solar radiation or other environmental stresses."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Rain Testing According to IEC 60068-2-18",
+      "paragraphs": [
+        "IEC 60068-2-18 covers environmental water tests for products that may experience water exposure during transportation, storage or service.",
+        "The standard includes test methods relating to falling water drops, impacting water, immersion and other defined water conditions. It also includes an artificial rain test intended to provide a controlled environmental exposure based on natural rain conditions.",
+        "The exact method and severity should therefore be selected according to the product requirement rather than applying one generic rain condition to every product.",
+        "Manufacturers requiring other climatic and environmental tests can review ITC India’s <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 Environmental Testing Laboratory</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "MIL-STD-810H Rain Testing",
+      "paragraphs": [
+        "Defence, aerospace-support and ruggedized equipment may be required to undergo rain testing according to MIL-STD-810H Method 506.6.",
+        "This method is intended to evaluate issues such as the effectiveness of protective covers, cases and seals; equipment performance during or after water exposure; physical deterioration caused by rain; and the effectiveness of water-removal arrangements.",
+        "Test conditions under MIL-STD-810H should be tailored to the equipment’s intended lifecycle and contractual requirement rather than treated as one universal severity.",
+        "Defence products may also have additional environmental requirements under Indian defence specifications. ITC India provides related <a href=\"/jss-55555\">JSS 55555 environmental testing services</a> where applicable requirements call for broader environmental qualification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Rain Testing vs IP Water Ingress Testing",
+      "paragraphs": [
+        "Rain testing and IP testing are related, but they should not automatically be treated as the same test.",
+        "Environmental rain standards are intended to reproduce specified rain, spray or dripping-water conditions relevant to equipment use. IP testing, on the other hand, assigns a defined degree of protection to an enclosure under standards such as IEC 60529.",
+        "For example, IEC 60529 includes classifications covering dripping water, spraying water, splashing water, water jets and immersion.",
+        "If your product specification states a particular IP rating, the appropriate IP test should be followed. Manufacturers can review the <a href=\"/ip-testing-procedure\">IP Testing Procedure under IEC 60529</a> to understand the different solid and liquid ingress test conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products That May Require Rain Testing",
+      "paragraphs": [
+        "Rain testing may be required for equipment intended for outdoor, transportation, industrial or exposed operating environments.",
+        "Typical products can include outdoor electrical enclosures, control panels, lighting equipment, communication equipment, surveillance cameras, sensors, vehicle-mounted electronics, defence electronics, junction boxes, industrial controllers, power equipment and other products containing components that may be affected by water ingress.",
+        "The correct test should always be selected using the product standard, customer specification, procurement requirement or actual environmental conditions expected during service."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Is Rain Testing Important?",
+      "paragraphs": [
+        "Water entering an enclosure can cause corrosion, deterioration of insulation, short circuits, electrical leakage, component malfunction and reduced product reliability.",
+        "Rain testing allows manufacturers to identify potential weaknesses before a product is released for production or field use. Areas commonly reviewed include seals, gaskets, covers, joints, cable glands, connectors, drainage systems and enclosure openings.",
+        "Rain testing should not, however, be confused with corrosion testing. Where the objective is to evaluate corrosion resistance of metals or coatings, a dedicated test such as <a href=\"/salt-testing\">salt spray testing</a> may be required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required Before Rain Testing",
+      "paragraphs": [
+        "To define the appropriate rain test, manufacturers should provide the product name and model, dimensions, weight, applicable standard, required test method, exposure duration, operating condition and installation or mounting arrangement.",
+        "Details about enclosure openings, connectors, cable entries, seals and acceptance criteria should also be supplied where available.",
+        "Submit these details through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry</a> page so the laboratory can review the applicable requirement and test configuration."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is a rain test?",
+      "paragraphs": [
+        "A rain test exposes equipment to controlled rain, water spray or dripping-water conditions to evaluate enclosure protection and product performance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which standard is used for rain testing?",
+      "paragraphs": [
+        "The applicable standard depends on the product. IEC 60068-2-18 covers environmental water testing, while MIL-STD-810H Method 506.6 may apply to specified defence and rugged equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is rain testing the same as IP testing?",
+      "paragraphs": [
+        "No. Rain testing simulates specified environmental water exposure, while IP testing evaluates enclosure protection according to defined IP classifications such as those in IEC 60529."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What can fail during a rain test?",
+      "paragraphs": [
+        "Potential failures include unacceptable water ingress, electrical malfunction, damaged seals, ineffective drainage, insulation problems or deterioration affecting the intended performance of the equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is rain testing a corrosion test?",
+      "paragraphs": [
+        "No. Rain or water-ingress testing evaluates resistance to water exposure. Corrosion resistance normally requires separate environmental testing such as salt spray testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How can I request rain testing from ITC India?",
+      "paragraphs": [
+        "Provide the applicable standard, product dimensions, test condition, mounting arrangement and technical specification to ITC India so the appropriate rain-test programme can be reviewed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/rain-test-services-india/771cd4c3d952.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/rain-test-services-india/771cd4c3d952.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

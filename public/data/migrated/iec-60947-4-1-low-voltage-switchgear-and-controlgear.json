@@ -1,0 +1,41 @@
+{
+  "hero": "/images/page-heroes/iec-60947-4-1-low-voltage-switchgear-and-controlgear.webp",
+  "heroPortrait": "/images/page-heroes/iec-60947-4-1-low-voltage-switchgear-and-controlgear-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s1.webp",
+    "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s2.webp",
+    "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s3.webp",
+    "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s4.webp",
+    "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s5.webp",
+    "/images/page-sections/iec-60947-4-1-low-voltage-switchgear-and-controlgear-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 3 | 409 | long title | KEEP",
+  "slug": "iec-60947-4-1-low-voltage-switchgear-and-controlgear",
+  "path": "/iec-60947-4-1-low-voltage-switchgear-and-controlgear",
+  "source": "https://www.itcindia.org/iec-60947-4-1-low-voltage-switchgear-and-controlgear/",
+  "ok": true,
+  "title": "IEC 60947-4-1 Low-voltage switchgear and controlgear - Part 4-1",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Institute of testing and certification Pvt Ltd ( ITC) is a safety testing Lab located at Mohali ( Punjab) with flourishing business hub in North India.",
+  "sections": [
+    {
+      "heading": "Low-voltage switchgear and controlgear – Part 4-1: Contactors and motor-starters – Electromechanical contactors and motor-starters.",
+      "paragraphs": [
+        "Institute of testing and certification Pvt Ltd ( ITC) is a safety testing Lab located at Mohali ( Punjab) with flourishing business hub in North India. We are established as the prominent service provider of electrical, electronics and all kinds of Luminaries. Within a short time span , our company has developed a healthy clientage both from Govt. and non Govt. sectors from all over India. For detailed list of services please log in to www.itcindia.org Feel free to contact us at info@itcindia.org, 931647303",
+        "IEC 60947-4-1 Low-voltage switchgear and controlgear – Part 4-1",
+        "This standard is applicable to 1. AC & DC contactors 2. AC motor starter a. Direct-on-line (full voltage) a.c. starters b. Reduced voltage a.c. starters i. Star-delta starters ii. Two-step auto-transformer starters c. Rheostatic rotor starters This standard does not apply to : 1. D.C starter 2. Star-delta starters, rheostatic rotor starters, two-step auto-transformer starters intended for special applications and designed for continuous operation in the starting position; 3. Unbalanced rheostatic rotor starters, i.e. where the resistances do not have the same Value in all phases 4. Equipment designed not only for starting, but also for adjustment of speed; 5. Liquid starters and those of the “liquid-vapour” type; 6. Semiconductor contactors and starters making use of semiconductor contactors in the main circuit; 7. Rheostatic stator starters 8. Contactors or starters designed for special applications 9. Auxiliary contacts of contactors and contacts of contactor relays. These are dealt with in IEC 60947-5-1.",
+        "The list of tests to be performed for IEC 60947-4-1: Clauses Title of test 9.1.2 Type test 9.3.3.3 Temperature rise test 9.3.31 &09.3.3.2 Operation and operation limits 9.3.3.4 Dielectric properties 9.3.3.5 Verification of rated marking and breaking capacities, change over ability and reversibility, where applicable 9.3.3.6 Conventional operation performance 9.3.4 Performance under short circuit conditions 9.3.5 Ability to withstand overload current 8.2.4 of part 1 Mechanical properties of terminals Annex C of part 1 Degree of protection of enclosed contactors and starters 9.4 EMC tests, where applicable 9.1.3 Routine test 9.3.6.2 operation and operating limits 9.3.6.3 dielectric tests 9.1.4 Sampling tests 9.3.6.2 operation and operating limits 9.3.6.3 dielectric tests 9.1.5 Special Tests 9.1.5.2 Special tests – damp heat, salt mist, vibration and shock"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

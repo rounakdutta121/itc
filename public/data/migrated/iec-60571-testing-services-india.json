@@ -1,0 +1,293 @@
+{
+  "hero": "/images/page-heroes/iec-60571-testing-services-india.webp",
+  "heroPortrait": "/images/page-heroes/iec-60571-testing-services-india-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60571-testing-services-india-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60571-testing-services-india-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60571-testing-services-india-s1.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s2.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s3.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s4.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s5.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s6.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s7.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s8.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s9.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s10.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s11.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s12.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s13.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s14.webp",
+    "/images/page-sections/iec-60571-testing-services-india-s15.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "843 | long title | KEEP – add FAQ schema",
+  "slug": "iec-60571-testing-services-india",
+  "path": "/iec-60571-testing-services-india",
+  "source": "https://www.itcindia.org/iec-60571-testing-services-india/",
+  "ok": true,
+  "title": "IEC 60571 Testing Services India by ITC | Railway Environmental",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60571 testing in India for railway electronic equipment. Evaluate temperature, vibration, EMC, electricalstresses and performance with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides IEC 60571 testing services for electronic equipment intended for railway rolling stock. IEC 60571:2012, Railway applications – Electronic equipment used on rolling stock, covers operating conditions, design, construction and testing requirements for electronic equipment installed on rail vehicles. It applies to equipment used for functions such as control, regulation, protection and supply when associated with the vehicle battery or a low-voltage power source.",
+        "Railway electronics operate under temperature variation, vibration, humidity and electrical disturbances that can affect reliability. Testing helps manufacturers, system integrators and railway suppliers evaluate whether equipment can continue to operate as intended under representative service conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60571-testing-services-india/a3d29e79071e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does IEC 60571 Cover?",
+      "paragraphs": [
+        "IEC 60571 addresses environmental and electrical stresses together with requirements relevant to hardware, software, construction and performance. Products may include control units, monitoring modules, auxiliary electronic systems, protection devices, interface units, communication-support equipment and other electronic assemblies installed in locomotives, coaches, metro cars and EMUs.",
+        "For equipment requiring mechanical railway qualification, ITC India also provides <a href=\"/vibration-testing/iec-61373\">IEC 61373 vibration testing</a> for rolling-stock equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60571 Test Programme",
+      "paragraphs": [
+        "The exact test programme depends on the equipment design, mounting location, declared operating conditions and customer or railway specification. IEC 60571 includes evaluations such as visual inspection, performance verification, cold-start testing, dry-heat exposure, cyclic damp-heat testing, supply overvoltage, surge and transient immunity, electrostatic discharge, radio-frequency susceptibility, insulation testing, salt-mist exposure where applicable, vibration/shock/bump testing, watertightness where required, equipment stress screening and low-temperature storage.",
+        "Before testing begins, the applicable edition, supply conditions, operating mode, acceptance criteria and purchaser-specific requirements should be defined."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Environmental Testing for Railway Electronics",
+      "paragraphs": [
+        "Railway equipment can experience changing climatic conditions during operation, storage and transportation. Temperature extremes and humidity can affect components, connectors, insulation, solder joints and enclosure materials.",
+        "ITC India’s <a href=\"/environmental-testing-services\">environmental testing services</a> support qualification programmes involving dry heat, cold, damp heat, temperature cycling and other climatic stresses. Functional checks can be planned before, during or after exposure according to the applicable requirement."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Vibration, Shock and Bump Testing",
+      "paragraphs": [
+        "Electronic equipment fitted to rail vehicles is exposed to vibration and mechanical shocks generated by vehicle movement, track conditions and mounting location. IEC 60571 addresses the need for equipment to withstand these stresses and refers to IEC 61373 for representative railway shock and vibration conditions.",
+        "ITC India offers <a href=\"/vibration-testing\">vibration testing</a> and dedicated <a href=\"/vibration-testing/iec-61373\">IEC 61373 testing</a>. These tests can help reveal loose connections, cracked solder joints, component movement, mounting failures and intermittent electrical faults before field deployment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical and EMC Evaluation",
+      "paragraphs": [
+        "Railway power systems can expose electronics to supply variation and transient disturbances. IEC 60571 therefore includes requirements relating to supply overvoltage, surge, electrostatic discharge, transient burst susceptibility, radio-frequency effects and insulation.",
+        "Depending on the product and project specification, additional electromagnetic-compatibility evaluation may be required. ITC India provides <a href=\"/emc-emi-testing\">EMC/EMI testing services</a> and <a href=\"/electrical-testing\">electrical testing services</a> for electrical and electronic equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Enclosure Protection Where Required",
+      "paragraphs": [
+        "Some railway electronic products are installed where dust or water exposure must be considered. When a customer or railway specification defines an ingress-protection requirement, separate enclosure testing may be necessary. ITC India provides <a href=\"/ip-testing-laboratory-india\">IP testing laboratory services</a> for electrical and electronic enclosures."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products Commonly Evaluated to IEC 60571",
+      "paragraphs": [
+        "IEC 60571 may be relevant to train control electronics, auxiliary control units, passenger-information electronics, monitoring devices, interface modules, protection equipment, electronic power-supply units, display/control panels and other low-voltage electronic equipment used on rolling stock."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India for IEC 60571 Testing?",
+      "paragraphs": [
+        "ITC India supports electrical, electronic, EMC and environmental testing within coordinated qualification programmes. Reviewing requirements before testing helps define product configuration, mounting arrangements, operating modes, test sequence and acceptance criteria.",
+        "Where both IEC 60571 evaluation and IEC 61373 mechanical testing are required, coordinating the test programme can simplify product setup and support consistent technical documentation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Request IEC 60571 Testing in India",
+      "paragraphs": [
+        "To plan testing, provide the product name and model, dimensions and weight, rated input supply, operating modes, applicable standard edition, railway or customer specification, required test clauses and acceptance criteria.",
+        "<a href=\"/contact-us/inquiry\">Send your IEC 60571 testing requirement to ITC India</a> with the technical details of the equipment. The team can review the requested scope and advise on an appropriate testing programme."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60571?",
+      "paragraphs": [
+        "IEC 60571 is an international standard for electronic equipment used on railway rolling stock. It covers operating conditions, design, construction, testing and related hardware and software requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What products are covered by IEC 60571?",
+      "paragraphs": [
+        "It applies to many electronic products used for control, regulation, protection, supply and similar functions on rail vehicles, subject to the detailed scope of the standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60571 include vibration testing?",
+      "paragraphs": [
+        "Yes. IEC 60571 includes vibration, shock and bump evaluation and refers to IEC 61373 for representative railway shock and vibration conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60571 include environmental testing?",
+      "paragraphs": [
+        "Yes. Its test programme includes climatic evaluations such as cold, dry heat, damp heat and low-temperature storage, together with other environmental and electrical tests."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What information is required for a testing quotation?",
+      "paragraphs": [
+        "Provide the equipment model, dimensions, weight, rated supply, applicable IEC 60571 edition, required clauses, operating mode, mounting details, customer specification and pass/fail criteria."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60571-testing-services-india/a3d29e79071e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60571-testing-services-india/a3d29e79071e.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

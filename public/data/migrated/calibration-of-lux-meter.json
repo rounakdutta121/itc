@@ -1,0 +1,56 @@
+{
+  "hero": "/images/page-heroes/calibration-of-lux-meter.webp",
+  "heroPortrait": "/images/page-heroes/calibration-of-lux-meter-portrait.webp",
+  "generatedIntro": "/images/page-sections/calibration-of-lux-meter-s1.webp",
+  "generatedMid": "/images/page-sections/calibration-of-lux-meter-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/calibration-of-lux-meter-s1.webp",
+    "/images/page-sections/calibration-of-lux-meter-s2.webp",
+    "/images/page-sections/calibration-of-lux-meter-s3.webp",
+    "/images/page-sections/calibration-of-lux-meter-s4.webp",
+    "/images/page-sections/calibration-of-lux-meter-s5.webp",
+    "/images/page-sections/calibration-of-lux-meter-s6.webp"
+  ],
+  "category": "photometry",
+  "action": "EXPAND",
+  "note": "0 / 2 | 225 | thin | EXPAND – keep text, add 400+ words",
+  "slug": "calibration-of-lux-meter",
+  "path": "/calibration-of-lux-meter",
+  "source": "https://www.itcindia.org/calibration-of-lux-meter/",
+  "ok": true,
+  "title": "Why light or Lux meter? - Calibration of Lux Meter",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Illuminance meter or Lux meter is used to measure the amount of light. It can be digital or analog. It consists of a silicon or selenium detector",
+  "sections": [
+    {
+      "heading": "Why light or Lux meter?",
+      "paragraphs": [
+        "Illuminance meter or Lux meter is used to measure the amount of light. It can be digital or analog. It consists of a silicon or selenium detector, an amplifier and a display screen. It is demanded in industries like photography, health and safety, lightning industries to measure the luminance level inside and outside the workplace, so that the required level can be achieved. This can greatly reduce the energy burden of the building by remarkably increasing the coherence of its lighting system. It is therefore nominated to use light meters in lighting systems, especially in rooms where one cannot expect users to pay attention to manually switching off the lights."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why calibrate a Lux meter?",
+      "paragraphs": [
+        "It needs to be calibrated to ensure that it reads accurate and consistence. It should be calibrated after a defined period to ensure that it has not being drifted from reference. The two factors that need to be calibrated are luminance and spectral responsibilities."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why ITC?",
+      "paragraphs": [
+        "ITC is a photometric calibration lab which owns a number of reference detectors which are traceable to International standard systems of units. We have a team of trained technical experts. We offer calibration services at affordable costs."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

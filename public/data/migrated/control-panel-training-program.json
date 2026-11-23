@@ -1,0 +1,38 @@
+{
+  "hero": "/images/page-heroes/control-panel-training-program.webp",
+  "heroPortrait": "/images/page-heroes/control-panel-training-program-portrait.webp",
+  "generatedIntro": "/images/page-sections/control-panel-training-program-s1.webp",
+  "generatedMid": "/images/page-sections/control-panel-training-program-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/control-panel-training-program-s1.webp",
+    "/images/page-sections/control-panel-training-program-s2.webp",
+    "/images/page-sections/control-panel-training-program-s3.webp",
+    "/images/page-sections/control-panel-training-program-s4.webp",
+    "/images/page-sections/control-panel-training-program-s5.webp",
+    "/images/page-sections/control-panel-training-program-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "10 | images only | ADD – text version of the course",
+  "slug": "control-panel-training-program",
+  "path": "/control-panel-training-program",
+  "source": "https://www.itcindia.org/control-panel-training-program/",
+  "ok": true,
+  "title": "\"Control Panel Training Program\" - Electrical Safety Testing Laboratory",
+  "h1": "“Control Panel Training Program”",
+  "description": "\"Control Panel Training Program\" Learn how to master the control panel with our training program! Our experts will guide you through the ins and outs of control panel navigation, helping you to streamline your workflow and achieve your goals. Enroll now and take your skills to the next level!",
+  "sections": [],
+  "images": [
+    {
+      "src": "/images/migrated/control-panel-training-program/7455581a97e2.jpeg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/control-panel-training-program/7455581a97e2.jpeg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": []
+}

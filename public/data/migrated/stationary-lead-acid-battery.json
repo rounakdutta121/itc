@@ -1,0 +1,230 @@
+{
+  "hero": "/images/page-heroes/stationary-lead-acid-battery.webp",
+  "heroPortrait": "/images/page-heroes/stationary-lead-acid-battery-portrait.webp",
+  "generatedIntro": "/images/page-sections/stationary-lead-acid-battery-s1.webp",
+  "generatedMid": "/images/page-sections/stationary-lead-acid-battery-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/stationary-lead-acid-battery-s1.webp",
+    "/images/page-sections/stationary-lead-acid-battery-s2.webp",
+    "/images/page-sections/stationary-lead-acid-battery-s3.webp",
+    "/images/page-sections/stationary-lead-acid-battery-s4.webp",
+    "/images/page-sections/stationary-lead-acid-battery-s5.webp",
+    "/images/page-sections/stationary-lead-acid-battery-s6.webp"
+  ],
+  "category": "battery",
+  "action": "KEEP",
+  "note": "0 / 1 | 569 | – | KEEP",
+  "slug": "stationary-lead-acid-battery",
+  "path": "/stationary-lead-acid-battery",
+  "source": "https://www.itcindia.org/stationary-lead-acid-battery/",
+  "ok": true,
+  "title": "Stationary Lead Acid Battery - Electrical Safety Testing Lab",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Stationary Lead Acid Battery, IEC 60896-22 is applicable to :- All stationary Lead-acid cells, Monobloc batteries of the valve regulated type",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60896-22 is applicable to :-",
+      "paragraphs": [
+        "They are incorporated into stationary equipment or installed in battery room."
+      ],
+      "bullets": [
+        "All stationary Lead-acid cells",
+        "Monobloc batteries of the valve regulated type",
+        "For Float charge application: They can be permanently connected to a load and d.c. power supply.",
+        "In a static location: not generally moved from place to place."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "These kinds of batteries can be used in",
+      "paragraphs": [
+        "Objective of IEC 60896-22 :- It specify the methods of tests for all types and construction of valve regulated stationary Lead acid batteries and monobloc batteries."
+      ],
+      "bullets": [
+        "Telecom",
+        "UPS",
+        "Utility switch",
+        "Emergency power or similar applications"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does not applicable :",
+      "paragraphs": [
+        "There is a list of tests performed on the batteries for safe operation characteristics, durability Characterstics & performance Characteristics.",
+        "Why ITC? ITC is a photometric calibration lab which owns a number of reference detectors which are traceable to International standard systems of units. We have a team of trained technical experts. We offer calibration services at affordable costs."
+      ],
+      "bullets": [
+        "lead-acid cells and monobloc batteries used for vehicle engine starting applications",
+        "solar photovoltaic energy systems",
+        "general purpose applications"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Safe operation characteristics"
+          ],
+          "rows": [
+            [
+              "Test Clause",
+              "Measure",
+              "Purpose"
+            ],
+            [
+              "6.1",
+              "Gas emission",
+              "To determine the emitted gas volume"
+            ],
+            [
+              "6.2",
+              "High Current Tolerance",
+              "To verify the adequacy of current conductioncross- sections"
+            ],
+            [
+              "6.3",
+              "Short circuit current & d.c internal resistance",
+              "To provide data for the sizing of fuses in theexterior circuit"
+            ],
+            [
+              "6.4",
+              "Protection against internal ignition from external spark sources",
+              "To evaluate the adequacy of protective features"
+            ],
+            [
+              "6.5",
+              "Protection against ground short propensity",
+              "To evaluate the adequacy of design features"
+            ],
+            [
+              "6.6",
+              "Content and durability of required markings",
+              "To evaluate the quality of the markings and thecontent of the information"
+            ],
+            [
+              "6.7",
+              "Material identification",
+              "To ensure the presence of material identificationmarkings"
+            ],
+            [
+              "6.8",
+              "Valve operation",
+              "To ensure the correct opening of safety valves"
+            ],
+            [
+              "6.9",
+              "Flammability rating of materials",
+              "To verify the fire hazard class of battery materials"
+            ],
+            [
+              "6.10",
+              "Intercell connector performance",
+              "To verify the maximum surface temperatures ofthe connectors during high rate discharges"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Performance characteristics"
+          ],
+          "rows": [
+            [
+              "Test Clause",
+              "Measure",
+              "purpose"
+            ],
+            [
+              "6.11",
+              "Discharge capacity",
+              "To verify the available capacities at selecteddischarge rates or discharge durations."
+            ],
+            [
+              "6.12",
+              "Charge retention during storage",
+              "To provide storage duration data"
+            ],
+            [
+              "6.13",
+              "Float service with daily discharges",
+              "To determine cyclic performance under float charge conditions"
+            ],
+            [
+              "6.14",
+              "Recharge behavior",
+              "To determine the recovery of capacity orautonomy time after a power outage"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Durability Characteristics"
+          ],
+          "rows": [
+            [
+              "Test Clause",
+              "Measure",
+              "purpose"
+            ],
+            [
+              "6.15",
+              "Service life at an operating temperature of40 °C",
+              "To determine the operational life at elevated temperatures"
+            ],
+            [
+              "6.16",
+              "Impact of a stress temperature of 55 °C or60 °C",
+              "To determine the influence of high stresstemperatures on cell or monobloc battery life"
+            ],
+            [
+              "6.17",
+              "Abusive over-discharge",
+              "To determine the expected behaviour when excessive capacity is discharged"
+            ],
+            [
+              "6.18",
+              "Thermal runaway sensitivity",
+              "To determine the expected times to establish a condition of escalating current and temperature"
+            ],
+            [
+              "6.19",
+              "Low temperature sensitivity",
+              "To determine the sensitivity toward damage induced by electrolyte freezing"
+            ],
+            [
+              "6.20",
+              "Dimensional stability at elevated internalpressure and temperature",
+              "To determine the propensity of the cell ormonobloc battery to be deformed by internal pressure and at elevated temperature"
+            ],
+            [
+              "6.21",
+              "Stability against mechanical abuse of unitsduring installation",
+              "To determine the propensity of the cell ormonobloc battery to fracture or leak when dropped."
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/stationary-lead-acid-battery/a92a1ef00693.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/stationary-lead-acid-battery/a92a1ef00693.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

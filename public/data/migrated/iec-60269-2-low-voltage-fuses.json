@@ -1,0 +1,84 @@
+{
+  "hero": "/images/page-heroes/iec-60269-2-low-voltage-fuses.webp",
+  "heroPortrait": "/images/page-heroes/iec-60269-2-low-voltage-fuses-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60269-2-low-voltage-fuses-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60269-2-low-voltage-fuses-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60269-2-low-voltage-fuses-s1.webp",
+    "/images/page-sections/iec-60269-2-low-voltage-fuses-s2.webp",
+    "/images/page-sections/iec-60269-2-low-voltage-fuses-s3.webp",
+    "/images/page-sections/iec-60269-2-low-voltage-fuses-s4.webp",
+    "/images/page-sections/iec-60269-2-low-voltage-fuses-s5.webp",
+    "/images/page-sections/iec-60269-2-low-voltage-fuses-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "375 | no H2 | LOW: add H2s, FAQ, links",
+  "slug": "iec-60269-2-low-voltage-fuses",
+  "path": "/iec-60269-2-low-voltage-fuses",
+  "source": "https://www.itcindia.org/iec-60269-2-low-voltage-fuses/",
+  "ok": true,
+  "title": "IEC 60269-2 Low-voltage fuses",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60269-2 Low-voltage fuses Part 2: Supplementary requirements for fuses for use by authorized persons (fuses mainly for industrial application)",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Part 2: Supplementary requirements for fuses for use by authorized persons (fuses mainly for industrial application) – Examples of standardized systems of fuses A to K",
+        "This standard gives the supplementary demands for fuses for use by authorized persons ,and are used in installations where the fuse links are approachable to and may be exchanged by authorized persons only. This standard is split into fuse systems each dealing with a particular example of standardized fuses for use by authorized person.",
+        "Fuse System A : Fuses with fuse links with blade contacts NH fuse system.",
+        "Fuse system B : Fuses with striker fuse links with blade contacts NH fuse system",
+        "Fuse system C : Fuse rails NH fuse system",
+        "Fuse System D : Fuse bases for busbar mounting NH fuse system",
+        "Fuse System E : Fuses with fuse links for bolted connections BS bolted fuse system",
+        "Fuse System F : Fuses with fuse links having cylindrical contact caps NF cylindrical fuse system",
+        "Fuse System G : Fuses with fuse links with offset blade contacts BS clip in fuse system",
+        "Fuse System H : Fuses with fuse links having gD and gN characteristic class J and class time delay and non time delay fuse types",
+        "Fuse System I : gU fuse links with wedge tightening contacts br Fuse system J Fuses with fuse links having gD class CC and gN class CC characteristics class CC time delay and non time delay fuse types",
+        "Fuse system J : Fuses with fuse links having gD class CC and gN class CC characteristics class CC time delay and non time delay fuse types",
+        "Fuse System K : K gK fuse links with blade for bolted connections High fuse link ratings from 1 250 A up to 4 800 A master fuse links",
+        "Major tests to be performed in IEC 60269-2"
+      ],
+      "bullets": [
+        "Temperature rise & power dissipation test",
+        "Non-fusing & Fusing test",
+        "Verification of rated current test",
+        "Overload test"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "CEI 60269-2-1"
+          ],
+          "rows": [
+            [
+              "Section1",
+              "NH System"
+            ],
+            [
+              "Section2",
+              "BS 88"
+            ],
+            [
+              "Section 3",
+              "10×38,14×51,22×58"
+            ],
+            [
+              "Section 4",
+              "BS 88 Offset blade"
+            ],
+            [
+              "Section 5",
+              "UL 248 Class J & class L"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": []
+}

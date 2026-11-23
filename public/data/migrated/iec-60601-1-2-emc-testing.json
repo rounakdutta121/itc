@@ -1,0 +1,368 @@
+{
+  "hero": "/images/page-heroes/iec-60601-1-2-emc-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-1-2-emc-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-1-2-emc-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-1-2-emc-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-1-2-emc-testing-s1.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s2.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s3.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s4.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s5.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s6.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s7.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s8.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s9.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s10.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s11.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s12.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s13.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s14.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s15.webp",
+    "/images/page-sections/iec-60601-1-2-emc-testing-s16.webp"
+  ],
+  "category": "emc",
+  "action": "KEEP",
+  "note": "0 / 1 | 978 | 2 img no alt | KEEP",
+  "slug": "iec-60601-1-2-emc-testing",
+  "path": "/iec-60601-1-2-emc-testing",
+  "source": "https://www.itcindia.org/iec-60601-1-2-emc-testing/",
+  "ok": true,
+  "title": "IEC 60601-1-2 EMC Testing | Medical EMC Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60601-1-2 EMC testing in India for medical devices and electrical equipment. Test emissions, ESD, RFimmunity, surge, EFT and essential performance.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Medical electrical equipment is often used in environments containing mobile phones, wireless communication systems, patient monitors, surgical equipment and other electronic devices. Electromagnetic disturbances can affect equipment performance and, in some cases, compromise functions important to patient safety.",
+        "ITC India provides IEC 60601-1-2 EMC testing for medical electrical equipment and medical electrical systems, supporting manufacturers with electromagnetic emissions, immunity and essential-performance evaluation.",
+        "IEC 60601-1-2 is a collateral standard within the broader <a href=\"/iec-60601-testing\">IEC 60601 medical electrical equipment testing</a> framework and should be considered together with applicable general and product-specific safety requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-1-2-emc-testing/4f1729173693.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60601-1-2?",
+      "paragraphs": [
+        "IEC 60601-1-2 specifies requirements and tests related to electromagnetic disturbances for medical electrical equipment and systems.",
+        "The current consolidated publication is IEC 60601-1-2:2014 + AMD1:2020, Edition 4.1.",
+        "Unlike general EMC standards, IEC 60601-1-2 connects electromagnetic compatibility with basic safety and essential performance. Manufacturers therefore need to determine how electromagnetic disturbances could affect safety-related or clinically significant functions.",
+        "IEC 60601-1-2 is normally used alongside <a href=\"/iec-60601-1-testing\">IEC 60601-1 testing for medical electrical equipment</a> and the applicable IEC 60601-2-x or ISO/IEC 80601-2-x particular standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Equipment May Require IEC 60601-1-2 Testing?",
+      "paragraphs": [
+        "The standard can apply to a wide range of medical electrical equipment and systems, including:",
+        "The appropriate EMC test plan depends on the equipment’s intended use, electromagnetic environment, ports, cables, accessories, wireless functions and identified essential performance."
+      ],
+      "bullets": [
+        "Patient monitoring equipment",
+        "Diagnostic medical equipment",
+        "Therapeutic electrical devices",
+        "Infant-care equipment",
+        "Ventilators and respiratory equipment",
+        "Physiotherapy equipment",
+        "Nerve and muscle stimulators",
+        "Electrically powered hospital equipment",
+        "Home healthcare medical devices"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60601-1-2 EMC Tests",
+      "paragraphs": [
+        "Testing can include both emissions and immunity evaluations. Depending on the equipment configuration and applicable requirements, typical tests may include:",
+        "ITC India’s broader <a href=\"/emc-emi-testing\">EMC testing laboratory services</a> cover emissions and immunity evaluation for electrical and electronic products.",
+        "Not every test or test level is automatically identical for every medical device. The intended environment, power configuration, ports and risk-management considerations must be reviewed before establishing the final test plan."
+      ],
+      "bullets": [
+        "Conducted RF emissions",
+        "Radiated RF emissions",
+        "Electrostatic discharge immunity",
+        "Radiated RF electromagnetic-field immunity",
+        "Electrical fast transient/burst immunity",
+        "Surge immunity",
+        "Conducted RF immunity",
+        "Power-frequency magnetic-field immunity",
+        "Voltage dips and interruptions",
+        "Immunity to applicable proximity magnetic or RF fields"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Emissions Testing and CISPR 11",
+      "paragraphs": [
+        "Medical electrical equipment must control electromagnetic emissions so that it does not create unacceptable interference with nearby equipment.",
+        "IEC 60601-1-2 references applicable emissions requirements, with CISPR 11 playing an important role for many medical electrical products.",
+        "Manufacturers can review ITC India’s <a href=\"/industrial-scientific-medical-equipment-emc-emi-testing-as-per-cispr-112019\">CISPR 11 EMC/EMI testing services</a> when planning conducted and radiated emissions evaluation.",
+        "Product classification, operating mode and intended environment should be established before testing because these factors influence applicable limits and configurations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Immunity and Essential Performance",
+      "paragraphs": [
+        "Immunity testing determines whether a medical device can tolerate electromagnetic disturbances without unacceptable degradation.",
+        "A temporary change in a non-critical function may be treated differently from degradation of a function essential to patient safety. Manufacturers must therefore identify essential performance and pass/fail criteria before EMC testing begins.",
+        "The assessment should consider normal operation, foreseeable electromagnetic disturbances and risks associated with degradation or loss of performance.",
+        "This makes coordination between EMC engineering, product design and risk management especially important for medical equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Professional Healthcare, Home Healthcare and Special Environments",
+      "paragraphs": [
+        "IEC 60601-1-2 considers different electromagnetic environments.",
+        "Medical devices may be intended for professional healthcare facilities, home healthcare environments or certain special environments. The intended location can affect applicable immunity test levels and risk considerations.",
+        "Manufacturers should clearly define where the device will be used before finalizing the EMC test program.",
+        "For broader product-safety requirements, ITC India also provides <a href=\"/electrical-safety-testing-for-medical-device\">electrical safety testing for medical devices</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Considerations During Product Development",
+      "paragraphs": [
+        "EMC problems are often easier to correct during development than after final compliance testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Design considerations can include",
+      "paragraphs": [
+        "Where software controls safety-related functions or recovery after an electromagnetic disturbance, manufacturers should also consider relevant <a href=\"/iec-62304-medical-device-software-system-testing\">IEC 62304 medical device software requirements</a>.",
+        "Pre-compliance evaluation can help identify potential weaknesses before the final device configuration is submitted for formal testing."
+      ],
+      "bullets": [
+        "PCB layout",
+        "Grounding and bonding",
+        "Cable routing",
+        "Shielding",
+        "Filtering",
+        "Power-supply design",
+        "Enclosure construction",
+        "Connector design",
+        "Firmware behaviour during disturbances"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing a Medical Device for IEC 60601-1-2 Testing",
+      "paragraphs": [
+        "Manufacturers should provide representative equipment together with relevant technical information, such as:",
+        "The test sample should represent the intended production configuration as closely as practical."
+      ],
+      "bullets": [
+        "Intended use",
+        "Intended electromagnetic environment",
+        "Electrical ratings",
+        "Essential-performance definition",
+        "Risk-management information",
+        "Product operating modes",
+        "I/O ports and cable specifications",
+        "Accessories and applied parts",
+        "Radio or wireless functions",
+        "Software or firmware version",
+        "User instructions"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60601-1-2 EMC Testing Support from ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers with medical electrical safety and electromagnetic compatibility testing against applicable IEC requirements.",
+        "A coordinated program can combine IEC 60601-1-2 EMC evaluation with IEC 60601-1 general safety testing and the appropriate particular standard for the medical product.",
+        "To discuss your medical device, intended environment and applicable EMC testing requirements, submit the product details through the <a href=\"/contact-us/inquiry\">ITC India testing and certification inquiry</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60601-1-2?",
+      "paragraphs": [
+        "IEC 60601-1-2 is the collateral EMC standard specifying electromagnetic disturbance requirements and tests for medical electrical equipment and systems."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current edition of IEC 60601-1-2?",
+      "paragraphs": [
+        "The current consolidated IEC publication is IEC 60601-1-2:2014 + AMD1:2020, Edition 4.1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What tests are included in IEC 60601-1-2?",
+      "paragraphs": [
+        "Testing can include conducted and radiated emissions, ESD, radiated RF immunity, conducted RF immunity, EFT/burst, surge, magnetic-field immunity and voltage dips or interruptions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60601-1-2 the same as IEC 60601-1?",
+      "paragraphs": [
+        "No. IEC 60601-1 addresses general basic safety and essential performance, while IEC 60601-1-2 addresses electromagnetic disturbances and EMC requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does IEC 60601-1-2 apply to home healthcare medical devices?",
+      "paragraphs": [
+        "Yes, the standard includes requirements and considerations for equipment intended for home healthcare environments as well as professional healthcare environments."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is CISPR 11 related to IEC 60601-1-2?",
+      "paragraphs": [
+        "Yes. CISPR 11 emissions requirements are relevant to the EMC evaluation of many medical electrical products under the IEC 60601-1-2 framework."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-1-2-emc-testing/4f1729173693.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-1-2-emc-testing/4f1729173693.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

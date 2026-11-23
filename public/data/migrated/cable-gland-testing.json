@@ -1,0 +1,179 @@
+{
+  "hero": "/images/page-heroes/cable-gland-testing.webp",
+  "heroPortrait": "/images/page-heroes/cable-gland-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/cable-gland-testing-s1.webp",
+  "generatedMid": "/images/page-sections/cable-gland-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/cable-gland-testing-s1.webp",
+    "/images/page-sections/cable-gland-testing-s2.webp",
+    "/images/page-sections/cable-gland-testing-s3.webp",
+    "/images/page-sections/cable-gland-testing-s4.webp",
+    "/images/page-sections/cable-gland-testing-s5.webp",
+    "/images/page-sections/cable-gland-testing-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "656 | no H2 | KEEP – add H2s; its image has 83 referring domains",
+  "slug": "cable-gland-testing",
+  "path": "/cable-gland-testing",
+  "source": "https://www.itcindia.org/cable-gland-testing/",
+  "ok": true,
+  "title": "Cable Gland Testing as per IEC 62444, Safety Test of Gland",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITCIndia can do Safety testing of Cable Gland for following types of products/standards BS6121, IEC62444, BS-EN 50262, Retention, Anchorage, Anchorage twist",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC can do Electrical Safety testing against Cable Gland Testing for following types of products/standards:"
+      ],
+      "bullets": [
+        "BS 6121: Specification for mechanical cable glands for elastomer and plastics insulated cables",
+        "IEC 62444: Cable glands for electrical",
+        "BS EN 50262: Cable glands for electrical installations. Test carried out under this standard are:"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Cable retention test",
+            "Cable anchorage test",
+            "Cable anchorage twist test",
+            "Impact test"
+          ],
+          "rows": [
+            [
+              "Torque test",
+              "Ingress protection (IP) test",
+              "Electrical continuity test",
+              "Insulation resistance test and more…"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Safety Testing of Cable Gland",
+      "paragraphs": [
+        "ITC India Pvt ltd is a well equipped laboratory to test cable gland as per IEC/ BS EN/ EN standards. High tech environment and engineers are hired for testing your product. We have a good clientele for cable gland testing.",
+        "We are a NABL accredited laboratory covering all the scope of cable gland testing. The facility to test cable gland as per IEC 62444, EN 6121 is developed and testing is going in full swing.",
+        "All the equipment required are owned by the company. Let us explain the brief description of the testing procedure of cable gland as per IEC 62444.",
+        "This standard provides requirements and tests for the construction and performance of the cable glands. An ambient temperature (20±5)°C is maintained as per the requirement of the standard.",
+        "No. of samples =5",
+        "In case of a series of cable gland, 3 samples of largest and smallest and one sample of all other sizes of the same series shall be subjected to relevant test.",
+        "Cable gland are then classified for the test purpose according to Clause 6.1 to 6.5 .",
+        "After this durability of marking is checked with aliphatic solvent hexane. Documentation is provided by the supplier and compliance is checked by inspection.",
+        "Clause 8 construction is very important. All the relevant tests according to this clause are performed to check any flaws in construction. Measurements are done through calibrated Vernier caliper. Pre-condition of the cable gland is done by keeping the cable gland in Environment chamber at ambient temp. With 40 – 60 % of humidity. The cable gland is kept inside the chamber for 24 Hours or more if specified by the supplier. Temperature and humidity of the chamber is well calibrated, so that it might not affect the pre-conditioning. Resistant to corrosion is also be performed to check resistance against them.",
+        "After construction is the turn of mechanical properties, retention test apparatus is used for the testing, in which a load according to the table 2 is being applied for 5 min.",
+        "A cable anchorage test is performed on the cable gland with the cable anchorage test apparatus. The test mandrel is marked before load is applied and displacement is noted to check whether it pass or fail in the test. The test mandrel is pulled 50 times for 1 sec without jerks in the direction of its axis with load as per table 2. Also test Facility to test armored cable is available in our lab.",
+        "Before Resistance to impact test, the sample is placed in refrigerator for minimum of 8 hours. After removing from the refrigerator, impact test is carried out at the weakest point. The impact energy is calculated as per table 4. After the test there shall be no sign of disintegration nor shall there be any cracks visible.",
+        "Vitrek High voltage tester is used to test the Ground Bound bond test where resistance between bonding terminal of the cable gland and each accessible metal part of cable gland.",
+        "Electric current test, Electromagnetic compatibility, degree of protection against external influences is also carried out on cable glands.",
+        "The last test to be performed is resistance to fire. Glow wire test apparatus is carried out at 650°C. For passing the test, there should be no flame or glowing. If the flame is produced, it must be extinguished within 30 seconds or there must be no ignition on the tissue paper."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    },
+    {
+      "href": "/calibration-of-surge-generator",
+      "label": "Calibration of Surge Generators"
+    }
+  ]
+}

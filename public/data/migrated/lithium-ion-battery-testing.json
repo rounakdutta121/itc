@@ -1,0 +1,91 @@
+{
+  "hero": "/images/page-heroes/lithium-ion-battery-testing.webp",
+  "heroPortrait": "/images/page-heroes/lithium-ion-battery-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/lithium-ion-battery-testing-s1.webp",
+  "generatedMid": "/images/page-sections/lithium-ion-battery-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/lithium-ion-battery-testing-s1.webp",
+    "/images/page-sections/lithium-ion-battery-testing-s2.webp",
+    "/images/page-sections/lithium-ion-battery-testing-s3.webp",
+    "/images/page-sections/lithium-ion-battery-testing-s4.webp",
+    "/images/page-sections/lithium-ion-battery-testing-s5.webp",
+    "/images/page-sections/lithium-ion-battery-testing-s6.webp"
+  ],
+  "category": "battery",
+  "action": "EXPAND",
+  "note": "354 | no meta, no H2 | EXPAND – lithium battery hub (links IS 16046, UN 38.3, sodium-ion)",
+  "slug": "lithium-ion-battery-testing",
+  "path": "/lithium-ion-battery-testing",
+  "source": "https://www.itcindia.org/lithium-ion-battery-testing/",
+  "ok": true,
+  "title": "Lithium Ion Battery Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India Pvt Ltd is performing Lithium ion battery testing as per IEC / IS / UL/ EN Standards. If you are looking for a competent Laboratory that have ability to perform IEC 62133 testing and certification in a fast and professional way, please contact us! For more information write to info@itcindia.org.Thank you for reading…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India Pvt Ltd is performing Lithium ion battery testing as per IEC / IS / UL/ EN Standards. If you are looking for a competent Laboratory that have ability to perform IEC 62133 testing and certification in a fast and professional way, please contact us! For more information write to info@itcindia.org.",
+        "A lithium-ion battery is a power storage product in which lithium-ions move through an electrolyte from the negative electrode to the positive electrode during battery discharge and from the positive electrode to the negative electrode during charging. The electrochemically active materials in lithium-ion batteries are typically a lithium metal oxide for the cathode and a lithiated carbon for the anode. The electrolytes can be liquid, gel, polymer or ceramic. For liquid electrolytes, a thin micro-porous film provides electrical separation between the cathode and anode.",
+        "These batteries are more expensive than Lead acid battery but their lifetime per kWh is much lower when compared to lead acid batteries. The world is switching to Lithium ion batteries due to many advantages of it over lead acid batteries",
+        "Due to above said advantages, Lithium ion batteries become more dominant rechargeable battery. As per IEC 62133/ IS 16046 Cells and batteries shall be so designed and constructed that they are safe under conditions of both intended use and reasonably foreseeable misuse.",
+        "Many of the tests described are very similar to those described in UL and IEEE Standards. However, a few tests specified by IEC are unique like “free fall” test which requires multiple drops of a cell or battery on a concrete floor, an overcharge test for cells that requires protection from high-voltage overcharging.",
+        "List of test is as below……."
+      ],
+      "bullets": [
+        "More energy efficient",
+        "Less heavier",
+        "Higher density",
+        "Longer life cycle",
+        "Environment friendly",
+        "No maintenance",
+        "Space efficient",
+        "No leakage",
+        "Short circuit test",
+        "Abnormal charging test",
+        "Forced discharge test",
+        "Crush test",
+        "Shock test",
+        "Vibration test",
+        "Heating test",
+        "Temperature cycling test",
+        "Low pressure test",
+        "Continues low-Rate Charging",
+        "Molded case stress at high ambient temperature",
+        "Free fall"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/lithium-ion-battery-testing/30fa4030ccd5.webp",
+          "alt": "Lithium Ion Battery"
+        },
+        {
+          "src": "/images/migrated/lithium-ion-battery-testing/dbdf6218af36.webp",
+          "alt": "Lithium ion battery testing"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/lithium-ion-battery-testing/30fa4030ccd5.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/lithium-ion-battery-testing/dbdf6218af36.webp",
+      "alt": "Lithium ion battery testing"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/lithium-ion-battery-testing/30fa4030ccd5.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/lithium-ion-battery-testing/dbdf6218af36.webp",
+      "alt": "Lithium ion battery testing"
+    }
+  ],
+  "relatedLinks": []
+}

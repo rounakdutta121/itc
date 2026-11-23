@@ -1,0 +1,285 @@
+{
+  "hero": "/images/page-heroes/en-iec-62262-impact-testing.webp",
+  "heroPortrait": "/images/page-heroes/en-iec-62262-impact-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/en-iec-62262-impact-testing-s1.webp",
+  "generatedMid": "/images/page-sections/en-iec-62262-impact-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/en-iec-62262-impact-testing-s1.webp",
+    "/images/page-sections/en-iec-62262-impact-testing-s2.webp",
+    "/images/page-sections/en-iec-62262-impact-testing-s3.webp",
+    "/images/page-sections/en-iec-62262-impact-testing-s4.webp",
+    "/images/page-sections/en-iec-62262-impact-testing-s5.webp",
+    "/images/page-sections/en-iec-62262-impact-testing-s6.webp"
+  ],
+  "category": "mechanical",
+  "action": "ADD",
+  "note": "366 | – | LOW: add FAQ, links",
+  "slug": "en-iec-62262-impact-testing",
+  "path": "/en-iec-62262-impact-testing",
+  "source": "https://www.itcindia.org/en-iec-62262-impact-testing/",
+  "ok": true,
+  "title": "EN/ IEC 62262 Impact Testing - Electrical Safety Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "EN/ IEC 62262 Impact Testing, Degrees of Protection Provided by Enclosures for Electrical Equipment Against External Mechanical Impacts (IK Code)",
+  "sections": [
+    {
+      "heading": "EN/ IEC 62262 Impact Testing",
+      "paragraphs": [
+        "Degrees of Protection Provided by Enclosures for Electrical Equipment Against External Mechanical Impacts (IK Code)",
+        "The IEC/EN 62262 standard defines an IK code which gives the equipment capacity to resist to mechanical impacts, on all the electrical enclosure surfaces."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "CCTV Cameras",
+      "paragraphs": [],
+      "bullets": [
+        "LED street, Roadway and other lighting products",
+        "Light Fixtures and many other products"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-1",
+      "paragraphs": [],
+      "bullets": [
+        "60068-2-75"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Relevant product standards",
+      "paragraphs": [],
+      "bullets": [
+        "IEC/BS/EN 61429: Low voltage switch-gear and control assemblies",
+        "IEC/BS/EN 62271: High Voltage switch-gear and control-gear."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC/ BS/EN 60598-1 Luminaries",
+      "paragraphs": [],
+      "bullets": [
+        "IEC 62696: Luminaries (Application of IK code as per IEC/EN 62262)",
+        "IEC /BS/ EN 62676-1-1 Video surveillance system for use in security applications.",
+        "IEC /BS/EN 62208 Empty Enclosure for Low voltage switch-gear and control-gear assemblies."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Benefits of IK testing",
+      "paragraphs": [
+        "For more details please ITC India Pvt Ltd . Email info@itcindia.org or visit <a href=\"/\">www.itcindia.org</a>"
+      ],
+      "bullets": [
+        "More durability",
+        "High in demand",
+        "Beneficial for the end user"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "IK Code",
+            "Impact Energy in joules",
+            ""
+          ],
+          "rows": [
+            [
+              "IK 01",
+              "0.14 J"
+            ],
+            [
+              "IK 02",
+              "0.2 J"
+            ],
+            [
+              "IK 03",
+              "0.35 J"
+            ],
+            [
+              "IK 04",
+              "0.5 J"
+            ],
+            [
+              "IK 05",
+              "0.7 J"
+            ],
+            [
+              "IK 06",
+              "1 J"
+            ],
+            [
+              "IK 07",
+              "2 J"
+            ],
+            [
+              "IK 08",
+              "5 J"
+            ],
+            [
+              "IK 09",
+              "10 J"
+            ],
+            [
+              "IK 10",
+              "20 J"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "IK Code",
+            "IK 00",
+            "IK 01 to IK 05",
+            "IK 06",
+            "IK 07",
+            "IK 08",
+            "IK 09",
+            "IK 10"
+          ],
+          "rows": [
+            [
+              "Impact Energy",
+              "–",
+              "Less than 1 J",
+              "1 J",
+              "2 J",
+              "5 J",
+              "10 J",
+              "20 J"
+            ],
+            [
+              "R mm (Radius striking element)",
+              "–",
+              "10",
+              "10",
+              "25",
+              "25",
+              "50",
+              "50"
+            ],
+            [
+              "Material",
+              "–",
+              "Polyamide",
+              "Polyamide",
+              "Steel",
+              "Steel",
+              "Steel",
+              "Steel"
+            ],
+            [
+              "Mass in Kgs",
+              "–",
+              "0.2",
+              "0.5",
+              "0.5",
+              "1.7",
+              "5",
+              "5"
+            ],
+            [
+              "Pendulum Hammer",
+              "–",
+              "🗹",
+              "🗹",
+              "🗹",
+              "🗹",
+              "🗹",
+              "🗹"
+            ],
+            [
+              "Spring hammer",
+              "–",
+              "🗹",
+              "🗹",
+              "🗹",
+              "🗷",
+              "🗷",
+              "🗷"
+            ],
+            [
+              "Free Fall",
+              "–",
+              "🗷",
+              "🗷",
+              "🗹",
+              "🗹",
+              "🗹",
+              "🗹"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Spring Hammer",
+            "Pendulum Hammer",
+            "Free Fall"
+          ],
+          "rows": []
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/en-iec-62262-impact-testing/8768423a74ca.webp",
+          "alt": "Impact Testing"
+        },
+        {
+          "src": "/images/migrated/en-iec-62262-impact-testing/190234f2954f.webp",
+          "alt": "Spring Hammer"
+        },
+        {
+          "src": "/images/migrated/en-iec-62262-impact-testing/11e5ef57fede.webp",
+          "alt": "Pendulum Hammer"
+        },
+        {
+          "src": "/images/migrated/en-iec-62262-impact-testing/b9e7f01fc6f5.webp",
+          "alt": "Free Fall"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/8768423a74ca.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/190234f2954f.webp",
+      "alt": "Spring Hammer"
+    },
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/11e5ef57fede.webp",
+      "alt": "Pendulum Hammer"
+    },
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/b9e7f01fc6f5.webp",
+      "alt": "Free Fall"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/8768423a74ca.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/190234f2954f.webp",
+      "alt": "Spring Hammer"
+    },
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/11e5ef57fede.webp",
+      "alt": "Pendulum Hammer"
+    },
+    {
+      "src": "/images/migrated/en-iec-62262-impact-testing/b9e7f01fc6f5.webp",
+      "alt": "Free Fall"
+    }
+  ],
+  "relatedLinks": []
+}

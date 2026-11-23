@@ -1,0 +1,315 @@
+{
+  "hero": "/images/page-heroes/ip42-protection-rating-testing.webp",
+  "heroPortrait": "/images/page-heroes/ip42-protection-rating-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/ip42-protection-rating-testing-s1.webp",
+  "generatedMid": "/images/page-sections/ip42-protection-rating-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/ip42-protection-rating-testing-s1.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s2.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s3.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s4.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s5.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s6.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s7.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s8.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s9.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s10.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s11.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s12.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s13.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s14.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s15.webp",
+    "/images/page-sections/ip42-protection-rating-testing-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "CTR",
+  "note": "1064 | – | CTR FIX – new title/meta in Content tab",
+  "slug": "ip42-protection-rating-testing",
+  "path": "/ip42-protection-rating-testing",
+  "source": "https://www.itcindia.org/ip42-protection-rating-testing/",
+  "ok": true,
+  "title": "IP42 Protection Rating Testing Services in India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IP42 protection rating testing under IEC 60529 for electrical and medical equipment. Get IP42 enclosure testing services and compliance support from ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IP42 testing evaluates the protection provided by an electrical or electronic enclosure against solid foreign objects and vertically falling water drops when the enclosure is tilted. ITC India provides ingress protection testing for manufacturers and product developers requiring evaluation according to IEC 60529 and applicable product standards.",
+        "The IP code helps define how effectively an enclosure protects internal components and users from external environmental influences. In an IP42 rating, the first characteristic numeral “4” represents protection against solid foreign objects of 1 mm diameter and larger, while the second numeral “2” represents protection against vertically falling water drops when the enclosure is tilted by up to 15°.",
+        "For manufacturers requiring other ingress protection classifications, ITC India provides a wider range of services through its <a href=\"/ip-testing-laboratory-india\">IP Testing Laboratory in India</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/ip42-protection-rating-testing/7cd2d7f571d3.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Does an IP42 Rating Mean?",
+      "paragraphs": [
+        "An IP42 rating contains two separate protection classifications.",
+        "The first digit, 4, indicates that the enclosure provides protection against solid foreign objects with a diameter of 1 mm or greater. IEC 60529 uses an appropriate test probe to evaluate whether such objects can penetrate the enclosure and reach protected or hazardous parts.",
+        "The second digit, 2, relates to protection against vertically falling water drops when the enclosure is tilted at angles of up to 15° from its normal vertical position.",
+        "IP42 therefore provides a defined level of protection against relatively small solid objects and limited dripping water exposure. It should not be interpreted as a dust-tight or waterproof rating.",
+        "For a detailed overview of different IP classifications and test equipment, manufacturers can refer to ITC India’s <a href=\"/ip-testing-procedure\">IP Testing Procedure under IEC 60529</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How Is IP42 Testing Performed?",
+      "paragraphs": [
+        "IP42 testing generally consists of two individual assessments: the IP4X solid-object test and the IPX2 water-ingress test."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IP4X Solid Object Protection Test",
+      "paragraphs": [
+        "For the first characteristic numeral “4”, the enclosure is evaluated using a 1 mm diameter test wire or probe under the conditions specified by IEC 60529.",
+        "The test determines whether the probe can penetrate openings in a way that would compromise the required protection. Particular attention may be given to ventilation openings, enclosure joints, covers, gaps, cable entries and other accessible areas.",
+        "IP4X should not be confused with IP5X or IP6X. Ratings beginning with 5 or 6 address dust protection, whereas IP4X is specifically concerned with protection against solid foreign objects of 1 mm diameter and greater."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How Is the IPX2 Water Test Performed?",
+      "paragraphs": [
+        "For the second characteristic numeral “2”, the enclosure is exposed to vertically falling water drops while being tilted by up to 15° on either side of the vertical.",
+        "According to the IEC 60529 test conditions used by ITC India, IPX2 testing uses a drip box with a water precipitation rate of approximately 3 mm per minute, with the specified exposure duration applied according to the standard.",
+        "The enclosure is positioned and tilted as required so that relevant sides are exposed to dripping water. Following the test, the specimen is examined to determine whether water ingress has caused harmful effects or compromised the intended safety or performance of the equipment.",
+        "The exact mounting position, sample configuration and acceptance requirements may also depend on the product-specific standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP42 Waterproof?",
+      "paragraphs": [
+        "No. An IP42-rated enclosure should not be described as waterproof.",
+        "IPX2 only evaluates protection against vertically falling water drops under specified tilted conditions. It does not demonstrate resistance to splashing water, water jets or immersion.",
+        "Equipment requiring greater water protection may need a higher IP classification. For example, <a href=\"/ip55-protection-rating-testing\">IP55 protection rating testing</a> evaluates protection against water jets in addition to its solid-particle requirement, while <a href=\"/ip56-protection-rating-testing\">IP56 protection rating testing</a> addresses more powerful water-jet exposure.",
+        "Products intended for temporary immersion may instead require <a href=\"/ip-67-waterproof-testing\">IP67 waterproof testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Products That May Require IP42 Testing",
+      "paragraphs": [
+        "IP42 may be relevant to electrical and electronic products primarily intended for indoor or protected environments where limited exposure to dripping water and small solid objects is possible.",
+        "Depending on the applicable product standard, examples can include electrical appliances, laboratory equipment, control equipment, electronic enclosures, lighting products, electrical panels, monitoring devices and other enclosed electrical equipment.",
+        "Manufacturers should select the required IP rating according to the actual environmental conditions, product construction and applicable safety standard rather than simply choosing a higher IP number."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Is IP42 Testing Important?",
+      "paragraphs": [
+        "Ingress of foreign objects or moisture can affect insulation, electrical connections, moving parts and sensitive electronic components. Testing helps manufacturers determine whether the enclosure provides the level of protection intended by the design.",
+        "IP42 testing can also identify potential weaknesses around joints, openings, covers, cable entries and enclosure interfaces before the product enters production, certification or customer approval.",
+        "For products exposed to more severe environmental conditions, ingress protection may also form part of a broader environmental qualification programme. ITC India provides additional <a href=\"/environmental-testing-services\">environmental testing services</a> where other environmental stresses must also be evaluated."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required for IP42 Testing",
+      "paragraphs": [
+        "Before testing, manufacturers should provide the product name and model, enclosure dimensions, required IP classification, applicable standard, normal mounting arrangement and relevant technical documentation.",
+        "Information about openings, cable glands, removable covers and operating conditions can also help determine the correct specimen configuration.",
+        "To discuss your IP42 testing requirement and submit product details for review, use the <a href=\"/contact-us/inquiry\">ITC India testing inquiry</a> page."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What does IP42 mean?",
+      "paragraphs": [
+        "IP42 means the enclosure provides protection against solid foreign objects of 1 mm diameter and greater and against vertically falling water drops when tilted by up to 15°."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP42 dustproof?",
+      "paragraphs": [
+        "No. IP42 is not a dust-tight rating. Dust-protection classifications are associated with IP5X and IP6X requirements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IP42 waterproof?",
+      "paragraphs": [
+        "No. IP42 provides limited protection against dripping water under IPX2 conditions. It does not cover water jets or immersion."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is tested for IP4X?",
+      "paragraphs": [
+        "A 1 mm test wire or probe is used to evaluate whether solid foreign objects can gain unacceptable access through enclosure openings."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the IPX2 water test?",
+      "paragraphs": [
+        "The enclosure is exposed to vertically falling water drops while tilted up to 15° from the vertical according to the specified IEC 60529 test conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which standard defines IP42 testing?",
+      "paragraphs": [
+        "IEC 60529 defines the IP code system and test requirements for degrees of protection provided by enclosures."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How can I request IP42 testing from ITC India?",
+      "paragraphs": [
+        "Provide the product specification, required IP rating, enclosure dimensions, applicable standard and mounting details through ITC India’s testing inquiry so the appropriate test programme can be reviewed."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/ip42-protection-rating-testing/7cd2d7f571d3.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/ip42-protection-rating-testing/7cd2d7f571d3.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

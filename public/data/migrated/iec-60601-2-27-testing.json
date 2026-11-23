@@ -1,0 +1,209 @@
+{
+  "hero": "/images/page-heroes/iec-60601-2-27-testing.webp",
+  "heroPortrait": "/images/page-heroes/iec-60601-2-27-testing-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60601-2-27-testing-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60601-2-27-testing-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60601-2-27-testing-s1.webp",
+    "/images/page-sections/iec-60601-2-27-testing-s2.webp",
+    "/images/page-sections/iec-60601-2-27-testing-s3.webp",
+    "/images/page-sections/iec-60601-2-27-testing-s4.webp",
+    "/images/page-sections/iec-60601-2-27-testing-s5.webp",
+    "/images/page-sections/iec-60601-2-27-testing-s6.webp"
+  ],
+  "category": "medical",
+  "action": "KEEP",
+  "note": "836 | long title | KEEP – shorten title",
+  "slug": "iec-60601-2-27-testing",
+  "path": "/iec-60601-2-27-testing",
+  "source": "https://www.itcindia.org/iec-60601-2-27-testing/",
+  "ok": true,
+  "title": "IEC 60601-2-27 Particular requirements for the basic safety and essential performance of electro cardiographic monitoring - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60601-2-27 applies to all types of ECG monitoring devices, including those used in office settings, emergency care settings",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "IEC 60601-2-27 is a set of standards for medical electrical equipment, specifically electrocardiographic (ECG) monitoring equipment. This set of standards specifies the requirements for the basic safety and essential performance of ECG monitoring equipment.",
+        "The standard applies to all types of ECG monitoring devices, including those used in office settings, emergency care settings, hospital wards, and even operating rooms. It also covers devices that are used to monitor multiple patients simultaneously as well as those that are intended to be connected to other medical instrumentation.",
+        "In this blog post, we will discuss the various aspects of IEC 60601-2-27 and how it can help ensure safe and effective use of ECG monitoring equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60601-2-27?",
+      "paragraphs": [
+        "IEC 60601-2-27 is an international standard that applies to electrocardiographic (ECG) monitoring equipment. This standard covers basic safety and essential performance requirements for ECG monitoring equipment, patient interfaces, signal processing, alarms, and displays.",
+        "The purpose of this standard is to ensure the safety and effectiveness of ECG monitoring equipment used in healthcare settings."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is electro cardiographic monitoring equipment?",
+      "paragraphs": [
+        "Electrocardiographic (ECG) monitoring equipment is used to measure and record the electrical activity of the heart. This information can be used to diagnose and treat cardiac conditions. ECG equipment typically consists of sensors that are placed on the skin to detect electrical signals from the heart, as well as a recorder that displays and stores the data. The sensors are usually placed on the chest, but may also be placed on the wrists or ankles. ECG data can be used to diagnose a wide variety of cardiac conditions, including arrhythmias, heart attacks, and congenital heart defects. In addition, ECG data is used to monitor effects of medications or devices that are used to treat cardiac conditions."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60601-2-27-testing/fe3f4ff4b7a0.jpg",
+          "alt": "IEC 60601-2-27 Particular requirements for the basic safety and essential performance of electro cardiographic monitoring"
+        }
+      ]
+    },
+    {
+      "heading": "The different types of electro cardiographic monitoring equipment",
+      "paragraphs": [
+        "There are four different types of electro cardiographic monitoring equipment: 1. Electrocardiographs (ECGs) – These are devices that measure and record the electrical activity of the heart. They are used to diagnose and monitor heart conditions. 2. Holter monitors – These devices are worn for a period of time (usually 24 hours) to continuously monitor the heart’s electrical activity. They are used to diagnose and monitor heart conditions. 3. Event monitors – These devices are worn for a period of time (usually 1-2 weeks) and they record the electrical activity of the heart during episodes of symptoms (such as chest pain). They are used to diagnose and monitor heart conditions. 4. Implantable cardioverter defibrillators (ICDs) – These devices are implanted under the skin and they monitor the electrical activity of the heart. If an abnormal rhythm is detected, ICD will deliver a shock to heart in an attempt to restore normal rhythm. They are used to treat life-threatening arrhythmias (abnormal heart rhythms)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The benefits of electro cardiographic monitoring equipment",
+      "paragraphs": [
+        "1. Electro cardiographic (ECG) monitoring equipment is used to measure, record, and analyze the electrical activity of the heart. 2. ECG monitoring can provide important information about the heart’s function and can help detect a variety of heart conditions. 3. ECG monitoring can also help guide treatment for heart conditions and can be used to monitor the progress of recovery after a heart attack or other cardiac event. 4. There are many different types of ECG monitoring equipment available, and the specific type of equipment used will depend on the individual needs of the patient. 5. ECG monitoring equipment is generally safe and easy to use, also it provide valuable information about health of the heart."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How to use electro cardiographic monitoring equipment",
+      "paragraphs": [
+        "1. How to use electro cardiographic monitoring equipment A healthcare professional should be able to correctly operate electrocardiographic (ECG) equipment and understand its importance in the diagnosis and treatment of cardiac conditions. Here we provide guidance on how to use this type of equipment. When taking an ECG reading, it is important to ensure that the patient is lying down and relaxed. The health care professional should attach the appropriate leads to the patient’s chest in order to record the electrical activity of the heart.",
+        "Once all the leads are attached, the ECG machine will be turned on and a tracing will appear on the screen. It is important to ensure that the tracing is clear and free from artefacts before making any interpretation. The health care professional should then assess the following parameters on the ECG tracing: heart rate, rhythm, waveform morphology and ST segment changes. By assessing these parameters, it will be possible to make a diagnosis or rule out certain cardiac conditions. In some cases, further investigation with other tests may be required."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "IEC 60601-2-27 is an important international standard that outlines the basic safety and essential performance requirements for electrocardiographic monitoring equipment.",
+        "This standard ensures that these devices are safe to use and deliver accurate readings, helping to protect patients from the potential risks associated with their use. It is an invaluable resource for medical professionals in providing quality care, as well as manufacturers in producing reliable products."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60601-2-27-testing/fe3f4ff4b7a0.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60601-2-27-testing/fe3f4ff4b7a0.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "hero": "/images/page-heroes/particle-counter-calibration.webp",
+  "heroPortrait": "/images/page-heroes/particle-counter-calibration-portrait.webp",
+  "generatedIntro": "/images/page-sections/particle-counter-calibration-s1.webp",
+  "generatedMid": "/images/page-sections/particle-counter-calibration-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/particle-counter-calibration-s1.webp",
+    "/images/page-sections/particle-counter-calibration-s2.webp",
+    "/images/page-sections/particle-counter-calibration-s3.webp",
+    "/images/page-sections/particle-counter-calibration-s4.webp",
+    "/images/page-sections/particle-counter-calibration-s5.webp",
+    "/images/page-sections/particle-counter-calibration-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "ADD",
+  "note": "0 / 1 | 562 | no meta, 4 img no alt | KEEP – add meta",
+  "slug": "particle-counter-calibration",
+  "path": "/particle-counter-calibration",
+  "source": "https://www.itcindia.org/particle-counter-calibration/",
+  "ok": true,
+  "title": "Particle Counter Calibration - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Ensure Accurate Particle Measurements with Expert Particle Counter Calibration from ITC India At ITC India, we understand the critical role of precise particle counting in various industries, from cleanrooms and pharmaceutical manufacturing to environmental monitoring and occupational health. Inaccurate particle counters can lead to erroneous data, potentially impacting product quality, regulatory compliance, and even human…Read More+",
+  "sections": [
+    {
+      "heading": "Ensure Accurate Particle Measurements with Expert Particle Counter Calibration from ITC India",
+      "paragraphs": [
+        "At ITC India, we understand the critical role of precise particle counting in various industries, from cleanrooms and pharmaceutical manufacturing to environmental monitoring and occupational health. Inaccurate particle counters can lead to erroneous data, potentially impacting product quality, regulatory compliance, and even human health.",
+        "That’s where our meticulous Particle Counter Calibration service comes in. Our team of highly qualified and experienced professionals is dedicated to providing you with the utmost confidence in your particle counting measurements."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/particle-counter-calibration/3b917ce6fdc2.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "About Particle Counters",
+      "paragraphs": [
+        "Particle counters are specialised instruments used to detect and quantify airborne particles within a specific size range. These tiny particles can significantly impact various controlled environments, from cleanroom manufacturing to air quality monitoring. Regular calibration of particle counters is essential to ensure their accuracy and maintain confidence in the data/report they generate. Think of calibration as fine-tuning a measuring tool; it guarantees the particle counter is measuring particle sizes and concentrations precisely, allowing you to make critical decisions based on reliable information.",
+        "There are various parameters involved in particle counter calibration including:"
+      ],
+      "bullets": [
+        "Size setting error"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "False Count Rate/Zero Count Test",
+      "paragraphs": [],
+      "bullets": [
+        "Maximum particle number concentration",
+        "Sampling flow rate error",
+        "Sampling time error"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Calibration Interval",
+      "paragraphs": [],
+      "bullets": [
+        "Reporting results from test and calibration"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why Choose ITC India for Particle Counter Calibration?",
+      "paragraphs": [
+        "Investing in regular Particle Counter Calibration with ITC India offers several benefits:"
+      ],
+      "bullets": [
+        "Unmatched Expertise: Our team possesses in-depth knowledge of particle counting principles and industry best practices. We are proficient in calibrating a wide range of particle counter models from leading manufacturers.",
+        "Internationally Recognized Standards: We adhere to stringent international standards, ensuring the accuracy and traceability of your measurements. This includes following guidelines:ISO 21501-4: This standard specifies the calibration procedure and verification method for airborne particle counters used in cleanroom environments. It emphasizes on pulse height analysis (PHA) for improved accuracy and minimizes inconsistencies between different instruments.",
+        "ISO 11171: This standard outlines the calibration procedures for automatic particle counters for liquids typically used in hydraulic fluid analysis. It ensures consistent and reliable particle size and concentration measurements for cleanliness assessments.",
+        "State-of-the-Art Calibration Facilities: Our lab is equipped with the latest calibration equipment, meticulously maintained to ensure the highest levels of precision.",
+        "Comprehensive Calibration Reports: Following the calibration process, you’ll receive a detailed report outlining the performed procedures, data analysis, and any adjustments made. This report serves as valuable documentation for maintaining your quality control records.",
+        "Efficient Service: We understand the importance of minimizing downtime for your critical equipment. Our streamlined calibration process ensures a prompt turnaround time, so you can get your particle counter back in operation quickly.",
+        "Enhanced Data Integrity: You can be confident that your particle counting data is reliable and accurate, allowing you to make informed decisions based on true particle concentration levels.",
+        "Improved Process Control: Accurate particle counts empower you to effectively monitor and control your cleanroom environment or ensure consistent particle measurement in other applications.",
+        "Regulatory Compliance: Regular calibration demonstrates your commitment to maintaining quality standards and adhering to relevant regulations.Enhance your confidence by calibrating your equipment from an ISO/IEC 17025 complying lab which increases the chances in compliance to national/international standard requirements."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/particle-counter-calibration/c360938020e9.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Contact ITC India Today",
+      "paragraphs": [
+        "Let ITC India be your trusted partner for ensuring the accuracy and reliability of your particle counting measurements. Contact us today to discuss your specific requirements and schedule your Particle Counter Calibration service."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/particle-counter-calibration/3b917ce6fdc2.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/particle-counter-calibration/c360938020e9.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/particle-counter-calibration/3b917ce6fdc2.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/particle-counter-calibration/c360938020e9.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

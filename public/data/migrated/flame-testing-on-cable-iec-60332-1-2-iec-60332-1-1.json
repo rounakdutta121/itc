@@ -1,0 +1,255 @@
+{
+  "hero": "/images/page-heroes/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1.webp",
+  "heroPortrait": "/images/page-heroes/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-portrait.webp",
+  "generatedIntro": "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s1.webp",
+  "generatedMid": "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s1.webp",
+    "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s2.webp",
+    "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s3.webp",
+    "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s4.webp",
+    "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s5.webp",
+    "/images/page-sections/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "0 / 5 | 258 | long title, thin, 4 img no alt | EXPAND – keep text, add 400+ words",
+  "slug": "flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1",
+  "path": "/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1",
+  "source": "https://www.itcindia.org/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/",
+  "ok": true,
+  "title": "Flame Testing on Cable",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "The Vertical Flame Test to IEC 60332-1-2 is designed to assess the flame retardant properties on a single cable length. Fire performance test",
+  "sections": [
+    {
+      "heading": "Flame Test on Electrical and Optical Fiber Cable",
+      "paragraphs": [
+        "The Vertical Flame Test to IEC 60332-1-2 is designed to assess the flame retardant properties on a single cable length.",
+        "ITC (ISO/IEC 17025 accredited) Testing laboratory Provide the flammability test on electrical and Optical fiber cable",
+        "IEC 60332-1-2 Tests on Electric and optical fibre cables under fire conditions- part 1-2: Test for vertical flame propagation for a single insulated wire or cable-procedure for 1KW pre-mixed flame"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Scope",
+      "paragraphs": [
+        "This part of IEC 60332 specifies the procedure for testing the resistance to vertical flame propagation for a single vertical electrical insulated conductor or cable, or optical fibre cable, under fire conditions. The apparatus is given in IEC 60332-1-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Tests on Electrical and Optical Fibre Cable under Fire Conditions",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Standard",
+            "IEC 60332-1-2"
+          ],
+          "rows": [
+            [
+              "Description",
+              "Tests for vertical flame propagation for a single insulated wire or cable – procedure for 1-kW pre-mixed flame"
+            ],
+            [
+              "Length of specimen:",
+              "600 mm / 23.62 inches"
+            ],
+            [
+              "Burner:",
+              "According to IEC 60332-1-1"
+            ],
+            [
+              "Test temperature:",
+              "1 kW flame"
+            ],
+            [
+              "Position of specimen:",
+              "vertical"
+            ],
+            [
+              "Position of flame:",
+              "45° to vertical specimen"
+            ],
+            [
+              "Duration of flame:",
+              "see table 1 (below)"
+            ],
+            [
+              "Conditions:",
+              "Cable must be self-extinguishing. The damage or carbonization may only reach max. 50 mm under the upper fixing clamp."
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/11b4777d0a7d.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/c443495644b3.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Table 1 (Time for flame application)",
+      "paragraphs": [
+        "This fire performance test is performed on a finished cable or the insulated single conductors, meaning all layers of the cable construction are subjected to the burner flame."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Overall Diameter of test piece",
+            "Duration of the flame in second"
+          ],
+          "rows": [
+            [
+              "D ≤ 25",
+              "60 ± 2"
+            ],
+            [
+              "25 < D ≤ 50",
+              "120 ± 2"
+            ],
+            [
+              "50 < D ≤ 75",
+              "240 ± 2"
+            ],
+            [
+              "D > 75",
+              "480 ± 2"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/11b4777d0a7d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/c443495644b3.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/11b4777d0a7d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/c443495644b3.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

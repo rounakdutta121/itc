@@ -1,0 +1,349 @@
+{
+  "hero": "/images/page-heroes/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79.webp",
+  "heroPortrait": "/images/page-heroes/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-portrait.webp",
+  "generatedIntro": "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s1.webp",
+  "generatedMid": "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s1.webp",
+    "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s2.webp",
+    "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s3.webp",
+    "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s4.webp",
+    "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s5.webp",
+    "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s6.webp",
+    "/images/page-sections/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79-s7.webp"
+  ],
+  "category": "electrical",
+  "action": "KEEP",
+  "note": "0 / 2 | 857 | long title, 14 img no alt | KEEP",
+  "slug": "optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79",
+  "path": "/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79",
+  "source": "https://www.itcindia.org/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/",
+  "ok": true,
+  "title": "Optical And Electrical Measurements of Solid-State Lighting as per LM 79",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "LM-79 is a standard that defines how the performance of an LED lamp or fixture should be measured. It helps with measuring 2 groups of LED...",
+  "sections": [
+    {
+      "heading": "What is LM-79?",
+      "paragraphs": [
+        "LM-79 is a standard that defines how the performance of an LED lamp or fixture should be measured. A test according to LM-79 is carried out at a point in time and at a single temperature. Therefore, it gives no indication as to how the performance of the device under test (DUT) might change over time or how it might be affected by different ambient temperatures."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/bc497633c775.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "WHY WE NEED IT & WHAT IT COVERS?",
+      "paragraphs": [
+        "LM-79 is important to lighting designers, specifiers and manufacturers. It provides a standard method of testing LED lamps and fixtures so that the data from different brands and models can be directly and objectively compared.",
+        "LM-79 is concerned with measuring two groups of LED lamp & luminaire characteristics:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Measurements",
+      "paragraphs": [
+        "The electrical data that should be recorded in any LM-79 compliant test will include:"
+      ],
+      "bullets": [
+        "voltage",
+        "current",
+        "power",
+        "Power factor",
+        "Total harmonic current distortion",
+        "Frequency"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Optical Measurements",
+      "paragraphs": [
+        "The optical data gathered during a photometric test compliant with LM-79 will typically include the following:"
+      ],
+      "bullets": [
+        "Total luminous flux (lumens, lm)",
+        "Luminous efficacy (lumens/watt, lm/W)",
+        "Luminous intensity (candelas, cd)",
+        "Chromaticity coordinates",
+        "Correlated colour temperature (kelvin, K)",
+        "Colour rendering index (rendering average, Ra)"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/0f0c5a3c5d9d.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Is LM-79 for Light Fittings or Discrete LEDs?",
+      "paragraphs": [
+        "LM-79 only relates to complete LED lamps or LED luminaires.",
+        "Because LED lamps and luminaires will always have a driver and associated hardware (diffusers, reflectors, a body housing, a heatsink etc) the electrical measurements are of the supply entering the fitting (not entering the LEDs). We therefore sometimes speak of “circuit watts” meaning the power consumption of the entire fitting including the driver, not just of the LEDs.",
+        "Similarly, the optical measurements relate to the output from the fitting, after the light has passed through any diffuser, reflector or other optical device. We sometimes therefore speak of “luminaire lumens” to mean the lumen output of the luminaire as opposed to “LED lumens” which would be the output of the LEDs before taking into account the effect of any lens or diffuser."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/2ab5fbb3acf7.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "How is an LM-79 Photometric Test Conducted?",
+      "paragraphs": [
+        "Before the test can begin the device under test (DUT) should be connected to a suitable, stable, power supply in a draught-free environment. The ambient temperature should be 25º and the fitting should be powered up and its own temperature allowed to stabilize. This will typically take from 30 minutes to 2 hours.",
+        "LM-79 gives detailed instructions for how the equipment to be used should be set-up, calibrated and used. In brief, LM-79 describes two main types of equipment that may be used:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Integrating Spheres",
+      "paragraphs": [],
+      "bullets": [
+        "Goniophotometers"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/04074fcc6288.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/aac055697616.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What is an Integrating Sphere?",
+      "paragraphs": [
+        "An integrating sphere is an instrument that measures the total luminous flux (lumen output) of an LED lamp or fixture. Most integrating spheres also measure a number of other optical characteristics of a lamp or luminaire, including the spectral power distribution – how the light radiation being emitted is distributed over the visible spectrum."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/85071c6d81b0.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What is a Goniophotometer?",
+      "paragraphs": [
+        "A goniophotometer measures the distribution of the light emitted by a lamp or light fitting. From that data they will also calculate the total luminous flux (the total light output) and some, depending on the sensors they use, can also measure the spectral composition of the light and how that varies at different positions around the device under test (DUT).",
+        "Goniophotometers vary substantially in their design, size and shape, from small desktop models to machines measuring 15-20m across. To ensure accuracy and consistency, LM-79 only permits the use of type C goniophotometers. In these, the DUT is held in one position and sensors rotate around it on different axes measuring the intensity of the light it is emitting every few degrees of rotation. In other types of goniophotometers (types A and B) one or more of the sensors will be stationary and the DUT will move in relation to them. This can give rise to inaccuracies because the movement of air round an LED light fitting will induce a cooling effect which in turn affects the performance of the LEDs. With type C goniophotometers this effect is minimised because the DUT is held stationery and only the sensors move.Goniophotometers vary substantially in their design, size and shape, from small desktop models to machines measuring 15-20m across. To ensure accuracy and consistency, LM-79 only permits the use of type C goniophotometers. In these, the DUT is held in one position and sensors rotate around it on different axes measuring the intensity of the light it is emitting every few degrees of rotation. In other types of goniophotometers (types A and B) one or more of the sensors will be stationary and the DUT will move in relation to them. This can give rise to inaccuracies because the movement of air round an LED light fitting will induce a cooling effect which in turn affects the performance of the LEDs. With type C goniophotometers this effect is minimised because the DUT is held stationery and only the sensors move."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/89383c9d6ffb.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "NABL Accredited Lab",
+      "paragraphs": [],
+      "bullets": [
+        "Attractive testing fees"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Expert Staff",
+      "paragraphs": [],
+      "bullets": [
+        "Timely completion of projects",
+        "Express testing facility available",
+        "Satisfied clients"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Accurate Equipments",
+      "paragraphs": [
+        "Website: <a href=\"/\">www.itcindia.org</a>",
+        "Email: info@itcindia.org, care@itcindia.org"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/bc497633c775.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/0f0c5a3c5d9d.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/2ab5fbb3acf7.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/04074fcc6288.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/aac055697616.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/85071c6d81b0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/89383c9d6ffb.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/bc497633c775.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/0f0c5a3c5d9d.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/2ab5fbb3acf7.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/04074fcc6288.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/aac055697616.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/85071c6d81b0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/optical-and-electrical-measurements-of-solid-state-lighting-as-per-lm79/89383c9d6ffb.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

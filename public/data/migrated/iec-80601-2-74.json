@@ -1,0 +1,338 @@
+{
+  "hero": "/images/page-heroes/iec-80601-2-74.webp",
+  "heroPortrait": "/images/page-heroes/iec-80601-2-74-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-80601-2-74-s1.webp",
+  "generatedMid": "/images/page-sections/iec-80601-2-74-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-80601-2-74-s1.webp",
+    "/images/page-sections/iec-80601-2-74-s2.webp",
+    "/images/page-sections/iec-80601-2-74-s3.webp",
+    "/images/page-sections/iec-80601-2-74-s4.webp",
+    "/images/page-sections/iec-80601-2-74-s5.webp",
+    "/images/page-sections/iec-80601-2-74-s6.webp",
+    "/images/page-sections/iec-80601-2-74-s7.webp",
+    "/images/page-sections/iec-80601-2-74-s8.webp",
+    "/images/page-sections/iec-80601-2-74-s9.webp",
+    "/images/page-sections/iec-80601-2-74-s10.webp",
+    "/images/page-sections/iec-80601-2-74-s11.webp",
+    "/images/page-sections/iec-80601-2-74-s12.webp",
+    "/images/page-sections/iec-80601-2-74-s13.webp",
+    "/images/page-sections/iec-80601-2-74-s14.webp",
+    "/images/page-sections/iec-80601-2-74-s15.webp",
+    "/images/page-sections/iec-80601-2-74-s16.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "1015 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-80601-2-74",
+  "path": "/iec-80601-2-74",
+  "source": "https://www.itcindia.org/iec-80601-2-74/",
+  "ok": true,
+  "title": "ISO 80601-2-74 Respiratory Humidifier Testing",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 80601-2-74 testing for respiratory humidifying equipment in India. Test safety, essential performance, EMC, alarms and accessories with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Respiratory humidifying equipment is used to add heat and moisture to gases delivered to patients during respiratory care. Because inappropriate temperature, humidity, electrical faults or equipment malfunction can create risks for patients, manufacturers need to evaluate both basic safety and essential performance before placing these products on the market.",
+        "ITC India provides ISO 80601-2-74 testing support for respiratory humidifying equipment and relevant accessories. The standard forms part of the wider medical electrical equipment safety framework and should be considered together with applicable <a href=\"/iec-60601-testing\">IEC 60601 testing requirements</a>.",
+        "The current edition is ISO 80601-2-74:2026, which specifies particular requirements for the basic safety and essential performance of respiratory humidifying equipment."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-80601-2-74/d801384cd21b.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is ISO 80601-2-74?",
+      "paragraphs": [
+        "ISO 80601-2-74 is a particular standard covering humidifiers used as medical electrical equipment in combination with their applicable accessories and systems.",
+        "The standard may also apply to accessories whose characteristics can influence the safety or essential performance of the humidifier. Examples can include heated breathing tubes and equipment used to control heated breathing tubes.",
+        "It also includes active heat and moisture exchanger equipment that actively adds heat and moisture to gas delivered to the patient. Passive heat and moisture exchangers are addressed separately under other standards.",
+        "Manufacturers should evaluate ISO 80601-2-74 together with the applicable general requirements of <a href=\"/iec-60601-1-testing\">IEC 60601-1 for medical electrical equipment</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Equipment Covered by ISO 80601-2-74",
+      "paragraphs": [
+        "Depending on product design and intended use, the standard can be relevant to respiratory humidifiers, heated humidification systems, humidifier accessories, heated breathing tubes and their controllers, active heat and moisture exchanger equipment, and other components that can affect the safety or essential performance of the humidification system.",
+        "Correct product classification is important before laboratory testing begins. Manufacturers should define the intended use, patient population, use environment, breathing-system configuration and accessories supplied with the product."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Key ISO 80601-2-74 Testing Requirements",
+      "paragraphs": [
+        "The exact test program depends on equipment design and configuration. Assessment can include requirements relating to:",
+        "The complete intended system configuration should be evaluated because accessories such as breathing tubes, temperature sensors and controllers can affect overall performance."
+      ],
+      "bullets": [
+        "Electrical safety and protection against electrical hazards",
+        "Excessive temperatures and thermal hazards",
+        "Accuracy of controls and protection against hazardous outputs",
+        "Humidification-related essential performance",
+        "Breathing-system connectors and ports",
+        "Breathing systems and associated accessories",
+        "Liquid containers and water-related safety",
+        "Functional connections",
+        "Mechanical hazards and construction",
+        "Abnormal and fault conditions",
+        "Alarm functions where applicable",
+        "Markings and accompanying documents",
+        "Electromagnetic compatibility",
+        "Usability requirements",
+        "Home healthcare use where applicable"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Electrical Safety Requirements",
+      "paragraphs": [
+        "Respiratory humidifiers that are medical electrical equipment must also satisfy applicable IEC 60601-1 requirements.",
+        "Electrical safety evaluation can include leakage current, dielectric strength, insulation, accessible parts, protective earthing where applicable, creepage and clearance considerations, component suitability and behaviour during relevant fault conditions.",
+        "Manufacturers requiring broader evaluation can review ITC India’s <a href=\"/electrical-safety-testing-for-medical-device\">electrical safety testing for medical devices</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Temperature and Humidification Performance",
+      "paragraphs": [
+        "Control of temperature and humidity is fundamental to the intended function of a respiratory humidifier. Excessive temperatures may create a risk of thermal injury, while inadequate humidification can affect intended respiratory therapy.",
+        "Testing therefore needs to consider the humidifier, sensors, water chamber, breathing circuit, controllers and applicable accessories as a system.",
+        "The manufacturer should define essential-performance limits and foreseeable hazardous situations through its product risk-management process before final compliance testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "EMC Testing for Respiratory Humidifiers",
+      "paragraphs": [
+        "Electronic humidifiers can operate near ventilators, patient monitors and other medical electrical equipment. Electromagnetic disturbances should not cause unacceptable degradation of safety or essential performance.",
+        "Applicable EMC requirements can be addressed through <a href=\"/iec-60601-1-2-emc-testing\">IEC 60601-1-2 EMC testing</a>.",
+        "Integrating EMC assessment with electrical safety and ISO 80601-2-74 testing can help manufacturers identify compliance problems earlier in product development."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Humidifiers Used With Ventilators",
+      "paragraphs": [
+        "Respiratory humidifiers are frequently used as part of respiratory-support systems. However, humidifier requirements and ventilator requirements are addressed by different particular standards.",
+        "Manufacturers developing equipment intended for use with intensive-care ventilation systems can also review ITC India’s <a href=\"/iec-80601-2-12-certification-for-critical-care-ventilators\">ISO 80601-2-12 testing for critical care ventilators</a>.",
+        "Where an accessory can influence the performance of both devices, the complete intended configuration should be considered when planning testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Software and Usability Considerations",
+      "paragraphs": [
+        "Modern humidifiers may use programmable electronics to control temperature, alarms, sensors and operating modes. Where software contributes to safety-related functions, manufacturers should also consider <a href=\"/iec-62304-medical-device-software-system-testing\">IEC 62304 medical device software requirements</a>.",
+        "User interaction is also important when healthcare professionals or home users fill water containers, connect breathing systems, set operating modes or respond to alarms. Relevant usability activities can therefore be supported through <a href=\"/usability-testing-of-medical-devices-iec-62366\">IEC 62366 usability testing</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Preparing Respiratory Humidifying Equipment for Testing",
+      "paragraphs": [
+        "Before testing, manufacturers should prepare product specifications, intended-use information, circuit diagrams, critical component details, humidification and temperature-control specifications, software information, alarm descriptions, risk-management documentation, accessories, user instructions and details of the intended breathing-system configuration.",
+        "Providing complete technical information helps establish the correct test scope and reduces delays caused by incomplete configurations."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ISO 80601-2-74 Testing Support from ITC India",
+      "paragraphs": [
+        "ITC India supports manufacturers of medical electrical and respiratory equipment with safety, performance and EMC testing against applicable standards.",
+        "To discuss your respiratory humidifier, heated breathing system or related accessory, submit the product details through the <a href=\"/contact-us/inquiry\">ITC India testing and certification inquiry</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is ISO 80601-2-74?",
+      "paragraphs": [
+        "ISO 80601-2-74 specifies particular basic safety and essential-performance requirements for respiratory humidifying equipment and applicable accessories."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current version of ISO 80601-2-74?",
+      "paragraphs": [
+        "The current published standard is ISO 80601-2-74:2026, Edition 3. The previous 2021 edition has been withdrawn."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is it IEC 80601-2-74 or ISO 80601-2-74?",
+      "paragraphs": [
+        "The official current designation is ISO 80601-2-74. “IEC 80601-2-74” may still be used as a search phrase because the standard relates closely to the IEC 60601 medical electrical equipment framework."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does ISO 80601-2-74 cover heated breathing tubes?",
+      "paragraphs": [
+        "It can apply to heated breathing tubes and their controllers when those accessories affect the basic safety or essential performance of the humidifier system."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does ISO 80601-2-74 cover passive heat and moisture exchangers?",
+      "paragraphs": [
+        "No. The standard includes active HME equipment that actively adds heat and moisture, while passive HMEs are covered by separate standards."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Does respiratory humidifying equipment also require EMC testing?",
+      "paragraphs": [
+        "Applicable medical electrical equipment may also require electromagnetic compatibility evaluation, commonly under IEC 60601-1-2."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-80601-2-74/d801384cd21b.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-80601-2-74/d801384cd21b.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

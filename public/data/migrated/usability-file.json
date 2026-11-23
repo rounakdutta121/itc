@@ -1,0 +1,307 @@
+{
+  "hero": "/images/page-heroes/usability-file.webp",
+  "heroPortrait": "/images/page-heroes/usability-file-portrait.webp",
+  "generatedIntro": "/images/page-sections/usability-file-s1.webp",
+  "generatedMid": "/images/page-sections/usability-file-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/usability-file-s1.webp",
+    "/images/page-sections/usability-file-s2.webp",
+    "/images/page-sections/usability-file-s3.webp",
+    "/images/page-sections/usability-file-s4.webp",
+    "/images/page-sections/usability-file-s5.webp",
+    "/images/page-sections/usability-file-s6.webp",
+    "/images/page-sections/usability-file-s7.webp",
+    "/images/page-sections/usability-file-s8.webp",
+    "/images/page-sections/usability-file-s9.webp",
+    "/images/page-sections/usability-file-s10.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "0 / 6 | 437 | no meta, 8 img no alt | KEEP – add meta",
+  "slug": "usability-file",
+  "path": "/usability-file",
+  "source": "https://www.itcindia.org/usability-file/",
+  "ok": true,
+  "title": "Usability File - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "What is Usability File? Term ‘usability` is “a multi-dimensional quality that refers to the ability of a human to interact easily and relatively error-free with a system or product.” Therefore, throughout time, terms such as ‘user-friendly’ or ‘intuitive’ have become connected to the concept of usability. It also indicates that a system should work the…Read More+",
+  "sections": [
+    {
+      "heading": "What is Usability File?",
+      "paragraphs": [
+        "Term ‘usability` is “a multi-dimensional quality that refers to the ability of a human to interact easily and relatively error-free with a system or product.” Therefore, throughout time, terms such as ‘user-friendly’ or ‘intuitive’ have become connected to the concept of usability. It also indicates that a system should work the way users expect it to. When it comes to healthcare and medical devices, usability has a great impact on it. If a medical device is lacking usability, there is a higher possibility that errors occur, or the use of the device might be slower, i.e. not as intended. Consequently, delivery of therapy may suffer or lack completely and patient safety may be in danger."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are human factors & usability?",
+      "paragraphs": [
+        "Human factors: “…the application of knowledge about human capabilities (physical, sensory, emotional, and intellectual) and limitations to the design and development of tools, devices, systems, environments, and organizations….”",
+        "Usability: “Characteristic of the USER INTERFACE that establishes EFFECTIVENESS, EFFICIENCY, ease of USER learning and USER satisfaction” (ISO/IEC 62366:2007)."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why is FDA Concerned about HF?",
+      "paragraphs": [],
+      "bullets": [
+        "Device safety",
+        "Device effectiveness"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Ergonomics and “Hedonomics”",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/usability-file/8fb9a912931a.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Device-User Interface",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/usability-file/526347427c84.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Transdermal Patch Products",
+      "paragraphs": [],
+      "bullets": [
+        "Original user instructions: where to apply patch",
+        "Revised user instructions: where to apply patch"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/usability-file/330f03ff7ad6.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/usability-file/3c048e811c6c.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Quality System regulation:",
+      "paragraphs": [],
+      "bullets": [
+        "Design Controls -The need for human factors is implied:",
+        "Design input – includes “needs of the user and patient”",
+        "Design verification – performance criteria met",
+        "Design validation – “… devices conform to defined user needs and intended uses and shall include testing of production units under actual or simulated use conditions. Design validation shall include software validation and risk analysis….” [incl. use‐related risks]."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "User and Patient Needs",
+      "paragraphs": [
+        "Users can operate the device without injury or negative clinical consequences to either the user or the patient",
+        "Relative to device effectiveness",
+        "Users can operate the device successfully for the intended uses"
+      ],
+      "bullets": [
+        "Potential use errors and failures have been eliminated or limited to the extent possible through appropriate application of human factors methods"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "AAMI/ANSI HE75:2009",
+      "paragraphs": [
+        "General considerations and principles",
+        "Design elements",
+        "Integrated solutions"
+      ],
+      "bullets": [
+        "Managing the risk of use error",
+        "Usability testing",
+        "Controls",
+        "Software",
+        "Mobile medical devices",
+        "Home health care"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ISO/IEC 62366:2007",
+      "paragraphs": [
+        "Medical devices – Application of usability engineering to medical devices",
+        "Note: Currently undergoing revision"
+      ],
+      "bullets": [
+        "Usability engineering process",
+        "Accompanying document",
+        "Training"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "ANSI/AAMI/ISO 14971:2007",
+      "paragraphs": [
+        "Medical devices – Application of risk management to medical devices"
+      ],
+      "bullets": [
+        "Risk management",
+        "Risk analysis",
+        "Risk evaluation",
+        "Evaluation of overall residual risk acceptability"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/usability-file/8fb9a912931a.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/usability-file/526347427c84.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/usability-file/330f03ff7ad6.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/usability-file/3c048e811c6c.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/usability-file/8fb9a912931a.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/usability-file/526347427c84.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/usability-file/330f03ff7ad6.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/usability-file/3c048e811c6c.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

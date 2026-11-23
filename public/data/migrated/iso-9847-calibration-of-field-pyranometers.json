@@ -1,0 +1,68 @@
+{
+  "hero": "/images/page-heroes/iso-9847-calibration-of-field-pyranometers.webp",
+  "heroPortrait": "/images/page-heroes/iso-9847-calibration-of-field-pyranometers-portrait.webp",
+  "generatedIntro": "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s1.webp",
+  "generatedMid": "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s1.webp",
+    "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s2.webp",
+    "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s3.webp",
+    "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s4.webp",
+    "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s5.webp",
+    "/images/page-sections/iso-9847-calibration-of-field-pyranometers-s6.webp"
+  ],
+  "category": "calibration",
+  "action": "EXPAND",
+  "note": "263 | no meta, thin | LOW: expand; link to pyranometer hub",
+  "slug": "iso-9847-calibration-of-field-pyranometers",
+  "path": "/iso-9847-calibration-of-field-pyranometers",
+  "source": "https://www.itcindia.org/iso-9847-calibration-of-field-pyranometers/",
+  "ok": true,
+  "title": "ISO 9847 Calibration of Field Pyranometers - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ISO 9847 Calibration of Field Pyranometers by Comparison to a Reference Pyranometer. Are you looking for your pyranometer to be calibrated, ITC India Pvt Ltd has the facility to calibrate thermopile pyranometer at Lab and onsight. You are most welcome in ITC India Pvt Ltd for Pyranometer calibration. Either you can send the Pyranometer in the Lab or onsight…Read More+",
+  "sections": [
+    {
+      "heading": "ISO 9847 Calibration of Field Pyranometers by Comparison to a Reference Pyranometer.",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iso-9847-calibration-of-field-pyranometers/9d290e62bc58.webp",
+          "alt": "ISO 9847 Calibration of Field Pyranometers"
+        }
+      ]
+    },
+    {
+      "heading": "ISO 9847 Calibration of Field Pyranometers",
+      "paragraphs": [
+        "Are you looking for your pyranometer to be calibrated, ITC India Pvt Ltd has the facility to calibrate thermopile pyranometer at Lab and onsight. You are most welcome in ITC India Pvt Ltd for Pyranometer calibration. Either you can send the Pyranometer in the Lab or onsight calibration can be facilitated. Write to us at info@itcindia.org URL www.itcindi.org",
+        "The calibration method is performed by our highly trained engineers and complies with type IIc Direct beam <a href=\"/calibration-of-pyranometer\">calibration of pyranometer</a> as per international standard ISO 9847.",
+        "Indoor calibration of field pyranometer is better as compared to outdoor in the following ways.",
+        "The precision of the outdoor determination of the calibration factor of a field pyranometer is particularly dependent on sky conditions and solar elevation when performing measurements at low angles. Repeatability within any 21 points or more set of values of the same test scan performed at or near solar noon under stable irradiance conditions should be less than ± 0.5 % of the calibrated value of the instrument. If this requirement cannot be met, indoor calibration should be considered",
+        "To maintain performance, recalibration is usually recommended every two years, and a high-quality water-proof connector for the signal cable greatly simplifies the process."
+      ],
+      "bullets": [
+        "User control of test conditions",
+        "Results are independent of outdoor conditions",
+        "User convenience"
+      ],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iso-9847-calibration-of-field-pyranometers/9d290e62bc58.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iso-9847-calibration-of-field-pyranometers/9d290e62bc58.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}

@@ -1,0 +1,213 @@
+{
+  "hero": "/images/page-heroes/iec-60269-general-rules-low-voltage-power-fuses.webp",
+  "heroPortrait": "/images/page-heroes/iec-60269-general-rules-low-voltage-power-fuses-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s1.webp",
+    "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s2.webp",
+    "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s3.webp",
+    "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s4.webp",
+    "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s5.webp",
+    "/images/page-sections/iec-60269-general-rules-low-voltage-power-fuses-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "ADD",
+  "note": "585 | no H2 | LOW: add H2s, FAQ, links",
+  "slug": "iec-60269-general-rules-low-voltage-power-fuses",
+  "path": "/iec-60269-general-rules-low-voltage-power-fuses",
+  "source": "https://www.itcindia.org/iec-60269-general-rules-low-voltage-power-fuses/",
+  "ok": true,
+  "title": "IEC 60269 General Rules Low-voltage power fuses",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "ITC India pvt ltd is dominant company focusing on testing and certification. It diversify its testing in electrical & electronics products and luminaries",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India pvt ltd is dominant company focusing on testing and certification. It diversify its testing in electrical & electronics products and luminaries. It is located in Mohali ( Punjab) with spacious accommodation. Unambiguous equipments and skilled engineers are appointed for testing your products. It is an accredited lab from National Borad of For any query regarding testing ring at 9316473033 or write at info@itcindia.org , b.vig@itcindia.org & care@itcindia.org .",
+        "IEC 60269 General Rules Low-voltage power fuses",
+        "IEC 60269 is a array of standards for low voltage power fuses used for industrial and commercial use, residential use, for semiconductor devices. It is diversify as follows:",
+        "Scope",
+        "IEC 60269 is a relevant to fuses including enclosed current-limiting fuse-links with rated breaking capacities of not less than 6 kA, deliberated for protecting power-frequency a.c. circuits of nominal voltages not exceeding 1000 V or d.c. circuits of nominal voltages not exceeding 1500 V.",
+        "Fuse-links intended to be included in fuse-switch combinations according to IEC 60947-3 should also comply with the following requirements. The object of this standard is to establish the characteristics of fuses or parts of fuses (fuse base, fuse-carrier, fuse-link) in such a way that they can be replaced by other fuses or parts of fuses having the same features given that they are replaceable as far as their dimensions are agitated."
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "S.No",
+            "Standrad",
+            "Title"
+          ],
+          "rows": [
+            [
+              "1",
+              "IEC 60269-1",
+              "Low-voltage fuses – Part 1: General requirements"
+            ],
+            [
+              "2",
+              "IEC 60269-2",
+              "Low-voltage fuses – Part 2: Supplementary requirements for fuses for use by authorized persons (fuses mainly for industrial application)"
+            ],
+            [
+              "3",
+              "IEC 60269-3",
+              "Low-voltage fuses – Part 3: Supplementary requirements for fuses for use by unskilled persons (fuses mainly for household and similar applications)"
+            ],
+            [
+              "4",
+              "IEC 60269-4",
+              "Low-voltage fuses – Part 4: Supplementary requirements for fuse-links for the protection of semiconductor devices"
+            ],
+            [
+              "5",
+              "IEC 60269-5",
+              "Low-voltage fuses – Part 5: Guidance for the application of low-voltage fuses"
+            ],
+            [
+              "6",
+              "IEC 60269-6",
+              "Low-voltage fuses – Part 6: Supplementary requirements for fuse-links for the protection of solar photovoltaic energy systems"
+            ]
+          ]
+        },
+        {
+          "headers": [
+            "Test to be performed as per this standard are as follows:"
+          ],
+          "rows": [
+            [
+              "1.",
+              "Classification"
+            ],
+            [
+              "2",
+              "Mechanical design"
+            ],
+            [
+              "3",
+              "Insulating properties"
+            ],
+            [
+              "4",
+              "Temperature rise test"
+            ],
+            [
+              "5",
+              "Breaking capacity"
+            ],
+            [
+              "6",
+              "Protection against Electric shock"
+            ],
+            [
+              "7",
+              "Over current discrimination of fuse link"
+            ],
+            [
+              "8",
+              "Cut off current characteristics"
+            ],
+            [
+              "9",
+              "Resistance to heat"
+            ],
+            [
+              "10",
+              "Mechanical strength"
+            ],
+            [
+              "11",
+              "Resistance to corrosion"
+            ],
+            [
+              "12",
+              "Resistance to abnormal heat and fire"
+            ],
+            [
+              "13",
+              "EMC tests"
+            ],
+            [
+              "14",
+              "I2t characteristics"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Application category & time current characteristics",
+      "paragraphs": [
+        "Application category & time current characteristics",
+        "The application category is of 2 digit code.",
+        "The first letter is “a” for short circuit protection fuse only, and",
+        "The first letter is “g” for fuse is intended to operate even with currents as low as those that cause it to blow in one hour.",
+        "The second letter depict the kind of equipment to be protected."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/9e50db473b7e.webp",
+          "alt": "Application category & time current characteristics"
+        }
+      ]
+    },
+    {
+      "heading": "For example",
+      "paragraphs": [
+        "M –motor, G =general protection for wire and cables., Tr – treansformer.",
+        "Types of fuses",
+        "D(diazed) type fuse"
+      ],
+      "bullets": [
+        "D(diazed) type fuse: They have ceramic body in shape of a bottle with metal cap ends fitted in screw-in fuse holder. They are available in five sizes D I(Swiss), D I (NDz), D II, D III, D IV, D **** D1 and DV are not tested as per IEC 60269.",
+        "NH Fuses: They have blade style terminals with oblong body. They are generally used in electrical substations , junction box and distribution board."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/2f274a7b8d5b.webp",
+          "alt": "D(diazed) type fuse"
+        },
+        {
+          "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/c73fc08d287d.webp",
+          "alt": "NH Fuses"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/9e50db473b7e.webp",
+      "alt": "Application category & time current characteristics"
+    },
+    {
+      "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/2f274a7b8d5b.webp",
+      "alt": "D(diazed) type fuse"
+    },
+    {
+      "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/c73fc08d287d.webp",
+      "alt": "NH Fuses"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/9e50db473b7e.webp",
+      "alt": "Application category & time current characteristics"
+    },
+    {
+      "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/2f274a7b8d5b.webp",
+      "alt": "D(diazed) type fuse"
+    },
+    {
+      "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/c73fc08d287d.webp",
+      "alt": "NH Fuses"
+    }
+  ],
+  "relatedLinks": []
+}

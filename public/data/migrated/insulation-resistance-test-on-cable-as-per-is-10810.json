@@ -1,0 +1,163 @@
+{
+  "hero": "/images/page-heroes/insulation-resistance-test-on-cable-as-per-is-10810.webp",
+  "heroPortrait": "/images/page-heroes/insulation-resistance-test-on-cable-as-per-is-10810-portrait.webp",
+  "generatedIntro": "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s1.webp",
+  "generatedMid": "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s1.webp",
+    "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s2.webp",
+    "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s3.webp",
+    "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s4.webp",
+    "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s5.webp",
+    "/images/page-sections/insulation-resistance-test-on-cable-as-per-is-10810-s6.webp"
+  ],
+  "category": "mechanical",
+  "action": "EXPAND",
+  "note": "13 / 22 | 350 | few links | EXPAND + CTR FIX – 350 words, ranks #6",
+  "slug": "insulation-resistance-test-on-cable-as-per-is-10810",
+  "path": "/insulation-resistance-test-on-cable-as-per-is-10810",
+  "source": "https://www.itcindia.org/insulation-resistance-test-on-cable-as-per-is-10810/",
+  "ok": true,
+  "title": "Insulation Resistance Test on Cable as per IS 10810 - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Insulation Resistance Test on Cable as per IS 10810 is an important way to ensure the safety of electrical systems.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Insulation Resistance Testing is an all-purpose electrical safety test, which has been created to protect all kinds of cables. Follow the installer guide in this article to determine if your wires have insulation that should be replaced or repaired."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is Insulation Resistance?",
+      "paragraphs": [
+        "1. Insulation Resistance is the resistance of the insulation to the flow of current. The higher the insulation resistance, the better the insulation.",
+        "2. The insulation resistance test is used to determine the quality of the insulation on electrical cables. This test is usually performed with a portable device called an insulation tester.",
+        "3. The insulation tester sends a small amount of current through the cable insulation. The level of current flow is then measured.",
+        "4. The results of the test are used to calculate the insulation resistance of the cable. The insulation resistance is usually expressed in Ohms.",
+        "5. The insulation resistance test is an important tool for quality control in the manufacture of electrical cables"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Insulation Resistance test on cable",
+      "paragraphs": [
+        "Insulation Resistance Test on Cable as per IS 10810 is an important way to ensure the safety of electrical systems. This test measures the resistance of the insulation around a cable to an electric current. The insulation resistance test is usually performed with a device called a megger.",
+        "If the insulation resistance of a cable is too low, it means that there is a risk of the cable shorting out or causing an electrical shock. That’s why it’s important to make sure that the insulation around cables is in a good condition and has a high resistance.",
+        "There are many factors that can affect the results of an insulation resistance test. That’s why it’s important to follow the instructions in the standard (IS) when performing this test.",
+        "Overall, the insulation resistance test is a valuable tool for ensuring the safety of electrical systems. It helps to identify cables that may be at risk of shorting out or causing an electrical shock.",
+        "Introduction of IS 10810 standard",
+        "Purpose of the standard",
+        "Standardization of the test and procedures"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [],
+  "scrapedImages": [],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

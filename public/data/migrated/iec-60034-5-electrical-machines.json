@@ -1,0 +1,243 @@
+{
+  "hero": "/images/page-heroes/iec-60034-5-electrical-machines.webp",
+  "heroPortrait": "/images/page-heroes/iec-60034-5-electrical-machines-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60034-5-electrical-machines-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60034-5-electrical-machines-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60034-5-electrical-machines-s1.webp",
+    "/images/page-sections/iec-60034-5-electrical-machines-s2.webp",
+    "/images/page-sections/iec-60034-5-electrical-machines-s3.webp",
+    "/images/page-sections/iec-60034-5-electrical-machines-s4.webp",
+    "/images/page-sections/iec-60034-5-electrical-machines-s5.webp",
+    "/images/page-sections/iec-60034-5-electrical-machines-s6.webp"
+  ],
+  "category": "electrical",
+  "action": "EXPAND",
+  "note": "10 / 1 | 265 | long title, thin, 6 img no alt | EXPAND – 265 words, ranks #1/#15",
+  "slug": "iec-60034-5-electrical-machines",
+  "path": "/iec-60034-5-electrical-machines",
+  "source": "https://www.itcindia.org/iec-60034-5-electrical-machines/",
+  "ok": true,
+  "title": "IEC 60034-5 – Electrical Machines Safety & Protection",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60034-5 standard is for electrical machines covering protection, insulation, and operational safety. Expert consulting from ITC India.",
+  "sections": [
+    {
+      "heading": "IEC 60034-5 is a key international standard for rotating electrical machines, focusing on insulation, protection, and operational safety. Compliance ensures motors and generators operate reliably and safely in industrial, commercial, and energy applications.",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60034-5-electrical-machines/10bacac50aae.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Get IEC Compliance Guidance",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60034-5-electrical-machines/4fc705217a0c.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What is IEC 60034-5?",
+      "paragraphs": [
+        "Part of the IEC 60034 series, IEC 60034-5 defines thermal insulation classes, temperature limits, and protection measures for electrical machines. Following this standard is crucial for safety, longevity, and regulatory approval."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEEE Standards on Electrical Machines",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60034-5-electrical-machines/1c353952312a.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Key Features of IEC 60034-5",
+      "paragraphs": [],
+      "bullets": [
+        "Insulation Classes: Defines A, B, F, H for safe operating temperatures.",
+        "Temperature Limits: Specifies allowable temperature rises for stator, rotor, and bearings.",
+        "Protection Measures: Guidelines against moisture, dust, and electrical overloads.",
+        "Application Scope: Applies to AC & DC motors, generators, and industrial rotating machines."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Benefits of Compliance",
+      "paragraphs": [],
+      "bullets": [
+        "Enhanced safety against fire and electrical hazards",
+        "Extended equipment life and reduced maintenance costs",
+        "Global regulatory approval for international markets",
+        "Improved operational efficiency and reduced downtime"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60034-5 Implementation Guide",
+      "paragraphs": [],
+      "bullets": [
+        "Identify the insulation class suitable for your application.",
+        "Measure temperature rises during operation.",
+        "Apply protective measures such as thermal sensors, enclosures, or overload protection.",
+        "Document compliance for regulatory audits.",
+        "Consult IEC 60034-1 and IEC 60034-30 for motor efficiency guidance."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Conclusion",
+      "paragraphs": [
+        "Compliance with IEC 60034-5 ensures safety, reliability, and longevity of rotating electrical machines. At ITC India, we provide consultancy and compliance services to help manufacturers and engineers meet international standards efficiently."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60034-5-electrical-machines/10bacac50aae.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60034-5-electrical-machines/4fc705217a0c.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60034-5-electrical-machines/1c353952312a.jpg",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60034-5-electrical-machines/10bacac50aae.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60034-5-electrical-machines/4fc705217a0c.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/iec-60034-5-electrical-machines/1c353952312a.jpg",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

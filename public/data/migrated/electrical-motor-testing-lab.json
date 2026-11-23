@@ -1,0 +1,224 @@
+{
+  "hero": "/images/page-heroes/electrical-motor-testing-lab.webp",
+  "heroPortrait": "/images/page-heroes/electrical-motor-testing-lab-portrait.webp",
+  "generatedIntro": "/images/page-sections/electrical-motor-testing-lab-s1.webp",
+  "generatedMid": "/images/page-sections/electrical-motor-testing-lab-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/electrical-motor-testing-lab-s1.webp",
+    "/images/page-sections/electrical-motor-testing-lab-s2.webp",
+    "/images/page-sections/electrical-motor-testing-lab-s3.webp",
+    "/images/page-sections/electrical-motor-testing-lab-s4.webp",
+    "/images/page-sections/electrical-motor-testing-lab-s5.webp",
+    "/images/page-sections/electrical-motor-testing-lab-s6.webp"
+  ],
+  "category": "mechanical",
+  "action": "EXPAND",
+  "note": "0 / 6 | 224 | no meta, thin, 2 img no alt, few links | EXPAND – keep text, add 400+ words",
+  "slug": "electrical-motor-testing-lab",
+  "path": "/electrical-motor-testing-lab",
+  "source": "https://www.itcindia.org/electrical-motor-testing-lab/",
+  "ok": true,
+  "title": "Electrical Motor Testing - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Safety Testing for Electrical Motors as per IEC 60034-1 IEC 60034 is applicable to all rotating electrical machines for safety testing.Thank you for reading this post, don't forget to subscribe! Why We Require IEC Tested Motors? Electrical motors are responsible for 50% of global electricity use in the survey. IEC standards has contributed to the…Read More+",
+  "sections": [
+    {
+      "heading": "Safety Testing for Electrical Motors as per IEC 60034-1",
+      "paragraphs": [
+        "IEC 60034 is applicable to all rotating electrical machines for safety testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Why We Require IEC Tested Motors?",
+      "paragraphs": [],
+      "bullets": [
+        "Electrical motors are responsible for 50% of global electricity use in the survey.",
+        "IEC standards has contributed to the development of energy-efficient electric motor systems through the internationally relevant test Standard like IEC 60034-1, IEC 60034-2-1 and IEC 60034-30-1 etc.",
+        "It helps to find the faults in motors in normal and abnormal conditions."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IE3 Premium Efficiency",
+      "paragraphs": [],
+      "bullets": [
+        "IE4 Super-premium Efficiency."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What are the benefits of Testing?",
+      "paragraphs": [],
+      "bullets": [
+        "Increase the life of the motor.",
+        "Save money & save energy as well",
+        "Provide faith in the product",
+        "Improve the safety of the product"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/electrical-motor-testing-lab/8b5447ef9c54.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Standards for Motor Testing",
+      "paragraphs": [
+        "Partial list of all particular standards for motors:"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "IEC 60034-1",
+            "Rotating electrical machines – Part 1: Rating and performance"
+          ],
+          "rows": [
+            [
+              "IEC 60034-2-1",
+              "Rotating electrical machines – Part 2-1:Standard methods for determining losses and efficiency from tests (excluding machines for traction vehicles)"
+            ],
+            [
+              "IEC 60034-2-2",
+              "Rotating electrical machines – Part 2-2: Specific methods for determining separate losses of large machines from tests"
+            ],
+            [
+              "IS 325 :1996",
+              "Three Phase induction motors"
+            ],
+            [
+              "IS : 996-1979",
+              "Single phase small AC and universal electric motors"
+            ],
+            [
+              "IS : 7538-1996",
+              "Three phase squirrel cage induction motors for centrifugal pumps for agricultural applications"
+            ],
+            [
+              "IS : 9283-1995",
+              "Motors for submersible pumpsets"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/electrical-motor-testing-lab/8b5447ef9c54.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/electrical-motor-testing-lab/8b5447ef9c54.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

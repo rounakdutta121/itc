@@ -1,0 +1,316 @@
+{
+  "hero": "/images/page-heroes/iec-60068-2-6-vibration-testing-2-2.webp",
+  "heroPortrait": "/images/page-heroes/iec-60068-2-6-vibration-testing-2-2-portrait.webp",
+  "generatedIntro": "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s1.webp",
+  "generatedMid": "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s1.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s2.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s3.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s4.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s5.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s6.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s7.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s8.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s9.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s10.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s11.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s12.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s13.webp",
+    "/images/page-sections/iec-60068-2-6-vibration-testing-2-2-s14.webp"
+  ],
+  "category": "mechanical",
+  "action": "ADD",
+  "note": "880 | 2 img no alt | KEEP – add FAQ schema",
+  "slug": "iec-60068-2-6-vibration-testing-2-2",
+  "path": "/iec-60068-2-6-vibration-testing-2-2",
+  "source": "https://www.itcindia.org/iec-60068-2-6-vibration-testing-2-2/",
+  "ok": true,
+  "title": "IEC 60068-2-6 Vibration Testing Lab India",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "IEC 60068-2-6 vibration testing in India for electrical and electronic equipment. Evaluate products against sinusoidal vibration Test Fc with ITC India.",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Electrical, electronic and mechanical products can experience vibration during transportation, installation and normal operation. Continuous vibration can loosen fasteners, damage electrical connections, create structural fatigue and reduce equipment performance.",
+        "ITC India provides IEC 60068-2-6 vibration testing in India for manufacturers and product developers who need to evaluate equipment under controlled sinusoidal vibration conditions. IEC 60068-2-6 defines Test Fc: Vibration (sinusoidal) and provides a standardized method for determining whether components, equipment and other test specimens can withstand specified vibration severities.",
+        "For manufacturers requiring a wider mechanical test programme, ITC India also provides comprehensive <a href=\"/vibration-testing\">Vibration Testing Laboratory services</a> for electrical, electronic, industrial, automotive and defence-related products."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/iec-60068-2-6-vibration-testing-2-2/50d9de2aef9d.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "What Is IEC 60068-2-6 Test Fc?",
+      "paragraphs": [
+        "IEC 60068-2-6 is part of the IEC 60068 environmental testing series. The test applies controlled sinusoidal vibration to a specimen over defined frequencies and vibration levels.",
+        "The purpose is to determine whether vibration causes mechanical weakness, deterioration or unacceptable changes in product performance. Testing can also be used to investigate the dynamic behaviour and mechanical robustness of a product.",
+        "IEC currently lists IEC 60068-2-6:2007 as the applicable international publication.",
+        "Manufacturers requiring several environmental tests can review ITC India’s broader <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 Environmental Testing</a> services."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Parameters Used in IEC 60068-2-6 Testing",
+      "paragraphs": [
+        "An IEC 60068-2-6 test programme is not defined by one universal vibration level. The applicable product specification determines the severity and test parameters."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Important parameters can include",
+      "paragraphs": [
+        "The specimen should be mounted in a manner representative of its intended installation where required by the applicable specification.",
+        "Providing these parameters before testing helps the laboratory select the appropriate vibration system, fixture and monitoring arrangement."
+      ],
+      "bullets": [
+        "Frequency range",
+        "Vibration amplitude",
+        "Displacement",
+        "Acceleration",
+        "Sweep rate",
+        "Number of sweep cycles",
+        "Test duration",
+        "Test axes",
+        "Operating or non-operating condition",
+        "Specimen mounting arrangement",
+        "Functional monitoring requirements",
+        "Acceptance criteria"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What Problems Can Sine Vibration Testing Identify?",
+      "paragraphs": [
+        "Sinusoidal vibration testing can help identify weaknesses that may not appear during normal functional testing.",
+        "Potential problems include loose connectors, broken solder joints, cracked components, damaged circuit boards, fastener loosening, structural resonance, mounting failures, wire fatigue and deterioration of functional performance.",
+        "Where required, testing can include functional checks before, during or after exposure to determine whether the equipment continues to meet specified operating requirements.",
+        "Finding these issues during product development gives manufacturers an opportunity to improve mounting arrangements, structural design, component retention and mechanical robustness before production."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Sine Vibration vs Random Vibration Testing",
+      "paragraphs": [
+        "IEC 60068-2-6 specifically addresses sinusoidal vibration. It should not be confused with broadband random vibration testing.",
+        "Sinusoidal testing uses controlled vibration at defined frequencies and is useful for assessing response to periodic vibration and identifying frequency-dependent weaknesses.",
+        "Random vibration contains energy across a range of frequencies simultaneously and may better represent certain transportation, aerospace or vehicle environments. IEC 60068-2-64 is commonly referenced for broadband random vibration.",
+        "The correct test should therefore be selected according to the product specification and expected real-world environment rather than using sine and random vibration testing interchangeably."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068-2-6 and Other Vibration Standards",
+      "paragraphs": [
+        "Different industries can specify different vibration methods.",
+        "Defence and rugged equipment may require <a href=\"/vibration-testing/mil-std-810h\">MIL-STD-810H Vibration and Shock Testing</a>, while railway equipment can require <a href=\"/vibration-testing/iec-61373\">IEC 61373 vibration and shock testing</a>.",
+        "Indian defence procurement specifications may also require environmental qualification under <a href=\"/jss-55555\">JSS 55555 testing</a>.",
+        "These standards are not interchangeable. Test profiles, severities, mounting conditions and acceptance requirements should be determined from the applicable product or procurement specification."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "IEC 60068 Environmental Qualification",
+      "paragraphs": [
+        "Vibration is often only one part of an environmental qualification programme. Products may also encounter high and low temperatures, humidity, thermal cycling, mechanical shock, dust, water or solar exposure during their service life.",
+        "ITC India’s <a href=\"/environmental-testing-services\">Environmental Testing Laboratory</a> services can support manufacturers requiring combinations of vibration, climatic and other environmental tests.",
+        "Planning related tests as one qualification programme helps ensure that specimen configuration and acceptance criteria remain consistent throughout evaluation."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Information Required Before Vibration Testing",
+      "paragraphs": [
+        "Manufacturers should provide the product dimensions and weight, applicable standard and edition, required frequency range, vibration severity, number of axes, test duration, mounting information and operating condition.",
+        "Where available, the product specification, customer test plan or procurement document should also be supplied.",
+        "For IEC 60068-2-6 sine vibration testing in India, submit the product details and required test conditions through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is IEC 60068-2-6?",
+      "paragraphs": [
+        "IEC 60068-2-6 specifies Test Fc, a standardized sinusoidal vibration test for evaluating components, equipment and other specimens against defined vibration severities."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is the current edition of IEC 60068-2-6?",
+      "paragraphs": [
+        "IEC currently lists IEC 60068-2-6:2007, Edition 7.0. The edition specified by the customer, certification body or procurement document should still be confirmed before testing."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Is IEC 60068-2-6 a random vibration test?",
+      "paragraphs": [
+        "No. IEC 60068-2-6 covers sinusoidal vibration. Broadband random vibration is addressed separately by IEC 60068-2-64."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What products can be tested to IEC 60068-2-6?",
+      "paragraphs": [
+        "The method can be applied to electrical and electronic equipment, components, industrial products, control equipment and other products where sinusoidal vibration resistance needs to be evaluated."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Which vibration parameters are required before testing?",
+      "paragraphs": [
+        "Typical information includes frequency range, amplitude or acceleration, sweep rate, duration, number of axes, mounting arrangement and required functional monitoring."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Can ITC India perform related environmental tests?",
+      "paragraphs": [
+        "ITC India provides vibration and broader environmental testing support for applicable products, including climatic, shock and other environmental evaluations according to the required standard."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/iec-60068-2-6-vibration-testing-2-2/50d9de2aef9d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/iec-60068-2-6-vibration-testing-2-2/50d9de2aef9d.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

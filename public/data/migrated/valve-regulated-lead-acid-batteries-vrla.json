@@ -1,0 +1,122 @@
+{
+  "hero": "/images/page-heroes/valve-regulated-lead-acid-batteries-vrla.webp",
+  "heroPortrait": "/images/page-heroes/valve-regulated-lead-acid-batteries-vrla-portrait.webp",
+  "generatedIntro": "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s1.webp",
+  "generatedMid": "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s2.webp",
+  "generatedSections": [
+    "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s1.webp",
+    "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s2.webp",
+    "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s3.webp",
+    "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s4.webp",
+    "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s5.webp",
+    "/images/page-sections/valve-regulated-lead-acid-batteries-vrla-s6.webp"
+  ],
+  "category": "battery",
+  "action": "EXPAND",
+  "note": "0 / 16 | 363 | no meta, no H2 | EXPAND – \"vrla battery\" 3,600/mo (pos 64)",
+  "slug": "valve-regulated-lead-acid-batteries-vrla",
+  "path": "/valve-regulated-lead-acid-batteries-vrla",
+  "source": "https://www.itcindia.org/valve-regulated-lead-acid-batteries-vrla/",
+  "ok": true,
+  "title": "Valve Regulated Lead Acid Batteries (VRLA) - Electrical Safety Testing Laboratory",
+  "h1": "Electrical Safety Testing Laboratory",
+  "description": "Valve regulated Lead Acid Batteries (VRLA) or Sealed Lead Acid (SLA)Thank you for reading this post, don't forget to subscribe! ITC India pvt ltd is a NABL / BIS approved test lab and is testing all kinds of batteries as per IEC/ IS and EN standards. Get your batteries tested and enhance your business by getting…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Valve regulated Lead Acid Batteries (VRLA) or Sealed Lead Acid (SLA)",
+        "ITC India pvt ltd is a NABL / BIS approved test lab and is testing all kinds of batteries as per IEC/ IS and EN standards. Get your batteries tested and enhance your business by getting a valid test report IS 15549. As the use of VRLA batteries is increasing in application like SLI, Motive power, Electric vehicle, they are definitely going to dominate others. For more information email info@itcindia.org.",
+        "VRLA batteries are designed for UPS and for backup of telecommunication systems. This construction is designed to prevent electrolyte evaporation, spillage and gassing. Due to these features it has good life and is easy to maintain. The emission of hydrogen gas is used internally. These batteries are designed to retain and recombine these gases. The excess pressure is releases by a valve installed in VRLA battery.",
+        "IS 15549 is a IS Standard for Sealed lead acid batteries and are tested in ITC India Pvt Ltd. Here is a list of tests that are performed on such batteries."
+      ],
+      "bullets": [
+        "Low cost",
+        "Can be recycled, reliable, robust",
+        "Low self discharge",
+        "As sealed no spillage of electrolyte",
+        "No periodic topping of electrolyte",
+        "Can be used vertically or horizontally.",
+        "They occupy less space as can be placed over other battery in stack able steel racks.",
+        "Better than conventional lead acid batteries.",
+        "Bulky",
+        "Danger of overheating while charging",
+        "Cannot be charged quickly",
+        "Cycle life 300 to 500 cycles"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Clause No",
+            "Name of test"
+          ],
+          "rows": [
+            [
+              "4.1 to 4.9 , 8.1",
+              "Visual examination"
+            ],
+            [
+              "As per manufacturer drawing",
+              "Checking of dimensions"
+            ],
+            [
+              "12.1",
+              "Test for C 10 capacity and voltage during discharge."
+            ],
+            [
+              "12.2",
+              "Test for C 1 capacity and voltage during discharge."
+            ],
+            [
+              "12.4, 12.5",
+              "Ampere hour and watt hour efficiency test"
+            ],
+            [
+              "12.6",
+              "Retention of charge test"
+            ],
+            [
+              "12.7",
+              "Acid retention capability test on separator."
+            ],
+            [
+              "12.7",
+              "Wicking test on separators"
+            ],
+            [
+              "12.8",
+              "Test on Vent seal operation"
+            ],
+            [
+              "12.9",
+              "Test of oxygen recombination efficiency"
+            ],
+            [
+              "12.10",
+              "Endurance life cycle test"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/valve-regulated-lead-acid-batteries-vrla/76f28b524049.webp",
+          "alt": "VRLA"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/valve-regulated-lead-acid-batteries-vrla/76f28b524049.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/valve-regulated-lead-acid-batteries-vrla/76f28b524049.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    }
+  ],
+  "relatedLinks": []
+}
