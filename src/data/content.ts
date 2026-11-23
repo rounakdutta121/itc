@@ -84,7 +84,7 @@ export const metrics = [
   { value: 'NABL', label: 'Accredited to ISO/IEC 17025' },
   { value: 'BIS', label: 'Lab under CRS' },
   { value: '12', label: 'Testing disciplines' },
-  { value: '2015', label: 'Testing since' },
+  { value: '2009', label: 'Testing since' },
 ]
 
 export const services = [
