@@ -300,8 +300,8 @@ export const migratedPaths = [
 ] as const
 
 export const migratedRedirects: { from: string; to: string }[] = [
-  { from: "/jss-55555-testing", to: "/jss-55555" },
-  { from: "/salt-spray-testing", to: "/salt-testing" },
+  { from: "/jss-55555", to: "/jss-55555-testing" },
+  { from: "/salt-testing", to: "/salt-spray-testing" },
   { from: "/major-tests-facility-2", to: "/services" },
   { from: "/understanding-quality-of-masks", to: "/face-mask-testing-lab" },
   { from: "/electro-medical-equipments-testing", to: "/iec-60601-testing" },

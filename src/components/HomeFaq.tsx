@@ -12,7 +12,7 @@ export function HomeFaq() {
             Still unsure about scope? Call{' '}
             <a href={`tel:${company.phone}`}>{company.phoneDisplay}</a> or reach us on{' '}
             <a href={company.whatsappHref} target="_blank" rel="noreferrer">
-              WhatsApp
+              {company.whatsappLabel}
             </a>
             .
           </p>

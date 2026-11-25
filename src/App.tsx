@@ -48,6 +48,11 @@ function SaltStandardRoute() {
   return <PlaceholderPage title="Salt fog standard" />
 }
 
+function SaltLegacyStandardRedirect() {
+  const { standard } = useParams()
+  return <Navigate to={`/salt-spray-testing/${standard ?? ''}`} replace />
+}
+
 function MigratedCatchAll() {
   const { pathname } = useLocation()
   const path = pathname.replace(/\/$/, '') || '/'
@@ -65,7 +70,7 @@ export default function App() {
           <Route path="vibration-testing" element={<VibrationTestingPage />} />
           <Route
             path="vibration-testing/jss-55555"
-            element={<Navigate to="/jss-55555" replace />}
+            element={<Navigate to="/jss-55555-testing" replace />}
           />
           <Route
             path="vibration-testing/:standard"
@@ -76,12 +81,24 @@ export default function App() {
             path="drop-testing/:standard"
             element={<PlaceholderPage title="Drop standard" />}
           />
-          <Route path="salt-testing" element={<SaltTestingPage />} />
+          <Route path="salt-spray-testing" element={<SaltTestingPage />} />
           <Route
-            path="salt-testing/:standard"
+            path="salt-spray-testing/:standard"
             element={<SaltStandardRoute />}
           />
-          <Route path="jss-55555" element={<Jss55555Page />} />
+          <Route
+            path="salt-testing"
+            element={<Navigate to="/salt-spray-testing" replace />}
+          />
+          <Route
+            path="salt-testing/:standard"
+            element={<SaltLegacyStandardRedirect />}
+          />
+          <Route path="jss-55555-testing" element={<Jss55555Page />} />
+          <Route
+            path="jss-55555"
+            element={<Navigate to="/jss-55555-testing" replace />}
+          />
           <Route path="about-us" element={<AboutPage />} />
 
           {migratedRedirects.map((r) => (

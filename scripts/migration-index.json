@@ -302,12 +302,12 @@
   ],
   "redirects": [
     {
-      "from": "/jss-55555-testing",
-      "to": "/jss-55555"
+      "from": "/jss-55555",
+      "to": "/jss-55555-testing"
     },
     {
-      "from": "/salt-spray-testing",
-      "to": "/salt-testing"
+      "from": "/salt-testing",
+      "to": "/salt-spray-testing"
     },
     {
       "from": "/major-tests-facility-2",

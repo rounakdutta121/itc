@@ -36,7 +36,7 @@
       "tables": [],
       "images": [
         {
-          "src": "/images/migrated/corrosion-testing/2ac86bc9e420.jpg",
+          "src": "/images/migrated/corrosion-testing/9dae6fb1c253.webp",
           "alt": "Corrosion testing"
         }
       ]
@@ -55,12 +55,20 @@
     {
       "src": "/images/migrated/corrosion-testing/2ac86bc9e420.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/corrosion-testing/9dae6fb1c253.webp",
+      "alt": "Corrosion testing"
     }
   ],
   "scrapedImages": [
     {
       "src": "/images/migrated/corrosion-testing/2ac86bc9e420.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/corrosion-testing/9dae6fb1c253.webp",
+      "alt": "Corrosion testing"
     }
   ],
   "relatedLinks": [

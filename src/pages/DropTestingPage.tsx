@@ -142,9 +142,11 @@ export function DropTestingPage() {
                   <div className="vib-dir__body">
                     <p className="vib-dir__code">{item.label}</p>
                   </div>
-                  <Link className="vib-dir__link" to={item.href}>
-                    View
-                  </Link>
+                  {'href' in item && item.href ? (
+                    <Link className="vib-dir__link" to={item.href}>
+                      View
+                    </Link>
+                  ) : null}
                 </li>
               ))}
             </ol>
@@ -187,7 +189,11 @@ export function DropTestingPage() {
                 {page.distinctions.map((item) => (
                   <tr key={item.title}>
                     <th scope="row">
-                      <Link to={item.href}>{item.title}</Link>
+                      {'href' in item && item.href ? (
+                        <Link to={item.href}>{item.title}</Link>
+                      ) : (
+                        item.title
+                      )}
                     </th>
                     <td>{item.text}</td>
                   </tr>
@@ -236,7 +242,7 @@ export function DropTestingPage() {
               <a href={`tel:${company.phone}`}>{company.phoneDisplay}</a> or reach
               us on{' '}
               <a href={page.whatsappHref} target="_blank" rel="noreferrer">
-                WhatsApp
+                {company.whatsappLabel}
               </a>
               .
             </p>
@@ -262,9 +268,9 @@ export function DropTestingPage() {
         <div className="wrap vib-cta__inner">
           <h2 className="display">{page.cta}</h2>
           <p>
-            In case of any other doubt or query feel free to reach us on Whatsapp @
+            In case of any other doubt or query feel free to reach us on{' '}
             <a href={page.whatsappHref} target="_blank" rel="noreferrer">
-              {company.phoneDisplay}
+              {company.whatsappLabel}
             </a>
             .
           </p>

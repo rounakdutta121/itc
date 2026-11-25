@@ -162,15 +162,24 @@ export function SaltTestingPage() {
             <ol className="salt-standards__list">
               {page.popularStandards.map((item, i) => (
                 <li key={item.label}>
-                  <Link to={item.href}>
-                    <span className="salt-standards__num">
-                      {String(i + 1).padStart(2, '0')}
+                  {'href' in item && item.href ? (
+                    <Link to={item.href}>
+                      <span className="salt-standards__num">
+                        {String(i + 1).padStart(2, '0')}
+                      </span>
+                      <span className="salt-standards__name">{item.label}</span>
+                      <span className="salt-standards__arrow" aria-hidden="true">
+                        →
+                      </span>
+                    </Link>
+                  ) : (
+                    <span className="salt-standards__plain">
+                      <span className="salt-standards__num">
+                        {String(i + 1).padStart(2, '0')}
+                      </span>
+                      <span className="salt-standards__name">{item.label}</span>
                     </span>
-                    <span className="salt-standards__name">{item.label}</span>
-                    <span className="salt-standards__arrow" aria-hidden="true">
-                      →
-                    </span>
-                  </Link>
+                  )}
                 </li>
               ))}
             </ol>
@@ -203,7 +212,11 @@ export function SaltTestingPage() {
                 {page.distinctions.map((item) => (
                   <tr key={item.title}>
                     <th scope="row">
-                      <Link to={item.href}>{item.title}</Link>
+                      {'href' in item && item.href ? (
+                        <Link to={item.href}>{item.title}</Link>
+                      ) : (
+                        item.title
+                      )}
                     </th>
                     <td>{item.text}</td>
                   </tr>
@@ -253,7 +266,7 @@ export function SaltTestingPage() {
               <a href={`tel:${company.phone}`}>{company.phoneDisplay}</a> or reach
               us on{' '}
               <a href={page.whatsappHref} target="_blank" rel="noreferrer">
-                WhatsApp
+                {company.whatsappLabel}
               </a>
               .
             </p>
@@ -279,9 +292,9 @@ export function SaltTestingPage() {
         <div className="wrap vib-cta__inner">
           <h2 className="display">{page.cta}</h2>
           <p>
-            In case of any other doubt or query feel free to reach us on Whatsapp @
+            In case of any other doubt or query feel free to reach us on{' '}
             <a href={page.whatsappHref} target="_blank" rel="noreferrer">
-              {company.phoneDisplay}
+              {company.whatsappLabel}
             </a>
             .
           </p>

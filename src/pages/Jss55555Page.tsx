@@ -191,15 +191,24 @@ export function Jss55555Page() {
             <ol className="salt-standards__list">
               {page.popularStandards.map((item, i) => (
                 <li key={item.label}>
-                  <Link to={item.href}>
-                    <span className="salt-standards__num">
-                      {String(i + 1).padStart(2, '0')}
+                  {'href' in item && item.href ? (
+                    <Link to={item.href}>
+                      <span className="salt-standards__num">
+                        {String(i + 1).padStart(2, '0')}
+                      </span>
+                      <span className="salt-standards__name">{item.label}</span>
+                      <span className="salt-standards__arrow" aria-hidden="true">
+                        →
+                      </span>
+                    </Link>
+                  ) : (
+                    <span className="salt-standards__plain">
+                      <span className="salt-standards__num">
+                        {String(i + 1).padStart(2, '0')}
+                      </span>
+                      <span className="salt-standards__name">{item.label}</span>
                     </span>
-                    <span className="salt-standards__name">{item.label}</span>
-                    <span className="salt-standards__arrow" aria-hidden="true">
-                      →
-                    </span>
-                  </Link>
+                  )}
                 </li>
               ))}
             </ol>
@@ -245,7 +254,7 @@ export function Jss55555Page() {
               <a href={`tel:${company.phone}`}>{company.phoneDisplay}</a> or reach
               us on{' '}
               <a href={page.whatsappHref} target="_blank" rel="noreferrer">
-                WhatsApp
+                {company.whatsappLabel}
               </a>
               .
             </p>

@@ -63,7 +63,7 @@
       "tables": [],
       "images": [
         {
-          "src": "/images/migrated/electrical-motor-testing-lab/8b5447ef9c54.jpg",
+          "src": "/images/migrated/electrical-motor-testing-lab/eb3cadb16b98.webp",
           "alt": ""
         }
       ]
@@ -115,12 +115,20 @@
     {
       "src": "/images/migrated/electrical-motor-testing-lab/8b5447ef9c54.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electrical-motor-testing-lab/eb3cadb16b98.webp",
+      "alt": ""
     }
   ],
   "scrapedImages": [
     {
       "src": "/images/migrated/electrical-motor-testing-lab/8b5447ef9c54.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electrical-motor-testing-lab/eb3cadb16b98.webp",
+      "alt": ""
     }
   ],
   "relatedLinks": [

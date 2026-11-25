@@ -83,7 +83,7 @@ export function AboutPage() {
             {page.intro.map((p) => (
               <p key={p.slice(0, 48)}>{p}</p>
             ))}
-            <Link className="btn btn-solid" to="/#contact">
+            <Link className="btn btn-solid" to="/contact-us">
               {page.cta}
             </Link>
           </div>
@@ -236,7 +236,7 @@ export function AboutPage() {
               <a href={`tel:${company.phone}`}>{company.phoneDisplay}</a> or reach
               us on{' '}
               <a href={page.whatsappHref} target="_blank" rel="noreferrer">
-                WhatsApp
+                {company.whatsappLabel}
               </a>
               .
             </p>
@@ -264,7 +264,7 @@ export function AboutPage() {
           <h2 className="display">Book an appointment now</h2>
           <p>{page.cta}</p>
           <div className="vib-cta__actions">
-            <Link className="btn btn-solid" to="/#contact">
+            <Link className="btn btn-solid" to="/contact-us">
               Book an appointment now
             </Link>
             <a className="btn btn-line" href={`tel:${company.phone}`}>

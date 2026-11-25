@@ -40,7 +40,7 @@
       "tables": [],
       "images": [
         {
-          "src": "/images/migrated/photovoltatc-pv-modules-testing/c1dec114b27c.jpg",
+          "src": "/images/migrated/photovoltatc-pv-modules-testing/cfc0951f9a3f.webp",
           "alt": "PV Modules Testing"
         }
       ]
@@ -50,12 +50,20 @@
     {
       "src": "/images/migrated/photovoltatc-pv-modules-testing/c1dec114b27c.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/photovoltatc-pv-modules-testing/cfc0951f9a3f.webp",
+      "alt": "PV Modules Testing"
     }
   ],
   "scrapedImages": [
     {
       "src": "/images/migrated/photovoltatc-pv-modules-testing/c1dec114b27c.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/photovoltatc-pv-modules-testing/cfc0951f9a3f.webp",
+      "alt": "PV Modules Testing"
     }
   ],
   "relatedLinks": [

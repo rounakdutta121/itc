@@ -23,7 +23,7 @@ export const saltPage = {
   intro: [
     'Salt Fog Test, which is also known as salt mist test or salt spray test is a standard testing procedure where the resistance against corrosion of the metallic parts of the equipment is tested. The test basically examines the strength of the protective layer coated upon the metal parts or the alloying, to check how long during the storage or in service period, the equipment can survive. The test is performed by exposing the target region to moist salt solutions in calculated amounts periodically until the respective tests suggest and noting the observed changes visually and functionally after the test.',
     'As salt fog testing is a common and popular approach, it is explained by various different standards focusing on their target specimen. Some tests are conducted individually while some are conducted as the sub-test of any standard environment standard.',
-    'If you want your product to become corrosion and rust proof, feel free to reach us out @ITC India, the most efficient testing and calibration laboratory serving excellence with experience for past (X) glorious years. Incorporating the latest technical lab set-up, we have successfully achieved the milestone of (Y) happy and satisfied customers.',
+    'If you want to check how well your product resists corrosion and rust, feel free to reach us out @ITC India, the most efficient testing and calibration laboratory testing products since 2009. Incorporating the latest technical lab set-up, we have successfully achieved the milestone of (Y) happy and satisfied customers.',
   ],
   cta: 'Book your appointment now!',
   whyTitle: 'What does the Salt Fog Test actually do?',
@@ -62,11 +62,11 @@ export const saltPage = {
     'At ITC India, we help the customer with six major standards of salt fog test providing assistance with several other related tests. Our team of experts with years of experience in testing provide the best testing guidance and analysis support.',
   ],
   popularStandards: [
-    { label: 'JSS 55555 (Test Number 9)', href: '/jss-55555' },
-    { label: 'IEC 60068-2-11', href: '/salt-testing/iec-60068-2-11' },
-    { label: 'ASTM B117', href: '/salt-testing/astm-b117' },
-    { label: 'ISO 9227', href: '/salt-testing/iso-9227' },
-    { label: 'QM-333', href: '/salt-testing/qm-333' },
+    { label: 'JSS 55555 (Test Number 9)', href: '/jss-55555-testing' },
+    { label: 'IEC 60068-2-11', href: '/salt-spray-testing/iec-60068-2-11' },
+    { label: 'ASTM B117', href: '/salt-spray-testing/astm-b117' },
+    { label: 'ISO 9227', href: '/metal-iso-9227-salt-spray-test' },
+    { label: 'QM-333' },
   ],
   distinctionsTitle: 'Distinctions:',
   distinctionsIntro:
@@ -74,27 +74,26 @@ export const saltPage = {
   distinctions: [
     {
       title: 'JSS 55555 (Test Number 9)',
-      href: '/jss-55555',
+      href: '/jss-55555-testing',
       text: 'Joint Service Specification number 55555 mentions the environmental tests mandatory for equipment used in defense service. Its Test Number-09 is about salt fog testing, with the objective to check the resistance against corrosion of components under test by replicating true salt laden moist environments. This standard incorporates multiple cyclic spraying methods along with a post-spray storage process. Once the test is conducted, the final and initial readings are compared.',
     },
     {
       title: 'IEC 60068-2-11',
-      href: '/salt-testing/iec-60068-2-11',
+      href: '/salt-spray-testing/iec-60068-2-11',
       text: 'This section of IEC 60068 talks about salt mist testing which is an essential environment test for electronic and electric components used in commercial or industrial purposes. The test simulates a moderately warm environment at 35°C introducing constant spraying of NaCl solution with a specific concentration to expose the equipment’s strength against the moist environment. The time duration is a specimen dependent factor and after the test, readings are checked.',
     },
     {
       title: 'ASTM B117',
-      href: '/salt-testing/astm-b117',
+      href: '/salt-spray-testing/astm-b117',
       text: 'ASTM B117 standard for salt testing is the first and oldest internationally recognised standard for salt testing which examines overall coating, metallic finishing and other protective measures specially for automotive electric products. Its continuous spraying method using a 5% w/w NaCl solution with specimen dependent time duration makes it an efficient method for corrosion testing. The test readings are calculated before and after the test, and during the test also if the standards suggest.',
     },
     {
       title: 'ISO 9227',
-      href: '/salt-testing/iso-9227',
+      href: '/metal-iso-9227-salt-spray-test',
       text: 'International Organisation for Standardization 9227 provides procedural details along with appropriate apparatus and tools to perform salt spray testing on equipment to check the metallic and protective layer’s resistivity against corrosion. This standard is distinct from other standards as it involves three separate salt solutions NSS, AASS and CASS such that continuous spraying and post-test analysis including interim inspection and chamber’s corrosivity check with respect to reference panel.',
     },
     {
       title: 'QM-333',
-      href: '/salt-testing/qm-333',
       text: 'QM-333 is the Telecommunication Engineering Centre (TEC) standard for environmental testing of radio transmission equipment. Its Test Number-09 covers salt corrosion (fog) testing, with the objective to check the suitability of equipment for use, storage or transport in salt laden atmospheres. The test uses a multi-salt sea water type solution applied in a cyclic manner, where two hours of spraying is followed by twenty two hours of damp heat storage at 35°C, repeated for three continuous cycles. Once the test is completed and the equipment has recovered, the final readings are compared with the initial readings.',
     },
   ],
@@ -106,7 +105,7 @@ export const saltPage = {
     },
     {
       q: 'Which is the most efficient laboratory to provide salt fog testing services based on international standards?',
-      a: 'In 2026, working with the latest technical assistance, years of excellence in testing and calibration, ITC India is undoubtedly the perfect choice to get hassle-free services.',
+      a: 'Working with the latest technical assistance, years of excellence in testing and calibration, ITC India is undoubtedly the perfect choice to get hassle-free services.',
     },
     {
       q: 'How does one standard differ from another in case of Salt Spray Testing?',

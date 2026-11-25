@@ -413,7 +413,7 @@ export function Nav() {
         </nav>
 
         <div className="nav__end">
-          <SiteLink className="btn btn-solid nav__cta" href="/#contact">
+          <SiteLink className="btn btn-solid nav__cta" href="/contact-us">
             Get a Quote
           </SiteLink>
           <button
@@ -466,7 +466,7 @@ export function Nav() {
         <div className="nav__drawer-foot">
           <SiteLink
             className="btn btn-solid"
-            href="/#contact"
+            href="/contact-us"
             onClick={close}
           >
             Get a Quote

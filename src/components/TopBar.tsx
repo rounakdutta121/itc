@@ -14,7 +14,7 @@ export function TopBar() {
             href={company.whatsappHref}
             target="_blank"
             rel="noreferrer"
-            aria-label="WhatsApp"
+            aria-label={company.whatsappLabel}
           >
             <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
               <path

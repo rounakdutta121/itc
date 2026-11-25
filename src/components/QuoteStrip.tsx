@@ -14,7 +14,7 @@ const DEFAULT_TEXT =
 export function QuoteStrip({
   id,
   text = DEFAULT_TEXT,
-  href = '/#contact',
+  href = '/contact-us',
   cta = 'Get a Quote',
 }: Props) {
   return (

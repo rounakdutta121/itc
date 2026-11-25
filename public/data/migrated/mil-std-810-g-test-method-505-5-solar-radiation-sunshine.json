@@ -53,7 +53,7 @@
       "tables": [],
       "images": [
         {
-          "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/e67ca09d2add.jpg",
+          "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/23507c2af67d.webp",
           "alt": ""
         }
       ]
@@ -110,12 +110,20 @@
     {
       "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/e67ca09d2add.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/23507c2af67d.webp",
+      "alt": ""
     }
   ],
   "scrapedImages": [
     {
       "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/e67ca09d2add.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/23507c2af67d.webp",
+      "alt": ""
     }
   ],
   "relatedLinks": [

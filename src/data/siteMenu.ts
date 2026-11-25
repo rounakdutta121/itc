@@ -611,11 +611,11 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "Salt Spray Testing Lab",
-            "href": "/salt-testing"
+            "href": "/salt-spray-testing"
           },
           {
             "label": "JSS 55555 Testing Laboratory in India | ITC India",
-            "href": "/jss-55555"
+            "href": "/jss-55555-testing"
           },
           {
             "label": "JSS 5855-11 Environmental Testing Services",
@@ -623,7 +623,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "JSS 50101 Environmental Testing for Electronic Components",
-            "href": "/vibration-testing/jss-50101"
+            "href": "/jss-50101-testing"
           },
           {
             "label": "JSS 0256-01 Environmental Testing for Missile Systems",

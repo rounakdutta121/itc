@@ -26,7 +26,7 @@ export function SaltStandardPage() {
             <a className="btn btn-solid" href={`tel:${company.phone}`}>
               Book this test
             </a>
-            <Link className="btn btn-line" to="/salt-testing">
+            <Link className="btn btn-line" to="/salt-spray-testing">
               All salt fog standards
             </Link>
           </div>
@@ -102,7 +102,7 @@ export function SaltStandardPage() {
             <a className="btn btn-solid" href={`tel:${company.phone}`}>
               {company.phoneDisplay}
             </a>
-            <Link className="btn btn-line vib-std__line" to="/salt-testing#standards">
+            <Link className="btn btn-line vib-std__line" to="/salt-spray-testing#standards">
               Back to standards list
             </Link>
           </div>

@@ -1,13 +1,13 @@
 {
   "redirects": [
     {
-      "source": "/jss-55555-testing",
-      "destination": "/jss-55555",
+      "source": "/jss-55555",
+      "destination": "/jss-55555-testing",
       "permanent": true
     },
     {
-      "source": "/salt-spray-testing",
-      "destination": "/salt-testing",
+      "source": "/salt-testing",
+      "destination": "/salt-spray-testing",
       "permanent": true
     },
     {
@@ -266,13 +266,13 @@
       "permanent": true
     },
     {
-      "source": "/jss-55555-testing/",
-      "destination": "/jss-55555",
+      "source": "/jss-55555/",
+      "destination": "/jss-55555-testing",
       "permanent": true
     },
     {
-      "source": "/salt-spray-testing/",
-      "destination": "/salt-testing",
+      "source": "/salt-testing/",
+      "destination": "/salt-spray-testing",
       "permanent": true
     },
     {

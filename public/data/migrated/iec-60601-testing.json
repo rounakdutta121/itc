@@ -47,7 +47,7 @@
       "tables": [],
       "images": [
         {
-          "src": "/images/migrated/iec-60601-testing/078ddcef8fe9.jpg",
+          "src": "/images/migrated/iec-60601-testing/21ccfaa8436e.webp",
           "alt": "IEC 60601 testing"
         }
       ]
@@ -79,12 +79,20 @@
     {
       "src": "/images/migrated/iec-60601-testing/078ddcef8fe9.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60601-testing/21ccfaa8436e.webp",
+      "alt": "IEC 60601 testing"
     }
   ],
   "scrapedImages": [
     {
       "src": "/images/migrated/iec-60601-testing/078ddcef8fe9.jpg",
       "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/iec-60601-testing/21ccfaa8436e.webp",
+      "alt": "IEC 60601 testing"
     }
   ],
   "relatedLinks": [

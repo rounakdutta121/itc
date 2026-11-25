@@ -22,7 +22,7 @@ export const vibrationLabImages = [
 export const vibrationPage = {
   intro: [
     'Vibration Testing is used to examine any device’s mechanical potential to withstand real-world operational and environmental conditions. The test creates a simulated set-up, producing the effects of load imparted during the use case, testing the device under varied parameters and finally generating the conclusive test report. The report then further helps in understanding and analysing the physical strength of the device under test (DUT), highlighting any possible risk or scope of improvement. This test is significant because it comes under several recognised standards serving distinct purposes for primarily electric and electronic devices.',
-    'At ITC India, we promise to conduct the vibration testing by understanding the client’s requirements,the equipment’s compatibility and the need for respective tests in order to meet the expectations. With the service experience of (X) years, prescribed standards and latest testing equipment, we cover all parameters fulfilling the requirements.',
+    'At ITC India, we promise to conduct the vibration testing by understanding the client’s requirements, the equipment’s compatibility and the need for respective tests in order to meet the expectations. With testing experience since 2009, prescribed standards and latest testing equipment, we cover all parameters fulfilling the requirements.',
   ],
   cta: 'Get Vibration Testing Done!',
   whyTitle: 'Why Do We Need Vibration Testing?',
@@ -37,16 +37,16 @@ export const vibrationPage = {
   sinusoidal:
     'Sinusoidal Vibration Testing (also known as sine testing) is a method where the equipment is tested against specified sinusoidal vibrations using the vibration shaker machine such that the mounting points of the fixture move in phase along parallel axes with uniform amplitude, maintaining spatial and temporal coherence. To determine the tolerance amplitude, different standards recommend different changes in the specified value. The device under test (DUT) undergoes one single testing frequency at a time.',
   random:
-    'Random Vibration Testing is a method to test any equipment’s adequacy to resist dynamic loads without losing its functional and structural integrity. The specimen undergoes the test with single or multiple control points each supplied with random frequencies (as guided by the standard) giving the equipment an overall dynamic frequency experience.The specimen exhibits a non-deterministic, stochastic response across the defined frequency spectrum along the motion axis.',
+    'Random Vibration Testing is a method to test any equipment’s adequacy to resist dynamic loads without losing its functional and structural integrity. The specimen undergoes the test with single or multiple control points each supplied with random frequencies (as guided by the standard) giving the equipment an overall dynamic frequency experience. The specimen exhibits a non-deterministic, stochastic response across the defined frequency spectrum along the motion axis.',
   afterTypes:
     'After the testing is done, the equipment shall be visually examined as well as electrically and mechanically checked as specified. The testing helps in finding out the endurance of the equipment against all possible sorts of vibrations.',
   standardsTitle: 'Popular standards of Vibration Testing:',
   standardsIntro:
     'With a variety of vibration testing standards followed, we at ITC India conduct the testing based on the listed standards:',
   popularStandards: [
-    { label: 'IEC 60068 - 2 - 6', href: '/vibration-testing/iec-60068-2-6' },
+    { label: 'IEC 60068 - 2 - 6', href: '/iec-60068-2-6-vibration-testing-2-2' },
     { label: 'IEC 60068 - 2 - 64', href: '/vibration-testing/iec-60068-2-64' },
-    { label: 'JSS 55555 Test No. 28', href: '/jss-55555' },
+    { label: 'JSS 55555 Test No. 28', href: '/jss-55555-testing' },
   ],
   standardsMore: 'And more…',
   distinctionsTitle: 'Distinctions:',
@@ -55,7 +55,7 @@ export const vibrationPage = {
   distinctions: [
     {
       title: 'IEC 60068-2-6:',
-      href: '/vibration-testing/iec-60068-2-6',
+      href: '/iec-60068-2-6-vibration-testing-2-2',
       text: 'This part of IEC 60068 deals with the method of test (sine testing) used to check compliance of components and equipment which during transportation or in service are subjected to harmonic vibrational patterns. These conditions are replicated empirically in a controlled environment, examining the specimen and recording its response as an analysis report. Majorly serving the purpose for industrial and commercial equipment, IEC 60068-2-6 becomes an internationally recognised standard for sine testing.',
     },
     {
@@ -65,17 +65,17 @@ export const vibrationPage = {
     },
     {
       title: 'JSS 55555 (Test No. 28):',
-      href: '/jss-55555',
+      href: '/jss-55555-testing',
       text: 'Joint Services Specification (JSS 55555) specifies environmental test procedures for military electronic and electrical equipment. Out of its 31 specified testings, Test Number 28 talks about vibration testing where both sine test (as Sinusoidal Vibration System) and random vibration test (Random Vibration System) are included. Describing the various parameters and scope of response, the fourth revision in JSS 55555 finds random vibration testing a more effective method of exposing the structural weakness of the equipment.',
     },
     {
       title: 'JSS 50101 (Test No. 23):',
-      href: '/vibration-testing/jss-50101',
+      href: '/jss-50101-testing',
       text: 'Joint Service Specification Number 50101 provides methods and norms for environment testing of electronic devices and components used in defense services. This test serves the intention of predetermining the potential cause of failure when exposed to the service environment. Its Test Number 23 elaborates on sinusoidal vibration testing where the specimen is subjected to vibrational parameters explicitly mentioned with characteristics. The referred table is titled as Sinusoidal Vibration Severities.',
     },
     {
       title: 'IEC 61373',
-      href: '/vibration-testing/iec-61373',
+      href: '/iec-61373-vibration-testing',
       text: 'This international standard defines shock and vibration testing requirements for railway rolling stock equipment. It specifies random vibration and shock testing levels to verify that equipment can withstand the random operational vibrations and impacts encountered during train transit.',
     },
   ],

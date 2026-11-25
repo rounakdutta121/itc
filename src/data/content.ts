@@ -8,6 +8,7 @@ export const company = {
   email: 'info@itcindia.org',
   whatsapp: '919316473033',
   whatsappHref: 'https://wa.me/919316473033',
+  whatsappLabel: 'WhatsApp +91 93164 73033',
   address:
     'Plot No. 146, JLPL Industrial Area, Sector 82, Mohali, Punjab 160062',
   mapHref:
@@ -24,8 +25,8 @@ export const navLinks = [
   { label: 'Products', href: '/products' },
   { label: 'Testing Services', href: '/services' },
   { label: 'Vibration Testing Lab', href: '/vibration-testing' },
-  { label: 'Salt Spray Testing Lab', href: '/salt-testing' },
-  { label: 'JSS 55555 Testing Laboratory in India | ITC India', href: '/jss-55555' },
+  { label: 'Salt Spray Testing Lab', href: '/salt-spray-testing' },
+  { label: 'JSS 55555 Testing Laboratory in India | ITC India', href: '/jss-55555-testing' },
   { label: 'Contact Us', href: '/contact-us' },
   { label: 'Career in ITC', href: '/careers' },
 ]
@@ -42,7 +43,7 @@ export const heroContent = {
   title: 'Electrical Safety & Product Testing Laboratory',
   lede: 'NABL-accredited testing and calibration for manufacturers and exporters. Get test reports for BIS, CE and global market approvals from one lab in Mohali, Punjab.',
   primaryCta: 'Get a Testing Quote',
-  primaryHref: '#contact',
+  primaryHref: '/contact-us',
   secondaryCta: 'Call +91 93164 73033',
   slides: [
     {
@@ -228,7 +229,7 @@ export const aboutSection = {
     },
   ],
   cta: 'Plan a Lab Visit',
-  ctaHref: '#contact',
+  ctaHref: '/contact-us',
 }
 
 export const capabilities = [
@@ -304,8 +305,8 @@ export const popularTests = [
     label: 'LM-79 Testing',
     href: 'https://www.itcindia.org/lm-79-testing/',
   },
-  { label: 'JSS 55555 Environmental Testing', href: '/jss-55555' },
-  { label: 'Salt Spray Testing', href: '/salt-testing' },
+  { label: 'JSS 55555 Environmental Testing', href: '/jss-55555-testing' },
+  { label: 'Salt Spray Testing', href: '/salt-spray-testing' },
   {
     label: 'ATEX Testing',
     href: 'https://www.itcindia.org/atex-testing-certification/',
