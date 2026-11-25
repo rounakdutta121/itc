@@ -37,18 +37,20 @@
       "images": []
     },
     {
-      "heading": "IEC 60068-2-2 Dry Heat Test",
+      "heading": "Dry heat test with moderate temperature change for non-heat-dissipating specimens, Bb.",
       "paragraphs": [
         "Our variety of testing ambient temperature to +140°C degrees with a 3°C Ramp rate"
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/iec-60068-environmental-conditioning/cca15c84079a.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
+    },
+    {
+      "heading": "Dry heat tests for heat-dissipating specimens are performed with a progressive increase in temperature, Bd; a constant increase in temperature, specimen.",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": []
     },
     {
       "heading": "IEC 60068-2-14 Testing – Change of temperature testing",
@@ -58,12 +60,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/iec-60068-environmental-conditioning/a7e2f8ae4264.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "IEC 60068-2-30 Damp heat, cyclic",
@@ -124,12 +121,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/iec-60068-environmental-conditioning/7f9a7bf45ff0.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

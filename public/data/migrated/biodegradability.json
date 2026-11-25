@@ -30,12 +30,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/biodegradability/17cc88175d46.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Our Expertise:",
@@ -89,24 +84,50 @@
       "paragraphs": [
         "Choosing the right biodegradability test is crucial, as it depends on the material type, the environment where the material will degrade, and regulatory demands. We understand that navigating these complex decisions can be overwhelming, which is why we provide this comprehensive decision guide to help you select the most appropriate biodegradability testing standard."
       ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1. Identifying Your Material Type:",
+      "paragraphs": [],
       "bullets": [
         "Packaging Materials & Plastics: If your material falls into this category, the right standards are EN 13432, ASTM D6400, ISO 17088, and ISO 14855. These are designed to ensure packaging and plastics degrade fully in composting environments, meeting both industrial and regulatory requirements.",
-        "Non-Plastic & Chemical Materials: For chemicals and non-plastic materials, OECD 301B is most appropriate. This standard evaluates the ready biodegradability of chemicals in water, analyzing their CO₂ evolution and oxygen consumption.",
+        "Non-Plastic & Chemical Materials: For chemicals and non-plastic materials, OECD 301B is most appropriate. This standard evaluates the ready biodegradability of chemicals in water, analyzing their CO₂ evolution and oxygen consumption."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Testing Based on Degradation Environment:",
+      "paragraphs": [],
+      "bullets": [
         "Industrial Composting Facility: For products meant for industrial composting, EN 13432, ASTM D6400, ISO 17088, ASTM D5338, and ISO 14855 are applicable. These standards ensure the material breaks down completely under controlled high-temperature composting conditions.",
         "Natural Soil Environment: If your product is likely to degrade in soil, ISO 17556 (for plastics) and OECD 301B (for chemicals) are recommended to ensure biodegradability in a natural environment.",
-        "Aquatic Environment: For products designed to break down in water, OECD 301B is the best choice. It assesses biodegradability by measuring CO₂ output and oxygen demand over a 28-day period.",
+        "Aquatic Environment: For products designed to break down in water, OECD 301B is the best choice. It assesses biodegradability by measuring CO₂ output and oxygen demand over a 28-day period."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3. Time Frame for Testing:",
+      "paragraphs": [],
+      "bullets": [
         "28-Day Short-Term Test: For quick results, OECD 301B offers a reliable test for chemicals in water, providing biodegradation results within 28 days.",
-        "180-Day Long-Term Test: For longer-term evaluation, EN 13432, ASTM D6400, ISO 17088, ISO 14855, and ASTM D5338 require testing over 180 days, ensuring complete degradation in industrial composting.",
+        "180-Day Long-Term Test: For longer-term evaluation, EN 13432, ASTM D6400, ISO 17088, ISO 14855, and ASTM D5338 require testing over 180 days, ensuring complete degradation in industrial composting."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "5. Additional Testing Considerations:",
+      "paragraphs": [],
+      "bullets": [
         "Heavy Metal and Ecotoxicity Testing: To ensure that your materials do not leave harmful residues in compost, tests like EN 13432, ISO 17088, and ISO 14855 are necessary.",
         "Disintegration Testing: This ensures that materials physically break down in composting environments. EN 13432, ASTM D6400, and ISO 14855 provide protocols to confirm that no visible fragments remain after degradation."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/biodegradability/22a7d5e1a0ff.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Comparison of Biodegradability Standards",

@@ -143,72 +143,14 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/what-is-nema-certification/b148eae24649.webp",
-          "alt": "Type 1"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/1ca76ca8d512.webp",
-          "alt": "Type 2"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/c4792629b52a.webp",
-          "alt": "Type 3"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/949fb5720338.webp",
-          "alt": "Type 3R"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/7d190e3e5109.webp",
-          "alt": "Type 3S"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/ae49ea50bea2.webp",
-          "alt": "Type 4"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/bf27e9e1e266.webp",
-          "alt": "Type 4X"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/827d0df74fd9.webp",
-          "alt": "Type 5"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/437bf8ee98c6.webp",
-          "alt": "Type 6"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/6c7e0de58ee8.webp",
-          "alt": "Type 7"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/8bf109c51e54.webp",
-          "alt": "Type 9"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/37c4a867dcef.webp",
-          "alt": "Type 12"
-        },
-        {
-          "src": "/images/migrated/what-is-nema-certification/08e622a9b8eb.webp",
-          "alt": "Type 13"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Conversion of NEMA Types to IEC IP Designations",
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/what-is-nema-certification/fe98b733e9a2.webp",
-          "alt": "Conversion of NEMA Types to IEC IP Designations"
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

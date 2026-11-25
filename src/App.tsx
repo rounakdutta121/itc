@@ -7,6 +7,7 @@ import {
   useParams,
 } from 'react-router-dom'
 import { SiteLayout } from './components/SiteLayout'
+import { ReloadShutter } from './components/ReloadShutter'
 import { HomePage } from './pages/HomePage'
 import { VibrationTestingPage } from './pages/VibrationTestingPage'
 import { VibrationStandardPage } from './pages/VibrationStandardPage'
@@ -64,6 +65,7 @@ function MigratedCatchAll() {
 export default function App() {
   return (
     <BrowserRouter>
+      <ReloadShutter />
       <Routes>
         <Route element={<SiteLayout />}>
           <Route index element={<HomePage />} />

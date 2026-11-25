@@ -39,12 +39,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/2a93c6933711.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "There are 2 specific types of CWG",
@@ -56,16 +51,7 @@
         "1.2/50 ms (voltage surge) 8/20 ms (current surge): This is for testing of all other cases, such as short distance signal connections and power lines."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/36367fe14b9b.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/250a13d84cbe.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "IEC 61000-4-5",
@@ -182,20 +168,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/993d5aaf3ec6.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/8dc31f25d6f0.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/3638f3d340a0.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Features of 10/700 µs CWG",
@@ -281,20 +254,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/6e9c36dbbe85.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/6a90df00c77c.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/calibration-of-surge-generator/0c0957c4d47d.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

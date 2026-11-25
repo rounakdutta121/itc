@@ -29,31 +29,49 @@
         "IEC 60601-1 defines electromedical products as, ‘equipment provided with no more than one connection to a particular supply mains and intended to diagnose, treat or monitor the patient under medical supervision, and which makes physical or electrical contact with the patient and/or detects such energy transfer to or from the patient.’",
         "IEC 60601-1 has become a global benchmark for electrical medical equipment and many companies view compliance with it as de-facto requirement for most markets."
       ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Some of the medical equipments covered are:",
+      "paragraphs": [],
       "bullets": [
         "Patient ventilators",
         "Medical lasers",
         "Patient monitors",
         "High frequency surgical equipment",
-        "Cardiac Defibrillators etc.",
+        "Cardiac Defibrillators etc."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Some of the risks related to medical equipment are:",
+      "paragraphs": [],
+      "bullets": [
         "Excessive current may lead to an electric shock to the patient or user.",
         "Probability of burns, caused by high frequency surgical equipment.",
         "Increase respiration by pressure caused by abnormal working of ventilators",
-        "Ventricular fibrillation (VF), caused by leak currents of devices etc.",
+        "Ventricular fibrillation (VF), caused by leak currents of devices etc."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Some of the requirements of the standard are:",
+      "paragraphs": [],
+      "bullets": [
         "Mechanical requirements: The enclosure of the device should be sufficiently strong to stand the wear and tear of normal use.",
         "Markings: IEC has defined a list of details that must be specified on the product’s name tag. It should include the information of the manufacturer, its electrical requirements, model number etc.",
         "Earthing: It refers to how the device is connected to the earth or safety ground connection of an electrical power supply to ensure safety is provided in the event of an electrical fault.",
         "Electrical: The standard requires that the medical device operate safely both in normal conditions as well as in the event of ‘single fault’."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/iec-60601-testing/21ccfaa8436e.webp",
-          "alt": "IEC 60601 testing"
-        }
-      ]
+      "images": []
     },
     {
-      "heading": "Earth Leakage Current Test",
+      "heading": "Why Chose ITC?",
       "paragraphs": [],
       "bullets": [
         "ITC India Pvt Ltdis an NABL accredited laboratory to test Medical equipments as per IEC 60601-1.",

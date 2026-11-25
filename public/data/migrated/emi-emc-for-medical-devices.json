@@ -20,82 +20,51 @@
   "source": "https://www.itcindia.org/emi-emc-for-medical-devices/",
   "ok": true,
   "title": "EMI/EMC for Medical Devices - Electrical Safety Testing Laboratory",
-  "h1": "EMI/EMC for Medical Devices",
+  "h1": "Electrical Safety Testing Laboratory",
   "description": "Get your Medical product EMI/EMC 📞 Call Us: +91 9316473033 | ✉️ Email: info@itcindia.orgThank you for reading this post, don't forget to subscribe! Reliable EMI/EMC Testing for Medical Products At ITC India Pvt Ltd, we specialize in EMI (Electromagnetic Interference) and EMC (Electromagnetic Compatibility) testing, offering world-class services tailored for medical equipment manufacturers. With increasing…Read More+",
   "sections": [
     {
       "heading": "Get your Medical product EMI/EMC",
       "paragraphs": [
-        "📞 Call Us: +91 9316473033 | ✉️ Email: info@itcindia.org",
+        "📞 Call Us: +91 9316473033 | ✉️ Email: info@itcindia.org"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Reliable EMI/EMC Testing for Medical Products",
+      "paragraphs": [
         "At ITC India Pvt Ltd, we specialize in EMI (Electromagnetic Interference) and EMC (Electromagnetic Compatibility) testing, offering world-class services tailored for medical equipment manufacturers. With increasing regulations and technological complexity in the healthcare sector, ensuring electromagnetic safety and compliance is not just mandatory—it’s critical.",
         "Whether you’re launching a new medical device or entering new global markets, we help you meet international standards such as IEC 60601, CISPR 11, FCC Part 18, and ISO 14971."
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/emi-emc-for-medical-devices/684f85c7cb59.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
-      "heading": "✅ Our EMI/EMC Testing Capabilities",
+      "heading": "Pre-Compliance Evaluation & Debugging",
       "paragraphs": [
         "All testing is conducted in our state-of-the-art anechoic chambers equipped with the latest equipment, operated by NABL-accredited engineers."
       ],
-      "bullets": [
-        "Conducted & Radiated Emissions Testing",
-        "Radiated Immunity Testing",
-        "Electrostatic Discharge (ESD) Testing",
-        "Magnetic Field Immunity",
-        "Surge & Electrical Fast Transients (EFT)",
-        "Harmonics & Flicker Testing",
-        "Pre-Compliance Evaluation & Debugging"
-      ],
+      "bullets": [],
       "tables": [],
       "images": []
     },
     {
-      "heading": "💼 Industries We Serve",
-      "paragraphs": [],
-      "bullets": [
-        "Diagnostic Equipment",
-        "Imaging Systems (MRI, CT, Ultrasound)",
-        "Patient Monitoring Devices",
-        "Wearable Medical Technology",
-        "Life-Support Systems",
-        "Hospital Automation Products"
-      ],
-      "tables": [],
-      "images": []
-    },
-    {
-      "heading": "🌐 Why Choose ITC India Pvt Ltd?",
+      "heading": "On-Site Testing & Remote Consultation Available",
       "paragraphs": [
         "We serve companies across India and Southeast Asia, supporting both startups and multinational OEMs."
       ],
-      "bullets": [
-        "ISO/IEC 17025 Accredited Lab",
-        "15+ Years of Industry Experience",
-        "Fast Turnaround & Detailed Reporting",
-        "Expert Assistance with Certification & Regulatory Submissions",
-        "On-Site Testing & Remote Consultation Available"
-      ],
+      "bullets": [],
       "tables": [],
       "images": []
     },
     {
-      "heading": "📊 Compliance Standards We Support",
-      "paragraphs": [
-        "🔗 <a href=\"#\">Download EMC Testing Checklist for Medical Devices (PDF)</a>"
-      ],
+      "heading": "IEC 60601-1-2 (Medical Electrical Equipment EMC)",
+      "paragraphs": [],
       "bullets": [
-        "IEC 60601-1-2 (Medical Electrical Equipment EMC)",
-        "EN 55011 / CISPR 11",
-        "FCC CFR Title 47",
-        "ISO 13485 & CE Marking EMC Requirements",
-        "IEC 61000-4 Series"
+        "EN 55011 / CISPR 11"
       ],
       "tables": [],
       "images": []
@@ -107,22 +76,6 @@
         "📞 Call Us: +91 9316473033 📧 Email: info@itcindia.org 📍 Visit Us: <a href=\"/\">www.itcindia.org</a>"
       ],
       "bullets": [],
-      "tables": [],
-      "images": []
-    },
-    {
-      "heading": "🔗 Helpful Links",
-      "paragraphs": [
-        "External Resources:"
-      ],
-      "bullets": [
-        "<a href=\"#\">About Us</a>",
-        "<a href=\"#\">Certifications &amp; Accreditations</a>",
-        "<a href=\"#\">Client Success Stories</a>",
-        "International Electrotechnical Commission – IEC",
-        "Medical Device Regulations – CDSCO India",
-        "FDA – EMC Guidance for Medical Devices"
-      ],
       "tables": [],
       "images": []
     }

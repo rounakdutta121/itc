@@ -86,12 +86,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/emc-emi-testing/1d9d068b3f88.webp",
-          "alt": "emc testing"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "EMC = EME + EMI",
@@ -100,12 +95,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/emc-emi-testing/b75c9a08ead9.webp",
-          "alt": "emission testing"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "1. Equipment to equipment",
@@ -226,12 +216,7 @@
         "A lab"
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/emc-emi-testing/8ed17f80d364.jpg",
-          "alt": "EMC pre-compliance testing"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Equipment Co-op",
@@ -264,24 +249,14 @@
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/emc-emi-testing/4d903a8f8cac.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "EMI EMC standard for testing: IEC 61000",
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/emc-emi-testing/0c7a1a34d911.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

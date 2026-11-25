@@ -29,7 +29,7 @@ IMG_ROOT = ROOT / "public" / "images" / "migrated"
 BASE = "https://www.itcindia.org"
 UA = "Mozilla/5.0 (compatible; ITCIndiaMigrator/1.0)"
 MAX_WORKERS = 3
-MAX_IMAGES = 36
+MAX_IMAGES = 48
 
 STOP_HEADINGS = re.compile(
     r"^(other testing services|itc training|inquiry for testing|subscribe|contact us|"
@@ -249,7 +249,7 @@ class FullPageParser(HTMLParser):
             self._related_label_parts = []
             return
 
-        if tag in ("h2", "h3") and self._capture is None:
+        if tag in ("h2", "h3", "h4") and self._capture is None:
             self._capture = tag
             self._parts = []
             self._link_href = None
@@ -365,14 +365,14 @@ class FullPageParser(HTMLParser):
                 self.blocks.append({"type": "table", "headers": headers, "rows": body})
             return
 
-        if self._capture in ("title", "h1", "h2", "h3", "p", "li") and tag == self._capture:
+        if self._capture in ("title", "h1", "h2", "h3", "h4", "p", "li") and tag == self._capture:
             raw = re.sub(r"\s+", " ", "".join(self._parts)).strip()
             text_plain = plain(raw)
             if self._capture == "title" and text_plain:
                 self.title = text_plain
             elif self._capture == "h1" and text_plain and not self.h1:
                 self.h1 = text_plain
-            elif self._capture in ("h2", "h3") and text_plain:
+            elif self._capture in ("h2", "h3", "h4") and text_plain:
                 if STOP_HEADINGS.match(text_plain) or RELATED_HEADING.search(text_plain):
                     # Harvest "Other Testing Services" / related widgets; ignore chrome headings
                     if RELATED_HEADING.search(text_plain):
@@ -435,7 +435,7 @@ class FullPageParser(HTMLParser):
         if not self._capture:
             return
         # Allow heading text capture inside aside/chrome for stop/related detection
-        if self._capture in ("title", "h1", "h2", "h3"):
+        if self._capture in ("title", "h1", "h2", "h3", "h4"):
             if self.in_script or self.in_style:
                 return
             self._parts.append(data)
@@ -721,7 +721,12 @@ def extract_related(
     return out
 
 
-def process_pack(fp: Path) -> dict:
+def process_pack(
+    fp: Path,
+    *,
+    force: bool = False,
+    text_only: bool = False,
+) -> dict:
     data = json.loads(fp.read_text(encoding="utf-8"))
     path = data.get("path") or "/"
     slug = data.get("slug") or fp.stem
@@ -748,12 +753,19 @@ def process_pack(fp: Path) -> dict:
     old_paras = sum(len(s.get("paragraphs") or []) for s in old_sections)
     old_bullets = sum(len(s.get("bullets") or []) for s in old_sections)
 
-    # Never overwrite a pack with an empty/weaker scrape
-    new_weight = n_paras + n_bullets + n_tables * 2
-    old_weight = old_paras + old_bullets
-    if new_weight == 0 or (old_weight > 0 and new_weight < max(2, old_weight // 3)):
+    # Never overwrite a pack with an empty scrape; weaker guard unless --force
+    new_weight = n_paras + n_bullets + n_tables * 2 + len(sections)
+    old_weight = old_paras + old_bullets + len(old_sections)
+    if new_weight == 0:
+        print("SKIP empty", path, "old", old_weight)
+        return {"path": path, "ok": False, "reason": "empty"}
+    if (
+        not force
+        and old_weight > 0
+        and new_weight < max(2, old_weight // 3)
+    ):
         print(
-            "SKIP empty/weaker",
+            "SKIP weaker",
             path,
             "new",
             new_weight,
@@ -762,17 +774,27 @@ def process_pack(fp: Path) -> dict:
         )
         return {"path": path, "ok": False, "reason": "empty_or_weaker"}
 
-    remote_imgs = []
-    if parser.og_image:
-        remote_imgs.append({"src": parser.og_image, "alt": parser.h1 or ""})
-    remote_imgs.extend(parser.images)
-    # Also collect image refs from section blocks already in order
-    for sec in sections:
-        for im in sec.get("images") or []:
-            remote_imgs.append(im)
+    local_images = data.get("images") or data.get("scrapedImages") or []
+    if text_only:
+        # Keep existing localized images; drop unresolved remote section imgs
+        for sec in sections:
+            kept = []
+            for im in sec.get("images") or []:
+                src = im.get("src") or ""
+                if src.startswith("/images/"):
+                    kept.append(im)
+            sec["images"] = kept
+    else:
+        remote_imgs = []
+        if parser.og_image:
+            remote_imgs.append({"src": parser.og_image, "alt": parser.h1 or ""})
+        remote_imgs.extend(parser.images)
+        for sec in sections:
+            for im in sec.get("images") or []:
+                remote_imgs.append(im)
 
-    local_images, mapping = localize_images(live, remote_imgs, slug)
-    sections = remap_section_images(sections, mapping, live)
+        local_images, mapping = localize_images(live, remote_imgs, slug)
+        sections = remap_section_images(sections, mapping, live)
 
     title = parser.title or parser.h1 or data.get("title") or slug
     title = re.sub(r"\s*[|\-–—]\s*ITC India.*$", "", title, flags=re.I).strip() or title
@@ -830,6 +852,7 @@ def process_pack(fp: Path) -> dict:
         n_tables,
         "imgs",
         len(local_images),
+        "text_only" if text_only else "full",
     )
     return {
         "path": path,
@@ -864,6 +887,16 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--all", action="store_true", help="Re-scrape every pack")
     parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Overwrite even when the new scrape is lighter than the old pack",
+    )
+    parser.add_argument(
+        "--text-only",
+        action="store_true",
+        help="Refresh title/sections/FAQs only; keep existing localized images",
+    )
+    parser.add_argument(
         "--only",
         nargs="*",
         metavar="SLUG",
@@ -888,10 +921,24 @@ def main():
             return
     elif not args.all:
         packs = [p for p in packs if needs_rescrape(p)]
-    print("full-scraping", len(packs), "packs")
+    print(
+        "full-scraping",
+        len(packs),
+        "packs",
+        "force" if args.force else "safe",
+        "text-only" if args.text_only else "with-images",
+    )
     ok = fail = 0
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
-        futs = {ex.submit(process_pack, fp): fp for fp in packs}
+        futs = {
+            ex.submit(
+                process_pack,
+                fp,
+                force=args.force or args.all,
+                text_only=args.text_only,
+            ): fp
+            for fp in packs
+        }
         for fut in as_completed(futs):
             res = fut.result()
             if res.get("ok"):

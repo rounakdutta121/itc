@@ -33,12 +33,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/drone-information-security-testing/5c61dcc4ef64.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "1.1 Top Drone Security Risks",
@@ -139,12 +134,7 @@
         "Use it for competitive advantage. Having “cyber-assured drone operations” is a strong differentiator for enterprise, public-sector, regulated environments."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/drone-information-security-testing/67ca434749eb.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "4. Integrating Fault Detection and Runtime Verification",
@@ -157,12 +147,7 @@
         "We provide advisory services on how to integrate these into your drone-fleet management process, select appropriate sensors/alarms, define anomaly thresholds, link to your SOC (Security Operations Centre) or incident-response team."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/drone-information-security-testing/c5b49fb419ec.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "5. Tools and Technologies Used",
@@ -236,12 +221,7 @@
         "Integration with IoT / smart-cities / digital-twins: As drones become part of broader digital ecosystems, their cyber-risk becomes intertwined with the urban/industrial infrastructure."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/drone-information-security-testing/ecdfde24ee18.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Q1. How long does a drone security test take?",

@@ -29,12 +29,7 @@
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/anti-rodent-test-for-cables/1a2eb4c3969c.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Protect Your Products from Rodent Damage – by ITC India Pvt Ltd",
@@ -43,12 +38,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/anti-rodent-test-for-cables/def0ef35a094.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Automotive Component Evaluation",
@@ -77,6 +67,13 @@
       "paragraphs": [
         "IS 9938 and industry best practices for cable against anti rodent test."
       ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Key Parameters:",
+      "paragraphs": [],
       "bullets": [
         "Rodent Species: Rattus rattus / Bandicota bengalensis",
         "Test Duration: 7–21 days",

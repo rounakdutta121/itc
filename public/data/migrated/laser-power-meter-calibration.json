@@ -31,12 +31,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/laser-power-meter-calibration/cb3102cc96f5.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "💡 Why Calibration Matters More Than You Think",
@@ -55,12 +50,7 @@
         "Calculating the Calibration Factor The difference between the reference meter and your power meter is the calibration factor. Some meters allow you to input this factor directly, while others may require you to apply it during data analysis."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/laser-power-meter-calibration/60486653f500.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "📉 How Often Should You Calibrate? The Frequency Formula",

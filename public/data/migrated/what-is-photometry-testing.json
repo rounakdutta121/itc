@@ -64,32 +64,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/what-is-photometry-testing/3348d2406005.jpg",
-          "alt": "Luminous Flux"
-        },
-        {
-          "src": "/images/migrated/what-is-photometry-testing/94606cd81296.jpg",
-          "alt": "Illuminance"
-        },
-        {
-          "src": "/images/migrated/what-is-photometry-testing/6ab49b8ca33a.jpg",
-          "alt": "Luminance Exitance"
-        },
-        {
-          "src": "/images/migrated/what-is-photometry-testing/ce8dddfbd264.jpg",
-          "alt": "Luminance intensity"
-        },
-        {
-          "src": "/images/migrated/what-is-photometry-testing/4eb1809b4a1f.jpg",
-          "alt": "Luminance energy"
-        },
-        {
-          "src": "/images/migrated/what-is-photometry-testing/c705f7440f2e.jpg",
-          "alt": "Luminance"
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

@@ -27,12 +27,7 @@
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/flicker-test-on-led-luminaries/422df129ebee.webp",
-          "alt": "Flicker Test on LED Luminaries"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "What is Flicker?",
@@ -80,12 +75,7 @@
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/flicker-test-on-led-luminaries/9764eaf209f4.webp",
-          "alt": "SIMPLE PERIODIC WAVEFORM PROPERTIES and FLICKER METRICS"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Instrument to measure Flicker metrics",
@@ -95,12 +85,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/flicker-test-on-led-luminaries/cfd899628cd6.webp",
-          "alt": "Instrument to measure Flicker metrics"
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

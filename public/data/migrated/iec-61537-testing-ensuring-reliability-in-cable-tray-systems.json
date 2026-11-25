@@ -25,42 +25,97 @@
     {
       "heading": "Overview",
       "paragraphs": [
-        "When it comes to cable management in electrical installations, safety and reliability aren’t optional—they’re essential. That’s where IEC 61537 steps in. This international standard outlines the requirements and tests for cable tray systems used for electrical installations. Whether you’re a manufacturer, contractor, or quality assurance engineer, understanding the testing behind IEC 61537 can help ensure your systems meet global safety benchmarks.",
-        "IEC 61537 is the international standard developed by the International Electrotechnical Commission (IEC). It applies to cable tray systems and cable ladder systems designed for the support and accommodation of cables and possibly other electrical equipment in installations.",
-        "It covers a wide range of metallic and non-metallic materials, focusing on performance, mechanical strength, and safety compliance.",
-        "The standard outlines multiple tests, each targeting a specific aspect of cable tray performance. Here are the most critical ones:",
-        "Although not always mandatory, fire performance testing is crucial in high-risk environments (e.g., data centers, industrial plants). IEC 61537 references how trays should behave under flame exposure.",
-        "Failure to meet IEC 61537 testing criteria could lead to:"
+        "When it comes to cable management in electrical installations, safety and reliability aren’t optional—they’re essential. That’s where IEC 61537 steps in. This international standard outlines the requirements and tests for cable tray systems used for electrical installations. Whether you’re a manufacturer, contractor, or quality assurance engineer, understanding the testing behind IEC 61537 can help ensure your systems meet global safety benchmarks."
       ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🔍 What is IEC 61537?",
+      "paragraphs": [
+        "IEC 61537 is the international standard developed by the International Electrotechnical Commission (IEC). It applies to cable tray systems and cable ladder systems designed for the support and accommodation of cables and possibly other electrical equipment in installations.",
+        "It covers a wide range of metallic and non-metallic materials, focusing on performance, mechanical strength, and safety compliance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🧪 Key Testing Procedures in IEC 61537",
+      "paragraphs": [
+        "The standard outlines multiple tests, each targeting a specific aspect of cable tray performance. Here are the most critical ones:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "1. Mechanical Load Testing",
+      "paragraphs": [],
       "bullets": [
         "Purpose: To ensure the tray can handle the weight of cables plus an additional safety margin.",
         "How it’s done: Sample trays are loaded with weights incrementally to test deflection and structural integrity under pressure.",
-        "Pass criteria: The tray must not deform beyond a specified limit and must not exhibit signs of permanent damage.",
+        "Pass criteria: The tray must not deform beyond a specified limit and must not exhibit signs of permanent damage."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "2. Electrical Continuity Testing",
+      "paragraphs": [],
+      "bullets": [
         "Purpose: Vital for metallic cable trays that may serve as an earthing path.",
         "Test method: A low-resistance ohmmeter measures the resistance across joints and fittings.",
-        "Required result: Electrical continuity must be ≤ 0.1 Ω, confirming a reliable earthing path.",
+        "Required result: Electrical continuity must be ≤ 0.1 Ω, confirming a reliable earthing path."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3. Corrosion Resistance Testing",
+      "paragraphs": [],
+      "bullets": [
         "For outdoor or industrial environments, corrosion resistance is key.",
         "Salt spray testing (ISO 9227, referenced in IEC 61537) is used to simulate long-term exposure to corrosive atmospheres.",
-        "Evaluation: Visual inspection and measurement of material degradation over time.",
+        "Evaluation: Visual inspection and measurement of material degradation over time."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4. Impact Testing",
+      "paragraphs": [],
+      "bullets": [
         "Purpose: To simulate accidental knocks or impacts during installation or use.",
         "Method: Dropping a standard weight from a defined height onto the tray.",
-        "Standard Result: The tray should retain its structural integrity without cracks or severe deformation.",
+        "Standard Result: The tray should retain its structural integrity without cracks or severe deformation."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "5. Fire Resistance and Flame Propagation",
+      "paragraphs": [
+        "Although not always mandatory, fire performance testing is crucial in high-risk environments (e.g., data centers, industrial plants). IEC 61537 references how trays should behave under flame exposure."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "🧰 Why This Matters in Real Installations",
+      "paragraphs": [
+        "Failure to meet IEC 61537 testing criteria could lead to:"
+      ],
+      "bullets": [
         "Electrical faults due to poor grounding",
         "Cable damage from sagging trays",
         "Unsafe installations prone to collapse",
         "Increased risk in fire-prone environments"
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/iec-61537-testing-ensuring-reliability-in-cable-tray-systems/d1d70a3d77d4.webp",
-          "alt": "This image has an empty alt attribute; its file name is types-of-cable-trays.jpg"
-        },
-        {
-          "src": "/images/migrated/iec-61537-testing-ensuring-reliability-in-cable-tray-systems/ab3233349121.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "🧩 IEC 61537 vs. Other Standards",

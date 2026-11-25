@@ -23,13 +23,11 @@
   "description": "Privacy Policy of ITC India",
   "sections": [
     {
-      "heading": "Policy, Mission & Goal of the Company",
+      "heading": "Laboratory policy",
       "paragraphs": [
         "It is our aim to be viewed by our customers as the best providers of reliable testing services in the electrical fields.",
         "For this purpose, we are committed to operate a business management policy driven by the following principles and behaviors:",
-        "We will endeavor to implement and support this policy at all levels through the induction training for all the employees.",
-        "ITC India has served the Electrical industry since 2002. We are committed to serving the industry with a qualified facility and a staff devoted to the highest standards of quality and excellent customer service. Our continued growth comes as a result of our commitment to working together with our clients to assure mutual success at the most economical rate possible.",
-        "Provide ITC India clients with a level of confidence and capabilities not available with any other test laboratory. In addition, we are committed to meeting the client’s needs with competitive pricing, reasonable lead-times, thereby satisfying the client’s goals."
+        "We will endeavor to implement and support this policy at all levels through the induction training for all the employees."
       ],
       "bullets": [
         "Build a mutually profitable relationship with our customers through the understanding of their needs and the research of their satisfaction.",
@@ -38,6 +36,24 @@
         "Develop staff competencies, creativity and accountability through appropriate development programs and show management involvement and commitment.",
         "Promote teamwork and use of common language and processes."
       ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Mission Statement",
+      "paragraphs": [
+        "ITC India has served the Electrical industry since 2002. We are committed to serving the industry with a qualified facility and a staff devoted to the highest standards of quality and excellent customer service. Our continued growth comes as a result of our commitment to working together with our clients to assure mutual success at the most economical rate possible."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Our Goal:",
+      "paragraphs": [
+        "Provide ITC India clients with a level of confidence and capabilities not available with any other test laboratory. In addition, we are committed to meeting the client’s needs with competitive pricing, reasonable lead-times, thereby satisfying the client’s goals."
+      ],
+      "bullets": [],
       "tables": [],
       "images": []
     }

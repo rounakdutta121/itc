@@ -46,7 +46,15 @@
         "calculation tool",
         "results",
         "same process at the different temperatures",
-        "The calculation from the actual temperature testing point – actual temperature is between two temperatures getting from the data for example let us have an Lm 80 data",
+        "The calculation from the actual temperature testing point – actual temperature is between two temperatures getting from the data for example let us have an Lm 80 data"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Step 1: Normalize and average all data",
+      "paragraphs": [],
+      "bullets": [
         "Use all data LM 80 requires 6,000 hours with data at 1,000 hour increments",
         "TM 21 applies all the test data at any increment",
         "Normalize all data to 1 (100 %) at 0 hours",
@@ -54,49 +62,49 @@
         "Variance associated with multiple samples is not considered usable for projection."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/what-is-tm-21/528953c68347.png",
-          "alt": "Lm 80 data"
-        },
-        {
-          "src": "/images/migrated/what-is-tm-21/fda4ea482428.png",
-          "alt": "Sample Size"
-        }
-      ]
+      "images": []
+    },
+    {
+      "heading": "Step 2 : Sample Size",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": []
     },
     {
       "heading": "Sample Size",
       "paragraphs": [
         "Step 3: Use latest data for curve fit",
-        "Step 4: Curve fit and projection",
-        "Adjust results (X- times rule)",
+        "Step 4: Curve fit and projection"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Step 5: Adjust results (X- times rule)",
+      "paragraphs": [
+        "Adjust results (X- times rule)"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Step 6 Interpolation of the result",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Step 7 Result reporting notation",
+      "paragraphs": [
         "ITC India Pvt Ltd is a NABL approved laboratory in Electrical, Electronics and photometry with a huge scope in all the fields. Please visit <a href=\"/\">www.itcindia.org</a> for scope."
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/what-is-tm-21/08de67e9fa37.png",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/what-is-tm-21/6fd82a57fdc4.png",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/what-is-tm-21/e980bf685d15.png",
-          "alt": "Step 5: Adjust results (X- times rule)"
-        },
-        {
-          "src": "/images/migrated/what-is-tm-21/b38cbebea6e9.png",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/what-is-tm-21/c56a18733308.png",
-          "alt": ""
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

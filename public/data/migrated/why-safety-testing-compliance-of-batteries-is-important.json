@@ -33,12 +33,7 @@
         "Exposed to high temperature or humidity"
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/why-safety-testing-compliance-of-batteries-is-important/e6c83aa033e1.webp",
-          "alt": "battery testing"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Effect on User",
@@ -57,7 +52,15 @@
       "bullets": [
         "degrade the cost",
         "Degrade in market with no reputation",
-        "Less sale /No sale",
+        "Less sale /No sale"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Hazards associated with Secondary batteries",
+      "paragraphs": [],
+      "bullets": [
         "The Electrical & Chemical hazards Spillage: hazard linked to the corrosive and flammable properties of the electrolyte.",
         "Toxic or harmful Gas Emission like CO.",
         "Fire"

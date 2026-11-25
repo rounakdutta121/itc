@@ -51,12 +51,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/mil-std-810-g-test-method-505-5-solar-radiation-sunshine/23507c2af67d.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Limitations",
@@ -81,7 +76,15 @@
         "Step 4. Adjust the chamber air temperature to standard ambient conditions and maintain until temperature stabilization of the test item has been achieved.",
         "Step 5. Conduct a complete visual examination of the test item and document the results. For comparison between pre- and post test items, photograph the test item and take material samples (if required).",
         "Step 6. Conduct an operational checkout of the test item as in paragraph 4.4.1.2, Step 5. See paragraph 5 for analysis of results.",
-        "Step 7. Compare these data with the pretest data.",
+        "Step 7. Compare these data with the pretest data."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Procedure II – Steady State",
+      "paragraphs": [
         "Step 1. Adjust the chamber air temperature to 49°C (120°F) or the temperature identified in the test plan.",
         "Step 2. Adjust the solar radiation source to a radiant energy rate of 1120 ±47 W/m2 or as identified in the materiel specification. Use sufficient air speed to maintain the test item temperature to the peak response temperature obtained in procedure I or obtained from field data.",
         "Step 3. Maintain these conditions for 20 hours, measuring and recording the test item temperatures. If required, conduct operational checks during the last four hours of each 20-hour exposure when test temperatures are maximized. If the test item fails to operate as intended, follow the guidance in paragraph 4.3.2 for test item failure.",

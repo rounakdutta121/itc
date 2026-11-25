@@ -72,20 +72,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/power-supply-equipment-testing/0177a8524969.jpg",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/power-supply-equipment-testing/f128267145b0.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/power-supply-equipment-testing/ed16587e484d.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Earth Provision",
@@ -138,12 +125,7 @@
           "rows": []
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/power-supply-equipment-testing/34801ac14134.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

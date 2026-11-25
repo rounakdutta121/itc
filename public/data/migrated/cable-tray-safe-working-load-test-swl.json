@@ -25,7 +25,28 @@
     {
       "heading": "Cable tray/ Protective castings must be designed to the below said ambient temperatures",
       "paragraphs": [
-        "Safe working load is one of the mechanical requirements assigned to meet by the cable tray/ protective castings. Another mechanical requirement is the Impact resistance Test. But in this article we are focusing on Safe Working Load. Testing must be performed at the above declared temperatures.",
+        "Safe working load is one of the mechanical requirements assigned to meet by the cable tray/ protective castings. Another mechanical requirement is the Impact resistance Test. But in this article we are focusing on Safe Working Load. Testing must be performed at the above declared temperatures."
+      ],
+      "bullets": [
+        "-25 ºC to 90 ºC for outdoor use",
+        "+5 ºC to 90 ºC for indoor use."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "The criteria that a cable tray must satisfy are:",
+      "paragraphs": [],
+      "bullets": [
+        "The maximum deflection should not exceed L/100 where L is the distance between the supports.",
+        "No mechanical defects or failure are observed when tested at 1.7 * SWL."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "How to place the Loads :",
+      "paragraphs": [
         "All the loads must be uniformly distributed (UDL) over the length and width of the sample. The loads have to be applied in a way that uniform distribution is ensured even in case of extreme deformation of the sample. For settlement of the samples, a pre load of 10 % of the test load unless otherwise specified, should be calibrated to zero.",
         "Cable tray Safe Working Load Test (SWL)",
         "The gradually increase the load longitudinally and transversely up to the test load continuously or in increments. These increments should not exceed about a quarter of the SWL.",
@@ -38,12 +59,7 @@
         "Trays lengths or cable ladder lengths, having the same material, joint and",
         "Topological shape."
       ],
-      "bullets": [
-        "-25 ºC to 90 ºC for outdoor use",
-        "+5 ºC to 90 ºC for indoor use.",
-        "The maximum deflection should not exceed L/100 where L is the distance between the supports.",
-        "No mechanical defects or failure are observed when tested at 1.7 * SWL."
-      ],
+      "bullets": [],
       "tables": [],
       "images": []
     },

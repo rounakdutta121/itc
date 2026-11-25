@@ -88,16 +88,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/11b4777d0a7d.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/flame-testing-on-cable-iec-60332-1-2-iec-60332-1-1/7494b96fdef8.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Table 1 (Time for flame application)",

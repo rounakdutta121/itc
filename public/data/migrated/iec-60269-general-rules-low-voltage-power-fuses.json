@@ -150,12 +150,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/9e50db473b7e.webp",
-          "alt": "Application category & time current characteristics"
-        }
-      ]
+      "images": []
     },
     {
       "heading": "For example",
@@ -169,16 +164,7 @@
         "NH Fuses: They have blade style terminals with oblong body. They are generally used in electrical substations , junction box and distribution board."
       ],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/2f274a7b8d5b.webp",
-          "alt": "D(diazed) type fuse"
-        },
-        {
-          "src": "/images/migrated/iec-60269-general-rules-low-voltage-power-fuses/c73fc08d287d.webp",
-          "alt": "NH Fuses"
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

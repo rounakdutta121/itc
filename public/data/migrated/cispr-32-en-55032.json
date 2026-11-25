@@ -27,12 +27,7 @@
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/cispr-32-en-55032/2a64615f5f18.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "CISPR 32/ EN 55032",
@@ -45,7 +40,7 @@
       "images": []
     },
     {
-      "heading": "Two classes of End-User Terminal Equipment Under Test EUT (Class A and Class B) are considered.",
+      "heading": "The aims of the standard are:",
       "paragraphs": [],
       "bullets": [
         "To establish requirements which provide an adequate level of protection of the radio spectrum allowing radio services to operate as intended in the frequency range 9 kHz to 400 GHz;",
@@ -59,36 +54,21 @@
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/cispr-32-en-55032/49d4630fca89.png",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Radiated Emissions below 1 GHz",
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/cispr-32-en-55032/6e53d51d63cf.png",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Radiated Emissions above 1 GHz",
       "paragraphs": [],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/cispr-32-en-55032/74dbe3e47e3a.png",
-          "alt": ""
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

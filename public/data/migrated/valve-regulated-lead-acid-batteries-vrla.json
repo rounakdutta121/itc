@@ -27,9 +27,15 @@
       "paragraphs": [
         "Valve regulated Lead Acid Batteries (VRLA) or Sealed Lead Acid (SLA)",
         "ITC India pvt ltd is a NABL / BIS approved test lab and is testing all kinds of batteries as per IEC/ IS and EN standards. Get your batteries tested and enhance your business by getting a valid test report IS 15549. As the use of VRLA batteries is increasing in application like SLI, Motive power, Electric vehicle, they are definitely going to dominate others. For more information email info@itcindia.org.",
-        "VRLA batteries are designed for UPS and for backup of telecommunication systems. This construction is designed to prevent electrolyte evaporation, spillage and gassing. Due to these features it has good life and is easy to maintain. The emission of hydrogen gas is used internally. These batteries are designed to retain and recombine these gases. The excess pressure is releases by a valve installed in VRLA battery.",
-        "IS 15549 is a IS Standard for Sealed lead acid batteries and are tested in ITC India Pvt Ltd. Here is a list of tests that are performed on such batteries."
+        "VRLA batteries are designed for UPS and for backup of telecommunication systems. This construction is designed to prevent electrolyte evaporation, spillage and gassing. Due to these features it has good life and is easy to maintain. The emission of hydrogen gas is used internally. These batteries are designed to retain and recombine these gases. The excess pressure is releases by a valve installed in VRLA battery."
       ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Features and advantages of LEAD ACID batteries",
+      "paragraphs": [],
       "bullets": [
         "Low cost",
         "Can be recycled, reliable, robust",
@@ -38,7 +44,17 @@
         "No periodic topping of electrolyte",
         "Can be used vertically or horizontally.",
         "They occupy less space as can be placed over other battery in stack able steel racks.",
-        "Better than conventional lead acid batteries.",
+        "Better than conventional lead acid batteries."
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Short coming",
+      "paragraphs": [
+        "IS 15549 is a IS Standard for Sealed lead acid batteries and are tested in ITC India Pvt Ltd. Here is a list of tests that are performed on such batteries."
+      ],
+      "bullets": [
         "Bulky",
         "Danger of overheating while charging",
         "Cannot be charged quickly",
@@ -98,12 +114,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/valve-regulated-lead-acid-batteries-vrla/76f28b524049.webp",
-          "alt": "VRLA"
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

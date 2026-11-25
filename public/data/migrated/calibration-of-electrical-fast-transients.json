@@ -80,12 +80,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/calibration-of-electrical-fast-transients/05b004f52466.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Ratio with KW50 -> 1:400",
@@ -95,12 +90,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/calibration-of-electrical-fast-transients/8e0729ce9d93.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "Ratio with KW1000 -> 1:1000",
@@ -328,16 +318,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/calibration-of-electrical-fast-transients/9c625cd7d4e4.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/calibration-of-electrical-fast-transients/5a7801eaed67.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     }
   ],
   "images": [

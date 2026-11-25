@@ -32,12 +32,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/reach-certification-services/b1d91fc47cb6.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "🌍 What is REACH Certification?",
@@ -64,6 +59,13 @@
       "paragraphs": [
         "With over 20 years of regulatory expertise, ITC India Pvt Ltd offers end-to-end REACH compliance services, including technical documentation, risk assessment, and Only Representative (OR) liaison."
       ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "💼 Our REACH Services Include:",
+      "paragraphs": [],
       "bullets": [
         "Substance identification and classification",
         "Safety Data Sheet (SDS) preparation",

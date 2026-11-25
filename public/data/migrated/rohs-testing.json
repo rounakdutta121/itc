@@ -65,16 +65,7 @@
           ]
         }
       ],
-      "images": [
-        {
-          "src": "/images/migrated/rohs-testing/93d9710d8276.webp",
-          "alt": ""
-        },
-        {
-          "src": "/images/migrated/rohs-testing/7a258d59f744.jpg",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "What is RoHS Compliance?",

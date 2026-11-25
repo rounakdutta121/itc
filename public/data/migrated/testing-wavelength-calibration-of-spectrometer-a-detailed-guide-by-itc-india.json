@@ -45,12 +45,7 @@
       ],
       "bullets": [],
       "tables": [],
-      "images": [
-        {
-          "src": "/images/migrated/testing-wavelength-calibration-of-spectrometer-a-detailed-guide-by-itc-india/b986fd5c7a02.webp",
-          "alt": ""
-        }
-      ]
+      "images": []
     },
     {
       "heading": "1. Spectrometer",
@@ -79,14 +74,21 @@
     },
     {
       "heading": "➤ Step 1: Lamp-Based Calibration (Emission Line Matching)",
-      "paragraphs": [
-        "λ(p) = I + C₁p + C₂p² + C₃p³ Where λ(p) is the calibrated wavelength at pixel p."
-      ],
+      "paragraphs": [],
       "bullets": [
         "The mercury-argon lamp is activated and aligned with the sample port.",
         "Sharp emission peaks at known wavelengths (e.g., 253.65 nm, 365.02 nm) are recorded.",
         "A third-order polynomial is used to map pixel data to wavelength."
       ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Formula Used:",
+      "paragraphs": [
+        "λ(p) = I + C₁p + C₂p² + C₃p³ Where λ(p) is the calibrated wavelength at pixel p."
+      ],
+      "bullets": [],
       "tables": [],
       "images": []
     },
