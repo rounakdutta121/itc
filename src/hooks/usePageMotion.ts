@@ -5,6 +5,11 @@ import type { RefObject } from 'react'
 
 gsap.registerPlugin(ScrollTrigger, useGSAP)
 
+type PageMotionOptions = {
+  /** Skip heavy ScrollTrigger / Lenis-coupled motion (migrated article pages). */
+  lite?: boolean
+}
+
 /**
  * Unique industrial motion language per section.
  * Rule: always fromTo → visible end state; cleanup resets visibility.
@@ -12,7 +17,9 @@ gsap.registerPlugin(ScrollTrigger, useGSAP)
 export function usePageMotion(
   scope: RefObject<HTMLElement | null>,
   deps: unknown[] = [],
+  options: PageMotionOptions = {},
 ) {
+  const { lite = false } = options
   useGSAP(
     () => {
       const root = scope.current
@@ -23,6 +30,25 @@ export function usePageMotion(
           section.classList.add('is-pattern-on')
         })
         return
+      }
+
+      if (lite) {
+        root.querySelectorAll('.factory-bg').forEach((section) => {
+          section.classList.add('is-pattern-on')
+        })
+        const ctx = gsap.context(() => {
+          gsap.fromTo(
+            '.topbar',
+            { yPercent: -40, opacity: 0.85 },
+            { yPercent: 0, opacity: 1, duration: 0.35, ease: 'power2.out', clearProps: 'all' },
+          )
+          gsap.fromTo(
+            '.nav',
+            { y: -10, opacity: 0.85 },
+            { y: 0, opacity: 1, duration: 0.35, delay: 0.04, ease: 'power2.out', clearProps: 'all' },
+          )
+        }, root)
+        return () => ctx.revert()
       }
 
       const ctx = gsap.context(() => {
@@ -50,7 +76,7 @@ export function usePageMotion(
           .fromTo(
             '.hero__title',
             { clipPath: 'inset(0 0 100% 0)', opacity: 0 },
-            { clipPath: 'inset(0 0 0% 0)', opacity: 1, duration: 0.9 },
+            { clipPath: 'inset(0 0 0% 0)', opacity: 1, duration: 0.9, clearProps: 'clipPath' },
             0.2,
           )
           .fromTo(
@@ -353,8 +379,8 @@ export function usePageMotion(
           },
         )
 
-        // --- Vibration page sections ---
-        if (root.querySelector('.vib')) {
+        // --- Vibration / handcrafted lab pages (not migrated articles) ---
+        if (root.querySelector('.vib:not(.migrated-page)')) {
           const vibHero = gsap.timeline({ defaults: { ease: 'power3.out' } })
           vibHero
             .fromTo(
@@ -721,6 +747,6 @@ export function usePageMotion(
         )
       }
     },
-    { scope, dependencies: deps },
+    { scope, dependencies: [...deps, lite] },
   )
 }

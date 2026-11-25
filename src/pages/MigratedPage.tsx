@@ -300,16 +300,23 @@ function buildSidebarLinks(
 
   for (const item of pack.relatedLinks || []) push(item.href, item.label)
   for (const path of migratedPaths) {
-    if (out.length >= 80) break
+    if (out.length >= 14) break
     push(path, labelFromPath(path))
   }
-  return out
+  return out.slice(0, 14)
 }
 
 function ArticleFigure({ image }: { image: ImageRef }) {
   return (
     <figure className="migrated-article__figure">
-      <img src={image.src} alt={image.alt || ''} width={1200} height={800} loading="lazy" />
+      <img
+        src={image.src}
+        alt={image.alt || ''}
+        width={1200}
+        height={800}
+        loading="lazy"
+        decoding="async"
+      />
       {image.alt ? <figcaption>{image.alt}</figcaption> : null}
     </figure>
   )
@@ -408,6 +415,31 @@ export function MigratedPage() {
     () => (pack ? buildSidebarLinks(pack, currentPath) : []),
     [pack, currentPath],
   )
+  const storySections = useMemo(
+    () => sections.filter((s) => !isFaqSection(s) && !isConclusion(s.heading)),
+    [sections],
+  )
+  const faqSections = useMemo(() => sections.filter(isFaqSection), [sections])
+  const conclusion = useMemo(
+    () => sections.find((s) => isConclusion(s.heading)) || null,
+    [sections],
+  )
+  const { assignedExtras, orphanImages } = useMemo(() => {
+    const ownedSrc = new Set<string>()
+    for (const sec of [...storySections, ...(conclusion ? [conclusion] : [])]) {
+      for (const im of scrapedOnly(sec.images)) ownedSrc.add(im.src)
+    }
+    const extras = allImages.filter((im) => !ownedSrc.has(im.src)).slice(0, 8)
+    const assigned: ImageRef[][] = storySections.map(() => [])
+    extras.forEach((im, i) => {
+      if (!storySections.length) return
+      assigned[i % storySections.length].push(im)
+    })
+    return {
+      assignedExtras: assigned,
+      orphanImages: storySections.length ? [] : allImages.slice(0, 8),
+    }
+  }, [storySections, conclusion, allImages])
 
   if (error) {
     return (
@@ -440,30 +472,11 @@ export function MigratedPage() {
     )
   }
 
-  const storySections = sections.filter(
-    (s) => !isFaqSection(s) && !isConclusion(s.heading),
-  )
-  const faqSections = sections.filter(isFaqSection)
-  const conclusion = sections.find((s) => isConclusion(s.heading)) || null
-
-  // Scraped images only: section-owned first, then distribute leftovers into modules
-  const ownedSrc = new Set<string>()
-  for (const sec of [...storySections, ...(conclusion ? [conclusion] : [])]) {
-    for (const im of scrapedOnly(sec.images)) ownedSrc.add(im.src)
-  }
-  const extras = allImages.filter((im) => !ownedSrc.has(im.src))
-  const assignedExtras: ImageRef[][] = storySections.map(() => [])
-  extras.forEach((im, i) => {
-    if (!storySections.length) return
-    assignedExtras[i % storySections.length].push(im)
-  })
-  const orphanImages = storySections.length ? [] : allImages
-
   const heroSrc = pack.hero || pack.heroPortrait || ''
   const heroPortrait = pack.heroPortrait || pack.hero || ''
 
   return (
-    <div className="vib migrated-page migrated-page--article">
+    <div className="migrated-page migrated-page--article">
       <section className="hero migrated-hero" id="top">
         <div className="hero__media" aria-hidden="true">
           <div className="hero__slides">
@@ -510,7 +523,7 @@ export function MigratedPage() {
 
       <Metrics />
 
-      <div className="migrated-article-band factory-bg factory-bg--cross is-pattern-on">
+      <div className="migrated-article-band">
         <div className="migrated-article" id="page-content">
           <article className="migrated-article__main">
             <div className="migrated-dash-bar" aria-hidden="true">
@@ -519,7 +532,7 @@ export function MigratedPage() {
               <span className="migrated-dash-bar__sep" />
               <span>{storySections.length} modules</span>
               <span className="migrated-dash-bar__sep" />
-              <span>{allImages.length} media</span>
+              <span>{Math.min(allImages.length, 8)} media</span>
             </div>
 
             {storySections.map((sec, si) => (
@@ -527,7 +540,10 @@ export function MigratedPage() {
                 key={`${sec.heading}-${si}`}
                 sec={sec}
                 index={si + 1}
-                images={[...scrapedOnly(sec.images), ...(assignedExtras[si] || [])]}
+                images={[
+                  ...scrapedOnly(sec.images).slice(0, 2),
+                  ...(assignedExtras[si] || []),
+                ].slice(0, 3)}
               />
             ))}
 
@@ -607,16 +623,16 @@ export function MigratedPage() {
                   {sidebar.length} suggestions · related standards &amp; articles
                 </p>
               </header>
-              <nav className="migrated-side__nav">
+              <nav className="migrated-side__nav" data-lenis-prevent>
                 <ul>
                   {sidebar.map((item, i) => (
                     <li key={item.href}>
-                      <SiteLink href={item.href}>
+                      <Link to={item.href}>
                         <span className="migrated-side__num">
                           {String(i + 1).padStart(2, '0')}
                         </span>
                         <span className="migrated-side__label">{item.label}</span>
-                      </SiteLink>
+                      </Link>
                     </li>
                   ))}
                 </ul>

@@ -6,10 +6,10 @@ import 'lenis/dist/lenis.css'
 
 gsap.registerPlugin(ScrollTrigger)
 
-export function useSmoothScroll() {
+export function useSmoothScroll(enabled = true) {
   useEffect(() => {
     const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches
-    if (reduced) return
+    if (reduced || !enabled) return
 
     const lenis = new Lenis({
       duration: 0.95,
@@ -20,7 +20,7 @@ export function useSmoothScroll() {
       prevent: (node) =>
         Boolean(
           node.closest(
-            '[data-lenis-prevent], .nav__fly, .nav__fly-cats, .nav__fly-stage, .nav__fly-detail, .nav__drawer, #mobile-nav',
+            '[data-lenis-prevent], .nav__fly, .nav__fly-cats, .nav__fly-stage, .nav__fly-detail, .nav__drawer, #mobile-nav, .migrated-side__nav',
           ),
         ),
     })
@@ -39,5 +39,5 @@ export function useSmoothScroll() {
       lenis.destroy()
       ScrollTrigger.getAll().forEach((t) => t.kill())
     }
-  }, [])
+  }, [enabled])
 }
