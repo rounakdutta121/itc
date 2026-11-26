@@ -13,29 +13,38 @@
   ],
   "category": "mechanical",
   "action": "REWRITE",
-  "note": "25 | thin | REWRITE – Mechanical & Chemical hub",
+  "note": "hub page – exact 8 content links from live itcindia.org/mechanical-testing",
   "slug": "mechanical-testing",
   "path": "/mechanical-testing",
   "source": "https://www.itcindia.org/mechanical-testing/",
   "ok": true,
-  "title": "Mechanical testing - Electrical Safety Testing Laboratory",
-  "h1": "Electrical Safety Testing Laboratory",
-  "description": "All about masks Understanding Quality Of Masks Safety Testing Of Masks CE marking Of Masks Cable Gland Testing Vibration Testing Cable Tray Testing Corrosion Testing",
+  "title": "Mechanical Testing Laboratory in India | ITC India",
+  "h1": "Mechanical Testing",
+  "description": "Mechanical testing at ITC India covering masks, cable glands, vibration, cable trays and corrosion testing programmes.",
   "sections": [
     {
       "heading": "Overview",
-      "paragraphs": [],
-      "bullets": [
-        "<a href=\"/all-about-masks\">All about masks </a>"
+      "paragraphs": [
+        "ITC India provides mechanical testing support across product safety, durability and materials programmes. Use the service links below to open each dedicated page for scope, method and enquiry."
       ],
+      "bullets": [],
       "tables": [],
       "images": []
     },
     {
-      "heading": "Safety Testing Of Masks",
-      "paragraphs": [],
+      "heading": "Mechanical Testing Services",
+      "paragraphs": [
+        "These are the mechanical testing programmes listed on this page — eight service links, each opening its dedicated laboratory or article page."
+      ],
       "bullets": [
-        "<a href=\"/face-mask-testing-lab\">CE marking Of Masks </a>"
+        "<a href=\"/all-about-masks\">All about masks</a> — overview of mask types, materials and testing considerations.",
+        "<a href=\"/understanding-quality-of-masks\">Understanding Quality Of Masks</a> — how mask quality is assessed for performance and consistency.",
+        "<a href=\"/safety-testing-for-face-shield-mask-respirators-mask\">Safety Testing Of Masks</a> — safety testing for face shields, masks and respirators.",
+        "<a href=\"/ce-marking-of-face-mask\">CE marking Of Masks</a> — CE marking support for face mask products.",
+        "<a href=\"/cable-gland-testing\">Cable Gland Testing</a> — mechanical and environmental evaluation of cable glands.",
+        "<a href=\"/vibration-testing\">Vibration Testing</a> — vibration and dynamic mechanical testing programmes.",
+        "<a href=\"/cable-tray-testing-laboratory\">Cable Tray Testing</a> — cable tray strength, load and laboratory testing.",
+        "<a href=\"/corrosion-testing\">Corrosion Testing</a> — corrosion and environmental durability testing."
       ],
       "tables": [],
       "images": []
@@ -45,100 +54,36 @@
   "scrapedImages": [],
   "relatedLinks": [
     {
-      "href": "/control-panel-training-program",
-      "label": "“Control Panel Training Program”"
+      "href": "/all-about-masks",
+      "label": "All about masks"
     },
     {
-      "href": "/ac-dc-rectifier-testing",
-      "label": "AC DC Rectifier testing"
+      "href": "/understanding-quality-of-masks",
+      "label": "Understanding Quality Of Masks"
     },
     {
-      "href": "/antenna-and-convertor-testing",
-      "label": "Antenna and Convertor Testing"
+      "href": "/safety-testing-for-face-shield-mask-respirators-mask",
+      "label": "Safety Testing Of Masks"
     },
     {
-      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
-      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
-    },
-    {
-      "href": "/anti-static-electrical-resistance-testing",
-      "label": "Anti-static Electrical Resistance Testing"
-    },
-    {
-      "href": "/vibration-testing",
-      "label": "ASTM D999 – Vibration testing of shipping containers"
-    },
-    {
-      "href": "/atex-testing-certification",
-      "label": "Atex Testing & Certification"
-    },
-    {
-      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
-      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
-    },
-    {
-      "href": "/battery-testing",
-      "label": "Battery Testing"
-    },
-    {
-      "href": "/biodegradability",
-      "label": "Biodegradability"
-    },
-    {
-      "href": "/biodegradable-standard",
-      "label": "Biodegradable Standard"
-    },
-    {
-      "href": "/blog",
-      "label": "Blog"
-    },
-    {
-      "href": "/blood-pressure-monitor-testing",
-      "label": "Blood Pressure Monitor Testing"
+      "href": "/ce-marking-of-face-mask",
+      "label": "CE marking Of Masks"
     },
     {
       "href": "/cable-gland-testing",
       "label": "Cable Gland Testing"
     },
     {
+      "href": "/vibration-testing",
+      "label": "Vibration Testing"
+    },
+    {
       "href": "/cable-tray-testing-laboratory",
       "label": "Cable Tray Testing"
     },
     {
-      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
-      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
-    },
-    {
-      "href": "/calibrating-a-uv-intensity-meter",
-      "label": "Calibrating a UV intensity Meter"
-    },
-    {
-      "href": "/calibration-for-impulse-measuring-system",
-      "label": "Calibration for Impulse Measuring System"
-    },
-    {
-      "href": "/calibration-of-electrical-fast-transients",
-      "label": "Calibration of Electrical Fast Transients"
-    },
-    {
-      "href": "/calibration-of-humidity-chamber",
-      "label": "calibration of humidity chamber"
-    },
-    {
-      "href": "/calibration-of-humidity-sensor",
-      "label": "CALIBRATION OF HUMIDITY SENSOR"
-    },
-    {
-      "href": "/calibration-of-micrometer",
-      "label": "calibration of micrometer"
-    },
-    {
-      "href": "/calibration-of-pressure-gauge",
-      "label": "CALIBRATION OF PRESSURE GAUGE"
-    },
-    {
-      "href": "/calibration-of-profile-projectors",
-      "label": "CALIBRATION OF PROFILE PROJECTORS"
+      "href": "/corrosion-testing",
+      "label": "Corrosion Testing"
     }
   ]
 }

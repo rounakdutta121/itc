@@ -22,7 +22,6 @@ export { siteFooter } from './siteFooter'
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'About Us', href: '/about-us' },
-  { label: 'Products', href: '/products' },
   { label: 'Testing Services', href: '/services' },
   { label: 'Vibration Testing Lab', href: '/vibration-testing' },
   { label: 'Salt Spray Testing Lab', href: '/salt-spray-testing' },
@@ -96,7 +95,7 @@ export const services = [
     description:
       'Safety testing for appliances, cables, enclosures, switchgear, batteries and solar products to IEC and IS standards.',
     image: '/images/svc-electrical.webp',
-    href: 'https://www.itcindia.org/electrical-testing/',
+    href: '/electrical-testing',
     cta: 'View Electrical Testing tests',
   },
   {
@@ -106,7 +105,7 @@ export const services = [
     description:
       'IEC 60601 safety and essential performance testing for medical electrical equipment and patient monitors.',
     image: '/images/svc-medical.webp',
-    href: 'https://www.itcindia.org/iec-60601-testing/',
+    href: '/iec-60601-testing',
     cta: 'View Electro-Medical Testing tests',
   },
   {
@@ -116,7 +115,7 @@ export const services = [
     description:
       'IEC 62368-1 testing for IT, audio-video, power supplies, UPS and inverters.',
     image: '/images/svc-electronics.webp',
-    href: 'https://www.itcindia.org/electronic-testing/',
+    href: '/electronic-testing',
     cta: 'View Electronic Testing tests',
   },
   {
@@ -126,7 +125,7 @@ export const services = [
     description:
       'Emission and immunity testing to CISPR 11, CISPR 15, IEC 61000 and EN 301 489.',
     image: '/images/svc-emc.webp',
-    href: 'https://www.itcindia.org/emc-emi-testing/',
+    href: '/emc-emi-testing',
     cta: 'View EMC / EMI Testing tests',
   },
   {
@@ -136,7 +135,7 @@ export const services = [
     description:
       'IP41 to IP69K, vibration, shock, salt spray, solar radiation, JSS 55555 and MIL-STD-810H.',
     image: '/images/svc-ip.webp',
-    href: 'https://www.itcindia.org/environmental-testing-services/',
+    href: '/environmental-testing-services',
     cta: 'View Environmental & IP Testing tests',
   },
   {
@@ -146,7 +145,7 @@ export const services = [
     description:
       'LM-79, LM-80 and RDSO photometry for LED luminaires and lighting products.',
     image: '/images/svc-photometry.webp',
-    href: 'https://www.itcindia.org/photometry-testing/',
+    href: '/photometry-testing',
     cta: 'View Photometry Testing tests',
   },
   {
@@ -156,7 +155,7 @@ export const services = [
     description:
       'NABL calibration for temperature, humidity, pressure, energy meters, glassware and EMC generators.',
     image: '/images/svc-calibration.webp',
-    href: 'https://www.itcindia.org/energy-meter-calibration-testing-nabl/',
+    href: '/energy-meter-calibration-testing-nabl',
     cta: 'View Calibration Services tests',
   },
   {
@@ -166,7 +165,7 @@ export const services = [
     description:
       'IEC 61010 safety testing for lab, measuring, IVD and control equipment.',
     image: '/images/laboratory.webp',
-    href: 'https://www.itcindia.org/chemical-testing-and-analysis/',
+    href: '/iec-61010-1-testing',
     cta: 'View Laboratory Equipment tests',
   },
   {
@@ -176,7 +175,7 @@ export const services = [
     description:
       'PPE, robot safety (ISO 10218, ISO 13482), RoHS and chemical composition testing.',
     image: '/images/mechanical.webp',
-    href: 'https://www.itcindia.org/mechanical-testing/',
+    href: '/mechanical-testing',
     cta: 'View Mechanical & Chemical tests',
   },
   {
@@ -186,7 +185,7 @@ export const services = [
     description:
       'ISTA 1A–1D and 2A–2C transit tests: vibration, drop and compression.',
     image: '/images/packaging.webp',
-    href: 'https://www.itcindia.org/packaging/',
+    href: '/packaging',
     cta: 'View Packaging Testing tests',
   },
   {
@@ -195,7 +194,7 @@ export const services = [
     title: 'Software Testing',
     description: 'IEC 62304 medical device software and Bluetooth testing.',
     image: '/images/svc-software.webp',
-    href: 'https://www.itcindia.org/software-testing/',
+    href: '/software-testing',
     cta: 'View Software Testing tests',
   },
   {
@@ -205,7 +204,7 @@ export const services = [
     description:
       'Drone and IoT security testing, plus our cybersecurity division.',
     image: '/images/svc-security.webp',
-    href: 'https://www.itcindia.org/drone-information-security-testing/',
+    href: '/drone-information-security-testing',
     cta: 'View Information Security tests',
   },
 ]
@@ -221,7 +220,7 @@ export const aboutSection = {
   bullets: [
     {
       label: 'NABL accreditation under ISO/IEC 17025',
-      href: 'https://www.itcindia.org/nabl-scope-certificate-india/',
+      href: '/nabl-scope-certificate-india',
     },
     {
       label: 'TEC fee schedule',
@@ -282,42 +281,42 @@ export const processSteps = [
 export const popularTests = [
   {
     label: 'IP Testing (IP65, IP66, IP67, IP68, IP69K)',
-    href: 'https://www.itcindia.org/ip-testing-laboratory-india/',
+    href: '/ip-testing-laboratory-india',
   },
   { label: 'Vibration Testing Lab', href: '/vibration-testing' },
   {
     label: 'Battery Testing IS 16046 / IEC 62133',
-    href: 'https://www.itcindia.org/batteries-for-portable-products-testing-lab-is-16046-iec-62133/',
+    href: '/batteries-for-portable-products-testing-lab-is-16046-iec-62133',
   },
   {
     label: 'UN 38.3 Lithium Battery Testing',
-    href: 'https://www.itcindia.org/un-38-3-lithium-ion-batteries-transpotation-testing/',
+    href: '/un-38-3-lithium-ion-batteries-transpotation-testing',
   },
   {
     label: 'IEC 60601 Medical Device Testing',
-    href: 'https://www.itcindia.org/iec-60601-testing/',
+    href: '/iec-60601-testing',
   },
   {
     label: 'IEC 60335 Household Appliance Testing',
-    href: 'https://www.itcindia.org/iec-60335-1-safety-testing-india/',
+    href: '/iec-60335-1-safety-testing-india',
   },
   {
     label: 'LM-79 Testing',
-    href: 'https://www.itcindia.org/lm-79-testing/',
+    href: '/lm-79-testing',
   },
   { label: 'JSS 55555 Environmental Testing', href: '/jss-55555-testing' },
   { label: 'Salt Spray Testing', href: '/salt-spray-testing' },
   {
     label: 'ATEX Testing',
-    href: 'https://www.itcindia.org/atex-testing-certification/',
+    href: '/atex-testing-certification',
   },
   {
     label: 'Energy Meter Calibration (NABL)',
-    href: 'https://www.itcindia.org/energy-meter-calibration-testing-nabl/',
+    href: '/energy-meter-calibration-testing-nabl',
   },
   {
     label: 'Calibration of Volumetric Glassware',
-    href: 'https://www.itcindia.org/calibration-of-volumetric-glassware/',
+    href: '/calibration-of-volumetric-glassware',
   },
 ]
 
@@ -326,31 +325,31 @@ export const productCategories = [
     code: '60204',
     title: 'IEC 60204 Machinery',
     text: 'Metalworking, food, plastic, printing, wood, textile and construction machinery.',
-    href: 'https://www.itcindia.org/machinery-equipment-testing-2/',
+    href: '/machinery-equipment-testing-2',
   },
   {
     code: '60598',
     title: 'IEC 60598 Lighting',
     text: 'Road lighting, emergency lighting, luminaires and lighting chains.',
-    href: 'https://www.itcindia.org/electrical-safety-testing-for-lighting-products/',
+    href: '/electrical-safety-testing-for-lighting-products',
   },
   {
     code: '60601',
     title: 'IEC 60601 Medical',
     text: 'Hospital systems, infusion devices, autoclaves and stimulators.',
-    href: 'https://www.itcindia.org/iec-60601-testing/',
+    href: '/iec-60601-testing',
   },
   {
     code: '61215',
     title: 'IEC 61215 PV Modules',
     text: 'Crystalline silicon PV design qualification and type approval.',
-    href: 'https://www.itcindia.org/photovoltatc-pv-modules-testing/',
+    href: '/photovoltatc-pv-modules-testing',
   },
   {
     code: '61427',
     title: 'IEC 61427 Batteries',
     text: 'Secondary cells and batteries for photovoltaic energy systems.',
-    href: 'https://www.itcindia.org/battery-testing/',
+    href: '/battery-testing',
   },
 ]
 

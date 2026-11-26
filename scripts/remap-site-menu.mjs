@@ -6,31 +6,31 @@ let s = fs.readFileSync(path, 'utf8')
 const map = {
   'https://www.itcindia.org/': '/',
   'https://www.itcindia.org/about-us/': '/about-us',
-  'https://www.itcindia.org/nabl-scope-certificate-india/': '/about-us/accreditations',
+  'https://www.itcindia.org/nabl-scope-certificate-india/': '/nabl-scope-certificate-india',
   'https://www.itcindia.org/about-us/tec-fee-schedule/': '/about-us/tec-fee-schedule',
-  'https://www.itcindia.org/terms-conditions/': '/about-us/terms-conditions',
-  'https://www.itcindia.org/products/': '/products',
+  'https://www.itcindia.org/terms-conditions/': '/terms-conditions',
+  'https://www.itcindia.org/products/': '/',
   '#services': '/services',
-  '#products': '/products',
+  '#products': '/',
   '#contact': '/contact-us',
   '#top': '/',
-  'https://www.itcindia.org/customer-support/': '/contact-us/customer-support',
-  'https://www.itcindia.org/inquiry/': '/contact-us/inquiry',
+  'https://www.itcindia.org/customer-support/': '/customer-support',
+  'https://www.itcindia.org/inquiry/': '/inquiry',
   'https://www.itcindia.org/jobs/': '/careers',
   'https://www.itcindia.org/mil-std-810h-vibration-shock-testing-laboratory-in-india/':
-    '/vibration-testing/mil-std-810h',
+    '/mil-std-810h-vibration-shock-testing',
   'https://www.itcindia.org/iec-61373-vibration-shock-testing-for-railway-equipment/':
-    '/vibration-testing/iec-61373',
+    '/iec-61373-vibration-testing',
   'https://www.itcindia.org/iec-60068-2-6-sine-vibration-testing-services-in-india/':
     '/vibration-testing/iec-60068-2-6',
   'https://www.itcindia.org/jss-55555-testing-laboratory-in-india-itc-india/':
-    '/vibration-testing/jss-55555',
+    '/jss-55555-testing',
   'https://www.itcindia.org/jss-5855-11-environmental-testing-services/':
-    '/vibration-testing/jss-5855-11',
+    '/jss-5855-11-testing',
   'https://www.itcindia.org/jss-50101-environmental-testing-for-electronic-components/':
-    '/vibration-testing/jss-50101',
+    '/jss-50101-testing',
   'https://www.itcindia.org/rdso-tl-0091-testing-for-railway-led-luminaires-in-india/':
-    '/vibration-testing/rdso-tl-0091',
+    '/rdso-tl-0091-testing',
 }
 
 for (const [from, to] of Object.entries(map)) {

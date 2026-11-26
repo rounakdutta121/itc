@@ -13,7 +13,6 @@ paths.update(
         "/salt-testing",
         "/jss-55555",
         "/contact-us",
-        "/products",
         "/services",
         "/careers",
     ]

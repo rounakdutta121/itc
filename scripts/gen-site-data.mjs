@@ -6,7 +6,7 @@ const footer = JSON.parse(fs.readFileSync('D:/itcindia/src/data/itc-footer.json'
 const localMap = {
   'https://www.itcindia.org/': '#top',
   'https://www.itcindia.org/home/': '#top',
-  'https://www.itcindia.org/products/': '#products',
+  'https://www.itcindia.org/products/': '/',
   '#itc-services': '#services',
   'https://www.itcindia.org/contact-us/': '#contact',
 }

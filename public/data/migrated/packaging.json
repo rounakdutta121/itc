@@ -92,7 +92,7 @@
       "heading": "ISTA Package Testing",
       "paragraphs": [
         "ISTA procedures are widely used to evaluate packaged-product performance during distribution.",
-        "ITC India provides testing against applicable <a href=\"/vibration-testing/ista-1a\">ISTA 1A, 1B, 1C and 1D procedures</a> as well as <a href=\"/vibration-testing/ista-2a\">ISTA 2A, 2B and 2C testing</a>.",
+        "ITC India provides testing against applicable <a href=\"/ista-1a-1b-1c-1d-testing\">ISTA 1A, 1B, 1C and 1D procedures</a> as well as <a href=\"/ista-2a-2b-2c\">ISTA 2A, 2B and 2C testing</a>.",
         "The correct ISTA procedure depends on factors such as packaged-product weight, configuration and the level of distribution simulation required.",
         "Manufacturers should provide the exact requested ISTA procedure or customer packaging specification before testing so that conditioning, vibration, impact and other required sequences can be planned correctly."
       ],
@@ -139,7 +139,7 @@
       "paragraphs": [
         "To establish an appropriate packaging test plan, manufacturers should provide the package dimensions and weight, product weight, packaging material and construction, intended transportation method, applicable test standard and required test sequence.",
         "The package submitted for testing should represent the actual shipping configuration wherever possible.",
-        "For packaging testing in India, submit your package specifications, required standard and transport conditions through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+        "For packaging testing in India, submit your package specifications, required standard and transport conditions through the <a href=\"/inquiry\">ITC India testing inquiry form</a>."
       ],
       "bullets": [],
       "tables": [],

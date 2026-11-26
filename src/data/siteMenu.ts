@@ -15,7 +15,7 @@ export const siteNav: NavItem[] = [
     "children": [
       {
         "label": "Accreditations & Approval",
-        "href": "/about-us/accreditations"
+        "href": "/nabl-scope-certificate-india"
       },
       {
         "label": "Tec Fee Schedule",
@@ -23,13 +23,9 @@ export const siteNav: NavItem[] = [
       },
       {
         "label": "Terms & Conditions",
-        "href": "/about-us/terms-conditions"
+        "href": "/terms-conditions"
       }
     ]
-  },
-  {
-    "label": "Products",
-    "href": "/products"
   },
   {
     "label": "Testing Services",
@@ -41,7 +37,7 @@ export const siteNav: NavItem[] = [
         "children": [
           {
             "label": "Household Appliances",
-            "href": "https://www.itcindia.org/home-solutions-for-product-development-service-enhancement-under-iec-60335-standards/",
+            "href": "/household",
             "children": [
               {
                 "label": "IEC 60335-1 Safety Testing for Household Appliances in India",
@@ -53,7 +49,7 @@ export const siteNav: NavItem[] = [
               },
               {
                 "label": "IEC 60335-2-3/IS 302-2-3 ELECTRIC IRON TESTING",
-                "href": "https://www.itcindia.org/iec-60335-2-3-is-302-2-3-electric-iron-testing/"
+                "href": "/iec-60335-2-3-safety-testing-india"
               },
               {
                 "label": "IEC 60335-2-5 the safety of electric dishwashers for household",
@@ -65,7 +61,7 @@ export const siteNav: NavItem[] = [
               },
               {
                 "label": "IEC 60335-2-7 DOMESTIC WASHING MACHINE TESTING",
-                "href": "https://www.itcindia.org/iec-60335-2-7-domestic-washing-machine-testing/"
+                "href": "/washing-machine-safety-testing"
               },
               {
                 "label": "IEC 60335-2-8 Electric Shaver Safety Testing in India",
@@ -89,7 +85,7 @@ export const siteNav: NavItem[] = [
               },
               {
                 "label": "IEC 60335-2-24 Requirements for Refrigerators, Freezers & Ice Makers",
-                "href": "https://www.itcindia.org/iec-60335-2-24/"
+                "href": "/iec-60335-2-24-safety-testing-india"
               },
               {
                 "label": "IEC 60335-2-24 Testing for Refrigerators in India | ITC India",
@@ -185,7 +181,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "G-Mark Certification",
-            "href": "https://www.itcindia.org/g-mark-certification/"
+            "href": "/g-mark-certification"
           },
           {
             "label": "Machinery Equipment Testing",
@@ -227,7 +223,7 @@ export const siteNav: NavItem[] = [
               },
               {
                 "label": "Flammability Test on Conveyor Belt EN ISO 340",
-                "href": "https://www.itcindia.org/flammability-test-on-conveyor-belt-en-iso-340/"
+                "href": "/flammability-test-on-conveyor-belt-en-iso-340"
               }
             ]
           }
@@ -255,7 +251,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "IEC 60601-2-21:2020 Medical electrical equipment Particular requirements for the basic safety and essential performance of infant radiant warmers",
-            "href": "/iec%e2%80%8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-performance-of-infant-radiant-warmers"
+            "href": "/iec-e2-80-8260601-2-212020-medical-electrical-equipment-particular-requirements-for-the-basic-safety-and-essential-perfo"
           },
           {
             "label": "IEC 60601-2-27 Particular requirements for the basic safety and essential performance of electro cardiographic monitoring",
@@ -321,11 +317,11 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "Household Equipment Testing",
-            "href": "https://www.itcindia.org/household-equipment-testing/"
+            "href": "/household-equipment-testing"
           },
           {
             "label": "Electromedical Equipment Test",
-            "href": "https://www.itcindia.org/electro-medical-equipments-testing/"
+            "href": "/electro-medical-equipments-testing"
           },
           {
             "label": "EN 62304:2006+A1/2015",
@@ -333,7 +329,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "Road Vertical & Variable Message Traffic signs",
-            "href": "https://www.itcindia.org/en-12966-testing/"
+            "href": "/en-12966-testing"
           },
           {
             "label": "IT Testing",
@@ -619,7 +615,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "JSS 5855-11 Environmental Testing Services",
-            "href": "/vibration-testing/jss-5855-11"
+            "href": "/jss-5855-11-testing"
           },
           {
             "label": "JSS 50101 Environmental Testing for Electronic Components",
@@ -639,7 +635,7 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "RDSO TL 0091 Testing for Railway LED Luminaires in India",
-            "href": "/vibration-testing/rdso-tl-0091"
+            "href": "/rdso-tl-0091-testing"
           },
           {
             "label": "RDSO Environmental Testing for Railway LED Luminaires",
@@ -647,15 +643,15 @@ export const siteNav: NavItem[] = [
           },
           {
             "label": "MIL-STD-810H Vibration & Shock Testing Laboratory in India",
-            "href": "/vibration-testing/mil-std-810h"
+            "href": "/mil-std-810h-vibration-shock-testing"
           },
           {
             "label": "IEC 61373 Vibration & Shock Testing for Railway Equipment",
-            "href": "/vibration-testing/iec-61373"
+            "href": "/iec-61373-vibration-testing"
           },
           {
             "label": "IEC 60068-2-6 Sine Vibration Testing Services in India",
-            "href": "/vibration-testing/iec-60068-2-6"
+            "href": "/iec-60068-2-6-vibration-testing-2-2"
           },
           {
             "label": "Recyclability Test",
@@ -735,11 +731,11 @@ export const siteNav: NavItem[] = [
         "children": [
           {
             "label": "ISTA 2A/ 2B/ 2C",
-            "href": "/vibration-testing/ista-2a"
+            "href": "/ista-2a-2b-2c"
           },
           {
             "label": "ISTA 1A/ 1B/ 1C/ 1D TESTING",
-            "href": "/vibration-testing/ista-1a"
+            "href": "/ista-1a-1b-1c-1d-testing"
           }
         ]
       },
@@ -767,7 +763,7 @@ export const siteNav: NavItem[] = [
         "children": [
           {
             "label": "Bluetooth",
-            "href": "https://www.itcindia.org/about-us/bluetooth-testing/"
+            "href": "/bluetooth-testing"
           },
           {
             "label": "IEC 62304 medical device software System Testing",
@@ -783,11 +779,11 @@ export const siteNav: NavItem[] = [
     "children": [
       {
         "label": "Customer Support",
-        "href": "/contact-us/customer-support"
+        "href": "/customer-support"
       },
       {
         "label": "Inquiry",
-        "href": "/contact-us/inquiry"
+        "href": "/inquiry"
       }
     ]
   },

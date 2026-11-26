@@ -1,0 +1,242 @@
+{
+  "hero": "/images/page-heroes/bluetooth-testing.webp",
+  "heroPortrait": "/images/page-heroes/bluetooth-testing-portrait.webp",
+  "generatedIntro": "",
+  "generatedMid": "",
+  "generatedSections": [],
+  "category": "software",
+  "action": "ADD",
+  "note": "scraped from live site for internal nav",
+  "slug": "bluetooth-testing",
+  "path": "/bluetooth-testing",
+  "source": "https://www.itcindia.org/about-us/bluetooth-testing/",
+  "ok": true,
+  "title": "Bluetooth Testing Laboratory | ITC India",
+  "h1": "Bluetooth Testing",
+  "description": "Bluetooth technology necessitates undergoing several tests, which are essential prerequisites for achieving successful market entry. ITC India offers regulatory Bluetooth testing services and testing scenarios in compliance to Bluetooth SIG.Thank you for reading this post, don't forget to subscribe! What is Bluetooth technology? Bluetooth is a wireless technology standard for exchanging data over short distances.…Read More+",
+  "sections": [
+    {
+      "heading": "Overview",
+      "paragraphs": [
+        "Bluetooth technology necessitates undergoing several tests, which are essential prerequisites for achieving successful market entry. ITC India offers regulatory Bluetooth testing services and testing scenarios in compliance to Bluetooth SIG."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "What is Bluetooth technology?",
+      "paragraphs": [
+        "Bluetooth is a wireless technology standard for exchanging data over short distances. It was designed to provide a secure and reliable connection between devices without the need for physical cables. Bluetooth uses UHF (ultra-high frequency) radio waves in 2.4 GHz ISM (Industrial, Scientific, and Medical) band, specifically 2.4 GHz to 2.485 GHz.",
+        "Here are some key components of Bluetooth Technology are:",
+        "Radio Frequency (RF) Transceiver – This part is responsible for transmitting and receiving radio signals. It utilizes frequency hopping spread spectrum (FHSS) to minimize interference and improve security.",
+        "Baseband Controller – This component manages the physical link between Bluetooth devices and handles tasks such as error correction, synchronization, and encoding-decoding data packets.",
+        "Link Manager Protocol (LMP) – LMP establishes and controls links between Bluetooth devices. It handles authentication, encryption, and connection setup.",
+        "Logical Link Control and Adaptation Protocol (L2CAP) – This component provides data services to upper layers of the Bluetooth stack, managing packet segmentation and reassembly.",
+        "Host Controller Interface (HCI) – HCI Acts as a standardized interface between the Bluetooth hardware and software stack, ensuring interoperability across different devices.",
+        "Bluetooth SIG and compliance",
+        "Bluetooth Special Interest Group (SIG) plays a crucial role in the development and standardization of Bluetooth technology. Understanding Bluetooth SIG and compliance with its standards is essential for ensuring interoperability and quality in Bluetooth-enabled devices.",
+        "The Bluetooth Special Interest Group is a global organization comprised of industry leaders that oversees the development and promotion of Bluetooth technology. Its primary objectives include:"
+      ],
+      "bullets": [
+        "International Standards Development Organization: The Bluetooth SIG is an international standards development organization that expands the capabilities of Bluetooth® technology by facilitating collaboration between member companies to create new and enhanced specifications.",
+        "Product Certification Body: The Bluetooth SIG operates a product qualification program for members to verify that their products comply with requirements defined in Bluetooth specifications.",
+        "Patent Pool and Trademark License Administrator: The Bluetooth SIG administers a licensing program that provides members with royalty-free access to Bluetooth® technology patents and trademarks.",
+        "Industry Trade Association: The Bluetooth SIG collaborates with member companies to increase the awareness, understanding, and adoption of Bluetooth® technology."
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/bluetooth-testing/f26f05bb0b2f.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Testing Scope",
+      "paragraphs": [
+        "ITC India’s Bluetooth testing scope is as follows:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Enhanced Data Rate (EDR)",
+      "paragraphs": [],
+      "bullets": [
+        "RF-PHY Tests Bluetooth Low Energy (BLE) – BT5 Features: LE 2M PHY (2 Mbit Modus) LE Coded PHY (Long Range) Stable Modulation Index (TX/RX)",
+        "Protocol Tests (Host-Protocols)– BT classic: L2CAP, GAP etc.",
+        "Profile Tests (with PTS) – BT classic: HFP, MAP, OPP , IOPT, etc. BLE: BAS, DIS, HIDS etc"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/bluetooth-testing/6399497b00b3.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "Latest Bluetooth Technology",
+      "paragraphs": [
+        "BLUETOOTH CLASSIC (5.0 and above) – Bluetooth 5.0 and its subsequent versions have revolutionized wireless connectivity with their enhanced features and capabilities. Building upon the foundation of previous iterations, Bluetooth 5.0 introduced significant improvements in range, speed, and data capacity. With a theoretical range of up to 400 meters and a notable 2x data transfer speed compared to Bluetooth 4.2, it opened doors for diverse applications. Bluetooth 5.0 also brought about advancements in low-energy communication, crucial for IoT devices and wearables, allowing them to operate efficiently for extended periods.",
+        "Beyond Bluetooth 5.0, subsequent versions like Bluetooth 5.1, 5.2, and now 5.3 have continued to refine the technology. Bluetooth 5.1 introduced direction finding, enabling devices to locate each other with centimeter-level accuracy, ideal for indoor navigation and asset tracking. Bluetooth 5.2 focused on enhancing audio quality with the introduction of the LC3 (Low Complexity Communications Codec), offering improved efficiency without compromising sound fidelity, vital for wireless audio devices.",
+        "Bluetooth 5.3, the latest standard at the time of writing, brings further enhancements including LE Audio, a new feature set that enables support for hearing aids and introduces Audio Sharing, allowing multiple Bluetooth devices to stream audio simultaneously. It also enhances Bluetooth mesh networking for large-scale device communication in smart homes and industrial IoT settings, promising better scalability and efficiency.",
+        "These advancements in Bluetooth technology not only improve the performance of wireless devices but also pave the way for new applications across industries, from smart homes and healthcare to automotive and industrial automation, driving the IoT and wireless connectivity forward.",
+        "BLUETOOTH LOW ENERGY – Bluetooth Low Energy (BLE) is a wireless communication protocol designed for short-range data exchange with minimal power consumption, operating in the 2.4 GHz ISM band. Unlike classic Bluetooth, BLE offers significant power savings, making it ideal for battery-powered devices like wearables, health monitors, and IoT sensors. BLE enables seamless connectivity with smartphones, tablets, and other BLE-compatible devices, facilitating a wide range of applications.",
+        "One of BLE’s strengths lies in its efficient connection establishment and data exchange mechanisms, allowing devices to communicate while conserving power. Its low energy consumption prolongs battery life, but BLE also has limitations. Despite its advantages, BLE’s data transfer rate is lower compared to classic Bluetooth, which may not be suitable for applications requiring high-speed data transmission. Additionally, BLE’s short-range communication can be susceptible to interference in crowded environments.",
+        "However, BLE’s simplicity, low cost, and compatibility have made it a cornerstone of IoT ecosystems, driving innovation across industries. It has transformed healthcare, fitness tracking, smart home automation, and asset tracking. Despite its drawbacks, BLE continues to evolve, with improvements in data throughput and range, expanding its potential applications while addressing its limitations. As technology advances, BLE remains a key enabler for creating efficient, interconnected experiences with extended battery life.",
+        "There are multiple differences between Bluetooth Classic and Bluetooth Low Energy (BLE), these differences vary from range, data rate, security, frequency, time lag, power consumption and more. Please refer to the table below to know the differences between these two technologies.",
+        "Get your product tested.",
+        "If you have any questions or queries regarding Bluetooth testing for your specific product, feel free to contact us at info@itcindic.org."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/bluetooth-testing/73ac54dda299.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/bluetooth-testing/cdac2d444202.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/bluetooth-testing/f26f05bb0b2f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/bluetooth-testing/6399497b00b3.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/bluetooth-testing/73ac54dda299.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/bluetooth-testing/cdac2d444202.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/bluetooth-testing/f26f05bb0b2f.webp",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/bluetooth-testing/6399497b00b3.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/bluetooth-testing/73ac54dda299.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/bluetooth-testing/cdac2d444202.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

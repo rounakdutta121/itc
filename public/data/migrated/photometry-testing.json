@@ -13,21 +13,37 @@
   ],
   "category": "photometry",
   "action": "REWRITE",
-  "note": "0 / 1 | 27 | no meta, thin | REWRITE – Photometry hub",
+  "note": "hub page – exact 7 content links from live itcindia.org/photometry-testing",
   "slug": "photometry-testing",
   "path": "/photometry-testing",
   "source": "https://www.itcindia.org/photometry-testing/",
   "ok": true,
-  "title": "Photometry Testing - Electrical Safety Testing Laboratory",
-  "h1": "Electrical Safety Testing Laboratory",
-  "description": "Luminaries/LED Product Testing LM-79 Testing LM-80 Testing Testing and Calibration of UV Lamp Testing and Calibration of UV Lamp Calibrating a UV intensity Meter Measuring UV intensity",
+  "title": "Photometry Testing Laboratory in India | ITC India",
+  "h1": "Photometry Testing",
+  "description": "Luminaries/LED Product Testing, LM-79 Testing, LM-80 Testing, Testing and Calibration of UV Lamp, Calibrating a UV intensity Meter, Measuring UV intensity.",
   "sections": [
     {
-      "heading": "Testing and Calibration of UV Lamp",
-      "paragraphs": [],
+      "heading": "Overview",
+      "paragraphs": [
+        "ITC India provides photometry testing for luminaires, LED products and UV light sources. Use the service links below to open each dedicated programme page for scope, method and enquiry."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Photometry Testing Services",
+      "paragraphs": [
+        "These are the photometry programmes listed on this page — seven service links, each opening its dedicated laboratory page."
+      ],
       "bullets": [
-        "<a href=\"/calibrating-a-uv-intensity-meter\">Calibrating a UV intensity Meter </a>",
-        "<a href=\"/measuring-uv-intensity\">Measuring UV intensity </a>"
+        "<a href=\"/luminaries-led-product-testing\">Luminaries/LED Product Testing</a> — photometric evaluation for luminaires and LED lighting products.",
+        "<a href=\"/lm-79-testing\">LM-79 Testing</a> — optical and electrical measurements of solid-state lighting as per IES LM-79.",
+        "<a href=\"/lm-80-testing\">LM-80 Testing</a> — lumen maintenance testing for LED packages, arrays and modules.",
+        "<a href=\"/testing-of-uv-light-bulbs\">Testing and Calibration of UV Lamp</a> — UV lamp / UV light bulb testing programmes.",
+        "<a href=\"/testing-of-uv-light-bulbs\">Testing and Calibration of UV Lamp</a> — UV lamp calibration support for intensity verification.",
+        "<a href=\"/calibrating-a-uv-intensity-meter\">Calibrating a UV intensity Meter</a> — calibration of UV intensity meters for reliable irradiance readings.",
+        "<a href=\"/measuring-uv-intensity\">Measuring UV intensity</a> — measurement of UV intensity for lamps, processes and verification setups."
       ],
       "tables": [],
       "images": []
@@ -37,100 +53,28 @@
   "scrapedImages": [],
   "relatedLinks": [
     {
-      "href": "/control-panel-training-program",
-      "label": "“Control Panel Training Program”"
+      "href": "/luminaries-led-product-testing",
+      "label": "Luminaries/LED Product Testing"
     },
     {
-      "href": "/ac-dc-rectifier-testing",
-      "label": "AC DC Rectifier testing"
+      "href": "/lm-79-testing",
+      "label": "LM-79 Testing"
     },
     {
-      "href": "/antenna-and-convertor-testing",
-      "label": "Antenna and Convertor Testing"
+      "href": "/lm-80-testing",
+      "label": "LM-80 Testing"
     },
     {
-      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
-      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
-    },
-    {
-      "href": "/anti-static-electrical-resistance-testing",
-      "label": "Anti-static Electrical Resistance Testing"
-    },
-    {
-      "href": "/vibration-testing",
-      "label": "ASTM D999 – Vibration testing of shipping containers"
-    },
-    {
-      "href": "/atex-testing-certification",
-      "label": "Atex Testing & Certification"
-    },
-    {
-      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
-      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
-    },
-    {
-      "href": "/battery-testing",
-      "label": "Battery Testing"
-    },
-    {
-      "href": "/biodegradability",
-      "label": "Biodegradability"
-    },
-    {
-      "href": "/biodegradable-standard",
-      "label": "Biodegradable Standard"
-    },
-    {
-      "href": "/blog",
-      "label": "Blog"
-    },
-    {
-      "href": "/blood-pressure-monitor-testing",
-      "label": "Blood Pressure Monitor Testing"
-    },
-    {
-      "href": "/cable-gland-testing",
-      "label": "Cable Gland Testing"
-    },
-    {
-      "href": "/cable-tray-testing-laboratory",
-      "label": "Cable Tray Testing"
-    },
-    {
-      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
-      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+      "href": "/testing-of-uv-light-bulbs",
+      "label": "Testing and Calibration of UV Lamp"
     },
     {
       "href": "/calibrating-a-uv-intensity-meter",
       "label": "Calibrating a UV intensity Meter"
     },
     {
-      "href": "/calibration-for-impulse-measuring-system",
-      "label": "Calibration for Impulse Measuring System"
-    },
-    {
-      "href": "/calibration-of-electrical-fast-transients",
-      "label": "Calibration of Electrical Fast Transients"
-    },
-    {
-      "href": "/calibration-of-humidity-chamber",
-      "label": "calibration of humidity chamber"
-    },
-    {
-      "href": "/calibration-of-humidity-sensor",
-      "label": "CALIBRATION OF HUMIDITY SENSOR"
-    },
-    {
-      "href": "/calibration-of-micrometer",
-      "label": "calibration of micrometer"
-    },
-    {
-      "href": "/calibration-of-pressure-gauge",
-      "label": "CALIBRATION OF PRESSURE GAUGE"
-    },
-    {
-      "href": "/calibration-of-profile-projectors",
-      "label": "CALIBRATION OF PROFILE PROJECTORS"
+      "href": "/measuring-uv-intensity",
+      "label": "Measuring UV intensity"
     }
   ]
 }

@@ -113,7 +113,7 @@
       "heading": "IEC 60068-2-6 and Other Vibration Standards",
       "paragraphs": [
         "Different industries can specify different vibration methods.",
-        "Defence and rugged equipment may require <a href=\"/vibration-testing/mil-std-810h\">MIL-STD-810H Vibration and Shock Testing</a>, while railway equipment can require <a href=\"/vibration-testing/iec-61373\">IEC 61373 vibration and shock testing</a>.",
+        "Defence and rugged equipment may require <a href=\"/mil-std-810h-vibration-shock-testing\">MIL-STD-810H Vibration and Shock Testing</a>, while railway equipment can require <a href=\"/iec-61373-vibration-testing\">IEC 61373 vibration and shock testing</a>.",
         "Indian defence procurement specifications may also require environmental qualification under <a href=\"/jss-55555\">JSS 55555 testing</a>.",
         "These standards are not interchangeable. Test profiles, severities, mounting conditions and acceptance requirements should be determined from the applicable product or procurement specification."
       ],
@@ -137,7 +137,7 @@
       "paragraphs": [
         "Manufacturers should provide the product dimensions and weight, applicable standard and edition, required frequency range, vibration severity, number of axes, test duration, mounting information and operating condition.",
         "Where available, the product specification, customer test plan or procurement document should also be supplied.",
-        "For IEC 60068-2-6 sine vibration testing in India, submit the product details and required test conditions through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+        "For IEC 60068-2-6 sine vibration testing in India, submit the product details and required test conditions through the <a href=\"/inquiry\">ITC India testing inquiry form</a>."
       ],
       "bullets": [],
       "tables": [],

@@ -1,0 +1,383 @@
+{
+  "hero": "/images/page-heroes/en-12966-testing.webp",
+  "heroPortrait": "/images/page-heroes/en-12966-testing-portrait.webp",
+  "generatedIntro": "",
+  "generatedMid": "",
+  "generatedSections": [],
+  "category": "electronic",
+  "action": "ADD",
+  "note": "scraped from live site for internal nav",
+  "slug": "en-12966-testing",
+  "path": "/en-12966-testing",
+  "source": "https://www.itcindia.org/en-12966-testing/",
+  "ok": true,
+  "title": "EN 12966 Variable Message Signs Testing | ITC India",
+  "h1": "EN 12966 Testing",
+  "description": "Road vertical signs, Variable message traffic signs testing as per EN 12966. The tests conducted under this standard are-visual performance..",
+  "sections": [
+    {
+      "heading": "1.0 Scope of EN 12966",
+      "paragraphs": [
+        "This European Standard provides specifications for two types of variable message signs (VMS); i.e. continuous and discontinuous.This European Standard covers mobile, temporary and permanently installed VMS used in circulation areas, on public and private land, including tunnels for the information, guidance, warning and/or direction of traffic.Test modules are used to demonstrate compliance with the requirements.",
+        "This European Standard does not cover sign gantries, cantilevers, posts (supports) and foundations, signal heads, sizes and shapes of VMS messages, control units and monitoring units unless inside the VMS, control of sign luminance."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/en-12966-testing/4f86c64c3b01.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "2.0 Visual performance requirements of continuous & discontinuous VMS:",
+      "paragraphs": [
+        "Class designation of the visual performance parameters of VMS"
+      ],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "Visual performance Class designation Remarks",
+            "Class designation",
+            "Remarks"
+          ],
+          "rows": [
+            [
+              "Colour",
+              "C1, C2",
+              "C2 is the more restrictive"
+            ],
+            [
+              "Luminance (La)",
+              "L1, L2, L3,L1(*), L2(*),L3(*)",
+              "L3 has the highest luminance"
+            ],
+            [
+              "Luminance (La)",
+              "L1(T), L2(T), L3(T)",
+              "These classes are for tunnel use"
+            ],
+            [
+              "Luminance ratio (LR)",
+              "R1, R2, R3",
+              "R3 has the highest luminance ratio"
+            ],
+            [
+              "Beam width",
+              "B1,B2,B3,B4,B5,B6,B7",
+              "B7 has the widest beam"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/en-12966-testing/614b4905b6f5.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "2.1 Visual Performance Test",
+      "paragraphs": [
+        "Test Angle is main part in Visual performance this angle is given by the manufacturer’s specifications testing angles based on Beam-width class declared by the manufacture. A Solar simulator with 40000 lux and luminance meter are use for testing,all optical tests shall be repeated for each individual colour of the colour class the VMS is required to display.The tests ambient temperature shall be (20 ± 3) °C.",
+        "As shown in Figure some angles are limited in order to limit measuring errors. The measuring aperture of the luminance meter shall not be greater than 3°. The beam divergence of the solar simulator at the area of interest shall not be larger than 3°. The aperture of the solar simulator and the luminance meter, as seen from the VMS/ test module, shall not be larger than 2° and 0.5°, respectively."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/en-12966-testing/2e358dd00c5e.webp",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "2.2 Luminance Ratio",
+      "paragraphs": [
+        "To achieve classes L1, L2 or L3, luminance La10 and reflection Lb10 of the area under test shall be measured under external illumination of 40000Ix/10°, luminance ratio LR10 shall be calculated.",
+        "Luminance ratio LR10 shall be calculated as follows:",
+        "a) all elements of the test area ON;",
+        "b) all elements of the test area OFF.",
+        "Luminance ratio: LR10=La10-Lb10/Lb10",
+        "And",
+        "La10=Le/Lb10",
+        "La10 is the measured luminance of the VMS/test module in the ON-state when illuminated at 10° with 40000 lx.",
+        "Le is the measured luminance of the VMS/test module in the ON-state without external illumination.",
+        "Lb10 is the measured luminance of the VMS/test module in the OFF-state when illuminated at 10° with 40000 Ix."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "3.0 Physical Performance:",
+      "paragraphs": [
+        "Physical Performance Includes follow which are Temperature, Ingress Protection(IP), Corrosion, Wind Load, Temporary Deflection and Permanent deflections caused by snow load. All these classes are declared by manufacture."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Class Designation",
+      "paragraphs": [],
+      "bullets": [],
+      "tables": [
+        {
+          "headers": [
+            "External conditions",
+            "Class designation",
+            "Remarks"
+          ],
+          "rows": [
+            [
+              "Temperature",
+              "T1, T2, T3, T4",
+              "—"
+            ],
+            [
+              "Ingress protection against water and dust",
+              "IP44, IP45, IP54, IP55, IP56",
+              "IP56 is the most restrictive"
+            ],
+            [
+              "Corrosion",
+              "SP0,SP1, SP2",
+              "SP2 is the most restrictive"
+            ],
+            [
+              "Temporary deflections caused by wind loads",
+              "WL0-WL9",
+              "WL9 is the most restrictive"
+            ],
+            [
+              "Temporary deflections caused by bending",
+              "TDB0 – TDB6",
+              "TDB1 is the most restrictive"
+            ],
+            [
+              "Permanent deflections caused by dynamic snow loads",
+              "DSL0- DSL4",
+              "DSL4 is the most restrictive"
+            ]
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "3.1 Mechanical Safety",
+      "paragraphs": [
+        "VMS shall be capable of withstanding impact, representative test module shall be tested in accordance IEC 60598-1."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "4.0 Electrical Performance:",
+      "paragraphs": [
+        "Electrical Performance Include Electrical supply and limits, Maximum power consumption, Nominal voltages, Operating voltage range, Mains frequency,Low voltage, Effect of voltage interruption,Temporary over voltage."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "5.0 Electrical Safety:",
+      "paragraphs": [
+        "Electrical Safety of VMS shall comply with requirements of EN 50556:2011, 5.1, EN 60950-1:2006, and EN 60950-22:2006 as applicable"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "6.0 Electromagnetic compatibility requirements:",
+      "paragraphs": [
+        "All types of environment the VMS shall confirm accordingly with EN 50293:2012."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/en-12966-testing/6bab00bb21e1.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/en-12966-testing/6415038aa1b0.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/en-12966-testing/0e78d0203b55.webp",
+          "alt": ""
+        },
+        {
+          "src": "/images/migrated/en-12966-testing/4d0e16105841.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/en-12966-testing/4f86c64c3b01.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/614b4905b6f5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/2e358dd00c5e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/6bab00bb21e1.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/6415038aa1b0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/0e78d0203b55.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/4d0e16105841.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/en-12966-testing/4f86c64c3b01.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/614b4905b6f5.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/2e358dd00c5e.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/6bab00bb21e1.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/6415038aa1b0.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/0e78d0203b55.webp",
+      "alt": ""
+    },
+    {
+      "src": "/images/migrated/en-12966-testing/4d0e16105841.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

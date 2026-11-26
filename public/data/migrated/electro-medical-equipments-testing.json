@@ -1,0 +1,206 @@
+{
+  "hero": "/images/page-heroes/electro-medical-equipments-testing.webp",
+  "heroPortrait": "/images/page-heroes/electro-medical-equipments-testing-portrait.webp",
+  "generatedIntro": "",
+  "generatedMid": "",
+  "generatedSections": [],
+  "category": "medical",
+  "action": "ADD",
+  "note": "scraped from live site for internal nav",
+  "slug": "electro-medical-equipments-testing",
+  "path": "/electro-medical-equipments-testing",
+  "source": "https://www.itcindia.org/electro-medical-equipments-testing/",
+  "ok": true,
+  "title": "Electromedical Equipment Testing Laboratory | ITC India",
+  "h1": "Electromedical Equipment Testing",
+  "description": "ITC can do electrical safety testing of electromedical equipment as per Popular standards IEC 60601-1, IS 13450, Medical Device Compliance Testing Services",
+  "sections": [
+    {
+      "heading": "Electro Medical Equipment Testing",
+      "paragraphs": [
+        "ITC can do Electrical Safety testing against Electro Medical equipments for following types of products/standards:",
+        "Popular standards for Electro Medical Product testing are IEC 60601-1, IS 13450 etc."
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Marking & Instruction",
+      "paragraphs": [],
+      "bullets": [
+        "External and internal wiring",
+        "Resistance to environmental Stress",
+        "Instability hazards",
+        "Creepage and Clearances distances"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Determination of Accessible Parts",
+      "paragraphs": [
+        "List of Major standards under Electro Medical"
+      ],
+      "bullets": [
+        "Protective earthing, functional earthing and potential equalization of ME EQUIPMENT",
+        "Leakage currents and patient auxiliary currents"
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Medical Electrical Equipment – Part 1 : General Requirements For Safety 2 : Collateral Standard : Electromagnetic Compatibility – Requirements And Tests",
+            "IEC 60601-1-2",
+            ""
+          ],
+          "rows": [
+            [
+              "Medical Electrical Equipment – Part 2-5: Particular Requirements For The Basic Safety And Essential Performance Of Ultrasonic Physiotherapy Equipment",
+              "IEC 60601-2-5",
+              ""
+            ],
+            [
+              "Medical electrical equipment – part 2: particular requirements for the safety of electrically operated hospital beds",
+              "IEC 60601-2-38",
+              ""
+            ],
+            [
+              "Medical electrical equipment – part 2-21: particular requirements for the basic safety and essential performance of infant radiant warmers",
+              "IEC 60601-2-21",
+              ""
+            ],
+            [
+              "Medical Electrical Equipment – Part 1 : General Requirements For Safety 2 : Collateral Standard : Electromagnetic Compatibility – Requirements And Tests",
+              "IEC 60601-1-2",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/migrated/electro-medical-equipments-testing/1b299766f511.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/electro-medical-equipments-testing/6e670f15f043.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electro-medical-equipments-testing/1b299766f511.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/electro-medical-equipments-testing/6e670f15f043.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/electro-medical-equipments-testing/1b299766f511.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

@@ -56,7 +56,7 @@
       "paragraphs": [
         "Depending on equipment classification, intended service environment and contractual requirements, a JSS 55555 qualification programme may include environmental stresses such as:",
         "The applicable tests and severity levels depend on the equipment class and service conditions rather than every test automatically applying to every product.",
-        "ITC India also provides wider <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 environmental testing</a> and <a href=\"/vibration-testing/mil-std-810h\">MIL-STD-810H vibration and shock testing</a> for products requiring qualification against additional environmental specifications."
+        "ITC India also provides wider <a href=\"/iec-60068-environmental-conditioning\">IEC 60068 environmental testing</a> and <a href=\"/mil-std-810h-vibration-shock-testing\">MIL-STD-810H vibration and shock testing</a> for products requiring qualification against additional environmental specifications."
       ],
       "bullets": [
         "High- and low-temperature testing",
@@ -139,8 +139,8 @@
       "heading": "Defence Equipment Testing with ITC India",
       "paragraphs": [
         "ITC India supports electrical and electronic manufacturers with environmental, EMC and related product qualification testing. Defence equipment requiring additional environmental evaluation may also use ITC India’s <a href=\"/vibration-testing\">vibration testing laboratory</a> and <a href=\"/ip-testing-laboratory-india\">IP ingress protection testing</a> services where these requirements form part of the qualification programme.",
-        "For accreditation-specific work, manufacturers should confirm that the required test method and parameter are covered by the laboratory’s current approved scope. ITC India’s <a href=\"/about-us/accreditations\">NABL accreditation and scope information</a> can be reviewed before formal testing.",
-        "For JSS 55555 or MIL-STD-461G testing in India, submit your equipment specifications, applicable revision and required test methods through the <a href=\"/contact-us/inquiry\">ITC India testing inquiry form</a>."
+        "For accreditation-specific work, manufacturers should confirm that the required test method and parameter are covered by the laboratory’s current approved scope. ITC India’s <a href=\"/nabl-scope-certificate-india\">NABL accreditation and scope information</a> can be reviewed before formal testing.",
+        "For JSS 55555 or MIL-STD-461G testing in India, submit your equipment specifications, applicable revision and required test methods through the <a href=\"/inquiry\">ITC India testing inquiry form</a>."
       ],
       "bullets": [],
       "tables": [],

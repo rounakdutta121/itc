@@ -36,7 +36,7 @@
       "paragraphs": [
         "ITC India provides RDSO photometry testing for LED luminaires intended for use in Indian Railways passenger coaches and related railway applications. Photometric testing evaluates whether a luminaire produces the required quantity, quality and distribution of visible light while operating under defined electrical conditions.",
         "Railway LED luminaires are used in passenger compartments, corridors, doorways, gangways, lavatories, reading-light locations and indication applications. Their performance cannot be evaluated only by checking rated wattage. Measurements such as luminous flux, illumination, colour characteristics and light distribution are important for confirming that the lighting system performs as required for its intended location.",
-        "Manufacturers requiring complete RDSO qualification can also review ITC India’s <a href=\"/vibration-testing/rdso-tl-0091\">RDSO TL 0091 testing services</a> for railway LED luminaires."
+        "Manufacturers requiring complete RDSO qualification can also review ITC India’s <a href=\"/rdso-tl-0091-testing\">RDSO TL 0091 testing services</a> for railway LED luminaires."
       ],
       "bullets": [],
       "tables": [],
@@ -107,7 +107,7 @@
       "paragraphs": [
         "Railway LED products may require more than optical evaluation. Drivers, wiring, enclosures and mounting systems may need electrical, environmental, mechanical and EMC testing depending on the applicable specification.",
         "ITC India provides <a href=\"/led-driver-and-lamp-control-gear-testing\">LED driver and lamp control gear testing</a> as well as <a href=\"/luminaries-led-product-testing\">luminaire and LED product testing</a>.",
-        "For mechanical railway qualification, manufacturers can also use ITC India’s <a href=\"/vibration-testing/iec-61373\">IEC 61373 vibration testing</a> services."
+        "For mechanical railway qualification, manufacturers can also use ITC India’s <a href=\"/iec-61373-vibration-testing\">IEC 61373 vibration testing</a> services."
       ],
       "bullets": [],
       "tables": [],
@@ -136,7 +136,7 @@
     {
       "heading": "Request RDSO Photometry Testing",
       "paragraphs": [
-        "For RDSO photometry testing of LED railway luminaires, <a href=\"/contact-us/inquiry\">send your testing requirement to ITC India</a> with the luminaire model, RDSO specification, drawing, electrical rating and required test parameters."
+        "For RDSO photometry testing of LED railway luminaires, <a href=\"/inquiry\">send your testing requirement to ITC India</a> with the luminaire model, RDSO specification, drawing, electrical rating and required test parameters."
       ],
       "bullets": [],
       "tables": [],

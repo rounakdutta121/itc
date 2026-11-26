@@ -23,6 +23,22 @@
   text-underline-offset: 0.15em;
 }
 
+.migrated-article__bullets > li .migrated-inline-link {
+  font-family: var(--mig-heading, var(--display));
+  font-weight: 600;
+  font-size: 1.06em;
+  letter-spacing: -0.01em;
+  color: var(--mig-ink, #14213d);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(122, 31, 43, 0.35);
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.migrated-article__bullets > li .migrated-inline-link:hover {
+  color: var(--blue, #7a1f2b);
+  border-bottom-color: var(--blue, #7a1f2b);
+}
+
 /*
   Migrated hero = same centering + colors as home Hero.
   Full viewport height; long titles wrap instead of nowrap single-line.

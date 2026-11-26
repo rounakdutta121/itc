@@ -13,30 +13,42 @@
   ],
   "category": "electrical",
   "action": "EXPAND",
-  "note": "0 / 1 | 64 | thin, few links | EXPAND – fix label \"Photovoltaic\", keep URL",
+  "note": "expanded body content – fix label Photovoltaic, keep URL",
   "slug": "photovoltatc-pv-modules-testing",
   "path": "/photovoltatc-pv-modules-testing",
   "source": "https://www.itcindia.org/photovoltatc-pv-modules-testing/",
   "ok": true,
-  "title": "Photovoltatc (PV) Modules Testing laboratory",
-  "h1": "Electrical Safety Testing Laboratory",
-  "description": "ITC can do Photovoltaic (PV) Modules Product testing as per IEC 61215 & IEC 62108. General Safety Testing for Luminaries Visual Inspection, Insulation Test, Thermal Cycling, Humidity Freeze, Damp Heat, Wet Leakage Current Test & etc..",
+  "title": "Photovoltaic (PV) Modules Testing Laboratory",
+  "h1": "Photovoltaic (PV) Modules Testing",
+  "description": "ITC can do Photovoltaic (PV) Modules Product testing as per IEC 61215 & IEC 62108. General Safety Testing includes Visual Inspection, Insulation Test, Thermal Cycling, Humidity Freeze, Damp Heat, Wet Leakage Current Test and more.",
   "sections": [
     {
       "heading": "Overview",
       "paragraphs": [
         "ITC can do Electrical Safety testing against Photovoltaic (PV) Modules equipment for following types of products/standards:",
-        "(Photovoltaic modules, Sun cubes, etc.)",
-        "Popular standards for Photovoltaic (PV) Modules Product testing are IEC 61215 & IEC 62108"
+        "Popular standards for Photovoltaic (PV) Modules Product testing are IEC 61215 & IEC 62108."
       ],
-      "bullets": [],
+      "bullets": [
+        "Photovoltaic modules",
+        "Sun cubes",
+        "Related PV module equipment"
+      ],
       "tables": [],
       "images": []
     },
     {
-      "heading": "Wet Leakage Current Test",
-      "paragraphs": [],
-      "bullets": [],
+      "heading": "General Safety Testing for PV Modules",
+      "paragraphs": [
+        "General Safety Testing for PV Modules covers the following evaluations:"
+      ],
+      "bullets": [
+        "Visual Inspection",
+        "Insulation Test",
+        "Thermal Cycling",
+        "Humidity Freeze",
+        "Damp Heat",
+        "Wet Leakage Current Test"
+      ],
       "tables": [],
       "images": []
     }

@@ -1,0 +1,182 @@
+{
+  "hero": "/images/page-heroes/household-equipment-testing.webp",
+  "heroPortrait": "/images/page-heroes/household-equipment-testing-portrait.webp",
+  "generatedIntro": "",
+  "generatedMid": "",
+  "generatedSections": [],
+  "category": "electronic",
+  "action": "ADD",
+  "note": "scraped from live site for internal nav",
+  "slug": "household-equipment-testing",
+  "path": "/household-equipment-testing",
+  "source": "https://www.itcindia.org/household-equipment-testing/",
+  "ok": true,
+  "title": "Household Equipment Testing Laboratory | ITC India",
+  "h1": "Household Equipment Testing",
+  "description": "Itc India Can Do Electrical Safety Testing and Certification of Household products Appliances Marking Durability Power I/P Current Heating Temperature Rise",
+  "sections": [
+    {
+      "heading": "Consumer, Household, and Commercial Appliance Equipment Testing",
+      "paragraphs": [
+        "ITC can do Electrical Safety testing against Consumer, Household, and Commercial Appliance Equipment equipment for many types.",
+        "ITC India is now having a center of excellence for Testing of Household Equipment.",
+        "Electric Iron, Warming plates, Electric Kitchen Machines, Refrigerators, Room Heaters, Electric Immersion, Water Heater, Electric Stoves, Vacuum Cleaners and Water-Suction Cleaning Appliances",
+        "Popular standards for Consumer, Household & Commercial Appliance Equipment Product testing are IEC 60335-1:2010-05, IS:302-1: 2008, IS 302-2-12: 1993, IS 302-2-14: 1994, IS 302-2-24: 1994, IS 302-2-30: 2007, IS 302-2-201:2008, IS 302-2-202:1992, EN 60335-1:2010, IS 4250:1980, IEC/EN 60335-2-2, IEC/EN 60335-2-3, IEC/EN 60335-2-12, IEC/EN 60335-2-14, IEC/EN 60335-2-30, IEC/EN 60335-2-89 etc"
+      ],
+      "bullets": [],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "General Safety Testing for Household Equipment",
+      "paragraphs": [],
+      "bullets": [
+        "Classification"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Power I/P & Current",
+      "paragraphs": [],
+      "bullets": [
+        "Leakage Current and electric strength at operating temp"
+      ],
+      "tables": [],
+      "images": []
+    },
+    {
+      "heading": "Creepage & Clearance",
+      "paragraphs": [],
+      "bullets": [
+        "Resistance to heat and fire",
+        "Temperature withstand test for bowl"
+      ],
+      "tables": [],
+      "images": [
+        {
+          "src": "/images/migrated/household-equipment-testing/fabebabb6b57.webp",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/migrated/household-equipment-testing/ef2777d719ef.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/household-equipment-testing/fabebabb6b57.webp",
+      "alt": ""
+    }
+  ],
+  "scrapedImages": [
+    {
+      "src": "/images/migrated/household-equipment-testing/ef2777d719ef.jpg",
+      "alt": "Electrical Safety Testing Laboratory"
+    },
+    {
+      "src": "/images/migrated/household-equipment-testing/fabebabb6b57.webp",
+      "alt": ""
+    }
+  ],
+  "relatedLinks": [
+    {
+      "href": "/control-panel-training-program",
+      "label": "“Control Panel Training Program”"
+    },
+    {
+      "href": "/ac-dc-rectifier-testing",
+      "label": "AC DC Rectifier testing"
+    },
+    {
+      "href": "/antenna-and-convertor-testing",
+      "label": "Antenna and Convertor Testing"
+    },
+    {
+      "href": "/anti-rodent-test-as-as-per-tec-gr-fa-dwc-034-02-aug-19",
+      "label": "Anti Rodent Test as as per TEC/GR/FA/DWC-034/02/AUG-19"
+    },
+    {
+      "href": "/anti-static-electrical-resistance-testing",
+      "label": "Anti-static Electrical Resistance Testing"
+    },
+    {
+      "href": "/vibration-testing",
+      "label": "ASTM D999 – Vibration testing of shipping containers"
+    },
+    {
+      "href": "/atex-testing-certification",
+      "label": "Atex Testing & Certification"
+    },
+    {
+      "href": "/automatic-data-processing-machine-is-13252part-1-iec-60950",
+      "label": "Automatic data processing machine- IS 13252(Part 1) IEC-60950"
+    },
+    {
+      "href": "/battery-testing",
+      "label": "Battery Testing"
+    },
+    {
+      "href": "/biodegradability",
+      "label": "Biodegradability"
+    },
+    {
+      "href": "/biodegradable-standard",
+      "label": "Biodegradable Standard"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/blood-pressure-monitor-testing",
+      "label": "Blood Pressure Monitor Testing"
+    },
+    {
+      "href": "/cable-gland-testing",
+      "label": "Cable Gland Testing"
+    },
+    {
+      "href": "/cable-tray-testing-laboratory",
+      "label": "Cable Tray Testing"
+    },
+    {
+      "href": "/unlock-the-true-potential-of-your-photometric-measurements-mastering-calibration-in-integrating-sphere-testing",
+      "label": "Calibrate your Photometric equipment (Integrating sphere) to pass ALL third party Inspecti"
+    },
+    {
+      "href": "/calibrating-a-uv-intensity-meter",
+      "label": "Calibrating a UV intensity Meter"
+    },
+    {
+      "href": "/calibration-for-impulse-measuring-system",
+      "label": "Calibration for Impulse Measuring System"
+    },
+    {
+      "href": "/calibration-of-electrical-fast-transients",
+      "label": "Calibration of Electrical Fast Transients"
+    },
+    {
+      "href": "/calibration-of-humidity-chamber",
+      "label": "calibration of humidity chamber"
+    },
+    {
+      "href": "/calibration-of-humidity-sensor",
+      "label": "CALIBRATION OF HUMIDITY SENSOR"
+    },
+    {
+      "href": "/calibration-of-micrometer",
+      "label": "calibration of micrometer"
+    },
+    {
+      "href": "/calibration-of-pressure-gauge",
+      "label": "CALIBRATION OF PRESSURE GAUGE"
+    },
+    {
+      "href": "/calibration-of-profile-projectors",
+      "label": "CALIBRATION OF PROFILE PROJECTORS"
+    }
+  ]
+}

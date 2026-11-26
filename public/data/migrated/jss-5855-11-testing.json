@@ -89,7 +89,7 @@
       "paragraphs": [
         "Optical and electro-optical equipment can contain sensitive lenses, optical assemblies, mounts, electronic modules, connectors and mechanical components. Vibration or shock can affect alignment, structural integrity or functional performance.",
         "Where specified, testing may be performed using the vibration or shock conditions defined in the applicable JSS 5855-11 test requirement.",
-        "Products subject to additional military environmental specifications may also require separate evaluation under <a href=\"/vibration-testing/mil-std-810h\">MIL-STD-810H Vibration and Shock Testing</a>.",
+        "Products subject to additional military environmental specifications may also require separate evaluation under <a href=\"/mil-std-810h-vibration-shock-testing\">MIL-STD-810H Vibration and Shock Testing</a>.",
         "The required standard, test method and severity should be confirmed before testing because JSS 5855-11 and MIL-STD-810H are separate specifications."
       ],
       "bullets": [],
